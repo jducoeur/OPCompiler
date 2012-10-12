@@ -1,1 +1,92 @@
-repository for the OP Compiler
+This the the "OP Compiler" -- a big project to create a program that
+will only be run once. Its job is to take the old East Kingdom Order 
+of Precedence, normalize its data, and spit it back out in a format 
+that we can feed into the new OP Database.
+
+==========
+BACKGROUND
+==========
+
+As many folks know, Caitlin (my late wife) was Mistress Memory, Keeper
+of All Knowledge of the East. Specifically, she was Shepherd's Crook Herald
+for many years, which means that she ran the Order of Precedence. She was
+brilliant at it, and ran the website smoothly enough that everyone just
+sort of treated it as magic. 
+
+(The website can be found at http://op.eastkingdom.org/ )
+
+The problem is, it wasn't magic -- it was just vast amounts of hard work.
+Caitlin ran the OP as essentially three gigantic collections of hand-edited
+files:
+
+-- The Chronological List, which is basically one file per reign, with all
+   of that reign's Court Reports in order.
+
+-- The Alpha List, which is one file per letter, listing all of the people
+   who *currently* reside in the East, and all of their awards.
+   
+-- The Awards List, which is one file per award, listing all of the people
+   who have received that award in chronological order.
+   
+Keeping these files by hand was a labor of love for her, and she was uniquely
+talented at it: her knowledge of the Kingdom and people was so deep that she
+could just keep it all mostly straight. But the reality is that even she
+couldn't keep things completely consistent as people changed names, moved in
+and out of Kingdom, and generally introduced inconsistencies. And nobody else
+really even has a prayer at keeping it organized.
+
+So we are building a new East Kingdom OP Database (adapted from Atlantia's).
+Before we can do that, though, we need to translate all of the old data into
+it. That's what this project is for.
+
+============
+CODE ROADMAP
+============
+
+The OP Compiler is written in Scala, mostly because it's my current favorite
+language and I was willing to do the work in that. It should only be run
+once, to translate all of the data, so this documentation is overkill. But
+for my own future reference, and for those who would like to poke around and
+see how it works, here's a quick overview.
+
+All of the code is under the src/ directory. That contains one tiny file at
+the top, "OPCompiler.scala", which is the shell of the program -- it doesn't
+do much, but it controls the process.
+
+That reads in a crucial data file in the root directory, named op.conf.xml.
+This describes much of the world -- all the awards, the various terms used for
+them, the SCA's branch structure, and all sorts of other things that are
+best described in terms of data rather than code. It's best to have op.conf.xml
+open while trying to understand what's happening, because it drives everything.
+
+The /process folder contains the top-level control-type code. StringUtils and Log
+are both fairly ordinary, but Config.scala is the heart of the system. It reads
+in op.conf.xml, parses it, and exposes the contents. To understand the code, start
+with the top-level parseSCA() method and work your way down. Suffice it to say, it
+has two purposes: to populate the main static structures (especially the Award
+tables), and to populate the filesToProcess list.
+
+Then OPCompiler goes through filesToProcess, and processes each of them. On each,
+we invoke a parser from the parsers/ folder. There are two main parsers so far:
+CourtReportParser and AlphaParser, which process the obvious kinds of files. Those
+parsers do most of the nasty work of running through the data files and pulling out
+the interesting bits.
+
+The final major folder is models/. This describes all the critical concepts like
+"Award", "Branch", "Court" and "Person". It also defines the concept of "Date" the
+way we need it. (Which has to be a bit more flexible than most Data structures,
+since we need to cope with ambiguity.)
+
+There is also a top-level data/ folder, which is where the input files live. Note
+that the files have both an original .html form, and a scrubbed .xhtml form from
+the TagSoup library. The .xhtml is regularized XML, which we need if the system is
+to have even a prayer of parsing them. Not all files have been moved here yet, but
+we're getting there.
+
+That's the thousand-foot view. Note that we're not done yet: many files still need
+translation, and the parser and conf files will need more enhancements. And once
+that is done, we need to write the "emitter" that actually writes out the DB, but
+that should be relatively straightforward.
+
+Please contact me if you have any questions. I've put a lot of work into this, and
+enjoy burbling about it.
