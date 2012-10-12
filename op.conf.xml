@@ -1,0 +1,480 @@
+<opcompiler>
+	<SCA isDefault="true">
+		<award name="Queen's Guard"/>
+	
+		<award name="Award of Arms">
+			<synonym>Award of Arm</synonym>
+			<synonym>AOA</synonym>
+		</award>
+		
+		<award name="Royal Cypher"/>
+
+		<!-- Not precisely Society-wide, but many Kingdoms have it: -->
+		<award name="White Scarf">
+			<synonym>Defender of the White Scarf</synonym>
+		</award>
+		
+		<award name="Viscount" gender="Male">
+			<synonym gender="Female">Viscountess</synonym>
+		</award>
+		<award name="Count" gender="Male">
+			<synonym gender="Female">Countess</synonym>
+		</award>
+		<award name="Duke" gender="Male">
+			<synonym gender="Female">Duchess</synonym>
+		</award>
+		
+		<Kingdom name="East" isDefault="true">
+			<!-- Common non-awards -->
+			<award kingdom="East" name="Armorer to the Crown"></award>
+			<award kingdom="East" name="Master Bowman"></award>
+			<award kingdom="East" name="Seamstress to the Crown" gender="Female">
+			    <synonym gender="Male">Taylor to the Crown</synonym>
+			</award>
+			<award kingdom="East" name="Toymaker to the Queen"></award>
+			<award kingdom="East" name="Court Jester"></award>
+	
+			<!-- Orders of Honor -->
+			<award kingdom="East" name="Artemis"></award>
+			<award kingdom="East" name="Burdened Tyger">
+				<synonym>Brudened Tyger</synonym>
+				<synonym>Budened Tyger</synonym>
+				<synonym>Burden Tyger</synonym>
+			</award>
+			<award kingdom="East" name="Gawain">
+				<synonym>Gawan</synonym>
+			</award>
+			<award kingdom="East" name="Golden Mantle"></award>
+			<award kingdom="East" name="Queen's Order of Courtesy">
+				<synonym>Queen's Courtesy</synonym>
+			</award>
+			<award kingdom="East" name="King's Order of Excellence">
+				<synonym>King's Excellence</synonym>
+			</award>
+			<award kingdom="East" name="Silver Rapier"></award>
+			<award kingdom="East" name="Terpsichore">
+				<synonym>Trepsichore</synonym>
+			</award>
+			<award kingdom="East" name="Troubadour">
+				<synonym>Troubadours</synonym>
+			</award>
+			<award kingdom="East" name="Tygers Cub"></award>
+			
+			<!-- AoA and Armigerous awards -->
+			<award kingdom="East" name="Golden Rapier"></award>
+			<award kingdom="East" name="Maunche">
+				<synonym>Mauche</synonym>
+				<synonym>Manche</synonym>
+				<synonym>Manch</synonym>
+			</award>
+			<award kingdom="East" name="Sagittarius">
+				<synonym>Sagitarius</synonym>
+			</award>
+			<award kingdom="East" name="Silver Crescent">
+				<synonym>Sliver Crescent</synonym>
+			</award>
+			<award kingdom="East" name="Tygers Combattant">
+				<synonym>Tygers Combatant</synonym>
+				<synonym>Tyger Combatant</synonym>
+			</award>
+			
+			<!-- Grant-level awards -->
+			<!-- TODO: still need special parser for landed barons -->
+			<award kingdom="SCAWide" name="Court Barony">
+			    <synonym gender="Female">Court Baroness</synonym>
+			    <synonym gender="Male">Court Baron</synonym>
+			    <synonym gender="Female">Baroness of the Court</synonym>
+			    <synonym gender="Male">Baron of the Court</synonym>
+			</award>
+			<award kingdom="SCAWide" name="Grant of Arms">
+				<synonym>Grand of Arms</synonym>
+				<synonym>GOA</synonym>
+			</award>
+			
+			<!-- Peerages -->
+			<award kingdom="SCAWide" name="Patent of Arms">
+				<synonym>Patent</synonym>
+			</award>
+			<award kingdom="SCAWide" name="Knight">
+				<synonym>Chivalry (knight)</synonym>
+				<synonym>Order of Chivalry (Knight)</synonym>
+			</award>
+			<!-- Yes, the choice sometimes didn't get written down -->
+			<award kingdom="SCAWide" name="Chivalry">
+				<synonym>Member of the Chivalry</synonym>
+			</award>
+			<award kingdom="SCAWide" name="Laurel">
+				<synonym gender="Female">Mistress of the Laurel</synonym>
+				<synonym gender="Male">Master of the Laurel</synonym>
+			</award>
+			<award kingdom="SCAWide" name="Master at Arms">
+				<synonym>Master of Arms</synonym>
+			</award>
+			<award kingdom="SCAWide" name="Pelican">
+				<synonym gender="Female">Mistress of the Pelican</synonym>
+				<synonym gender="Male">Master of the Pelican</synonym>
+			</award>
+			<award kingdom="SCAWide" name="Rose">
+				<synonym gender="Female">Lady of the Rose</synonym>
+			</award>
+			
+			<!-- Non-precedential honors from the Crown -->
+			<award kingdom="East" name="King's Cypher"></award>
+			<award kingdom="East" name="Queen's Cypher"></award>
+			<award kingdom="East" name="Queen's Honor of Distinction">
+				<synonym>Queen's Honour of Distinction</synonym>
+				<synonym>Queens's Honor of Distinction</synonym>
+				<synonym>Queen Honor of Distinction</synonym>
+			</award>
+			<award kingdom="East" name="King's Esteem of Merit">
+				<synonym>Kings's Esteem of Merit</synonym>
+			</award>
+			<award kingdom="East" name="Admiral of the Armies"></award>
+			<award kingdom="East" name="Shield of Chivalry"></award>
+			<award kingdom="East" name="Tyger of Valor">
+				<synonym>King's Tyger of Valor</synonym>
+				<synonym>Valiant Tyger</synonym>
+				<synonym>King's Valor</synonym>
+			</award>
+			<award kingdom="East" name="Blue Tyger Legion"></award>
+			<award kingdom="East" name="Tyger of Foreign Legions">
+				<synonym>Foreign Tyger</synonym>
+			</award>
+			<award kingdom="East" name="Golden Tyger">
+				<synonym>Golden Lyre</synonym>
+			</award>
+			<award kingdom="East" name="Kingdom Augmentation of Arms">
+				<synonym>(Kingdom) Augmentation of Arms</synonym>
+				<synonym>Augmentation of Arms</synonym>
+			</award>
+			<award kingdom="East" name="Royal Augmentation of Arms"></award>
+			<award kingdom="East" name="Tyger of the East"></award>
+			
+			<!-- Royalty -->
+			<award kingdom="East" name="Queen of the East Kingdom"> gender="Female"></award>
+			<award kingdom="East" name="King of the East"> gender="Male"></award>
+			<award kingdom="East" name="Crown Prince" gender="Male">
+				<synonym gender="Male">Prince</synonym>
+				<synonym gender="Male">Prinz</synonym>
+			</award>
+			<award kingdom="East" name="Crown Princess" gender="Female">
+				<synonym gender="Female">Princess</synonym>
+				<synonym gender="Female">Prinzessin</synonym>
+			</award>
+			
+			<!-- Officers -->
+			<award kingdom="East" name="Kingdom Marshal of Fence"></award>
+			
+			<!-- Baronies -->
+			<Barony name="Ostgardr">
+				<award name="Seadog">
+					<synonym>Sea Dog</synonym>
+				</award>
+				<award name="Seahorse"/>
+			</Barony>
+			<Barony name="Carolingia">
+				<award name="Daystar"/>
+				<award name="Moon"/>
+				<award name="Perseus"/>
+			</Barony>
+			<Barony name="Beyond the Mountain">
+				<synonym>BBM</synonym>
+				<award name="Holly"/>
+				<award name="Sun and Soil">
+					<synonym>Sun &amp; Soil</synonym>
+				</award>
+				<award name="White Oak">
+					<synonym>Defender of the White Oak</synonym>
+				</award>
+			</Barony>
+			<Barony name="Bhakail">
+				<award name="Flame of Bhakail"/>
+				<award name="Harlequin"/>
+				<award name="Master of Horse">
+					<synonym>Horse</synonym>
+				</award>
+				<award name="Salamander"/>
+			</Barony>
+			<Barony name="Bridge">
+				<synonym>the Bridge</synonym>
+				<award name="Freedom of the Bridge"/>
+				<award name="Pillar of the Bridge">
+					<synonym>Pillar</synonym>
+				</award>
+			</Barony>
+			<Barony name="Dragonship Haven">
+				<award name="Yale"/>
+				<award name="Hawk's Bell"/>
+				<award name="Oar"/>
+			</Barony>
+			<Barony name="Concordia of the Snows">
+				<synonym>Concordia</synonym>
+				<award name="Friend of Concordia"/>
+				<award name="Pine"/>
+				<award name="Sapphire"/>
+				<award name="Snow Hare"/>
+			</Barony>
+			<Barony name="Settmour Swamp">
+				<synonym>Swamp</synonym>
+				<award name="Bloody Tower"/>
+				<award name="Bronze Tower"/>
+				<award name="Iron Tower"/>
+				<award name="Ivory Tower"/>
+			</Barony>
+			<Barony name="Mountain Freehold"/>
+			<Barony name="Carillion">
+				<award name="Chime"/>
+				<award name="Fish"/>
+				<award name="Sable Bell"/>
+			</Barony>
+			<Barony name="Stonemarche">
+				<award name="Furison"/>
+				<award name="Lamp of Apollo"/>
+				<award name="Millstone"/>
+			</Barony>
+			<Barony name="Ruantallan">
+				<award name="Iceburg"/>
+			</Barony>
+			<Barony name="Bergental"/>
+			<Barony name="An Dubhaigeainn">
+				<award name="Drake's Spur"/>
+				<award name="Silver Feather"/>
+			</Barony>
+			<Barony name="Havre des Glaces">
+				<synonym>Havre de Glaces</synonym>
+				<synonym>Havres des Glaces</synonym>
+				<award name="Ordre du Pèlerin">
+					<synonym>Ordre du Pelerin</synonym>
+				</award>
+				<award name="Chiffre du Baron"/>
+				<award name="Order du Lys d'argent"/>
+				<award name="Ordre du Meritum Martialis"/>
+			</Barony>
+			<Barony name="Smoking Rocks"/>
+			<Barony name="L'Ile du Dragon Dormant"/>
+			<Barony name="Iron Bog">
+				<award name="Baroness's Silver Ring"/>
+				<award name="Sable Martlet"/>
+				<award name="Silver Compass"/>
+				<award name="Silver Gauntlet"/>
+				<award name="Silver Martlet"/>
+			</Barony>
+			
+			<Principality name="TirMara"/>
+		</Kingdom>
+
+		<Kingdom name="AEthelmearc">
+			<award name="Golden Alce"/>
+			<award name="Keystone"/>
+			<award name="Sigil of AEthelmearc"/>
+			<award name="Sycamore"/>
+		
+			<Barony name="BMDL">
+				<award name="Gold Comet"/>
+			</Barony>
+			<Barony name="Thescorre">
+				<award name="Raven's Feather"/>
+			</Barony>
+		</Kingdom>		
+		
+		<Kingdom name="Ansteorra"></Kingdom>	
+			
+		<Kingdom name="AnTir">
+			<synonym>An Tir</synonym>
+			
+			<Barony name="Adiantum">
+				<award name="Baronial Brownie"/>
+			</Barony>
+		</Kingdom>
+				
+		<Kingdom name="Artemisia">
+			<award name="Golden Feather of Artemisia"/>
+			<award name="Grace of Artemisia"/>
+			<award name="Griffin's Heart"/>
+			<award name="Griffin's Talon"/>
+			<award name="Lady of the Papillon"/>
+			<award name="LUST"/>
+			<award name="Maple Leaf of Artemisia"/>
+			<award name="Pillar of Artemisia"/>
+			
+			<Barony name="Arn Hold">
+				<award name="Moose Combatant of Arn Hold"/>
+			</Barony>
+			<Barony name="Loch Salaan">
+				<award name="Bannthegn"/>
+				<award name="Crystal of the Salt Wastes"/>
+				<award name="Devoted and Unique Company of Keepers">
+					<synonym>Devoted &amp; Unique Company of Keepers</synonym>
+				</award>
+				<award name="Falcon of Loch Salaan"/>
+			</Barony>
+		</Kingdom>		
+		
+		<Kingdom name="Atenveldt">
+			<award name="Light of Atenveldt"/>
+			<award name="Lion of Atenveldt"/>
+			<award name="King's Sigil"/>
+			
+			<Principality name="Sun">
+				<award name="Solar Heart"/>
+			</Principality>
+		</Kingdom>		
+		
+		<Kingdom name="Atlantia">
+			<award name="Golden Dolphin"/>
+			<award name="Pearl"/>
+		
+			<Barony name="Bright Hills">
+				<award name="Cat's Paw"/>
+				<award name="Silver Scroll"/>
+			</Barony>
+			<Barony name="Caer Mear">
+				<award name="La Brise de Mer"/>
+				<award name="Pharos"/>
+			</Barony>
+			<!-- Note that Myrkwode was dissolved into Atlantia -->
+			<Barony name="Myrkwood">
+				<award name="Windblown Leaf"/>
+			</Barony>
+		</Kingdom>
+				
+		<Kingdom name="Caid"></Kingdom>
+				
+		<Kingdom name="Calontir">
+			<award name="Golden Calon Swan">
+				<synonym>Swan</synonym>
+			</award>
+		</Kingdom>
+				
+		<Kingdom name="Drachenwald">
+			<award name="Principality Company of Sojourners"/>
+		</Kingdom>
+				
+		<Kingdom name="Ealdormere">
+			<award name="Bee"/>
+			<award name="OHS"/>
+			<award name="Award of Tangwystyl's Favor"/>
+		</Kingdom>
+				
+		<Kingdom name="GleannAbhann"></Kingdom>
+				
+		<Kingdom name="Lochac"></Kingdom>
+				
+		<Kingdom name="Meridies"></Kingdom>
+				
+		<Kingdom name="Middle">
+			<award name="Dragon's Heart"/>
+			<award name="Gaping Wound"/>
+			<award name="Purple Fret"/>
+			<award name="Silver Oak"/>
+			<award name="Willow"/>
+		</Kingdom>
+				
+		<Kingdom name="Northshield">
+			<award name="Aegis"/>
+			
+			<Barony name="Nordskogen">
+				<award name="Baronial Broom"/>
+				<award name="Baton Gules"/>
+				<award name="Heavy Cross"/>
+				<award name="Honor of the Heliotrope"/>
+			</Barony>
+		</Kingdom>
+				
+		<Kingdom name="Outlands">
+			<award name="Flower"/>
+			<award name="Golden Reflection"/>
+			<award name="Stag"/>
+			<award name="Stag's Blood"/>
+			<award name="Stag's Heart"/>
+			
+			<Barony name="al-Barran">
+				<award name="Russian Thistle of al-Barran"/>
+				<award name="Scorpion of al-Barran"/>
+			</Barony>
+			<Barony name="Caerthe">
+				<award name="Aspen of Caerthe"/>
+				<award name="Gilded Leaf"/>
+			</Barony>
+		</Kingdom>
+		
+		<Kingdom name="Trimaris">
+			<award name="Argent Morningstar"/>
+			<award name="Bards Laureate"/>
+		</Kingdom>
+				
+		<Kingdom name="West">
+			<award name="Defender of the West"/>
+			<award name="Leaf of Merit"/>
+			<award name="Pied d'Argent"/>
+			<award name="Queen's Grace"/>
+			<award name="Silver Molet"/>
+			<award name="Valor"/>
+			
+			<Principality name="Cynagua">
+				<award name="Friendly Castle"/>
+				<award name="Hearthstone"/>
+				<award name="La Courtesia"/>
+				<award name="Princess's Token"/>
+				<award name="Ruxton"/>
+			</Principality>
+			<Principality name="Mists">
+				<award name="Rose Leaf"/>
+			</Principality>
+		</Kingdom>		
+					
+		<!-- Champions, which are currently cross-Kingdom -->
+		<champion type="Archery">
+			<synonym>Archer</synonym>
+		</champion>
+		<award kingdom="East" name="Youth Archery Champion"></award>
+		<champion type="Arms">
+			<synonym>Rattan</synonym>
+			<synonym>Heavy List</synonym>
+		</champion>
+		<champion type="Arts and Sciences">
+			<synonym>A&amp;S</synonym>
+			<synonym>Arts &amp; Sciences</synonym>
+		</champion>
+		<champion type="Bardic">
+			<synonym>Bard</synonym>
+		</champion>
+		<champion type="Horse">
+			<synonym>Equestrian</synonym>
+		</champion>
+		<champion type="Rapier"></champion>
+	</SCA>
+	
+	<conf>
+		<fileLocation>D:\Workspaces\OPCompiler\OPCompiler\data\</fileLocation>
+		<logTo>D:\Workspaces\OPCompiler\OPCompiler\log.txt</logTo>
+		<names>D:\Workspaces\OPCompiler\OPCompiler\names.conf</names>
+	</conf>
+	
+	<courtReports>
+		<file kind="current">GregorIII.xhtml</file>
+		<file kind="current">LucanVIII.xhtml</file>
+		<file kind="current">Gryffith2.xhtml</file>
+		<file kind="current">Edward.xhtml</file>
+		<file kind="current">Konrad2.xhtml</file>
+		<file kind="current">andreas4.xhtml</file>
+		<file kind="current">Darius4.xhtml</file>
+		<file kind="current">konrad.xhtml</file>
+		<file kind="current">andreas3.xhtml</file>
+		<file kind="current">gryffith.xhtml</file>
+		<file kind="current">Lucan7.xhtml</file>
+		<file kind="current">brion2.xhtml</file>
+		<file kind="current">darius3.xhtml</file>
+		<file kind="current">kelson2.xhtml</file>
+		<file kind="current">thorvald.xhtml</file>
+		<file kind="current">kelson.xhtml</file>
+		<file kind="current">Balfar4.xhtml</file>
+		<file kind="current">darius2.xhtml</file>
+		<file kind="current">andreas2.xhtml</file>
+		<file kind="current">darius.xhtml</file>
+	</courtReports>
+	
+	<alphas>
+		<file>Prec_a.xhtml</file>
+	</alphas>
+</opcompiler>

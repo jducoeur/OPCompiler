@@ -1,0 +1,20 @@
+Notes on the OP Compiler
+========================
+
+Some of this might become comments or more formal documentation eventually, but for
+now I just want to make sure it's written down.
+
+I am currently assuming that the input files are all properly-formatted XHTML. The
+originals, of course, are nothing of the sort, so they need to be run through
+TagSoup first, with a command along the lines of:
+
+java -jar ..\tagsoup-1.2.1.jar --files --nobogons *.html
+
+
+TODOs:
+-- Need to add ability to parse "Baron of the Bridge", which requires synonyms for <barony>
+-- Need to cope with parsing mm/dd/yyyy dates in the title of court reports (eg, Edward)
+-- Need a way to interpret the various "court of" annotations in a number of court reports.
+   I suspect that this will require a standardized format, and lots of manual adjustments.
+-- Make Unknown Date into an error, since it usually indicates something's wrong
+-- Fill the rest of the list into the Kingdom enumeration
