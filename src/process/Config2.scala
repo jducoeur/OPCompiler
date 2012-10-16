@@ -1,6 +1,6 @@
 package process
 
-import models.{SCA, Kingdom, Principality, Barony, Award, AwardName, Gender}
+import models.{SCA, Kingdom, Principality, Barony, Award, AwardName, Champion, Gender}
 import Award._
 import Gender._
 
@@ -55,7 +55,14 @@ object Config2 {
           Award("Viscount", gender = Male, synonyms = Seq(AwardName("Viscountess", Female))),
           Award("Count", gender = Male, synonyms = Seq(AwardName("Countess", Female))),
           Award("Duke", gender = Male, synonyms = Seq(AwardName("Duchess", Female)))
-        ),
+      )
+      // Each of these is a Seq[AwardInfo], so they don't fit neatly into the above list
+      ++ Champion("Archery", "Archer")
+      ++ Champion("Arms", "Rattan", "Heavy List")
+      ++ Champion("Arts and Sciences", "A&S", "Arts & Sciences")
+      ++ Champion("Bardic", "Bard")
+      ++ Champion("Horse", "Equestrian")
+      ++ Champion("Rapier"),
         
       // Kingdoms
       children = Seq(
@@ -71,6 +78,7 @@ object Config2 {
             Award("Court Jester"),
             Award("Admiral of the Armies"),
             Award("Shield of Chivalry"),
+            Award("Youth Archery Champion"),
             
             // Official non-precedential awards from the Crown
             Award("Queen's Honor of Distinction", "Queen's Honour of Distinction", "Queens's Honor of Distinction", "Queen Honor of Distinction"),

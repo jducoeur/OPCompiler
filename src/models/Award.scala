@@ -33,6 +33,42 @@ case class AwardInfo(name:AwardName, commentary:Boolean = false, synonyms:Seq[Aw
 // Wrapper to preserve the knowledge of which name this award was given under
 case class AwardAs(award:Award, name:AwardName)
 
+// Champions are fairly complicated, because each uses a variety of names *and* we
+// need to account for any of them being chosen by any of the royalty. So we build up
+// this big combinatoric whohah.
+object Champion {
+  val royals = Seq("King", "Queen", "Prince", "Princess")
+
+  // Given all the possible names and a single Royal, this computes all the ways they
+  // *might* be combined in the OP. Note that most of them probably aren't used, but
+  // it's easier to just prepare for all the possibilities
+  def permutations(titles:Seq[String], royal:String):Seq[String] = {
+	// Given one version of this championship name, and one royalty type, give all the names
+	def permuteOne(kind:String):Seq[String] = {
+	  Seq(royal + "'s Champion of " + kind, 
+	      royal + "'s Champion " + kind,
+	      royal + "'s " + kind + " Champion", 
+	      royal + "'s " + kind + " Championship",
+	      royal + "'s " + kind)
+	}
+	titles flatMap permuteOne
+  }
+  
+  // Given the list of possible names and a specific royal, this builds the actual Award
+  // object. Note that we specifically assume that they are all Society-wide.
+  def awardForRoyal(titles:Seq[String], royal:String) = {
+	val perms = permutations(titles, royal)
+	AwardInfo( 
+	  AwardName(perms.head, Gender.Unknown), 
+	  false, 
+	  perms.tail map (synName => AwardName(synName, Gender.Unknown)))
+  }
+  
+  // This takes the list of possible titles used for this championship, with the
+  // preferred one first:
+  def apply(titles:String*) = royals.map(awardForRoyal(titles, _))
+}
+
 object Award {
   var knownAwards:Map[String,AwardAs] = Map.empty
   
