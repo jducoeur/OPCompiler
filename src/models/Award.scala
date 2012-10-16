@@ -5,7 +5,7 @@ import Gender._
 
 // This captures the fact that *some* award names imply gender (although most don't)
 // Hence, there are gendered synonyms that should be used correctly
-case class AwardName(name:String, gender:Gender) {
+case class AwardName(name:String, gender:Gender = Gender.Unknown) {
   def canonName = AwardName.canonName(name)
 }
 object AwardName {
@@ -27,11 +27,32 @@ case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq
   }
 }
 
+// Temporary holder so that we can retain the info during Config2 declaration
+case class AwardInfo(name:AwardName, commentary:Boolean = false, synonyms:Seq[AwardName] = Seq.empty)
+
 // Wrapper to preserve the knowledge of which name this award was given under
 case class AwardAs(award:Award, name:AwardName)
- 
+
 object Award {
   var knownAwards:Map[String,AwardAs] = Map.empty
+  
+  implicit def string2AwardInfo(name:String) = AwardInfo(AwardName(name, Gender.Unknown))
+ 
+  // Simple builder, for the most common case:
+  def apply(name:String, synonyms:String*) = {
+    val syns = synonyms.map(AwardName(_, Gender.Unknown))
+    AwardInfo(AwardName(name, Gender.Unknown), false, syns)
+  }
+  // Detailed builder, for more interesting cases:
+  def apply(name:String, 
+      gender:Gender = Gender.Unknown, 
+      isCommentary:Boolean = false, 
+      synonyms:Seq[AwardName] = Seq.empty) = {
+    AwardInfo(AwardName(name, gender), isCommentary, synonyms)
+  }
+  def build(info:AwardInfo, branch:Branch) = {
+    addAward(new Award(branch, info.name, info.commentary, info.synonyms))
+  }
   
   // This is a horribly ad-hoc but critical method, that examines a piece of business and
   // decides whether it is a real award, or just a bit of commentary. We basically decide it

@@ -15,7 +15,15 @@ import BranchType._
 trait Branch extends DelayedInit {
   val name:String
   val kind:BranchType
-  val parent:Branch
+  
+  private var _parent:Option[Branch] = None
+  def parent = {
+    _parent match {
+      case Some(p) => p
+      case None => throw new Exception("No parent defined for branch!")
+    }
+  }
+  private[models] def parent_=(p:Branch) = _parent = Some(p)
   
   // This contains the "primary" name, as well as any synonyms we expect to find as we
   // go:
@@ -38,33 +46,60 @@ trait Branch extends DelayedInit {
   }
 }
 
+trait DeclareableBranch {
+  def instantiate(name:String):Branch
+  def apply(name:String, 
+      isDefault:Boolean = false, 
+      synonyms:Seq[String] = Seq.empty,
+      awards:Seq[AwardInfo] = Seq.empty,
+      children:Seq[Branch] = Seq.empty) = {
+    val k = instantiate(name)
+    children.foreach(_.parent = k)
+    synonyms.foreach(k.addName(_))
+    k.isDefault = isDefault
+    awards.foreach(Award.build(_, k))
+    k
+  }
+}
+
 // Represents the Society as a whole. Note that it is its own parent! Any recursive algorithms must
 // test for this as the ultimate root.
-object SCA extends Branch {
+object SCA extends Branch with DeclareableBranch {
   val name = "SCA"
-  val parent = SCA
+  parent = SCA
   val kind = BranchType.SCAWide
+  
+  def instantiate(name:String) = this
 }
 
 // There should be one record here for each Kingdom. Note that, in the case of Kingdom,
 // "parent" is either "SCA" or the Kingdom that it was originally spawned from when it was
 // a Principality. (Keep in mind that most Kingdoms were originally Principalities.)
-class SCAKingdom(val name:String, val parent:Branch) extends Branch {
+class SCAKingdom(val name:String) extends Branch {
   val kind = BranchType.Kingdom
 }
-
-class Principality(val name:String, val parent:Branch) extends Branch {
-  val kind = BranchType.Principality
+object Kingdom extends DeclareableBranch {  
+  def instantiate(name:String) = new SCAKingdom(name)
 }
 
-class Barony(val name:String, val parent:Branch) extends Branch {
+class Principality(val name:String) extends Branch {
+  val kind = BranchType.Principality
+}
+object Principality extends DeclareableBranch {
+  def instantiate(name:String) = new Principality(name)
+}
+
+class Barony(val name:String) extends Branch {
   val kind = BranchType.Barony
+}
+object Barony extends DeclareableBranch {
+  def instantiate(name:String) = new Barony(name)
 }
 
 object UnknownBranch extends Branch {
   val name = "Unknown Branch"
   val kind = BranchType.Unknown
-  val parent = SCA
+  parent = SCA
 }
 
 object Branch {
@@ -72,11 +107,13 @@ object Branch {
   
   def create(kindStr:String, name:String, parent:Branch):Branch = {
     val kind = BranchType.withName(kindStr)
-    kind match {
-      case BranchType.Kingdom => new SCAKingdom(name, parent)
-      case Principality => new Principality(name, parent)
-      case Barony => new Barony(name, parent)
+    val branch = kind match {
+      case BranchType.Kingdom => new SCAKingdom(name)
+      case BranchType.Principality => new Principality(name)
+      case BranchType.Barony => new Barony(name)
       case _ => throw new Exception("I don't know what kind of branch a " + kindStr + " is.")
     }
+    branch.parent = parent
+    branch
   }
 }

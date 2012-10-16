@@ -199,7 +199,7 @@ class Config(confFileName:String) {
     addAwards(championList(node))
   }
   
-  parseSCA(confFile)
+  //parseSCA(confFile)
 }
 
 object Config {
