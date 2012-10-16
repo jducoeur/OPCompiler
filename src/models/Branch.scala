@@ -91,6 +91,39 @@ object Principality extends DeclareableBranch {
 
 class Barony(val name:String) extends Branch {
   val kind = BranchType.Barony
+  
+  override private[models] def parent_=(p:Branch) = {
+    super.parent_=(p)
+    awardsForBarons.foreach(Award.addAward(_))
+  }
+  
+  // Once we know the parent Kingdom (so we can add the award), we need to
+  // create a whole lot of awards, permuting all of the possible group names,
+  // various possible ways you can address a ruling head, and their possible
+  // titles
+  import models.Gender._
+  def awardForGender(nameVariant:String, gender:Gender, term:String):Award = {
+    val primaryName = AwardName(term + " " + nameVariant, gender)
+    val synNames = Seq(AwardName(term + " of " + nameVariant, gender),
+    				   AwardName("Founding " + term + " " + nameVariant, gender))
+    Award(parent, primaryName, false, synNames)
+  }
+  // Do the Canadian Baronies have French titles instead? If so, I may need to
+  // come up with something more general for this.
+  def OstgardrHack:Seq[Award] = {
+    if (name == "Ostgardr")
+    	Seq(awardForGender("Ostgardr", Gender.Male, "Viceroy"),
+    		awardForGender("Ostgardr", Gender.Female, "Vicerene"),
+    		awardForGender("Ostgardr", Gender.Female, "Vicereine"))
+    else
+      Seq.empty
+  }
+  def awardsForBarons = { 
+    val v = (for (baronyName <- names)
+      yield Seq(awardForGender(baronyName, Gender.Male, "Baron"),
+		        awardForGender(baronyName, Gender.Female, "Baroness"))) :+ OstgardrHack
+    v.flatten
+  }
 }
 object Barony extends DeclareableBranch {
   def instantiate(name:String) = new Barony(name)

@@ -134,12 +134,10 @@ Court Reports {
     }
     Iron Bog Baronial Invesiture - January 14, 2011 {
       INFO:Adding commentary "Out going Baroness of Iron Bog"
-      ERROR: Adding unknown award "Baron Iron Bog"
-      ERROR: Adding unknown award "Baroness of Iron Bog"
       == Iron Bog Baronial Invesiture == (January 14, 2011)
         01/14/2011  C  (Out going Baroness of Iron Bog (Unknown Branch) -- Drueta de la Rosa)
-        01/14/2011  C  Baron Iron Bog (Unknown Branch) -- Collin Monro of Tadcaster
-        01/14/2011  C  Baroness of Iron Bog (Unknown Branch) -- Marion del Okes
+        01/14/2011  C  Baron Iron Bog -- Collin Monro of Tadcaster
+        01/14/2011  C  Baroness of Iron Bog -- Marion del Okes
         01/14/2011  C  Grant of Arms -- Collin Monro of Tadcaster
         01/14/2011  C  Baroness of the Court -- Drueta de la Rosa
         01/14/2011  C  Silver Crescent -- Mairghread
@@ -525,13 +523,11 @@ Court Reports {
     Feast of John Barleycorn - Vicergal Investiture - September 10th, 2011 {
       INFO:Adding commentary "Outgoing Viceroy of Ostgardr"
       INFO:Adding commentary "Outgoing Vicerene of Ostgardr"
-      ERROR: Adding unknown award "Viceroy of Ostgardr"
-      ERROR: Adding unknown award "Vicerene of Ostgardr"
       == Feast of John Barleycorn - Vicergal Investiture == (September 10, 2011)
         09/10/2011  C  (Outgoing Viceroy of Ostgardr (Unknown Branch) -- Alexandre Lerot d'Avigne)
         09/10/2011  C  (Outgoing Vicerene of Ostgardr (Unknown Branch) -- Eularia Trewe)
-        09/10/2011  C  Viceroy of Ostgardr (Unknown Branch) -- Gui Cheveux de Guise
-        09/10/2011  C  Vicerene of Ostgardr (Unknown Branch) -- Johanne i Visby
+        09/10/2011  C  Viceroy of Ostgardr -- Gui Cheveux de Guise
+        09/10/2011  C  Vicerene of Ostgardr -- Johanne i Visby
         09/10/2011  C  King's Champion of Arms -- Kenric of Warwick [Backlog]
         09/10/2011  C  Award of Arms -- Rowan Durning [Backlog]
         09/10/2011  C  Tygers Cub -- Adelia of Bergental
@@ -705,10 +701,9 @@ Court Reports {
     }
     Bjorn's Ceildh and Baronial Investiture - November 13, 2010 {
       INFO:Adding commentary "Outgoing Baron of Concordia"
-      ERROR: Adding unknown award "Baron Concordia of the Snows"
       == Bjorn's Ceildh and Baronial Investiture == (November 13, 2010)
         11/13/2010  C  (Outgoing Baron of Concordia (Unknown Branch) -- Angus Penbridge - aka Augus Kerr)
-        11/13/2010  C  Baron Concordia of the Snows (Unknown Branch) -- Pierre de Tours
+        11/13/2010  C  Baron Concordia of the Snows -- Pierre de Tours
         11/13/2010  C  Award of Arms -- Mercedes Califia [backlog]
         11/13/2010  C  Award of Arms -- Brunechilde de Ravenel
         11/13/2010  C  Award of Arms -- Mhairi Brewbane
@@ -848,14 +843,12 @@ Court Reports {
       
     }
     Barony of L'ile de Dragon Dormant Investiture Anniversary - March 5, 2011 {
-      ERROR: Adding unknown award "Baron L'ile du Dragon Dormant"
-      ERROR: Adding unknown award "Baroness L'ile du Dragon Dormant"
       == Barony of L'ile de Dragon Dormant Investiture Anniversary == (March 5, 2011)
         03/05/2011  C  Court Barony -- Valeria Laskaris
         03/05/2011  C  Court Barony -- Pellandres dit le frere
-        03/05/2011  C  Baron L'ile du Dragon Dormant (Unknown Branch) -- Angus McHaley
+        03/05/2011  C  Baron L'Ile du Dragon Dormant (Tir Mara) -- Angus McHaley
         03/05/2011  C  Grant of Arms -- Angus McHaley
-        03/05/2011  C  Baroness L'ile du Dragon Dormant (Unknown Branch) -- Tadea Isabetta di Bruno
+        03/05/2011  C  Baroness L'Ile du Dragon Dormant (Tir Mara) -- Tadea Isabetta di Bruno
         03/05/2011  C  Grant of Arms -- Tadea Isabetta di Bruno
         03/05/2011  C  Award of Arms -- Jane Tripling
         03/05/2011  C  Award of Arms -- Ambre Milhent
@@ -992,9 +985,8 @@ Court Reports {
       
     }
     Baronial Investiture, May 1, 2010, court of HRM Edward {
-      ERROR: Adding unknown award "Baron of the Bridge"
       == Baronial Investiture == (May 1, 2010)
-        05/01/2010  C  Baron of the Bridge (Unknown Branch) -- Eloi Abelard
+        05/01/2010  C  Baron of the Bridge -- Eloi Abelard
         05/01/2010  C  Grant of Arms -- Eloi Abelard
         05/01/2010  C  Court Baroness -- Elspeth Keyf of Neddingham
         05/01/2010  C  Award of Arms -- Lassairfhina MacIntyre
@@ -1062,9 +1054,8 @@ Court Reports {
       
     }
     Vinland Raids, June 19, 2010 {
-      ERROR: Adding unknown award "Baroness of Smoking Rocks"
       == Vinland Raids == (June 19, 2010)
-        06/19/2010  C  Baroness of Smoking Rocks (Unknown Branch) -- Nest ferch Tangwistel
+        06/19/2010  C  Baroness of Smoking Rocks -- Nest ferch Tangwistel
         06/19/2010  C  Court Baron -- Cerdic of Colbridge
         06/19/2010  C  Court Baroness -- Caitlin Fraser
         06/19/2010  C  Award of Arms -- Dumain de Voebon [backlog]
@@ -1199,12 +1190,10 @@ Court Reports {
       
     }
     Havre des Glaces Investiture - September 18, 2010 {
-      ERROR: Adding unknown award "Baron Havre des Glaces"
-      ERROR: Adding unknown award "Baroness of Havre de Glaces"
       == Havre des Glaces Investiture == (September 18, 2010)
-        09/18/2010  C  Baron Havre des Glaces (Unknown Branch) -- Arthur de Beaumont
+        09/18/2010  C  Baron Havre des Glaces (Tir Mara) -- Arthur de Beaumont
         09/18/2010  C  Grant of Arms -- Arthur de Beaumont
-        09/18/2010  C  Baroness of Havre de Glaces (Unknown Branch) -- Shadiyah al-Zahra' (fka Shadia bint Barro
+        09/18/2010  C  Baroness of Havre de Glaces (Tir Mara) -- Shadiyah al-Zahra' (fka Shadia bint Barro
         09/18/2010  C  Grant of Arms -- Shadiyah al-Zahra' (fka Shadia bint Barro
         09/18/2010  C  Court Barony -- Hensojin Khan
         09/18/2010  C  Award of Arms -- Szika of lle du Dragon Dormant
@@ -1802,13 +1791,11 @@ Court Reports {
       
     }
     Ruantallan Baronial Investiture, August 29, 2009 {
-      ERROR: Adding unknown award "Baron of Ruantallan"
-      ERROR: Adding unknown award "Baroness of Ruantallan"
       == Ruantallan Baronial Investiture == (August 29, 2009)
         08/29/2009  C  Court Baroness -- Sarra Elisabeth Graham of Birnham
-        08/29/2009  C  Baron of Ruantallan (Unknown Branch) -- Donal O'Neill
+        08/29/2009  C  Baron of Ruantallan (Tir Mara) -- Donal O'Neill
         08/29/2009  C  Grant of Arms -- Donal O'Neill
-        08/29/2009  C  Baroness of Ruantallan (Unknown Branch) -- Allessandra Francesca di Milano
+        08/29/2009  C  Baroness of Ruantallan (Tir Mara) -- Allessandra Francesca di Milano
         08/29/2009  C  Grant of Arms -- Allessandra Francesca di Milano
         08/29/2009  C  Award of Arms -- Alfred Longshot
         08/29/2009  C  Award of Arms -- Matthew of Wiltshire
@@ -2152,7 +2139,7 @@ Court Reports {
     Season of Change, February 21, 2009 {
       ERROR: Adding unknown award "Barone of Iron Bog"
       == Season of Change == (February 21, 2009)
-        02/21/2009  C  Baroness of Iron Bog (Unknown Branch) -- Drueta de la Rosa
+        02/21/2009  C  Baroness of Iron Bog -- Drueta de la Rosa
         02/21/2009  C  Grant of Arms -- Drueta de la Rosa
         02/21/2009  C  Barone of Iron Bog (Unknown Branch) -- Nigel Westcastle
         02/21/2009  C  Grant of Arms -- Nigel Westcastle
@@ -2371,13 +2358,11 @@ Court Reports {
       
     }
     Bhakail Baronial Investiture, June 28, 2008 {
-      ERROR: Adding unknown award "Baron of Bhakail"
-      ERROR: Adding unknown award "Baroness of Bhakail"
       == Bhakail Baronial Investiture == (June 28, 2008)
         06/28/2008  C  Court Baron -- Lorcan Dracontius
         06/28/2008  C  Court Baroness -- Scheherazade al-Zahira
-        06/28/2008  C  Baron of Bhakail (Unknown Branch) -- Nissim aven Darmon
-        06/28/2008  C  Baroness of Bhakail (Unknown Branch) -- Sabine de Kerbriant
+        06/28/2008  C  Baron of Bhakail -- Nissim aven Darmon
+        06/28/2008  C  Baroness of Bhakail -- Sabine de Kerbriant
         06/28/2008  C  Award of Arms -- Naomi bat Avraham
         06/28/2008  C  Award of Arms -- Maghnus an Doire mac Tuathail
         06/28/2008  C  Silver Crescent -- Kolosvari Arpadne Julia
@@ -2519,8 +2504,6 @@ Court Reports {
       
     }
     Lakewood Renaissance Fair, Sunday, September 21, 2008 {
-      ERROR: Adding unknown award "Baroness of Carillion"
-      ERROR: Adding unknown award "Baron of Carillion"
       == Lakewood Renaissance Fair, Sunday == (September 21, 2008)
         09/21/2008  C  Award of Arms -- Amelia vint Wojciech
         09/21/2008  C  Award of Arms -- Fox Rethgar Trygvasson
@@ -2532,8 +2515,8 @@ Court Reports {
         09/21/2008  C  Silver Crescent -- Safia al-Khansaa
         09/21/2008  C  Silver Crescent -- Lillian atte Valeye (called Lilly of the Valley)
         09/21/2008  C  Court Baroness -- Mary Theophania Hunn
-        09/21/2008  C  Baroness of Carillion (Unknown Branch) -- Kis Maria
-        09/21/2008  C  Baron of Carillion (Unknown Branch) -- Cosmo of Carillion
+        09/21/2008  C  Baroness of Carillion -- Kis Maria
+        09/21/2008  C  Baron of Carillion -- Cosmo of Carillion
       
     }
     Last Court, Coronation, September 27, 2008 {
@@ -2637,13 +2620,11 @@ Court Reports {
       
     }
     St. Andrew Returns to Tuscany for a Baronial Investiture, November 10, 2007 {
-      ERROR: Adding unknown award "Baron of An Dubhaigeainn"
-      ERROR: Adding unknown award "Baroness of An Dubhaigeainn"
       == St. Andrew Returns to Tuscany for a Baronial Investiture == (November 10, 2007)
         11/10/2007  C  Court Baron -- Jean Xavier Bouillier
         11/10/2007  C  Court Baroness -- Gianetta Lucia Alegrette
-        11/10/2007  C  Baron of An Dubhaigeainn (Unknown Branch) -- Ateno of Annun Ridge
-        11/10/2007  C  Baroness of An Dubhaigeainn (Unknown Branch) -- Lassar ingen Aeda
+        11/10/2007  C  Baron of An Dubhaigeainn -- Ateno of Annun Ridge
+        11/10/2007  C  Baroness of An Dubhaigeainn -- Lassar ingen Aeda
         11/10/2007  C  Grant of Arms -- Lassar ingen Aeda
         11/10/2007  C  Grant of Arms -- Hassan Abdul Raschid al-Turki
         11/10/2007  C  Manche -- Philippa Ferraria
@@ -3044,9 +3025,9 @@ Court Reports {
       == War Camp == (June 30, 2007)
         06/30/2007  C  Court Baron -- Seumas Camshronach an Lochabair
         06/30/2007  C  Court Baroness -- Esperanza Razzolini d'Asolo
-        06/30/2007  C  Baron of Ruantallan (Unknown Branch) -- Lachlan mac an Toisich of Benchar
+        06/30/2007  C  Baron of Ruantallan (Tir Mara) -- Lachlan mac an Toisich of Benchar
         06/30/2007  C  Grant of Arms -- Lachlan mac an Toisich of Benchar
-        06/30/2007  C  Baroness of Ruantallan (Unknown Branch) -- Janet Kempe
+        06/30/2007  C  Baroness of Ruantallan (Tir Mara) -- Janet Kempe
         06/30/2007  C  Grant of Arms -- Janet Kempe
         06/30/2007  C  Award of Arms -- Snarfi Snorrison
         06/30/2007  C  Award of Arms -- Inga Torgansdottir
@@ -3251,11 +3232,9 @@ Court Reports {
       
     }
     Bjorn's Ceilidh & Concordian Investiture, November 11, 2006 {
-      ERROR: Adding unknown award "Baron of Concordia of the Snows"
-      ERROR: Adding unknown award "Baroness of Concordia of the Snows"
       == Bjorn's Ceilidh & Concordian Investiture == (November 11, 2006)
-        11/11/2006  C  Baron of Concordia of the Snows (Unknown Branch) -- Angus Kerr
-        11/11/2006  C  Baroness of Concordia of the Snows (Unknown Branch) -- Laurencia of Carlisle
+        11/11/2006  C  Baron of Concordia of the Snows -- Angus Kerr
+        11/11/2006  C  Baroness of Concordia of the Snows -- Laurencia of Carlisle
         11/11/2006  C  Court Baron -- Baltasar Mondragon
         11/11/2006  C  Court Baroness -- Lucia Francesca de Valencia
         11/11/2006  C  Award of Arms -- Hobbe Yonge
@@ -3403,13 +3382,11 @@ Court Reports {
       
     }
     Mudthaw & Baronial Investiture, March 24, 2007 {
-      ERROR: Adding unknown award "Baron of Settmour Swamp"
-      ERROR: Adding unknown award "Baroness of Settmour Swamp"
       == Mudthaw & Baronial Investiture == (March 24, 2007)
         03/24/2007  C  Court Baroness -- Paigan Crawford
         03/24/2007  C  Court Baron -- Teric Gwynedd
-        03/24/2007  C  Baron of Settmour Swamp (Unknown Branch) -- Alexander MacGregor
-        03/24/2007  C  Baroness of Settmour Swamp (Unknown Branch) -- Rhiannon de Licorne
+        03/24/2007  C  Baron of Settmour Swamp -- Alexander MacGregor
+        03/24/2007  C  Baroness of Settmour Swamp -- Rhiannon de Licorne
         03/24/2007  C  Award of Arms -- Pandora of Settmour Swamp
         03/24/2007  C  Award of Arms -- Rory MacKinnon
         03/24/2007  C  Silver Crescent -- Jocelyn Tarr
@@ -3587,12 +3564,10 @@ Court Reports {
       
     }
     Barony Beyond the Mountain Investiture and Field of Acorns & Pearls, June 3, 2006 {
-      ERROR: Adding unknown award "Baron Beyond the Mountain"
-      ERROR: Adding unknown award "Baroness Beyond the Mountain"
       == Barony Beyond the Mountain Investiture and Field of Acorns & Pearls == (June 3, 2006)
         06/03/2006  C  Court Baroness -- Nakamura Yuki
-        06/03/2006  C  Baron Beyond the Mountain (Unknown Branch) -- Dinsdale of Northumbria
-        06/03/2006  C  Baroness Beyond the Mountain (Unknown Branch) -- Aelfgifu of the Hazel Thicket
+        06/03/2006  C  Baron Beyond the Mountain -- Dinsdale of Northumbria
+        06/03/2006  C  Baroness Beyond the Mountain -- Aelfgifu of the Hazel Thicket
         06/03/2006  C  Tygers Cub -- Alexi of Nordenhal
         06/03/2006  C  Tygers Cub -- Nokolai of Nordenhal
         06/03/2006  C  Tygers Cub -- Sage of Nordenhal
@@ -3760,14 +3735,13 @@ Court Reports {
       
     }
     Barleycorn: The Next Generation, September 9, 2006 {
-      ERROR: Adding unknown award "Vicereine of Ostgardr"
       == Barleycorn: The Next Generation == (September 9, 2006)
         09/09/2006  C  Court Baroness -- Eularia Trewe
         09/09/2006  C  Grant of Arms -- Eularia Trewe
         09/09/2006  C  Augmentation of Arms -- Ian of Clan Mitchell
         09/09/2006  C  Augmentation of Arms -- Katherine Gillesfleur
-        09/09/2006  C  Viceroy of Ostgardr (Unknown Branch) -- Alexandre Lerot d'Avigne
-        09/09/2006  C  Vicereine of Ostgardr (Unknown Branch) -- Eularia Trewe
+        09/09/2006  C  Viceroy of Ostgardr -- Alexandre Lerot d'Avigne
+        09/09/2006  C  Vicereine of Ostgardr -- Eularia Trewe
         09/09/2006  C  Award of Arms -- Aquilina of the Sea Cliffs
         09/09/2006  C  Queen's Courtesy -- Yen Lui Targi
         09/09/2006  C  Award of Arms -- Yen Lui Targi
@@ -4087,10 +4061,9 @@ Court Reports {
       
     }
     First Baronial Investiture in Iron Bog, March 18, 2006 {
-      ERROR: Adding unknown award "Baroness Iron Bog"
       == First Baronial Investiture in Iron Bog == (March 18, 2006)
-        03/18/2006  C  Baron Iron Bog (Unknown Branch) -- Lawrence Thornguard
-        03/18/2006  C  Baroness Iron Bog (Unknown Branch) -- Katherine Barr of Cumberland
+        03/18/2006  C  Baron Iron Bog -- Lawrence Thornguard
+        03/18/2006  C  Baroness Iron Bog -- Katherine Barr of Cumberland
         03/18/2006  C  Award of Arms -- Joseph the Reluctant
         03/18/2006  C  Award of Arms -- Anna d'Amiens
         03/18/2006  C  Award of Arms -- Bridget Comyn
@@ -4402,13 +4375,11 @@ Court Reports {
       
     }
     Pennsic, East Kingdom Court, Wednesday evening, August 16, 2005 {
-      ERROR: Adding unknown award "Baron of Bergental"
-      ERROR: Adding unknown award "Baroness of Bergental"
       == Pennsic, East Kingdom Court, Wednesday evening == (August 16, 2005)
         08/16/2005  C  Court Baron -- Kai Maclane
         08/16/2005  C  Court Baroness -- Michaelene MacLain
-        08/16/2005  C  Baron of Bergental (Unknown Branch) -- Lyle FitzWilliam
-        08/16/2005  C  Baroness of Bergental (Unknown Branch) -- Elwynne Rowenna of Wentworth
+        08/16/2005  C  Baron of Bergental -- Lyle FitzWilliam
+        08/16/2005  C  Baroness of Bergental -- Elwynne Rowenna of Wentworth
         08/16/2005  C  Troubadour -- George of An Dubhaigeainn
         08/16/2005  C  Tygers Cub -- Pookah Larasdotter
         08/16/2005  C  Tygers Cub -- Sorchea Larsdatter
@@ -4718,7 +4689,7 @@ Court Reports {
     }
     Bellringers: The Investiture, January 15, 2005 {
       == Bellringers: The Investiture == (January 15, 2005)
-        01/15/2005  C  Baroness of Carillion (Unknown Branch) -- Mary Theophania Hunn
+        01/15/2005  C  Baroness of Carillion -- Mary Theophania Hunn
         01/15/2005  C  Queen's Honor of Distinction -- Raphaella Mascola
         01/15/2005  C  Troubadour -- Mina de Lis
         01/15/2005  C  Troubadour -- Stephano Ricciuto
@@ -4835,8 +4806,8 @@ Court Reports {
     }
     Baronial Investiture, L'Ile du Dragon Dormant, March 5, 2005 {
       == Baronial Investiture, L'Ile du Dragon Dormant == (March 5, 2005)
-        03/05/2005  C  Baron L'ile du Dragon Dormant (Unknown Branch) -- Paul André Jacques, called Pellandres
-        03/05/2005  C  Baroness L'ile du Dragon Dormant (Unknown Branch) -- Valeria Laskaris
+        03/05/2005  C  Baron L'Ile du Dragon Dormant (Tir Mara) -- Paul André Jacques, called Pellandres
+        03/05/2005  C  Baroness L'Ile du Dragon Dormant (Tir Mara) -- Valeria Laskaris
         03/05/2005  C  Manche -- Giana Gabriella di Milano
         03/05/2005  C  Golden Tyger -- Cristina of the Dragon Lily
         03/05/2005  C  Manche -- Ursion de Gui
@@ -5050,13 +5021,12 @@ Court Reports {
       
     }
     Vinland Raids III and Baronial Investiture, June 19, 2004 {
-      ERROR: Adding unknown award "Baron of Smoking Rocks"
       == Vinland Raids III and Baronial Investiture == (June 19, 2004)
         06/19/2004  C  Kingdom Augmentation of Arms -- Yosef Alaric
         06/19/2004  C  Court Baroness -- Aceline Barrett of Seven Oaks
         06/19/2004  C  Grant of Arms -- Aceline Barrett of Seven Oaks
-        06/19/2004  C  Baron of Smoking Rocks (Unknown Branch) -- Cerdic of Colbridge
-        06/19/2004  C  Baroness of Smoking Rocks (Unknown Branch) -- Caitlin Fraser
+        06/19/2004  C  Baron of Smoking Rocks -- Cerdic of Colbridge
+        06/19/2004  C  Baroness of Smoking Rocks -- Caitlin Fraser
         06/19/2004  C  Award of Arms -- Aoefe ui Dhonaill
         06/19/2004  C  Award of Arms -- Bruka the Saracen
         06/19/2004  C  Award of Arms -- Livia Claudia Secunda
@@ -5078,7 +5048,7 @@ Court Reports {
       == Great Northeastern War == (July 17, 2004)
         07/17/2004  C  Tygers Combattant -- Paul Andre Jacques, called Pellandres
         07/17/2004  C  Court Baron -- Godfroy Garmallon
-        07/17/2004  C  Baron Havre des Glaces (Unknown Branch) -- Fukushima Masanari Hanso
+        07/17/2004  C  Baron Havre des Glaces (Tir Mara) -- Fukushima Masanari Hanso
         07/17/2004  C  Grant of Arms -- Fukushima Masanari Hanso
         07/17/2004  C  Award of Arms -- Donna of Stonemarche
         07/17/2004  C  Queen's Courtesy -- Katerina Iliovna Vladimirov
@@ -5560,14 +5530,12 @@ Court Reports {
       
     }
     Stonemarche Baronial Investiture, June 14, 2003 {
-      ERROR: Adding unknown award "Baron of Stonemarche"
-      ERROR: Adding unknown award "Baroness of Stonemarche"
       == Stonemarche Baronial Investiture == (June 14, 2003)
         06/14/2003  C  Court Baron -- Claus of Burzee
         06/14/2003  C  Court Baroness -- Megan Laine
-        06/14/2003  C  Baron of Stonemarche (Unknown Branch) -- Juan Lazaro Ramirez Xavier
+        06/14/2003  C  Baron of Stonemarche -- Juan Lazaro Ramirez Xavier
         06/14/2003  C  Grant of Arms -- Juan Lazaro Ramirez Xavier
-        06/14/2003  C  Baroness of Stonemarche (Unknown Branch) -- Maria Pagani
+        06/14/2003  C  Baroness of Stonemarche -- Maria Pagani
         06/14/2003  C  Grant of Arms -- Maria Pagani
         06/14/2003  C  Award of Arms -- Marielle de Chalon
         06/14/2003  C  Award of Arms -- Melisande de Bourges
@@ -6417,11 +6385,10 @@ Court Reports {
       
     }
     Baronial Investiture, Carolingia, June 8, 2002 {
-      ERROR: Adding unknown award "Baron of Carolingia"
       == Baronial Investiture, Carolingia == (June 8, 2002)
         06/08/2002  C  Court Baron -- Aquel of Darksted Wood
         06/08/2002  C  Court Baroness -- Johanna Dudley
-        06/08/2002  C  Baron of Carolingia (Unknown Branch) -- Jehan du Lac
+        06/08/2002  C  Baron of Carolingia -- Jehan du Lac
         06/08/2002  C  Grant of Arms -- Jehan du Lac
         06/08/2002  C  Award of Arms -- Gerard of Ivory Keep
         06/08/2002  C  Award of Arms -- Shi Hua Fu
@@ -6589,8 +6556,8 @@ Court Reports {
         08/12/2002  C  Court Baron -- Alastair MacLeod
         08/12/2002  C  Court Baroness -- Mercedes de Califia
         08/12/2002  C  Grant of Arms -- Mercedes de Califia
-        08/12/2002  C  Baron of Carillion (Unknown Branch) -- Ramos da Vida
-        08/12/2002  C  Baroness of Carillion (Unknown Branch) -- Aminah al-Zahara
+        08/12/2002  C  Baron of Carillion -- Ramos da Vida
+        08/12/2002  C  Baroness of Carillion -- Aminah al-Zahara
       
     }
     Pennsic Royal Encampment Court, August 12, 2002 {
@@ -6830,7 +6797,6 @@ Alphabetical {
   Adeth MacGregor {
   }
   Adhemar de Villarquamada {
-    ERROR: Adding unknown award "Baron of Dragonship Haven"
   }
   Adin Nortment {
   }
@@ -7020,7 +6986,6 @@ Alphabetical {
   Ailis Catriona Mac an Toisich {
   }
   Ailís inghean Mhuirghein {
-    ERROR: Adding unknown award "Founding Baron Stonemarche"
   }
   Aine Callaghan {
   }
@@ -7690,7 +7655,6 @@ Alphabetical {
   Andrew Stewart MacRobb {
   }
   Andrew of York {
-    ERROR: Adding unknown award "Founding Baron Ruantallan"
   }
   Andris Lowenstein {
   }
@@ -8172,7 +8136,6 @@ Alphabetical {
   Arval Benicoeur {
   }
   Arwen Evaine ferch Rhys of Gwynnedd {
-    ERROR: Adding unknown award "Baroness of Dragonship Haven"
   }
   Arwen Elandris of Aegelwoode {
   }
@@ -8605,7 +8568,7 @@ Alpha List {
     11/04/1995 A   Grant of Arms -- Adhemar de Villarquamada
     01/16/1999 A   Master of the Laurel -- Adhemar de Villarquamada
     02/12/2000 A   Silver Crescent -- Adhemar de Villarquamada
-    02/12/2000 A   Baron of Dragonship Haven (Unknown Branch) -- Adhemar de Villarquamada
+    02/12/2000 A   Baron of Dragonship Haven -- Adhemar de Villarquamada
     09/30/2000 A   King's Cypher -- Adhemar de Villarquamada [Balfar III]
     09/29/2001 A   Queen's Honor of Distinction -- Adhemar de Villarquamada [Olivia]
     04/20/2002 A   King's Excellence -- Adhemar de Villarquamada
@@ -8731,7 +8694,7 @@ Alpha List {
     10/09/1993 A   Queen's Cypher -- Aelfgifu of the Hazel Thicket [Genevieve]
     12/30/1995 A   Mistress of the Laurel -- Aelfgifu of the Hazel Thicket
     04/10/1999 A   Tygers Combattant -- Aelfgifu of the Hazel Thicket
-    06/03/2006 AC  Baroness Beyond the Mountain (Unknown Branch) -- Aelfgifu of the Hazel Thicket
+    06/03/2006 AC  Baroness Beyond the Mountain -- Aelfgifu of the Hazel Thicket
     04/21/2007 AC  Silver Crescent -- Aelfgifu of the Hazel Thicket
     04/18/2009 AC  Mistress of the Pelican -- Aelfgifu of the Hazel Thicket
   
@@ -9006,7 +8969,7 @@ Alpha List {
     AKA: Morgan Arianblaidd
     05/02/1987 A   Award of Arms -- Ailís inghean Mhuirghein
     10/03/1987 A   Grant of Arms -- Ailís inghean Mhuirghein
-    10/03/1987 A   Founding Baron Stonemarche (Unknown Branch) -- Ailís inghean Mhuirghein [retired]
+    10/03/1987 A   Founding Baron Stonemarche -- Ailís inghean Mhuirghein [retired]
     02/01/1997 A   Court Baroness -- Ailís inghean Mhuirghein
     06/14/2003 A   Millstone (Stonemarche) -- Ailís inghean Mhuirghein
     04/30/2006 AC  Silver Crescent -- Ailis inghean Mhuirghein
@@ -9212,7 +9175,7 @@ Alpha List {
     04/24/1999 A   Queen's Courtesy -- Alasdair MacLeod of Durna
     04/24/1999 A   Award of Arms -- Alasdair MacLeod of Durna
     02/26/2000 A   Grant of Arms -- Alasdair MacLeod of Durna
-    02/26/2000 A   Baron of Carillion (Unknown Branch) -- Alasdair MacLeod of Durna
+    02/26/2000 A   Baron of Carillion -- Alasdair MacLeod of Durna
     08/12/2002 A   Court Baron -- Alasdair MacLeod of Durna
   
   == Alasdair Stuart Campbell [registered] ==
@@ -9419,7 +9382,7 @@ Alpha List {
   == Alessandra Francesca di Milano ==
     09/27/1998 A   Award of Arms -- Alessandra Francesca di Milano
     07/15/2006 A   Silver Crescent -- Alessandra Francesca di Milano
-    08/29/2009 AC  Baroness of Ruantallan (Unknown Branch) -- Allessandra Francesca di Milano
+    08/29/2009 AC  Baroness of Ruantallan (Tir Mara) -- Allessandra Francesca di Milano
     08/29/2009 AC  Grant of Arms -- Allessandra Francesca di Milano
   
   == Alessandra da Montereggioni ==
@@ -9479,7 +9442,7 @@ Alpha List {
     03/05/2005 AC  Grant of Arms -- Alexander MacGregor
     03/05/2005 AC  Court Baron -- Alexander MacGregor
     03/25/2006 AC  Burdened Tyger -- Alexander MacGregor
-    03/24/2007 AC  Baron of Settmour Swamp (Unknown Branch) -- Alexander MacGregor
+    03/24/2007 AC  Baron of Settmour Swamp -- Alexander MacGregor
     01/15/2011  C  (Writ doe Pelican (Unknown Branch) -- Alexander MacGregor)
     03/26/2011 A   Pelican -- Alexander MacGregor
   
@@ -9624,7 +9587,7 @@ Alpha List {
     09/11/2004 A   Seahorse (Ostgardr) -- Alexandre Lerot d'Avignon
     01/22/2005 AC  Master of the Pelican -- Alexandre Lerot d'Avignon
     01/14/2006 AC  Burdened Tyger -- Alexandre Lerot d'Avigne
-    09/09/2006 AC  Viceroy of Ostgardr (Unknown Branch) -- Alexandre Lerot d'Avigne
+    09/09/2006 AC  Viceroy of Ostgardr -- Alexandre Lerot d'Avigne
     04/12/2008 A   Queen's Honor of Distinction -- Alexandre Lerot d'Avignon [Gabriella]
     07/05/2008 AC  Burdened Tyger -- Alexandre Lerot d'Avignon
     08/07/2008 AC  Silver Crescent -- Alexandre Lerot d'Avignon
@@ -10253,7 +10216,7 @@ Alpha List {
   == Aminah al-Zahara ==
     03/27/1999 A   Award of Arms -- Aminah al-Zahara
     01/27/2001 A   Terpsichore -- Aminah al-Zahara
-    08/12/2002 AC  Baroness of Carillion (Unknown Branch) -- Aminah al-Zahara
+    08/12/2002 AC  Baroness of Carillion -- Aminah al-Zahara
   
   == Amman of Anglespur ==
     05/26/2001 A   Award of Arms -- Amman of Anglespur
@@ -10555,7 +10518,7 @@ Alpha List {
   == Andrew of York [registered] ==
     05/07/1985 A   Award of Arms -- Andrew of York
     01/31/1987 A   Silver Crescent -- Andrew of York
-    10/01/1988 A   Founding Baron Ruantallan (Unknown Branch) -- Andrew of York
+    10/01/1988 A   Founding Baron Ruantallan (Tir Mara) -- Andrew of York
     11/03/1990 A   Queen's Courtesy -- Andrew of York
     11/27/1993 A   Master of the Pelican -- Andrew of York
     11/25/2000 A   Manche -- Andrew of York
@@ -10733,7 +10696,7 @@ Alpha List {
     09/10/2005 AC  Court Baron -- Angus Kerr
     02/25/2006 AC  Manche -- Angus Kerr
     08/14/2006 AC  Tygers Combattant -- Angus Kerr
-    11/11/2006 AC  Baron of Concordia of the Snows (Unknown Branch) -- Angus Kerr
+    11/11/2006 AC  Baron of Concordia of the Snows -- Angus Kerr
     02/23/2008 AC  King's Excellence -- Angus Kerr
     10/04/2008 AC  Silver Crescent -- Angus Kerr
     03/28/2009  C  King's Champion of Arts & Sciences -- Angus Kerr
@@ -10750,7 +10713,7 @@ Alpha List {
   == Angus McHaley ==
     03/25/2000 A   Award of Arms -- Angus McHaley
     05/06/2006 AC  Tygers Combattant -- Angus McHaley
-    03/05/2011  C  Baron L'ile du Dragon Dormant (Unknown Branch) -- Angus McHaley
+    03/05/2011  C  Baron L'Ile du Dragon Dormant (Tir Mara) -- Angus McHaley
     03/05/2011 AC  Grant of Arms -- Angus McHaley
   
   == Angus Pembridge ==
@@ -11292,7 +11255,7 @@ Alpha List {
     12/05/1992 A   Freedom of the Bridge (Bridge) -- Aquel of Darksted Wood
     10/09/1993 A   Master of the Laurel -- Aquel of Darksted Wood
     03/02/1996 A   Silver Crescent -- Aquel of Darksted Wood
-    03/02/1996 A   Baron of Carolingia (Unknown Branch) -- Aquel of Darksted Wood [ret.]
+    03/02/1996 A   Baron of Carolingia -- Aquel of Darksted Wood [ret.]
     01/04/1997 A   Master of the Pelican -- Aquel of Darksted Wood
     09/30/2000 A   Burdened Tyger -- Aquel of Darksted Wood
     06/08/2002 AC  Court Baron -- Aquel of Darksted Wood
@@ -11645,7 +11608,7 @@ Alpha List {
   
   == Arnulf Adler [registered] ==
     10/11/1983 A   Award of Arms -- Arnulf Adler
-    04/23/1984 A   Baron of Bhakail (Unknown Branch) -- Arnulf Adler [retired]
+    04/23/1984 A   Baron of Bhakail -- Arnulf Adler [retired]
     08/15/1991 A   Salamander (Bhakail) -- Arnulf Adler
     09/28/1996 A   Burdened Tyger -- Arnulf Adler
     07/25/1998 A   Tygers Combattant -- Arnulf Adler
@@ -11710,7 +11673,7 @@ Alpha List {
     ??/??/2001 A   Chiffre du Baron (Havre des Glaces) -- Arthur de Beaumont
     03/31/2001 A   Manche -- Arthur de Beaumont
     ??/??/2009 A   Order du Lys d'argent (Havre des Glaces) -- Arthur de Beaumont
-    09/18/2010  C  Baron Havre des Glaces (Unknown Branch) -- Arthur de Beaumont
+    09/18/2010  C  Baron Havre des Glaces (Tir Mara) -- Arthur de Beaumont
     09/18/2010 AC  Grant of Arms -- Arthur de Beaumont
     03/05/2011 AC  Silver Crescent -- Arthur de Beaumont
   
@@ -11748,7 +11711,7 @@ Alpha List {
     10/03/1981 A   Mistress of the Laurel -- Arwen Evaine ferch Rhys of Gwynnedd
     04/24/1982 A   Manche -- Arwen Evaine ferch Rhys of Gwynnedd
     03/23/1985 A   Hawk's Bell (Dragonship Haven) -- Arwen Evaine ferch Rhys of Gwynnedd
-    01/04/1986 A   Baroness of Dragonship Haven (Unknown Branch) -- Arwen Evaine ferch Rhys of Gwynnedd
+    01/04/1986 A   Baroness of Dragonship Haven -- Arwen Evaine ferch Rhys of Gwynnedd
     04/12/1986 A   Sun and Soil (Beyond the Mountain) -- Arwen Evaine ferch Rhys of Gwynnedd
     04/11/1987 A   Troubadour -- Arwen Evaine ferch Rhys of Gwynnedd
     08/15/1987 A   Mistress of the Pelican -- Arwen Evaine ferch Rhys of Gwynnedd
@@ -11906,7 +11869,7 @@ Alpha List {
     12/21/2002 AC  Queen's Courtesy -- Ateno of Annun Ridge
     04/12/2003 AC  Queen's Honor of Distinction -- Ateno of Annun Ridge [Isabella II]
     11/19/2005 AC  Queen's Honor of Distinction -- Ateno of Annun Ridge [Roxane III]
-    11/10/2007 AC  Baron of An Dubhaigeainn (Unknown Branch) -- Ateno of Annun Ridge
+    11/10/2007 AC  Baron of An Dubhaigeainn -- Ateno of Annun Ridge
     08/07/2008 AC  Master of the Pelican -- Ateno of Annun Ridge
   
   == Athanasius Biørnovic (Bjornides) [registered] ==
@@ -12794,7 +12757,7 @@ Alpha List {
     06/19/2010  C  Queen's Courtesy -- Caitlin Davies
   
   == Caitlin Fraser ==
-    06/19/2004  C  Baroness of Smoking Rocks (Unknown Branch) -- Caitlin Fraser
+    06/19/2004  C  Baroness of Smoking Rocks -- Caitlin Fraser
     06/19/2010  C  Court Baroness -- Caitlin Fraser
   
   == Caitlin Frazer ==
@@ -13126,7 +13089,7 @@ Alpha List {
     01/29/2005  C  Master of the Laurel -- Cenwulf Bearwes
   
   == Cerdic of Colbridge ==
-    06/19/2004  C  Baron of Smoking Rocks (Unknown Branch) -- Cerdic of Colbridge
+    06/19/2004  C  Baron of Smoking Rocks -- Cerdic of Colbridge
     10/09/2004  C  Silver Crescent -- Cerdic of Colbridge
     06/19/2010  C  Court Baron -- Cerdic of Colbridge
   
@@ -13391,7 +13354,7 @@ Alpha List {
     01/12/2008  C  Queen's Rapier Champion -- Collin Monro of Tadcaster
     09/26/2009  C  Silver Crescent -- Collin Monro of Tadcaster
     01/14/2011  C  Grant of Arms -- Collin Monro of Tadcaster
-    01/14/2011  C  Baron Iron Bog (Unknown Branch) -- Collin Monro of Tadcaster
+    01/14/2011  C  Baron Iron Bog -- Collin Monro of Tadcaster
   
   == Collin Monroe ==
     03/29/2003  C  Award of Arms -- Collin Monroe
@@ -13541,7 +13504,7 @@ Alpha List {
   
   == Cosmo of Carillion ==
     11/19/2005  C  Award of Arms -- Cosmo of Carillion
-    09/21/2008  C  Baron of Carillion (Unknown Branch) -- Cosmo of Carillion
+    09/21/2008  C  Baron of Carillion -- Cosmo of Carillion
     05/07/2011  C  Silver Crescent -- Cosmo of Carillion
   
   == Court Barony ==
@@ -13970,7 +13933,7 @@ Alpha List {
     10/15/2005  C  Queen's Courtesy -- Ding Li Ying
   
   == Dinsdale of Northumbria ==
-    06/03/2006  C  Baron Beyond the Mountain (Unknown Branch) -- Dinsdale of Northumbria
+    06/03/2006  C  Baron Beyond the Mountain -- Dinsdale of Northumbria
     04/21/2007  C  Master of the Pelican -- Dinsdale of Northumbria
   
   == Diomedes Sebastianus ==
@@ -14024,7 +13987,7 @@ Alpha List {
   
   == Donal O'Neill ==
     08/29/2009  C  Grant of Arms -- Donal O'Neill
-    08/29/2009  C  Baron of Ruantallan (Unknown Branch) -- Donal O'Neill
+    08/29/2009  C  Baron of Ruantallan (Tir Mara) -- Donal O'Neill
   
   == Donal o'Neil ==
     10/09/2010  C  Princess's Champion of Arts and Sciences -- Donal o'Neil
@@ -14123,7 +14086,7 @@ Alpha List {
     09/24/2005  C  Award of Arms -- Drueta de la Rosa
     09/29/2007  C  Silver Crescent -- Drueta de la Rosa
     02/21/2009  C  Grant of Arms -- Drueta de la Rosa
-    02/21/2009  C  Baroness of Iron Bog (Unknown Branch) -- Drueta de la Rosa
+    02/21/2009  C  Baroness of Iron Bog -- Drueta de la Rosa
     01/14/2011  C  Baroness of the Court -- Drueta de la Rosa
     01/14/2011  C  (Out going Baroness of Iron Bog (Unknown Branch) -- Drueta de la Rosa)
   
@@ -14692,7 +14655,7 @@ Alpha List {
     01/27/2007  C  Burdened Tyger -- Eloi Abelard
     09/27/2008  C  Silver Crescent -- Eloi Abelard
     05/01/2010  C  Grant of Arms -- Eloi Abelard
-    05/01/2010  C  Baron of the Bridge (Unknown Branch) -- Eloi Abelard
+    05/01/2010  C  Baron of the Bridge -- Eloi Abelard
   
   == Eloise McBane ==
     03/29/2003  C  Golden Lyre -- Eloise McBane
@@ -14712,7 +14675,7 @@ Alpha List {
     01/15/2011  C  Award of Arms -- Elspeth Meresberie
   
   == Elwynne Rowenna of Wentworth ==
-    08/16/2005  C  Baroness of Bergental (Unknown Branch) -- Elwynne Rowenna of Wentworth
+    08/16/2005  C  Baroness of Bergental -- Elwynne Rowenna of Wentworth
     10/15/2005  C  Silver Crescent -- Elwynne Rowenna of Wentworth
     04/14/2007  C  Mistress of the Pelican -- Elwynne Rowenna of Wentworth
   
@@ -14985,7 +14948,7 @@ Alpha List {
   == Eularia Trewe ==
     01/25/2003  C  Award of Arms -- Eularia Trewe
     01/14/2006  C  Burdened Tyger -- Eularia Trewe
-    09/09/2006  C  Vicereine of Ostgardr (Unknown Branch) -- Eularia Trewe
+    09/09/2006  C  Vicereine of Ostgardr -- Eularia Trewe
     09/09/2006  C  Grant of Arms -- Eularia Trewe
     09/09/2006  C  Court Baroness -- Eularia Trewe
     07/05/2008  C  Queen's Courtesy -- Eularia Trewe
@@ -15235,7 +15198,7 @@ Alpha List {
   
   == Fukushima Masanari Hanso ==
     07/17/2004  C  Grant of Arms -- Fukushima Masanari Hanso
-    07/17/2004  C  Baron Havre des Glaces (Unknown Branch) -- Fukushima Masanari Hanso
+    07/17/2004  C  Baron Havre des Glaces (Tir Mara) -- Fukushima Masanari Hanso
   
   == Fygen Abendroth ==
     09/30/2006  C  Award of Arms -- Fygen Abendroth
@@ -15811,7 +15774,7 @@ Alpha List {
     04/11/2009  C  Queen's Honor of Distinction -- Guerra MacHail
   
   == Gui Cheveux de Guise ==
-    09/10/2011  C  Viceroy of Ostgardr (Unknown Branch) -- Gui Cheveux de Guise
+    09/10/2011  C  Viceroy of Ostgardr -- Gui Cheveux de Guise
   
   == Gui avec Cheval de Guise ==
     05/07/2011  C  (Viceroy of Ostgardr - elect (Unknown Branch) -- Gui avec Cheval de Guise)
@@ -16619,7 +16582,7 @@ Alpha List {
     11/27/2004  C  Golden Tyger -- Janet Kempe
     05/06/2006  C  Silver Crescent -- Janet Kempe
     06/30/2007  C  Grant of Arms -- Janet Kempe
-    06/30/2007  C  Baroness of Ruantallan (Unknown Branch) -- Janet Kempe
+    06/30/2007  C  Baroness of Ruantallan (Tir Mara) -- Janet Kempe
     11/29/2008  C  Court Baroness -- Janet Kempe
   
   == Janice of House Crossbow ==
@@ -16732,7 +16695,7 @@ Alpha List {
   == Jehan du Lac ==
     06/08/2002  C  Silver Crescent -- Jehan du Lac
     06/08/2002  C  Grant of Arms -- Jehan du Lac
-    06/08/2002  C  Baron of Carolingia (Unknown Branch) -- Jehan du Lac
+    06/08/2002  C  Baron of Carolingia -- Jehan du Lac
     07/20/2002  C  Master of the Laurel -- Jehan du Lac
     09/27/2008  C  Master of the Pelican -- Jehan du Lac
   
@@ -16871,7 +16834,7 @@ Alpha List {
   == Johanne i Visby ==
     09/27/2008  C  Burdened Tyger -- Johanne i Visby
     05/07/2011  C  (Vicerine Ostgardr - elect (Unknown Branch) -- Johanne i Visby)
-    09/10/2011  C  Vicerene of Ostgardr (Unknown Branch) -- Johanne i Visby
+    09/10/2011  C  Vicerene of Ostgardr -- Johanne i Visby
   
   == Johannes Visby ==
     09/24/2005  C  Silver Crescent -- Johannes Visby
@@ -17027,7 +16990,7 @@ Alpha List {
   
   == Juan Lazaro Ramirez Xavier ==
     06/14/2003  C  Grant of Arms -- Juan Lazaro Ramirez Xavier
-    06/14/2003  C  Baron of Stonemarche (Unknown Branch) -- Juan Lazaro Ramirez Xavier
+    06/14/2003  C  Baron of Stonemarche -- Juan Lazaro Ramirez Xavier
     01/29/2005  C  Silver Crescent -- Juan Lazaro Ramirez Xavier
     08/06/2009  C  Queen's Honor of Distinction -- Juan Lazaro Ramirez Xavier
   
@@ -17323,7 +17286,7 @@ Alpha List {
   
   == Katherine Barr of Cumberland ==
     04/12/2003  C  Queen's Honor of Distinction -- Katherine Barr of Cumberland
-    03/18/2006  C  Baroness Iron Bog (Unknown Branch) -- Katherine Barr of Cumberland
+    03/18/2006  C  Baroness Iron Bog -- Katherine Barr of Cumberland
     04/12/2008  C  Queen's Courtesy -- Katherine Barr of Cumberland
   
   == Katherine Gillesfleur ==
@@ -17636,7 +17599,7 @@ Alpha List {
     02/05/2005  C  Golden Tyger -- Kirstyn Mansfeld
   
   == Kis Maria ==
-    09/21/2008  C  Baroness of Carillion (Unknown Branch) -- Kis Maria
+    09/21/2008  C  Baroness of Carillion -- Kis Maria
     09/27/2008  C  Queen's Cypher -- Kis Maria
   
   == Kis Maria called Mika ==
@@ -17766,7 +17729,7 @@ Alpha List {
   
   == Lachlan mac an Toisich of Benchar ==
     06/30/2007  C  Grant of Arms -- Lachlan mac an Toisich of Benchar
-    06/30/2007  C  Baron of Ruantallan (Unknown Branch) -- Lachlan mac an Toisich of Benchar
+    06/30/2007  C  Baron of Ruantallan (Tir Mara) -- Lachlan mac an Toisich of Benchar
   
   == Lachlann Graheme - aka mac Lachlainn ==
     Unknown Date  C  Grant of Arms -- Lachlann Graheme - aka mac Lachlainn
@@ -17812,7 +17775,7 @@ Alpha List {
   
   == Lassar ingen Aeda ==
     11/10/2007  C  Grant of Arms -- Lassar ingen Aeda
-    11/10/2007  C  Baroness of An Dubhaigeainn (Unknown Branch) -- Lassar ingen Aeda
+    11/10/2007  C  Baroness of An Dubhaigeainn -- Lassar ingen Aeda
     03/27/2010  C  Silver Crescent -- Lassar ingen Aeda
   
   == Laura della Francesca ==
@@ -17837,7 +17800,7 @@ Alpha List {
     Unknown Date  C  Court Baroness -- Laurencia of Carlisle
     04/03/2004  C  Award of Arms -- Laurencia of Carlisle
     11/06/2004  C  Manche -- Laurencia of Carlisle
-    11/11/2006  C  Baroness of Concordia of the Snows (Unknown Branch) -- Laurencia of Carlisle
+    11/11/2006  C  Baroness of Concordia of the Snows -- Laurencia of Carlisle
   
   == Laurensa (of Owls Reste) ==
     09/24/2005  C  Queen's Honor of Distinction -- Laurensa (of Owls Reste)
@@ -17856,7 +17819,7 @@ Alpha List {
   
   == Lawrence Thornguard ==
     Unknown Date  C  Kingdom Augmentation of Arms -- Lawrence Thornguard
-    03/18/2006  C  Baron Iron Bog (Unknown Branch) -- Lawrence Thornguard
+    03/18/2006  C  Baron Iron Bog -- Lawrence Thornguard
   
   == Lazara Bettancourt de Vega ==
     09/28/2002  C  Queen's Courtesy -- Lazara Bettancourt de Vega
@@ -18241,7 +18204,7 @@ Alpha List {
     08/07/2008  C  Terpsichore -- Lydia FitzWaulter
   
   == Lyle FitzWilliam ==
-    08/16/2005  C  Baron of Bergental (Unknown Branch) -- Lyle FitzWilliam
+    08/16/2005  C  Baron of Bergental -- Lyle FitzWilliam
     01/14/2006  C  Master of the Laurel -- Lyle FitzWilliam
     06/03/2006  C  Troubadour -- Lyle FitzWilliam
   
@@ -18557,7 +18520,7 @@ Alpha List {
   
   == Maria Pagani ==
     06/14/2003  C  Grant of Arms -- Maria Pagani
-    06/14/2003  C  Baroness of Stonemarche (Unknown Branch) -- Maria Pagani
+    06/14/2003  C  Baroness of Stonemarche -- Maria Pagani
     01/29/2005  C  Silver Crescent -- Maria Pagani
     09/30/2006  C  Queen's Honor of Distinction -- Maria Pagani
     01/28/2011  C  Queen's Courtesy -- Maria Pagani
@@ -18626,7 +18589,7 @@ Alpha List {
     02/21/2009  C  Court Baron -- Marion del Okes
     07/18/2009  C  Mistress of the Pelican -- Marion del Okes
     09/26/2009  C  Burdened Tyger -- Marion del Okes
-    01/14/2011  C  Baroness of Iron Bog (Unknown Branch) -- Marion del Okes
+    01/14/2011  C  Baroness of Iron Bog -- Marion del Okes
   
   == Marion of Oaken Glen ==
     04/01/2006  C  King's Cypher -- Marion of Oaken Glen
@@ -18729,7 +18692,7 @@ Alpha List {
     12/14/2002  C  Award of Arms -- Mary Rua
   
   == Mary Theophania Hunn ==
-    01/15/2005  C  Baroness of Carillion (Unknown Branch) -- Mary Theophania Hunn
+    01/15/2005  C  Baroness of Carillion -- Mary Theophania Hunn
     09/21/2008  C  Court Baroness -- Mary Theophania Hunn
   
   == Mata A'Bheithir ==
@@ -19402,7 +19365,7 @@ Alpha List {
     08/16/2004  C  Sagittarius -- Nest ferch Tangwistel
     04/30/2006  C  Manche -- Nest ferch Tangwistel
     01/05/2008  C  Silver Crescent -- Nest ferch Tangwistel
-    06/19/2010  C  Baroness of Smoking Rocks (Unknown Branch) -- Nest ferch Tangwistel
+    06/19/2010  C  Baroness of Smoking Rocks -- Nest ferch Tangwistel
   
   == Nest verch Tangwistel ==
     01/14/2006  C  Queen's Champion of Arts & Sciences -- Nest verch Tangwistel
@@ -19477,7 +19440,7 @@ Alpha List {
     11/09/2002  C  Golden Lyre -- Ninian Ende
   
   == Nissim aven Darmon ==
-    06/28/2008  C  Baron of Bhakail (Unknown Branch) -- Nissim aven Darmon
+    06/28/2008  C  Baron of Bhakail -- Nissim aven Darmon
   
   == Nithmund of Halstock ==
     10/09/2010  C  Award of Arms -- Nithmund of Halstock
@@ -19752,7 +19715,7 @@ Alpha List {
     07/17/2004  C  Tygers Combattant -- Paul Andre Jacques, called Pellandres
   
   == Paul André Jacques, called Pellandres ==
-    03/05/2005  C  Baron L'ile du Dragon Dormant (Unknown Branch) -- Paul André Jacques, called Pellandres
+    03/05/2005  C  Baron L'Ile du Dragon Dormant (Tir Mara) -- Paul André Jacques, called Pellandres
   
   == Paul Ash ==
     03/29/2003  C  Award of Arms -- Paul Ash
@@ -19903,7 +19866,7 @@ Alpha List {
     08/14/2002  C  Golden Rapier -- Pierre de Tours
     11/03/2007  C  Silver Crescent -- Pierre de Tours
     05/23/2009  C  Queen's Courtesy -- Pierre de Tours
-    11/13/2010  C  Baron Concordia of the Snows (Unknown Branch) -- Pierre de Tours
+    11/13/2010  C  Baron Concordia of the Snows -- Pierre de Tours
   
   == Pierre des Grieux ==
     03/26/2005  C  Award of Arms -- Pierre des Grieux
@@ -20080,7 +20043,7 @@ Alpha List {
     08/15/2005  C  Troubadour -- Ralph the Carter (Azelin Cola of Wishford)
   
   == Ramos da Vida ==
-    08/12/2002  C  Baron of Carillion (Unknown Branch) -- Ramos da Vida
+    08/12/2002  C  Baron of Carillion -- Ramos da Vida
     05/24/2003  C  Queen's Champion of Archery -- Ramos da Vida
     08/15/2005  C  Court Baron -- Ramos da Vida
   
@@ -20177,7 +20140,7 @@ Alpha List {
   
   == Rhiannon de Licorne ==
     07/26/2003  C  Burdened Tyger -- Rhiannon de Licorne
-    03/24/2007  C  Baroness of Settmour Swamp (Unknown Branch) -- Rhiannon de Licorne
+    03/24/2007  C  Baroness of Settmour Swamp -- Rhiannon de Licorne
   
   == Rhiannon le Meke, called Banshee ==
     11/07/2009  C  Queen's Honor of Distinction -- Rhiannon le Meke, called Banshee
@@ -20634,7 +20597,7 @@ Alpha List {
     02/25/2006  C  Troubadour -- Sabine Kerbriant de Lanvaux
   
   == Sabine de Kerbriant ==
-    06/28/2008  C  Baroness of Bhakail (Unknown Branch) -- Sabine de Kerbriant
+    06/28/2008  C  Baroness of Bhakail -- Sabine de Kerbriant
     06/25/2011  C  Maunche -- Sabine de Kerbriant [backlog]
   
   == SabineKerbriant de Lanvaux ==
@@ -20957,7 +20920,7 @@ Alpha List {
   
   == Shadiyah al-Zahra' (fka Shadia bint Barro ==
     09/18/2010  C  Grant of Arms -- Shadiyah al-Zahra' (fka Shadia bint Barro
-    09/18/2010  C  Baroness of Havre de Glaces (Unknown Branch) -- Shadiyah al-Zahra' (fka Shadia bint Barro
+    09/18/2010  C  Baroness of Havre de Glaces (Tir Mara) -- Shadiyah al-Zahra' (fka Shadia bint Barro
   
   == Shaitan of the Tuchux ==
     Unknown Date  C  Valiant Tyger -- Shaitan of the Tuchux
@@ -21432,7 +21395,7 @@ Alpha List {
   
   == Tadea Isabetta di Bruno ==
     03/05/2011  C  Grant of Arms -- Tadea Isabetta di Bruno
-    03/05/2011  C  Baroness L'ile du Dragon Dormant (Unknown Branch) -- Tadea Isabetta di Bruno
+    03/05/2011  C  Baroness L'Ile du Dragon Dormant (Tir Mara) -- Tadea Isabetta di Bruno
   
   == Tadg ui Duinn of Isle Magee ==
     08/14/2002  C  Grant of Arms -- Tadg ui Duinn of Isle Magee
@@ -22074,7 +22037,7 @@ Alpha List {
     09/24/2005  C  Court Baroness -- Valentina Barrows
   
   == Valeria Laskaris ==
-    03/05/2005  C  Baroness L'ile du Dragon Dormant (Unknown Branch) -- Valeria Laskaris
+    03/05/2005  C  Baroness L'Ile du Dragon Dormant (Tir Mara) -- Valeria Laskaris
     03/05/2011  C  Court Barony -- Valeria Laskaris
   
   == Valerian of Somerset ==
@@ -22748,12 +22711,6 @@ Twelfth Night & Bardic Champions - January 7, 2011 - GregorIII.xhtml - Court Rep
   Adding unknown award "Queen' Bardic Champion"
 }
 
-Iron Bog Baronial Invesiture - January 14, 2011 - GregorIII.xhtml - Court Reports
-{
-  Adding unknown award "Baron Iron Bog"
-  Adding unknown award "Baroness of Iron Bog"
-}
-
 Kings and Queens - Rapier Champions - February 4, 2012 - GregorIII.xhtml - Court Reports
 {
   Adding unknown award "Sibilla d'Angers"
@@ -22798,12 +22755,6 @@ Pennsic War XL - August 6-12, 2011 Monday - August 8th - LucanVIII.xhtml - Court
 Pennsic War XL - August 6-12, 2011 Wednesday 10th - LucanVIII.xhtml - Court Reports
 {
   Adding unknown award "Oscad de Segovia"
-}
-
-Feast of John Barleycorn - Vicergal Investiture - September 10th, 2011 - LucanVIII.xhtml - Court Reports
-{
-  Adding unknown award "Viceroy of Ostgardr"
-  Adding unknown award "Vicerene of Ostgardr"
 }
 
 Golden Tyger Tavern & Regional Practice September 24th, 2011 - LucanVIII.xhtml - Court Reports
@@ -22859,36 +22810,9 @@ Arts and Sciences and Heavy Weapons Championships of Tir MaraOctober 9, 2010 - G
   Adding unknown award "Princess'sChampion of Rattan"
 }
 
-Bjorn's Ceildh and Baronial Investiture - November 13, 2010 - Gryffith2.xhtml - Court Reports
-{
-  Adding unknown award "Baron Concordia of the Snows"
-}
-
-Barony of L'ile de Dragon Dormant Investiture Anniversary - March 5, 2011 - Gryffith2.xhtml - Court Reports
-{
-  Adding unknown award "Baron L'ile du Dragon Dormant"
-  Adding unknown award "Baroness L'ile du Dragon Dormant"
-}
-
-Baronial Investiture, May 1, 2010, court of HRM Edward - Edward.xhtml - Court Reports
-{
-  Adding unknown award "Baron of the Bridge"
-}
-
-Vinland Raids, June 19, 2010 - Edward.xhtml - Court Reports
-{
-  Adding unknown award "Baroness of Smoking Rocks"
-}
-
 Northern Region War Camp, July 3, 2010 - Edward.xhtml - Court Reports
 {
   Adding unknown award "Ulfr Steinsson"
-}
-
-Havre des Glaces Investiture - September 18, 2010 - Edward.xhtml - Court Reports
-{
-  Adding unknown award "Baron Havre des Glaces"
-  Adding unknown award "Baroness of Havre de Glaces"
 }
 
 Festa di Michelangelo / King's and Queen's Arts & Sciences Championship, March 6, 2010 - Konrad2.xhtml - Court Reports
@@ -22897,39 +22821,9 @@ Festa di Michelangelo / King's and Queen's Arts & Sciences Championship, March 6
   Adding unknown award "Queen's Champion"
 }
 
-Ruantallan Baronial Investiture, August 29, 2009 - andreas4.xhtml - Court Reports
-{
-  Adding unknown award "Baron of Ruantallan"
-  Adding unknown award "Baroness of Ruantallan"
-}
-
 Season of Change, February 21, 2009 - Darius4.xhtml - Court Reports
 {
   Adding unknown award "Barone of Iron Bog"
-}
-
-Bhakail Baronial Investiture, June 28, 2008 - konrad.xhtml - Court Reports
-{
-  Adding unknown award "Baron of Bhakail"
-  Adding unknown award "Baroness of Bhakail"
-}
-
-Lakewood Renaissance Fair, Sunday, September 21, 2008 - konrad.xhtml - Court Reports
-{
-  Adding unknown award "Baroness of Carillion"
-  Adding unknown award "Baron of Carillion"
-}
-
-St. Andrew Returns to Tuscany for a Baronial Investiture, November 10, 2007 - andreas3.xhtml - Court Reports
-{
-  Adding unknown award "Baron of An Dubhaigeainn"
-  Adding unknown award "Baroness of An Dubhaigeainn"
-}
-
-Bjorn's Ceilidh & Concordian Investiture, November 11, 2006 - Lucan7.xhtml - Court Reports
-{
-  Adding unknown award "Baron of Concordia of the Snows"
-  Adding unknown award "Baroness of Concordia of the Snows"
 }
 
 St. Andrews, February 17, 2007 - Lucan7.xhtml - Court Reports
@@ -22937,48 +22831,9 @@ St. Andrews, February 17, 2007 - Lucan7.xhtml - Court Reports
   Adding unknown award ""
 }
 
-Mudthaw & Baronial Investiture, March 24, 2007 - Lucan7.xhtml - Court Reports
-{
-  Adding unknown award "Baron of Settmour Swamp"
-  Adding unknown award "Baroness of Settmour Swamp"
-}
-
-Barony Beyond the Mountain Investiture and Field of Acorns & Pearls, June 3, 2006 - brion2.xhtml - Court Reports
-{
-  Adding unknown award "Baron Beyond the Mountain"
-  Adding unknown award "Baroness Beyond the Mountain"
-}
-
-Barleycorn: The Next Generation, September 9, 2006 - brion2.xhtml - Court Reports
-{
-  Adding unknown award "Vicereine of Ostgardr"
-}
-
-First Baronial Investiture in Iron Bog, March 18, 2006 - darius3.xhtml - Court Reports
-{
-  Adding unknown award "Baroness Iron Bog"
-}
-
-Pennsic, East Kingdom Court, Wednesday evening, August 16, 2005 - kelson2.xhtml - Court Reports
-{
-  Adding unknown award "Baron of Bergental"
-  Adding unknown award "Baroness of Bergental"
-}
-
-Vinland Raids III and Baronial Investiture, June 19, 2004 - kelson.xhtml - Court Reports
-{
-  Adding unknown award "Baron of Smoking Rocks"
-}
-
 Royal Bardic Championship, March 6, 2004 - Balfar4.xhtml - Court Reports
 {
   Adding unknown award "Queeen's Bard"
-}
-
-Stonemarche Baronial Investiture, June 14, 2003 - darius2.xhtml - Court Reports
-{
-  Adding unknown award "Baron of Stonemarche"
-  Adding unknown award "Baroness of Stonemarche"
 }
 
 Pennsic 32, August 13, 2003 (Wednesday) - darius2.xhtml - Court Reports
@@ -22989,20 +22844,10 @@ Pennsic 32, August 13, 2003 (Wednesday) - darius2.xhtml - Court Reports
   Adding unknown award "Confirmation of Gentility"
 }
 
-Baronial Investiture, Carolingia, June 8, 2002 - darius.xhtml - Court Reports
-{
-  Adding unknown award "Baron of Carolingia"
-}
-
 Ada inghean Taran - Alphabetical
 {
   Adding unknown award "Burden Tyger - Lucan VIII"
   Adding unknown award "Jana V"
-}
-
-Adhemar de Villarquamada - Alphabetical
-{
-  Adding unknown award "Baron of Dragonship Haven"
 }
 
 Adrian Meddylgar - Alphabetical
@@ -23018,11 +22863,6 @@ Aelfgifu of the Hazel Thicket - Alphabetical
 Ailill mac Ferchair Ui Diarmata - Alphabetical
 {
   Adding unknown award "Silver Martler"
-}
-
-Ailís inghean Mhuirghein - Alphabetical
-{
-  Adding unknown award "Founding Baron Stonemarche"
 }
 
 Aisin-gioro Biya - Alphabetical
@@ -23100,11 +22940,6 @@ Andrée Diane Chartier de l'Oise - Alphabetical
   Adding unknown award "Dragons Pride"
 }
 
-Andrew of York - Alphabetical
-{
-  Adding unknown award "Founding Baron Ruantallan"
-}
-
 Angelina Foljambe - Alphabetical
 {
   Unparsed line: Angelina Giaocchini
@@ -23140,11 +22975,6 @@ Arden MacIllhatton - Alphabetical
 Arianna Ravenstar of Wolfwood (“Aja”) - Alphabetical
 {
   Adding unknown award "Yale (Dragonship Haven"
-}
-
-Arwen Evaine ferch Rhys of Gwynnedd - Alphabetical
-{
-  Adding unknown award "Baroness of Dragonship Haven"
 }
 
 Astrid Olafsdottir (*Astrid of Eisental) - Alphabetical
