@@ -7,8 +7,7 @@ import scala.xml._
 abstract trait OPFileParser {
   
   def loadFile(fileInfo:OldFile) = {
-    val filePath = Config.getFullPath(fileInfo)
-    XML.load(filePath)
+    XML.load(fileInfo.name)
   }
   
   // This is the heart of a parser, taking a loaded XHTML file and handling it.

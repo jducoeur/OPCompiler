@@ -66,10 +66,6 @@ class Config(confFileName:String) {
   // Where are the data files located?
   val dataFileLoc = firstText(confFile \\ "conf" \\ "fileLocation")
   
-  // The files we need to run
-  import parsers._
-  val filesToProcess:FilesToProcess = new FilesToProcess(confFile)
-  
   // Load the name file
   val nameConfigLoc = firstText(confFile \\ "conf" \\ "names")
   NameConfigLoader.load(nameConfigLoc)
@@ -84,6 +80,4 @@ object Config {
     case Some(config) => config
     case None => throw new Exception("No Config instance!")
   }
-  
-  def getFullPath(file:parsers.OldFile) = get.dataFileLoc + file.name
 }

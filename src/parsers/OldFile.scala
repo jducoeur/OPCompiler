@@ -4,6 +4,8 @@ import scala.xml._
 
 import process._
 
+import java.io.File
+
 object FileType extends Enumeration {
   type FileType = Value
   val CourtReport, Alpha, AwardListing = Value
@@ -16,29 +18,31 @@ abstract trait OldFile {
   val parser:OPFileParser
 }
 
-class CourtReportFile(val xml:Node) extends OldFile {
-  val name = xml.text
+class CourtReportFile(val name:String) extends OldFile {
   val kind = FileType.CourtReport
+  val parser = CurrentCourtReportParser
   
   // Arguably a little evil to set this up here, with the parser assigned by kind;
   // the separation of concerns is crappy
-  val parser = (xml \ "@kind").text match {
-    case "current" => CurrentCourtReportParser
-  } 
+  // TODO: redo this for the new world -- we need some way to specify which parser to use
+  // for the older court report files
+//  val parser = (xml \ "@kind").text match {
+//    case "current" => CurrentCourtReportParser
+//  } 
 }
 
-class AlphaFile(val xml:Node) extends OldFile {
-  val name = xml.text
+class AlphaFile(val name:String) extends OldFile {
   val kind = FileType.Alpha
   val parser = AlphaParser
 }
 
-class FilesToProcess(val confFile:Elem) {
-  private val courtReportNodes = confFile \\ "courtReports" \\ "file"
-  val courtReports = courtReportNodes map {new CourtReportFile(_)}
+object FilesToProcess {
+  val dataDir = "data"
+  val courtReportDir = new File(dataDir + "\\chrono")
+  val alphaDir = new File(dataDir + "\\alpha")
   
-  private val alphaNodes = confFile \\ "alphas" \\ "file"
-  val alphas = alphaNodes map {new AlphaFile(_)}
+  val alphas = alphaDir.listFiles map (file => new AlphaFile(file.getAbsolutePath))
+  val courtReports = courtReportDir.listFiles map  (file => new CourtReportFile(file.getAbsolutePath))
   
   def processAll = {
     Log.pushContext("Court Reports")
@@ -49,5 +53,5 @@ class FilesToProcess(val confFile:Elem) {
     for (file <- alphas) 
       file.parser.handleFile(file)
     Log.popContext
-  }
+  }  
 }

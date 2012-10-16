@@ -4,11 +4,12 @@ object OPCompiler extends App {
 	def run(confFileName:String) = {
 	  	import process.{Config, Config2}
 	  	import process.Log
+	  	import parsers.FilesToProcess
 		Config.instance = Some(new Config(confFileName))
 		val world = Config2.getWorld
 		
 		// Do the actual loading:
-		Config.get.filesToProcess.processAll
+		FilesToProcess.processAll
 		
 		// Print out the results:
 		Log.pushContext("Alpha List")
