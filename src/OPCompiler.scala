@@ -2,13 +2,13 @@ object OPCompiler extends App {
 	val commandLineConfFileName = args(0)
 	
 	def run(confFileName:String) = {
-	  	import process.{Config, Config2}
-	  	import process.Log
-	  	import parsers.FilesToProcess
-		Config.instance = Some(new Config(confFileName))
+	  	import process._
+		Log.logTo("log.txt")
+	  	NameConfigLoader.load("names.conf")
 		val world = Config2.getWorld
 		
 		// Do the actual loading:
+		import parsers.FilesToProcess
 		FilesToProcess.processAll
 		
 		// Print out the results:

@@ -1,11 +1,8 @@
 package process
 
 import scala.io.Source
-import scala.xml._
 
-import models._
-import BranchType._
-import Gender._
+import models.Persona
 
 // This loads in the name-synonym file, which is how we deal with the horrible mess of
 // the name data. This file is flat text, where each line contains an entry that represents
@@ -52,32 +49,3 @@ trait NameConfigLoader {
 }
 
 object NameConfigLoader extends NameConfigLoader {}
-
-class Config(confFileName:String) {
-  // The raw configuration file:
-  val confFile = XML.load(confFileName)
-  
-  def firstText(seq:NodeSeq) = seq.head.text
-  
-  // Set up logging
-  val logPath = firstText(confFile \\ "conf" \\ "logTo")
-  Log.logTo(logPath)
-  
-  // Where are the data files located?
-  val dataFileLoc = firstText(confFile \\ "conf" \\ "fileLocation")
-  
-  // Load the name file
-  val nameConfigLoc = firstText(confFile \\ "conf" \\ "names")
-  NameConfigLoader.load(nameConfigLoc)
-}
-
-object Config {
-  // Is there a good way to avoid this Singleton badness? I want to be able to simply say
-  // Config.dataFileLoc and things like that, but the vals don't get filled until we've actually
-  // read the file in. So I wind up with Config.get.dataFileLoc instead.
-  var instance:Option[Config] = None
-  def get = instance match {
-    case Some(config) => config
-    case None => throw new Exception("No Config instance!")
-  }
-}

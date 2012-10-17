@@ -1,7 +1,0 @@
-<opcompiler>
-	<conf>
-		<fileLocation>D:\Workspaces\OPCompiler\OPCompiler\data\</fileLocation>
-		<logTo>D:\Workspaces\OPCompiler\OPCompiler\log.txt</logTo>
-		<names>D:\Workspaces\OPCompiler\OPCompiler\names.conf</names>
-	</conf>
-</opcompiler>
