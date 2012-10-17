@@ -55,7 +55,9 @@ class CurrentCourtReportParser extends CourtReportParser {
     val scrubbedCaption = process.StringUtils.scrub(caption)
     Log.pushContext(scrubbedCaption)
     // ... separate it into date and event name...
-    val courtDate = new OPCourtDate(scrubbedCaption)
+    var courtDate:OPDateFromString = new OPCourtDate(scrubbedCaption)
+    if (!courtDate.isValid)
+      courtDate = new OPShortDate(scrubbedCaption)
     val courtTitleMessy = courtDate.prefix.toString
     // ... strip out the separators between event name and date...
     val tryStrip:Option[Regex.Match] = stripDash.findFirstMatchIn(courtTitleMessy)

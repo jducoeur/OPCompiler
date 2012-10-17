@@ -88,20 +88,22 @@ trait OPDate extends Ordered[OPDate] {
   }
 }
 
+abstract class OPDateFromString(val fromStr:String) extends OPDate {
+	def prefix = ifMatched(_.before, fromStr)
+	def suffix = ifMatched(_.after, fromStr)  
+}
+
 // This version parses the modern court-report format, eg, "February 22, 1998"
-class OPCourtDate(val fromStr:String) extends OPDate {
+class OPCourtDate(f:String) extends OPDateFromString(f) {
 	val dateMatch:Option[Regex.Match] = OPDate.dateRegex.findFirstMatchIn(fromStr)
 	
 	def month = getField("month", Month.withName(_), Month.Unknown)
 	def day = getField("day", _.toInt, OPDate.Unknown)
 	def year = getField("year", _.toInt, OPDate.Unknown)
-	
-	def prefix = ifMatched(_.before, fromStr)
-	def suffix = ifMatched(_.after, fromStr)
 }
 
 // This version parses the short version in the alpha list, eg, "2/22/98"
-class OPShortDate(val fromStr:String) extends OPDate {
+class OPShortDate(f:String) extends OPDateFromString(f) {
   val dateMatch:Option[Regex.Match] = OPDate.shortRegex.findFirstMatchIn(fromStr)
   
   // This expects each date part to be either two digits, or "??"
@@ -110,7 +112,11 @@ class OPShortDate(val fromStr:String) extends OPDate {
       OPDate.Unknown
     else
       try {
-        digits.toInt
+        // Allow a one-digit month, since that is how it works in Lucan5
+        if (digits(0) == ' ')
+          digits(1).toString.toInt
+        else
+          digits.toInt
       } catch {
         case e:Exception => Log.error("Bad date part: " + digits); OPDate.Unknown
       }
@@ -139,7 +145,7 @@ class InvalidOPDate extends OPDate {
 
 object OPDate {
 	val dateRegex:Regex = new Regex("""(January|February|March|April|May|June|July|August|September|October|November|December) (\d\d?)(th|st)?, (\d\d\d\d)""", "month", "day", "suffix", "year")
-	val shortRegex:Regex = new Regex("""(..)/(..)/(....)""", "month", "day", "year")
+	val shortRegex:Regex = new Regex("""(..)/(..?)/(....)""", "month", "day", "year")
 	val Unknown = -1
 	val Invalid = new InvalidOPDate
 }
