@@ -58,11 +58,11 @@ object Config2 {
       )
       // Each of these is a Seq[AwardInfo], so they don't fit neatly into the above list
       ++ Champion("Archery", "Archer")
-      ++ Champion("Arms", "Rattan", "Heavy List")
+      ++ Champion("Arms", "Rattan", "Heavy List", "Tournament")
       ++ Champion("Arts and Sciences", "A&S", "Arts & Sciences")
       ++ Champion("Bardic", "Bard")
       ++ Champion("Horse", "Equestrian")
-      ++ Champion("Rapier"),
+      ++ Champion("Rapier", "Fence"),
         
       // Kingdoms
       children = Seq(
@@ -102,7 +102,7 @@ object Config2 {
             Award("Silver Rapier"),
             Award("Terpsichore", "Trepsichore"),
             Award("Troubadour", "Troubadours"),
-            Award("Tygers Cub"),
+            Award("Tygers Cub", "Tyger Cub"),
             
             // Orders of High Merit
             Award("Golden Rapier"),
