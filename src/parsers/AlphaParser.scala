@@ -100,20 +100,9 @@ class AlphaParser extends OPFileParser {
   }
   
   val awardLineRegex:Regex = new Regex("""^(../../....)\s(.*)$""", "date", "awardName")
-  
-  def branchFromComment(rawComment:Option[String]):Option[Branch] = {
-    rawComment match {
-      case None => None
-      case Some(c) => {
-        // Deal with common cases like "Bright Hills, Atlantia"
-        val names = c.split(',')
-        Branch.byName.get(names.head)
-      }
-    }
-  }
 
   def checkCommentForBranch(awards:Seq[AwardAs], rawComment:Option[String]):(Option[Branch],Option[String]) = {
-    val branchOpt = branchFromComment(rawComment)
+    val branchOpt = ParseUtils.branchFromComment(rawComment)
     if (branchOpt.isDefined) {
       // Okay, the comment appears to be a branch name:
       val branch = branchOpt.get //Branch.byName.get(rawComment.get).get
@@ -189,7 +178,7 @@ class AlphaParser extends OPFileParser {
     }     
   }
 
-  def processFile(fileNode: Elem) = {  
+  def processFile(fileNode: Elem, name:String) = {  
     val body = fileNode \\ "body"
     processNodes(body.head.child, false)
   }

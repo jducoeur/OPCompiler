@@ -16,6 +16,7 @@ abstract trait OldFile {
   val kind:FileType
   val name:String
   val parser:OPFileParser
+  def simpleName = new File(name).getName
 }
 
 class CourtReportFile(val name:String) extends OldFile {
@@ -36,22 +37,33 @@ class AlphaFile(val name:String) extends OldFile {
   val parser = AlphaParser
 }
 
+class AwardFile(val name:String) extends OldFile {
+  val kind = FileType.AwardListing
+  val parser = AwardListingParser
+}
+
 object FilesToProcess {
   val dataDir = "data"
   val courtReportDir = new File(dataDir + "\\chrono")
   val alphaDir = new File(dataDir + "\\alpha")
+  val awardDir = new File(dataDir + "\\awards")
   
-  val alphas = alphaDir.listFiles map (file => new AlphaFile(file.getAbsolutePath))
-  val courtReports = courtReportDir.listFiles map  (file => new CourtReportFile(file.getAbsolutePath))
+  def makeFiles(dir:File)(builder: String => OldFile) = {
+    dir.listFiles map (file => builder(file.getAbsolutePath))
+  }
+  val alphas = makeFiles(alphaDir)(new AlphaFile(_))
+  val courtReports = makeFiles(courtReportDir)(new CourtReportFile(_))
+  val awards = makeFiles(awardDir)(new AwardFile(_))
+  
+  def processOneType(files:Seq[OldFile], title:String) = {
+    Log.pushContext(title)
+    for (file <- files) file.parser.handleFile(file)
+    Log.popContext    
+  }
   
   def processAll = {
-    Log.pushContext("Court Reports")
-    for (file <- courtReports) file.parser.handleFile(file)
-    Log.popContext
-    
-    Log.pushContext("Alphabetical")
-    for (file <- alphas) 
-      file.parser.handleFile(file)
-    Log.popContext
+    processOneType(courtReports, "Court Reports")
+    processOneType(alphas, "Alphabetical")
+    processOneType(awards, "Award Listings")
   }  
 }

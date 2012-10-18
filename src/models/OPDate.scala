@@ -145,7 +145,7 @@ class InvalidOPDate extends OPDate {
 
 object OPDate {
 	val dateRegex:Regex = new Regex("""(January|February|March|April|May|June|July|August|September|October|November|December) (\d\d?)(th|st)?, (\d\d\d\d)""", "month", "day", "suffix", "year")
-	val shortRegex:Regex = new Regex("""(..)/(..?)/(....)""", "month", "day", "year")
+	val shortRegex:Regex = new Regex("""(..?)/(..?)/(....)""", "month", "day", "year")
 	val Unknown = -1
 	val Invalid = new InvalidOPDate
 }

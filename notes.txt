@@ -11,6 +11,10 @@ TagSoup first, with a command along the lines of:
 java -jar ..\..\tagsoup-1.2.1.jar --files --nobogons *.html
 
 
+Note that, in the data\awards folder, we assume that each file matches the name of
+a known Award.
+
+
 TODOs:
 -- Need to add ability to parse "Baron of the Bridge", which requires synonyms for <barony>
 -- Need to cope with parsing mm/dd/yyyy dates in the title of court reports (eg, Edward)

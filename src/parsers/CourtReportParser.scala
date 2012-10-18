@@ -76,7 +76,7 @@ class CurrentCourtReportParser extends CourtReportParser {
     court
   }
   
-  def processFile(fileNode:Elem) = {
+  def processFile(fileNode:Elem, name:String) = {
     // Each of these tables represents a single Court Report
     val reportTables = fileNode \\ "table"
     reportTables.foreach(processTable)

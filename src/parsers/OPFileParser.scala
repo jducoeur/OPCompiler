@@ -16,12 +16,14 @@ abstract trait OPFileParser {
   // that decision; we'll see.
   //
   // Actual parsers fill this method in.
-  def processFile(fileNode:Elem):Unit
+  def processFile(fileNode:Elem, name:String):Unit
   
   def handleFile(fileInfo:OldFile) = {
     Log.pushContext(fileInfo.name)
     val fileNode = loadFile(fileInfo)
-    processFile(fileNode)
+    // Drop the ".xhtml" at the end
+    val baseName = fileInfo.simpleName dropRight 6
+    processFile(fileNode, baseName)
     Log.popContext
   }
 }

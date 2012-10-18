@@ -2,6 +2,8 @@ package parsers
 
 import scala.util.matching.Regex
 
+import models.Branch
+
 trait ParseUtils {
   val commentRegex:Regex = new Regex("""^(.*?) \((.*)\)$""", "name", "comment")
   
@@ -13,6 +15,17 @@ trait ParseUtils {
     val comment = commentMatch map (_.group("comment"))
     val parsedField = (commentMatch map (_.group("name"))).getOrElse(field)
     (parsedField, comment)
+  }
+  
+  def branchFromComment(rawComment:Option[String]):Option[Branch] = {
+    rawComment match {
+      case None => None
+      case Some(c) => {
+        // Deal with common cases like "Bright Hills, Atlantia"
+        val names = c.split(',')
+        Branch.byName.get(names.head)
+      }
+    }
   }
 }
 
