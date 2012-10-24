@@ -19,7 +19,7 @@ abstract trait OPFileParser {
   def processFile(fileNode:Elem, name:String):Unit
   
   def handleFile(fileInfo:OldFile) = {
-    Log.pushContext(fileInfo.name)
+    Log.pushContext(fileInfo.simpleName)
     val fileNode = loadFile(fileInfo)
     // Drop the ".xhtml" at the end
     val baseName = fileInfo.simpleName dropRight 6

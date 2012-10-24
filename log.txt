@@ -1,7 +1,7 @@
 Loading names {
 }
 Court Reports {
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\andreas.xhtml {
+  andreas.xhtml {
     First Court, Coronation, September 30, 2000 {
       == First Court, Coronation == (September 30, 2000)
         09/30/2000  C  Award of Arms -- Aurelian Tolbarry
@@ -415,7 +415,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\andreas2.xhtml {
+  andreas2.xhtml {
     Coronation Court, September 28, 2002 {
       == Coronation Court == (September 28, 2002)
         09/28/2002  C  Countess -- Roxane Farabi
@@ -928,7 +928,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\andreas3.xhtml {
+  andreas3.xhtml {
     First Court, Coronation, September 29, 2007 {
       == First Court, Coronation == (September 29, 2007)
         09/29/2007  C  Count -- Griffyth FitzWilliam
@@ -1084,6 +1084,7 @@ Court Reports {
       
     }
     evening court {
+      ERROR: Can't find a date in evening court
       == evening court == (Unknown Date)
         Unknown Date  C  Award of Arms -- Alexandra Alexandrovna
         Unknown Date  C  Award of Arms -- Keeley Catanzaro
@@ -1287,7 +1288,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\andreas4.xhtml {
+  andreas4.xhtml {
     First Court, Coronation, April 11, 2009 {
       == First Court, Coronation == (April 11, 2009)
         04/11/2009  C  Countess -- Alethea Eastriding
@@ -1665,7 +1666,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Balfar3.xhtml {
+  Balfar3.xhtml {
     First Court, Coronation, April 8, 2000 {
       == First Court, Coronation == (April 8, 2000)
         04/08/2000  C  Award of Arms -- Richenza the Confused
@@ -1697,6 +1698,7 @@ Court Reports {
       
     }
     Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000 {
+      ERROR: Can't find a date in Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000
       == Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000 == (Unknown Date)
         Unknown Date  C  King's Champion (Unknown Branch) -- Brion Anthony Uriel Tarragon
         Unknown Date  C  Queen's Champion (Unknown Branch) -- Eleanor FitzPatrick
@@ -1898,7 +1900,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Balfar4.xhtml {
+  Balfar4.xhtml {
     First Court, Coronation, Dragonship Haven, September 27, 2003 {
       == First Court, Coronation, Dragonship Haven == (September 27, 2003)
         09/27/2003  C  Duke -- Darius Aurelius Serpentius
@@ -1948,6 +1950,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
         Unknown Date  C  King's Champion (Unknown Branch) -- Antonio Patriquin
         Unknown Date  C  Queen's Champion (Unknown Branch) -- Thomas del Bruc
@@ -2088,7 +2091,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\brion2.xhtml {
+  brion2.xhtml {
     First Court, Coronation, April 1, 2006 {
       == First Court, Coronation == (April 1, 2006)
         04/01/2006  C  Award of Arms -- Madhbh inghean Bdaire
@@ -2414,7 +2417,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\darius.xhtml {
+  darius.xhtml {
     First Court at Coronation, April 6, 2002 {
       == First Court at Coronation == (April 6, 2002)
         04/06/2002  C  Queen's Courtesy -- Lorenz der Jager
@@ -2844,7 +2847,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\darius2.xhtml {
+  darius2.xhtml {
     First Court at Coronation, April 12, 2003 {
       == First Court at Coronation == (April 12, 2003)
         04/12/2003  C  Duchess -- Isabella of York
@@ -3187,7 +3190,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\darius3.xhtml {
+  darius3.xhtml {
     First Court, Coronation, September 24, 2005 {
       == First Court, Coronation == (September 24, 2005)
         09/24/2005  C  Duke -- Gaufred Kelson von Heidelberg
@@ -3549,7 +3552,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Darius4.xhtml {
+  Darius4.xhtml {
     First Court, Coronation, September 27, 2008 {
       == First Court, Coronation == (September 27, 2008)
         09/27/2008  C  Countess -- Brenwen the Faire
@@ -3873,7 +3876,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Edward.xhtml {
+  Edward.xhtml {
     First Court, Coronation, April 10, 2010 {
       == First Court, Coronation == (April 10, 2010)
         04/10/2010  C  Duke -- Konrad von Ulm
@@ -4210,7 +4213,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\GregorIII.xhtml {
+  GregorIII.xhtml {
     Coronation of Gregor III and Kiena I - October 1, 2011 {
       == Coronation of Gregor III and Kiena I == (October 1, 2011)
         10/01/2011  C  Award of Arms -- Robert Tristian
@@ -4498,7 +4501,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\gryffith.xhtml {
+  gryffith.xhtml {
     First Court, Coronation, April 14, 2007 {
       == First Court, Coronation == (April 14, 2007)
         04/14/2007  C  Award of Arms -- Tabitha of Johnstone
@@ -4733,6 +4736,7 @@ Court Reports {
       
     }
     Last Court, Coronation of Andreas III and Gabriella, 2007 {
+      ERROR: Can't find a date in Last Court, Coronation of Andreas III and Gabriella, 2007
       == Last Court, Coronation of Andreas III and Gabriella, 2007 == (Unknown Date)
         Unknown Date  C  Award of Arms -- Elizabeth Miller of Edgewater
         Unknown Date  C  Queen's Honor of Distinction -- Victoria la Picarde
@@ -4776,7 +4780,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Gryffith2.xhtml {
+  Gryffith2.xhtml {
     Coronation - September 25, 2010 {
       INFO:Adding commentary "Writ for Laurel"
       == Coronation == (September 25, 2010)
@@ -4810,6 +4814,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -4851,6 +4856,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -4944,6 +4950,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -4972,10 +4979,12 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -5006,6 +5015,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -5094,7 +5104,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\hanse3.xhtml {
+  hanse3.xhtml {
     First Court, Coronation, April 21, 2001 {
       == First Court, Coronation == (April 21, 2001)
         04/21/2001  C  Count -- Andreas der Eisfalke
@@ -5260,6 +5270,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
         Unknown Date  C  Chivalry -- Gottfried Kelson
       
@@ -5334,7 +5345,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\kelson.xhtml {
+  kelson.xhtml {
     First Court, Coronation, April 3, 2004 {
       == First Court, Coronation == (April 3, 2004)
         04/03/2004  C  Augmentation of Arms -- Balfar von Grunwald
@@ -5647,7 +5658,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\kelson2.xhtml {
+  kelson2.xhtml {
     First Court, Coronation, April 2, 2005 {
       == First Court, Coronation == (April 2, 2005)
         04/02/2005  C  Count -- Thorvald Halvorssen, called Thorson
@@ -5705,6 +5716,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -5719,6 +5731,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -5749,6 +5762,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -5818,6 +5832,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -5827,6 +5842,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
         Unknown Date  C  Award of Arms -- Safira al-Muffadiddiya
         Unknown Date  C  Troubadour -- Rosa di Oro da Murano
@@ -5975,7 +5991,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\konrad.xhtml {
+  konrad.xhtml {
     First Court, Coronation, April 12, 2008 {
       == First Court, Coronation == (April 12, 2008)
         04/12/2008  C  Countess -- Gabriella von Ulm
@@ -6274,7 +6290,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Konrad2.xhtml {
+  Konrad2.xhtml {
     First Court, Coronation, October 3, 2009 {
       == First Court, Coronation == (October 3, 2009)
         10/03/2009  C  Duchess -- Gabriella von Ulm
@@ -6422,6 +6438,7 @@ Court Reports {
       
     }
     King's & Queen's Fencing Champions, February 27,2010 {
+      ERROR: Can't find a date in King's & Queen's Fencing Champions, February 27,2010
       == King's & Queen's Fencing Champions, February 27,2010 == (Unknown Date)
         Unknown Date  C  King's Rapier Champion -- Jean Paul Ducasse
         Unknown Date  C  Queen's Rapier Champion -- Donovan Shinnock
@@ -6527,7 +6544,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Lucan5.xhtml {
+  Lucan5.xhtml {
     First Court, Coronation, 9/25/1999 {
       == First Court, Coronation == (September 25, 1999)
         09/25/1999  C  Duke -- Hanse von Drachenklaue
@@ -6562,10 +6579,12 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
         Unknown Date  C  Award of Arms -- Horsa the Lost
         Unknown Date  C  Award of Arms -- Rowan de Beaucharlay
@@ -6839,7 +6858,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\lucan6.xhtml {
+  lucan6.xhtml {
     First Court, Coronation, September 29, 2001 {
       == First Court, Coronation == (September 29, 2001)
         09/29/2001  C  Countess -- Olivia Graeme
@@ -6970,10 +6989,12 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
     *courtheldbyTRHDariusandRoxane {
+      ERROR: Can't find a date in *courtheldbyTRHDariusandRoxane
       == *courtheldbyTRHDariusandRoxane == (Unknown Date)
       
     }
@@ -7110,7 +7131,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Lucan7.xhtml {
+  Lucan7.xhtml {
     Coronation, September 30, 2006 {
       == Coronation == (September 30, 2006)
         09/30/2006  C  Award of Arms -- Devos Abendroth
@@ -7410,7 +7431,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\LucanVIII.xhtml {
+  LucanVIII.xhtml {
     Coronation of Lucan VIII and Jana V - April 2, 2011 {
       == Coronation of Lucan VIII and Jana V == (April 2, 2011)
         04/02/2011  C  Award of Arms -- Faelin MacLochlainn
@@ -7548,6 +7569,7 @@ Court Reports {
       
     }
     Pennsic War XL - August 6 - 12, 2011 Saturday - August 6th {
+      ERROR: Can't find a date in Pennsic War XL - August 6 - 12, 2011 Saturday - August 6th
       == Pennsic War XL - August 6 - 12, 2011 Saturday - August 6th == (Unknown Date)
         Unknown Date  C  Troubadour -- Mhairi Brewbane
         Unknown Date  C  Troubadour -- Dorigen of the Grey Gate
@@ -7556,6 +7578,7 @@ Court Reports {
       
     }
     Pennsic War XL - August 6-12, 2011 Sunday - August 7th {
+      ERROR: Can't find a date in Pennsic War XL - August 6-12, 2011 Sunday - August 7th
       INFO:Adding commentary "Writ for Chivalry at Barleycorn"
       INFO:Adding commentary "Vigil for Chivalry"
       == Pennsic War XL - August 6-12, 2011 Sunday - August 7th == (Unknown Date)
@@ -7569,6 +7592,7 @@ Court Reports {
       
     }
     Pennsic War XL - August 6-12, 2011 Monday - August 8th {
+      ERROR: Can't find a date in Pennsic War XL - August 6-12, 2011 Monday - August 8th
       INFO:Adding commentary "Fealty"
       ERROR: Adding unknown award "Renewal of Tready between Kingdoms"
       INFO:Adding commentary "Vigil for Laurel"
@@ -7588,12 +7612,14 @@ Court Reports {
       
     }
     Pennsic War XL - August 6-12, 2011 Tuesday 9th {
+      ERROR: Can't find a date in Pennsic War XL - August 6-12, 2011 Tuesday 9th
       == Pennsic War XL - August 6-12, 2011 Tuesday 9th == (Unknown Date)
         Unknown Date  C  Award of Arms -- Aodhan mac Kinnon
         Unknown Date  C  Award of Arms -- Donnel Mac Kinnon
       
     }
     Pennsic War XL - August 6-12, 2011 Wednesday 10th {
+      ERROR: Can't find a date in Pennsic War XL - August 6-12, 2011 Wednesday 10th
       ERROR: Adding unknown award "Oscad de Segovia"
       == Pennsic War XL - August 6-12, 2011 Wednesday 10th == (Unknown Date)
         Unknown Date  C  Award of Arms -- Theresa Martil
@@ -7622,6 +7648,7 @@ Court Reports {
       
     }
     Pennsic War XL - August 6-12, 2011 Thursday August 11th {
+      ERROR: Can't find a date in Pennsic War XL - August 6-12, 2011 Thursday August 11th
       == Pennsic War XL - August 6-12, 2011 Thursday August 11th == (Unknown Date)
         Unknown Date  C  Tygers Combattant -- Killian McAd called Killian the Black
         Unknown Date  C  AOA -- Killian McAd called Killian the Black
@@ -7635,6 +7662,7 @@ Court Reports {
       
     }
     Pennsic War XL - August 6-12, 2011 Friday August 12th {
+      ERROR: Can't find a date in Pennsic War XL - August 6-12, 2011 Friday August 12th
       == Pennsic War XL - August 6-12, 2011 Friday August 12th == (Unknown Date)
         Unknown Date  C  Blue Tyger Legion -- Snowberg
         Unknown Date  C  Award of Arms -- Griffin the Red
@@ -7760,7 +7788,7 @@ Court Reports {
       
     }
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\chrono\thorvald.xhtml {
+  thorvald.xhtml {
     First Court, Coronation, October 2, 2004 {
       == First Court, Coronation == (October 2, 2004)
         10/02/2004  C  Count -- Gaufred Kelson von Heidelberg
@@ -7829,6 +7857,7 @@ Court Reports {
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
       
     }
@@ -7848,12 +7877,14 @@ Court Reports {
       
     }
     Bearbaiting, Cockfighting, and Shakespeare, Nov. 6, 2004 {
+      ERROR: Can't find a date in Bearbaiting, Cockfighting, and Shakespeare, Nov. 6, 2004
       == Bearbaiting, Cockfighting, and Shakespeare, Nov. 6, 2004 == (Unknown Date)
         Unknown Date  C  Award of Arms -- Etain ingen Tighearnan
         Unknown Date  C  Award of Arms -- Ryataro
       
     }
      {
+      ERROR: Can't find a date in 
       ==  == (Unknown Date)
         Unknown Date  C  Award of Arms -- Raphaella Mascola
         Unknown Date  C  Award of Arms -- Franz Gottfried von der Pfalz
@@ -8174,7 +8205,7 @@ Court Reports {
   }
 }
 Alphabetical {
-  D:\Workspaces\OPCompiler\OPCompiler\data\alpha\Prec_a.xhtml {
+  Prec_a.xhtml {
   }
   Aakin {
   }
@@ -9800,29 +9831,29 @@ Alphabetical {
   }
 }
 Award Listings {
-  D:\Workspaces\OPCompiler\OPCompiler\data\awards\Chivalry.xhtml {
+  Chivalry.xhtml {
     INFO:Order of Chivalry
     INFO:Last Modified - February 15, 2012
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\awards\Count.xhtml {
+  Count.xhtml {
     INFO:Counts and Countesses
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\awards\Duke.xhtml {
+  Duke.xhtml {
     INFO:Dukes and Duchesses
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\awards\Laurel.xhtml {
+  Laurel.xhtml {
     INFO:Order of the Laurel
     INFO:§
     INFO:Last Modified 12/22/2011
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\awards\Pelican.xhtml {
+  Pelican.xhtml {
     INFO:Order of the Pelican
     INFO:Last Modified - January 5, 2012
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\awards\Rose.xhtml {
+  Rose.xhtml {
     INFO:Order of the Rose
   }
-  D:\Workspaces\OPCompiler\OPCompiler\data\awards\Viscount.xhtml {
+  Viscount.xhtml {
     INFO:Viscounts and Viscountesses
   }
 }
@@ -28231,23 +28262,38 @@ Alpha List {
 
 ERROR LOG:
 
-Love Elizabethan Style/Bardic Champions, February 10, 2001 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\andreas.xhtml - Court Reports
+Love Elizabethan Style/Bardic Champions, February 10, 2001 - andreas.xhtml - Court Reports
 {
   Adding unknown award "Queen's Bardic Champions"
 }
 
-King's and Queen's Rapier Championship, January 25, 2003 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\andreas2.xhtml - Court Reports
+King's and Queen's Rapier Championship, January 25, 2003 - andreas2.xhtml - Court Reports
 {
   Adding unknown award "King's Champion"
   Adding unknown award "Queen's Champion"
 }
 
-Royal Bardic Championship, March 6, 2004 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Balfar4.xhtml - Court Reports
+evening court - andreas3.xhtml - Court Reports
+{
+  Can't find a date in evening court
+}
+
+Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000 - Balfar3.xhtml - Court Reports
+{
+  Can't find a date in Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000
+}
+
+ - Balfar4.xhtml - Court Reports
+{
+  Can't find a date in 
+}
+
+Royal Bardic Championship, March 6, 2004 - Balfar4.xhtml - Court Reports
 {
   Adding unknown award "Queeen's Bard"
 }
 
-Pennsic 32, August 13, 2003 (Wednesday) - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\darius2.xhtml - Court Reports
+Pennsic 32, August 13, 2003 (Wednesday) - darius2.xhtml - Court Reports
 {
   Adding unknown award "Baron"
   Adding unknown award "Baroness of Bhakail,"
@@ -28255,27 +28301,27 @@ Pennsic 32, August 13, 2003 (Wednesday) - D:\Workspaces\OPCompiler\OPCompiler\da
   Adding unknown award "Confirmation of Gentility"
 }
 
-Season of Change, February 21, 2009 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Darius4.xhtml - Court Reports
+Season of Change, February 21, 2009 - Darius4.xhtml - Court Reports
 {
   Adding unknown award "Barone of Iron Bog"
 }
 
-Northern Region War Camp, July 3, 2010 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Edward.xhtml - Court Reports
+Northern Region War Camp, July 3, 2010 - Edward.xhtml - Court Reports
 {
   Adding unknown award "Ulfr Steinsson"
 }
 
-Crown Tourney - November 5, 2011 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\GregorIII.xhtml - Court Reports
+Crown Tourney - November 5, 2011 - GregorIII.xhtml - Court Reports
 {
   Adding unknown award "Carolyne de la Points"
 }
 
-Twelfth Night & Bardic Champions - January 7, 2011 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\GregorIII.xhtml - Court Reports
+Twelfth Night & Bardic Champions - January 7, 2011 - GregorIII.xhtml - Court Reports
 {
   Adding unknown award "Queen' Bardic Champion"
 }
 
-Kings and Queens - Rapier Champions - February 4, 2012 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\GregorIII.xhtml - Court Reports
+Kings and Queens - Rapier Champions - February 4, 2012 - GregorIII.xhtml - Court Reports
 {
   Adding unknown award "Sibilla d'Angers"
   Adding unknown award "Uomo Della Signora"
@@ -28300,38 +28346,115 @@ Kings and Queens - Rapier Champions - February 4, 2012 - D:\Workspaces\OPCompile
   Adding unknown award "Eva Woderose"
 }
 
-Kings and Queens - Arts and Sciences/Noisemakers - February 11, 2012 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\GregorIII.xhtml - Court Reports
+Kings and Queens - Arts and Sciences/Noisemakers - February 11, 2012 - GregorIII.xhtml - Court Reports
 {
   Adding unknown award "Sliver Cresecent"
 }
 
-Mudthaw March 24, 2012 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\GregorIII.xhtml - Court Reports
+Mudthaw March 24, 2012 - GregorIII.xhtml - Court Reports
 {
   Adding unknown award "Queens A&S Champion Scroll"
   Adding unknown award "Svanhldr Karlsdottir"
 }
 
-Arts and Sciences and Heavy Weapons Championships of Tir MaraOctober 9, 2010 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Gryffith2.xhtml - Court Reports
+Last Court, Coronation of Andreas III and Gabriella, 2007 - gryffith.xhtml - Court Reports
+{
+  Can't find a date in Last Court, Coronation of Andreas III and Gabriella, 2007
+}
+
+Arts and Sciences and Heavy Weapons Championships of Tir MaraOctober 9, 2010 - Gryffith2.xhtml - Court Reports
 {
   Adding unknown award "Princess'sChampion of Rattan"
 }
 
-St. Andrews, February 17, 2007 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\Lucan7.xhtml - Court Reports
+ - Gryffith2.xhtml - Court Reports
+{
+  Can't find a date in 
+  Can't find a date in 
+  Can't find a date in 
+  Can't find a date in 
+  Can't find a date in 
+  Can't find a date in 
+}
+
+ - hanse3.xhtml - Court Reports
+{
+  Can't find a date in 
+}
+
+ - kelson2.xhtml - Court Reports
+{
+  Can't find a date in 
+  Can't find a date in 
+  Can't find a date in 
+  Can't find a date in 
+  Can't find a date in 
+}
+
+King's & Queen's Fencing Champions, February 27,2010 - Konrad2.xhtml - Court Reports
+{
+  Can't find a date in King's & Queen's Fencing Champions, February 27,2010
+}
+
+ - Lucan5.xhtml - Court Reports
+{
+  Can't find a date in 
+  Can't find a date in 
+}
+
+ - lucan6.xhtml - Court Reports
+{
+  Can't find a date in 
+}
+
+*courtheldbyTRHDariusandRoxane - lucan6.xhtml - Court Reports
+{
+  Can't find a date in *courtheldbyTRHDariusandRoxane
+}
+
+St. Andrews, February 17, 2007 - Lucan7.xhtml - Court Reports
 {
   Adding unknown award ""
 }
 
-Pennsic War XL - August 6-12, 2011 Monday - August 8th - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\LucanVIII.xhtml - Court Reports
+Pennsic War XL - August 6 - 12, 2011 Saturday - August 6th - LucanVIII.xhtml - Court Reports
 {
+  Can't find a date in Pennsic War XL - August 6 - 12, 2011 Saturday - August 6th
+}
+
+Pennsic War XL - August 6-12, 2011 Sunday - August 7th - LucanVIII.xhtml - Court Reports
+{
+  Can't find a date in Pennsic War XL - August 6-12, 2011 Sunday - August 7th
+}
+
+Pennsic War XL - August 6-12, 2011 Monday - August 8th - LucanVIII.xhtml - Court Reports
+{
+  Can't find a date in Pennsic War XL - August 6-12, 2011 Monday - August 8th
   Adding unknown award "Renewal of Tready between Kingdoms"
 }
 
-Pennsic War XL - August 6-12, 2011 Wednesday 10th - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\LucanVIII.xhtml - Court Reports
+Pennsic War XL - August 6-12, 2011 Tuesday 9th - LucanVIII.xhtml - Court Reports
 {
+  Can't find a date in Pennsic War XL - August 6-12, 2011 Tuesday 9th
+}
+
+Pennsic War XL - August 6-12, 2011 Wednesday 10th - LucanVIII.xhtml - Court Reports
+{
+  Can't find a date in Pennsic War XL - August 6-12, 2011 Wednesday 10th
   Adding unknown award "Oscad de Segovia"
 }
 
-Golden Tyger Tavern & Regional Practice September 24th, 2011 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\LucanVIII.xhtml - Court Reports
+Pennsic War XL - August 6-12, 2011 Thursday August 11th - LucanVIII.xhtml - Court Reports
+{
+  Can't find a date in Pennsic War XL - August 6-12, 2011 Thursday August 11th
+}
+
+Pennsic War XL - August 6-12, 2011 Friday August 12th - LucanVIII.xhtml - Court Reports
+{
+  Can't find a date in Pennsic War XL - August 6-12, 2011 Friday August 12th
+}
+
+Golden Tyger Tavern & Regional Practice September 24th, 2011 - LucanVIII.xhtml - Court Reports
 {
   Adding unknown award "Auriana Filia Germani"
   Adding unknown award "Giovanna del Penna called Dresden"
@@ -28339,7 +28462,7 @@ Golden Tyger Tavern & Regional Practice September 24th, 2011 - D:\Workspaces\OPC
   Adding unknown award "Searlaith ingen Cinneide"
 }
 
-Last Court of Lucan VIII and Jana V October 1st, 2011 - D:\Workspaces\OPCompiler\OPCompiler\data\chrono\LucanVIII.xhtml - Court Reports
+Last Court of Lucan VIII and Jana V October 1st, 2011 - LucanVIII.xhtml - Court Reports
 {
   Adding unknown award "Geoffrey FitzGalen"
   Adding unknown award "Failenn Finn"
@@ -28377,6 +28500,21 @@ Last Court of Lucan VIII and Jana V October 1st, 2011 - D:\Workspaces\OPCompiler
   Adding unknown award "Bronwen Acthorn"
   Adding unknown award "Saerlaith ingen Chennetig"
   Adding unknown award "Brennan mac Fearghus"
+}
+
+ - thorvald.xhtml - Court Reports
+{
+  Can't find a date in 
+}
+
+Bearbaiting, Cockfighting, and Shakespeare, Nov. 6, 2004 - thorvald.xhtml - Court Reports
+{
+  Can't find a date in Bearbaiting, Cockfighting, and Shakespeare, Nov. 6, 2004
+}
+
+ - thorvald.xhtml - Court Reports
+{
+  Can't find a date in 
 }
 
 Ada inghean Taran - Alphabetical

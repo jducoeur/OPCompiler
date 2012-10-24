@@ -58,6 +58,8 @@ class CurrentCourtReportParser extends CourtReportParser {
     var courtDate:OPDateFromString = new OPCourtDate(scrubbedCaption)
     if (!courtDate.isValid)
       courtDate = new OPShortDate(scrubbedCaption)
+    if (!courtDate.isValid)
+      Log.error("Can't find a date in " + scrubbedCaption)
     val courtTitleMessy = courtDate.prefix.toString
     // ... strip out the separators between event name and date...
     val tryStrip:Option[Regex.Match] = stripDash.findFirstMatchIn(courtTitleMessy)
