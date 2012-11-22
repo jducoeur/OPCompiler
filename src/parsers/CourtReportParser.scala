@@ -18,7 +18,23 @@ class CurrentCourtReportParser extends CourtReportParser {
     val personaName = nameCell.text.trim
     val persona = Persona.find(personaName)
     val (parsedAwardName, comment) = ParseUtils.extractComment(awardName)
-    val awardAses = Award.find(parsedAwardName)
+    
+    // This weirdness is to deal with the very common case where we have, eg, the
+    // "King and Queen's Archery Championship", and the award is just listed as
+    // "King's Champion". We have to derive the actual award name from context.
+    val checkedAwardName = if (parsedAwardName.contains("Champion")) {
+      if (Award.contains(parsedAwardName))
+        // Okay, it's fully spelled out
+        parsedAwardName
+      else if (court.isChampionship) {
+        // We couldn't find the award, so try inserting the championship name
+        parsedAwardName.replace("Champion", court.champName + " Champion")
+      } else
+        parsedAwardName
+    } else
+      parsedAwardName
+    
+    val awardAses = Award.find(checkedAwardName)
     def makeRec(as:AwardAs) = {
       val recognition = Recognition(persona, as.award, as.name, Some(court), Some(index), comment=comment)
       persona.addAward(recognition)

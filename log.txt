@@ -277,7 +277,6 @@ Court Reports {
       
     }
     Love Elizabethan Style/Bardic Champions, February 10, 2001 {
-      ERROR: Adding unknown award "Queen's Bardic Champions"
       == Love Elizabethan Style/Bardic Champions == (February 10, 2001)
         02/10/2001  C  Award of Arms -- Yisreal Adam ben Laser
         02/10/2001  C  Award of Arms -- Katrina MacAulish
@@ -295,7 +294,8 @@ Court Reports {
         02/10/2001  C  Silver Crescent -- Danae of Athens
         02/10/2001  C  Silver Crescent -- Maria Erika von Ossenheim
         02/10/2001  C  Manche -- Lorin of the Dual Masque
-        02/10/2001  C  Queen's Bardic Champions (Unknown Branch) -- Gerilyn Fjorden and Dubbeasa
+        02/10/2001  C  Queen's Bardic Champion -- Gerilyn Fjorden
+        02/10/2001  C  Queen's Bardic Champion -- Dubbeasa
         02/10/2001  C  King's Bardic Champion -- Dorigen of the Grey Gate
         02/10/2001  C  Mistress of the Laurel -- Failtigearna ingen uí Artáin
       
@@ -618,11 +618,9 @@ Court Reports {
       
     }
     King's and Queen's Rapier Championship, January 25, 2003 {
-      ERROR: Adding unknown award "King's Champion"
-      ERROR: Adding unknown award "Queen's Champion"
       == King's and Queen's Rapier Championship == (January 25, 2003)
-        01/25/2003  C  King's Champion (Unknown Branch) -- Brokk Jarlsson
-        01/25/2003  C  Queen's Champion (Unknown Branch) -- Jost von Eichstadt
+        01/25/2003  C  King's Rapier Champion -- Brokk Jarlsson
+        01/25/2003  C  Queen's Rapier Champion -- Jost von Eichstadt
         01/25/2003  C  Golden Rapier -- Jost von Eichstadt
         01/25/2003  C  Award of Arms -- Matatias de domo leah le Blunde
         01/25/2003  C  Award of Arms -- Alienor of Ravenglas
@@ -725,8 +723,8 @@ Court Reports {
     }
     King's and Queen's Bardic Championship, February 22, 2003 {
       == King's and Queen's Bardic Championship == (February 22, 2003)
-        02/22/2003  C  King's Champion (Unknown Branch) -- Ana Raquel de Guzman
-        02/22/2003  C  Queen's Champion (Unknown Branch) -- Fine (Fiana) of Clare
+        02/22/2003  C  King's Bardic Champion -- Ana Raquel de Guzman
+        02/22/2003  C  Queen's Bardic Champion -- Fine (Fiana) of Clare
         02/22/2003  C  Award of Arms -- Yseult Solaine de Loriage
         02/22/2003  C  Award of Arms -- Azalais de Fontevrault
         02/22/2003  C  Award of Arms -- Kiersten of Bhakail
@@ -1071,8 +1069,8 @@ Court Reports {
         01/12/2008  C  Silver Crescent -- Marion del Okes
       
     }
-    Market Day at Birka, January 26, 2008early court {
-      == Market Day at Birka == (January 26, 2008)
+    Market Day at Birka, early court, January 26, 2008 {
+      == Market Day at Birka, early court == (January 26, 2008)
         01/26/2008  C  Award of Arms -- Brighid y Rhyfelwraig Byrdydd
         01/26/2008  C  Award of Arms -- Gruffydd Abernathy
         01/26/2008  C  Award of Arms -- Njall Randvesson
@@ -1083,45 +1081,44 @@ Court Reports {
         01/26/2008  C  Gawain -- Tetsu (of Stonemarche)
       
     }
-    evening court {
-      ERROR: Can't find a date in evening court
-      == evening court == (Unknown Date)
-        Unknown Date  C  Award of Arms -- Alexandra Alexandrovna
-        Unknown Date  C  Award of Arms -- Keeley Catanzaro
-        Unknown Date  C  Award of Arms -- Dianna da Costa
-        Unknown Date  C  Award of Arms -- Reina fille Calixte
-        Unknown Date  C  Award of Arms -- Jivette du Angoumois
-        Unknown Date  C  Award of Arms -- Coleen Fiona MacReddy
-        Unknown Date  C  Troubadour -- Lucien de Pontivy
-        Unknown Date  C  Troubadour -- Brion Anthony Uriel Tarragon
-        Unknown Date  C  Award of Arms -- Seamus the Shameless
-        Unknown Date  C  Award of Arms -- Lochlan O'Conaill
-        Unknown Date  C  Award of Arms -- Mithis Volseug
-        Unknown Date  C  Award of Arms -- Hugh Tauerner of Walsingham
-        Unknown Date  C  Award of Arms -- Arnleif the Red
-        Unknown Date  C  Award of Arms -- Kiaya of Stonemarche
-        Unknown Date  C  Award of Arms -- Tadgh of Stonemarche
-        Unknown Date  C  Award of Arms -- Maeve of Panther Vale
-        Unknown Date  C  Award of Arms -- Jenna of the Oaks
-        Unknown Date  C  Award of Arms -- Sara of Stonelay
-        Unknown Date  C  Award of Arms -- Arabella of Artane
-        Unknown Date  C  Silver Crescent -- Dzguinte of Dragonship Haven
-        Unknown Date  C  Silver Crescent -- Carolyne de la Pointe
-        Unknown Date  C  Silver Crescent -- JulienLapointe
-        Unknown Date  C  Silver Crescent -- Quentus Quintillius Mortis
-        Unknown Date  C  Silver Crescent -- Gisela Szabo
-        Unknown Date  C  Silver Crescent -- Harold Orn
-        Unknown Date  C  Sagittarius -- Maxton Gunn
-        Unknown Date  C  Golden Rapier -- Quintin Brilliant
-        Unknown Date  C  Manche -- Cedric of Thanet
-        Unknown Date  C  Manche -- Elen Alswyth of Eriskay
-        Unknown Date  C  Manche -- Irayari Vairavi
-        Unknown Date  C  Court Baron -- Jeramin du Lac
-        Unknown Date  C  Grant of Arms -- Jeramin du Lac
-        Unknown Date  C  Court Baroness -- Laurencia of Carlisle
-        Unknown Date  C  Court Baroness -- Viennet de la Mer
-        Unknown Date  C  Grant of Arms -- Viennet de la Mer
-        Unknown Date  C  Master of the Pelican -- Lucan von Drachenklaue
+    Market Day at Birka, evening court, January 26, 2008 {
+      == Market Day at Birka, evening court == (January 26, 2008)
+        01/26/2008  C  Award of Arms -- Alexandra Alexandrovna
+        01/26/2008  C  Award of Arms -- Keeley Catanzaro
+        01/26/2008  C  Award of Arms -- Dianna da Costa
+        01/26/2008  C  Award of Arms -- Reina fille Calixte
+        01/26/2008  C  Award of Arms -- Jivette du Angoumois
+        01/26/2008  C  Award of Arms -- Coleen Fiona MacReddy
+        01/26/2008  C  Troubadour -- Lucien de Pontivy
+        01/26/2008  C  Troubadour -- Brion Anthony Uriel Tarragon
+        01/26/2008  C  Award of Arms -- Seamus the Shameless
+        01/26/2008  C  Award of Arms -- Lochlan O'Conaill
+        01/26/2008  C  Award of Arms -- Mithis Volseug
+        01/26/2008  C  Award of Arms -- Hugh Tauerner of Walsingham
+        01/26/2008  C  Award of Arms -- Arnleif the Red
+        01/26/2008  C  Award of Arms -- Kiaya of Stonemarche
+        01/26/2008  C  Award of Arms -- Tadgh of Stonemarche
+        01/26/2008  C  Award of Arms -- Maeve of Panther Vale
+        01/26/2008  C  Award of Arms -- Jenna of the Oaks
+        01/26/2008  C  Award of Arms -- Sara of Stonelay
+        01/26/2008  C  Award of Arms -- Arabella of Artane
+        01/26/2008  C  Silver Crescent -- Dzguinte of Dragonship Haven
+        01/26/2008  C  Silver Crescent -- Carolyne de la Pointe
+        01/26/2008  C  Silver Crescent -- JulienLapointe
+        01/26/2008  C  Silver Crescent -- Quentus Quintillius Mortis
+        01/26/2008  C  Silver Crescent -- Gisela Szabo
+        01/26/2008  C  Silver Crescent -- Harold Orn
+        01/26/2008  C  Sagittarius -- Maxton Gunn
+        01/26/2008  C  Golden Rapier -- Quintin Brilliant
+        01/26/2008  C  Manche -- Cedric of Thanet
+        01/26/2008  C  Manche -- Elen Alswyth of Eriskay
+        01/26/2008  C  Manche -- Irayari Vairavi
+        01/26/2008  C  Court Baron -- Jeramin du Lac
+        01/26/2008  C  Grant of Arms -- Jeramin du Lac
+        01/26/2008  C  Court Baroness -- Laurencia of Carlisle
+        01/26/2008  C  Court Baroness -- Viennet de la Mer
+        01/26/2008  C  Grant of Arms -- Viennet de la Mer
+        01/26/2008  C  Master of the Pelican -- Lucan von Drachenklaue
       
     }
     Black Rose Ball, February 2, 2008 {
@@ -1697,14 +1694,13 @@ Court Reports {
         05/13/2000  C  Shield of Chivalry -- Hanse von Beke
       
     }
-    Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000 {
-      ERROR: Can't find a date in Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000
-      == Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000 == (Unknown Date)
-        Unknown Date  C  King's Champion (Unknown Branch) -- Brion Anthony Uriel Tarragon
-        Unknown Date  C  Queen's Champion (Unknown Branch) -- Eleanor FitzPatrick
-        Unknown Date  C  Award of Arms -- Iain MacQuarrie of Ulva
-        Unknown Date  C  Award of Arms -- Rowan ni Ruari
-        Unknown Date  C  Award of Arms -- Bertrand Edward de Valois
+    Panteria/King's and Queen's Equestrian Championship, May 27, 2000 {
+      == Panteria/King's and Queen's Equestrian Championship == (May 27, 2000)
+        05/27/2000  C  King's Equestrian Champion -- Brion Anthony Uriel Tarragon
+        05/27/2000  C  Queen's Equestrian Champion -- Eleanor FitzPatrick
+        05/27/2000  C  Award of Arms -- Iain MacQuarrie of Ulva
+        05/27/2000  C  Award of Arms -- Rowan ni Ruari
+        05/27/2000  C  Award of Arms -- Bertrand Edward de Valois
       
     }
     War of the Roses, May 28, 2000 {
@@ -1717,8 +1713,8 @@ Court Reports {
     }
     King's and Queen's Archery Championship, June 3, 2000 {
       == King's and Queen's Archery Championship == (June 3, 2000)
-        06/03/2000  C  King's Champion (Unknown Branch) -- Mark Squirrelsbane
-        06/03/2000  C  Queen's Champion (Unknown Branch) -- Lorenzo il Confuso
+        06/03/2000  C  King's Archery Champion -- Mark Squirrelsbane
+        06/03/2000  C  Queen's Archery Champion -- Lorenzo il Confuso
         06/03/2000  C  Award of Arms -- Neils of Fur
         06/03/2000  C  Award of Arms -- Robert Terrill
         06/03/2000  C  Award of Arms -- Mordecai Drummond
@@ -1729,8 +1725,8 @@ Court Reports {
     }
     King's and Queen's Tournament List Championship, June 17, 2000 {
       == King's and Queen's Tournament List Championship == (June 17, 2000)
-        06/17/2000  C  King's Champion (Unknown Branch) -- Lucan von Drachenklaue
-        06/17/2000  C  Queen's Champion (Unknown Branch) -- Timothy of Arindale
+        06/17/2000  C  King's List Champion -- Lucan von Drachenklaue
+        06/17/2000  C  Queen's List Champion -- Timothy of Arindale
         06/17/2000  C  Award of Arms -- Etienne Armand Emrys Aleron
         06/17/2000  C  Award of Arms -- Abigail of Lorraine
         06/17/2000  C  Manche -- Damiano l'Immacolato
@@ -1951,6 +1947,8 @@ Court Reports {
     }
      {
       ERROR: Can't find a date in 
+      ERROR: Adding unknown award "King's Champion"
+      ERROR: Adding unknown award "Queen's Champion"
       ==  == (Unknown Date)
         Unknown Date  C  King's Champion (Unknown Branch) -- Antonio Patriquin
         Unknown Date  C  Queen's Champion (Unknown Branch) -- Thomas del Bruc
@@ -4222,12 +4220,12 @@ Court Reports {
       
     }
     King and Queen's Champion of Arms - October 8, 2011 {
-      INFO:Adding commentary "Outgoing King's Champion of Arms"
-      INFO:Adding commentary "Outgoing Queen's Champion of Arms"
+      INFO:Adding commentary "Outgoing King's Queen's Champion of Arms"
+      INFO:Adding commentary "Outgoing Queen's Queen's Champion of Arms"
       == King and Queen's Champion of Arms == (October 8, 2011)
-        10/08/2011  C  (Outgoing King's Champion of Arms (Unknown Branch) -- Kenric of Warwick)
+        10/08/2011  C  (Outgoing King's Queen's Champion of Arms (Unknown Branch) -- Kenric of Warwick)
         10/08/2011  C  King's Champion of Arms -- Edward Grey of Lochleven
-        10/08/2011  C  (Outgoing Queen's Champion of Arms (Unknown Branch) -- Marcus Blackaert)
+        10/08/2011  C  (Outgoing Queen's Queen's Champion of Arms (Unknown Branch) -- Marcus Blackaert)
         10/08/2011  C  Queen's Champion of Arms -- Culann mac Cianain
         10/08/2011  C  Maunche -- Udalrich Schermer
         10/08/2011  C  Maunche -- Valdimarr Thorbane
@@ -4325,14 +4323,14 @@ Court Reports {
       
     }
     Twelfth Night & Bardic Champions - January 7, 2012 {
-      INFO:Adding commentary "Kings Bardic Champion - Out going"
-      INFO:Adding commentary "Queen's Bradic Champion - Out Going"
-      ERROR: Adding unknown award "Queen' Bardic Champion"
+      INFO:Adding commentary "Kings Bardic Bardic Champion - Out going"
+      INFO:Adding commentary "Queen's Bradic Bardic Champion - Out Going"
+      ERROR: Adding unknown award "Queen' Bardic Bardic Champion"
       == Twelfth Night & Bardic Champions == (January 7, 2012)
-        01/07/2012  C  (Kings Bardic Champion - Out going (Unknown Branch) -- Aneleda Falconbridge)
+        01/07/2012  C  (Kings Bardic Bardic Champion - Out going (Unknown Branch) -- Aneleda Falconbridge)
         01/07/2012  C  King's Bardic Champion -- Linette de Gallardon
-        01/07/2012  C  (Queen's Bradic Champion - Out Going (Unknown Branch) -- Jean de Montagne)
-        01/07/2012  C  Queen' Bardic Champion (Unknown Branch) -- Marion Quyn
+        01/07/2012  C  (Queen's Bradic Bardic Champion - Out Going (Unknown Branch) -- Jean de Montagne)
+        01/07/2012  C  Queen' Bardic Bardic Champion (Unknown Branch) -- Marion Quyn
         01/07/2012  C  Award of Arms -- Marion Quyn
         01/07/2012  C  Troubadour -- Marion Quyn
         01/07/2012  C  Troubadour -- Dona Sol de La Cantor
@@ -4809,10 +4807,10 @@ Court Reports {
       
     }
     Arts and Sciences and Heavy Weapons Championships of Tir MaraOctober 9, 2010 {
-      ERROR: Adding unknown award "Princess'sChampion of Rattan"
+      ERROR: Adding unknown award "Princess'sWeapons Champion of Rattan"
       == Arts and Sciences and Heavy Weapons Championships of Tir Mara == (October 9, 2010)
         10/09/2010  C  Prince's Champion of Rattan -- Llewellyn ab Olwyn
-        10/09/2010  C  Princess'sChampion of Rattan (Unknown Branch) -- Spurius Genucius Rutilus
+        10/09/2010  C  Princess'sWeapons Champion of Rattan (Unknown Branch) -- Spurius Genucius Rutilus
         10/09/2010  C  Prince's Champion of Arts and Sciences -- Ursion de Gui
         10/09/2010  C  Princess's Champion of Arts and Sciences -- Donal o'Neil
         10/09/2010  C  Award of Arms -- Isolda Fairamay
@@ -23628,7 +23626,7 @@ Alpha List {
     03/11/2000 AC  Manche -- Ana Ravaya de Guzman
     03/16/2002 A   Seahorse (Ostgardr) -- Ana Ravaya de Guzmán (Ana Raquel de Guzman)
     11/09/2002 AC  Queen's Honor of Distinction -- Ana Ravaya de Guzman
-    02/22/2003  C  King's Champion (Unknown Branch) -- Ana Raquel de Guzman
+    02/22/2003  C  King's Bardic Champion -- Ana Raquel de Guzman
     08/08/2007 ACL Mistress of the Laurel -- Ana Ravaya de Guzman
     02/23/2008  C  Queen's Bardic Champion -- Ana de Guzman
   
@@ -23927,7 +23925,7 @@ Alpha List {
     02/05/2011 AC  Silver Crescent -- Aneledia Cyntheria Falconbridge
     02/05/2011 AC  King's Bardic Championship -- Aneledia Cyntheria Falconbridge
     07/09/2011 AC  Mauche -- Aneleda Falconbridge
-    01/07/2012  C  (Kings Bardic Champion - Out going (Unknown Branch) -- Aneleda Falconbridge)
+    01/07/2012  C  (Kings Bardic Bardic Champion - Out going (Unknown Branch) -- Aneleda Falconbridge)
     01/28/2012 A   Grant of Arms -- Aneleda Cyntheria Falconbridge
     01/28/2012 AC  Baroness of the Court -- Aneleda Falconbridge
     10/08/2012 A   Queen's Honor of Distinction -- Aneleda Cyntheria Falconbridge [Avelina]
@@ -26189,7 +26187,7 @@ Alpha List {
     10/25/1997 A   Award of Arms -- Bertran de Banecroft
   
   == Bertrand Edward de Valois ==
-    Unknown Date  C  Award of Arms -- Bertrand Edward de Valois
+    05/27/2000  C  Award of Arms -- Bertrand Edward de Valois
   
   == Bertrand de Flammepoing ==
     04/07/1979   L Count -- Bertrand de Flammepoing
@@ -27020,7 +27018,6 @@ Alpha List {
     09/10/2011 AC  Burdened Tyger -- Brinwen the Fair (Brenwen)
   
   == Brion Anthony Uriel Tarragon [registered] ==
-    Unknown Date  C  King's Champion (Unknown Branch) -- Brion Anthony Uriel Tarragon
     01/01/1983 A   LUST (Artemisia) -- Brion Anthony Uriel Tarragon [from Outlands]
     04/02/1983 A   Award of Arms -- Brion Anthony Uriel Tarragon [from Atenveldt]
     10/01/1983 A   Flower of Chivalry (Unknown Branch) -- Brion Anthony Uriel Tarragon [Loch Salann]
@@ -27044,6 +27041,7 @@ Alpha List {
     03/02/1991 A   Lion of Atenveldt (Atenveldt) -- Brion Anthony Uriel Tarragon
     07/25/1992 A   Court Baron -- Brion Anthony Uriel Tarragon [from Atenveldt]
     02/19/1995 A   Queen's Courtesy -- Brion Anthony Uriel Tarragon
+    05/27/2000  C  King's Equestrian Champion -- Brion Anthony Uriel Tarragon
     03/15/2002 AC  Silver Crescent -- Brion Anthony Uriel Tarragon
     07/03/2004  C  King's Equestrian Champion -- Brion Anthony Uriel Tarragon
     10/15/2005  C  Prince -- Brion Anthony Uriel Tarragon
@@ -27132,7 +27130,7 @@ Alpha List {
   == Brokk Jarlsson ==
     05/04/1997 A   Perseus (Carolingia) -- Brokk Jarlsson
     09/21/2002 A   Daystar (Carolingia) -- Brokk Jarlsson
-    01/25/2003  C  King's Champion (Unknown Branch) -- Brokk Jarlsson
+    01/25/2003  C  King's Rapier Champion -- Brokk Jarlsson
     07/05/2003 AC  Silver Crescent -- Brokk Jarlsson
   
   == Brona (of Eisental) ==
@@ -31450,6 +31448,9 @@ Alpha List {
   == Duane of Concordia ==
     06/30/2001 AC  Award of Arms -- Duane of Concordia
   
+  == Dubbeasa ==
+    02/10/2001  C  Queen's Bardic Champion -- Dubbeasa
+  
   == Dubhaessa ingen Gruagach ==
     09/28/2002 AC  Award of Arms -- Dubhaessa ingen Gruagach
   
@@ -32400,11 +32401,11 @@ Alpha List {
   ERROR: Bad date part: ????
   == Eleanor FitzPatrick [registered] ==
     ??/??/-1 A   Fountain (Unknown Branch) -- Eleanor FitzPatrick [Alantia]
-    Unknown Date  C  Queen's Champion (Unknown Branch) -- Eleanor FitzPatrick
     03/02/1996 A   Award of Arms -- Eleanor FitzPatrick
     04/10/1999 A   Queen's Cypher -- Eleanor FitzPatrick [Anna]
     09/18/1999 A   King's Cypher -- Eleanor FitzPatrick [Hanse II]
     09/18/1999 A   Queen's Cypher -- Eleanor FitzPatrick [Moruadh II]
+    05/27/2000  C  Queen's Equestrian Champion -- Eleanor FitzPatrick
     09/16/2000 A   Silver Crescent -- Eleanor FitzPatrick
     07/05/2003  C  King's Equestrian Champion -- Eleanor FitzPatrick
     07/05/2003 ACL Mistress of the Pelican -- Eleanor FitzPatrick
@@ -32526,7 +32527,7 @@ Alpha List {
     01/26/2008 A   Manche -- Elen Alswith of Eriskay
   
   == Elen Alswyth of Eriskay ==
-    Unknown Date  C  Manche -- Elen Alswyth of Eriskay
+    01/26/2008  C  Manche -- Elen Alswyth of Eriskay
   
   == Elen of the Western Isles ==
     03/12/2005 AC  Award of Arms -- Elen of the Western Isles
@@ -34343,7 +34344,7 @@ Alpha List {
   
   == Fine (Fiana) of Clare ==
     08/13/2002  C  Court Baroness -- Fine (Fiana) of Clare
-    02/22/2003  C  Queen's Champion (Unknown Branch) -- Fine (Fiana) of Clare
+    02/22/2003  C  Queen's Bardic Champion -- Fine (Fiana) of Clare
   
   == Fine of Clare [registered] ==
     07/07/1990 A   Award of Arms -- Fine of Clare
@@ -35529,8 +35530,8 @@ Alpha List {
   == Gericke von Keger ==
     05/03/2003  C  Award of Arms -- Gericke von Keger
   
-  == Gerilyn Fjorden and Dubbeasa ==
-    02/10/2001  C  Queen's Bardic Champions (Unknown Branch) -- Gerilyn Fjorden and Dubbeasa
+  == Gerilyn Fjorden ==
+    02/10/2001  C  Queen's Bardic Champion -- Gerilyn Fjorden
   
   == Gershom ibn Zabara [registered] ==
     04/04/1981 A   Award of Arms -- Gershom ibn Zabara
@@ -37055,7 +37056,7 @@ Alpha List {
     01/05/2002 A   Manche -- Harold Longfellow
   
   == Harold Orn ==
-    Unknown Date  C  Silver Crescent -- Harold Orn
+    01/26/2008  C  Silver Crescent -- Harold Orn
   
   == Harold Ulfson ==
     05/26/1996   L Pelican -- Harold Ulfson
@@ -37599,7 +37600,7 @@ Alpha List {
     11/05/2011 A   Moon (Carolingia) -- Hugh Tauerner
   
   == Hugh Tauerner of Walsingham ==
-    Unknown Date  C  Award of Arms -- Hugh Tauerner of Walsingham
+    01/26/2008  C  Award of Arms -- Hugh Tauerner of Walsingham
     04/11/2009  C  Queen's Courtesy -- Hugh Tauerner of Walsingham
   
   == Hugo of Bowman's Rest ==
@@ -37636,7 +37637,7 @@ Alpha List {
     05/27/2000 A   Award of Arms -- Iain MacQuarrie
   
   == Iain MacQuarrie of Ulva ==
-    Unknown Date  C  Award of Arms -- Iain MacQuarrie of Ulva
+    05/27/2000  C  Award of Arms -- Iain MacQuarrie of Ulva
   
   == Iain Odlin ==
     07/15/1995 A   Award of Arms -- Iain Odlin
@@ -37891,7 +37892,7 @@ Alpha List {
   == Irayari Vairavi ==
     AKA: Bhairavi of Thescorre
     AKA: Vairavi
-    Unknown Date  C  Manche -- Irayari Vairavi
+    01/26/2008  C  Manche -- Irayari Vairavi
     04/11/2009  C  Court Baroness -- Irayari Vairavi
     10/31/2009  C  King's Excellence -- Irayari Vairavi
   
@@ -38836,7 +38837,7 @@ Alpha List {
     02/14/2009  C  Queen's Courtesy -- Jean de Montagne
     02/05/2011  C  Silver Crescent -- Jean de Montagne
     02/05/2011  C  Queen's Bardic Championship -- Jean de Montagne
-    01/07/2012  C  (Queen's Bradic Champion - Out Going (Unknown Branch) -- Jean de Montagne)
+    01/07/2012  C  (Queen's Bradic Bardic Champion - Out Going (Unknown Branch) -- Jean de Montagne)
   
   == Jean de la Montagne ==
     07/20/2002 A   Award of Arms -- Jean de la Montagne
@@ -39204,7 +39205,7 @@ Alpha List {
     01/26/2008 A   Award of Arms -- Jivette d'Angoumois
   
   == Jivette du Angoumois ==
-    Unknown Date  C  Award of Arms -- Jivette du Angoumois
+    01/26/2008  C  Award of Arms -- Jivette du Angoumois
   
   == Joachim Liechtenauer ==
     05/12/2007  C  Award of Arms -- Joachim Liechtenauer
@@ -39780,7 +39781,7 @@ Alpha List {
   
   == Jost von Eichstadt ==
     01/25/2003  C  Golden Rapier -- Jost von Eichstadt
-    01/25/2003  C  Queen's Champion (Unknown Branch) -- Jost von Eichstadt
+    01/25/2003  C  Queen's Rapier Champion -- Jost von Eichstadt
     01/03/2004  C  Queen's Courtesy -- Jost von Eichstadt
   
   == Jotun-Eiríkr Bjarnason [registered] ==
@@ -40038,7 +40039,7 @@ Alpha List {
     04/02/2011  C  Queen's Courtesy -- Julien de la Pointe
   
   == JulienLapointe ==
-    Unknown Date  C  Silver Crescent -- JulienLapointe
+    01/26/2008  C  Silver Crescent -- JulienLapointe
     03/06/2010  C  King's Esteem of Merit -- JulienLapointe
   
   == Juliene de la Rochelle ==
@@ -41125,7 +41126,7 @@ Alpha List {
     05/08/2010  C  Admiral of the Armies -- Kenric of Warwick
     09/18/2010  C  King's Rattan Champion -- Kenric of Warwick
     09/10/2011  C  King's Champion of Arms -- Kenric of Warwick [Backlog]
-    10/08/2011  C  (Outgoing King's Champion of Arms (Unknown Branch) -- Kenric of Warwick)
+    10/08/2011  C  (Outgoing King's Queen's Champion of Arms (Unknown Branch) -- Kenric of Warwick)
     11/05/2011  C  Crown Prince -- Kenric of Warwick
   
   == Kenrick Burne ==
@@ -42548,7 +42549,7 @@ Alpha List {
     06/21/1997 A   Award of Arms -- Lorenzo il Confuso [from Atlantia]
     03/20/1999 A   Sea Stag (Unknown Branch) -- Lorenzo il Confuso [from Atlantia]
     08/19/1999 A   Mountain Hawk (Unknown Branch) -- Lorenzo il Confuso [Highland Foorde, Atlantia]
-    06/03/2000  C  Queen's Champion (Unknown Branch) -- Lorenzo il Confuso
+    06/03/2000  C  Queen's Archery Champion -- Lorenzo il Confuso
     09/30/2000 A   Sagittarius -- Lorenzo il Confuso
   
   == Lori MacFarlane ==
@@ -42646,7 +42647,7 @@ Alpha List {
     09/27/1997 A   King's Cypher -- Lucan von Drachenklaue [Hanse]
     04/04/1998 A   Queen's Cypher -- Lucan von Drachenklaue [Caitlin]
     08/18/1999 A   Queen's Courtesy -- Lucan von Drachenklaue
-    06/17/2000  C  King's Champion (Unknown Branch) -- Lucan von Drachenklaue
+    06/17/2000  C  King's List Champion -- Lucan von Drachenklaue
     08/18/2000 A   Knight -- Lucan von Drachenklaue
     08/18/2000  CL Chivalry -- Lucan von Drachenklaue [Knight instead of Master]
     06/23/2001 AC  Silver Crescent -- Lucan von Drachenklaue
@@ -42718,9 +42719,9 @@ Alpha List {
   == Lucien de Pontivy ==
     AKA: Lakev of Stonemarche
     AKA: Leceabh merch Ouain
-    Unknown Date  C  Troubadour -- Lucien de Pontivy
     02/02/2002  C  Award of Arms -- Lakev of Stonemarche
     06/14/2003  C  Award of Arms -- Leceabh merch Ouain
+    01/26/2008  C  Troubadour -- Lucien de Pontivy
     09/27/2008  C  Silver Crescent -- Lucien de Pontivy
     01/31/2009  C  Maunche -- Lucien de Pontivy
   
@@ -43571,7 +43572,7 @@ Alpha List {
     09/18/2010  C  Queen's Rattan Champion -- Marcus Blackaert
     01/29/2011 AC  Tygers Combattant -- Marcus Blackaert
     04/02/2011 A   Queen's Cypher -- Marcus Blackaert [Aikaterine II]
-    10/08/2011  C  (Outgoing Queen's Champion of Arms (Unknown Branch) -- Marcus Blackaert)
+    10/08/2011  C  (Outgoing Queen's Queen's Champion of Arms (Unknown Branch) -- Marcus Blackaert)
     05/05/2012 A   Admiral of the Armines (Unknown Branch) -- Marcus Blackaert
     07/14/2012 A L Chivalry -- Marcus Blackaert
   
@@ -44067,7 +44068,7 @@ Alpha List {
   == Marion Quyn ==
     01/07/2012 A   Tourbadour (Unknown Branch) -- Marion Quyn
     01/07/2012  C  Troubadour -- Marion Quyn
-    01/07/2012  C  Queen' Bardic Champion (Unknown Branch) -- Marion Quyn
+    01/07/2012  C  Queen' Bardic Bardic Champion (Unknown Branch) -- Marion Quyn
     01/07/2012 AC  Award of Arms -- Marion Quyn
   
   == Marion del Okes [registered] ==
@@ -44168,7 +44169,7 @@ Alpha List {
     07/08/1995 A   Award of Arms -- Mark Squirrelsbane
     04/13/1996 A   Sagittarius -- Mark Squirrelsbane
     11/07/1998 A   Silver Crescent -- Mark Squirrelsbane
-    06/03/2000  C  King's Champion (Unknown Branch) -- Mark Squirrelsbane
+    06/03/2000  C  King's Archery Champion -- Mark Squirrelsbane
     04/21/2001 ACL Master of the Pelican -- Mark Squirrelsbane
     08/02/2009 AC  Court Baron -- Mark Squirrelsbane
     10/24/2009 AC  Queen's Courtesy -- Mark Squirrelsbane
@@ -49525,7 +49526,7 @@ Alpha List {
     04/16/1988   L Duke -- Rowan de la Garnison
   
   == Rowan ni Ruari ==
-    Unknown Date  C  Award of Arms -- Rowan ni Ruari
+    05/27/2000  C  Award of Arms -- Rowan ni Ruari
   
   == Rowan of Dragon's Heorth ==
     01/31/2009 AC  Gawain -- Rowan of Dragon's Heorth
@@ -51558,7 +51559,7 @@ Alpha List {
     10/09/2010 A   Princess's Rattan Champion -- Spurius Genucia Rutilus
   
   == Spurius Genucius Rutilus ==
-    10/09/2010  C  Princess'sChampion of Rattan (Unknown Branch) -- Spurius Genucius Rutilus
+    10/09/2010  C  Princess'sWeapons Champion of Rattan (Unknown Branch) -- Spurius Genucius Rutilus
   
   == Spvrivs Ivliva Flavivs ==
     09/18/2010 A   Award of Arms -- Spvrivs Ivliva Flavivs
@@ -53187,7 +53188,7 @@ Alpha List {
     08/19/1995 A   Dragon's Heart (Middle) -- Timothy of Arindale
     09/30/1995 A L Duke -- Timothy of Arindale
     01/16/1999 A   Manche -- Timothy of Arindale
-    06/17/2000  C  Queen's Champion (Unknown Branch) -- Timothy of Arindale
+    06/17/2000  C  Queen's List Champion -- Timothy of Arindale
     03/10/2001 A   Ivory Tower (Settmour Swamp) -- Timothy of Arindale
     08/15/2002 AC  Tygers Combattant -- Timothy of Arindale
     03/29/2003 A   Silver Tower (Unknown Branch) -- Timothy of Arindale [from Settmour Swamp]
@@ -55798,30 +55799,11 @@ Alpha List {
 
 ERROR LOG:
 
-Love Elizabethan Style/Bardic Champions, February 10, 2001 - andreas.xhtml - Court Reports
-{
-  Adding unknown award "Queen's Bardic Champions"
-}
-
-King's and Queen's Rapier Championship, January 25, 2003 - andreas2.xhtml - Court Reports
-{
-  Adding unknown award "King's Champion"
-  Adding unknown award "Queen's Champion"
-}
-
-evening court - andreas3.xhtml - Court Reports
-{
-  Can't find a date in evening court
-}
-
-Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000 - Balfar3.xhtml - Court Reports
-{
-  Can't find a date in Panteria/King's and Queen's Equestrian Championship, May 27-28, 2000
-}
-
  - Balfar4.xhtml - Court Reports
 {
   Can't find a date in 
+  Adding unknown award "King's Champion"
+  Adding unknown award "Queen's Champion"
 }
 
 Royal Bardic Championship, March 6, 2004 - Balfar4.xhtml - Court Reports
@@ -55849,7 +55831,7 @@ Northern Region War Camp, July 3, 2010 - Edward.xhtml - Court Reports
 
 Twelfth Night & Bardic Champions - January 7, 2012 - GregorIII.xhtml - Court Reports
 {
-  Adding unknown award "Queen' Bardic Champion"
+  Adding unknown award "Queen' Bardic Bardic Champion"
 }
 
 Kings and Queens - Rapier Champions - February 4, 2012 - GregorIII.xhtml - Court Reports
@@ -55886,7 +55868,7 @@ Last Court, Coronation of Andreas III and Gabriella, 2007 - gryffith.xhtml - Cou
 
 Arts and Sciences and Heavy Weapons Championships of Tir MaraOctober 9, 2010 - Gryffith2.xhtml - Court Reports
 {
-  Adding unknown award "Princess'sChampion of Rattan"
+  Adding unknown award "Princess'sWeapons Champion of Rattan"
 }
 
  - Gryffith2.xhtml - Court Reports

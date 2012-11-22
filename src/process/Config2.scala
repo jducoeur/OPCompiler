@@ -58,7 +58,7 @@ object Config2 {
       )
       // Each of these is a Seq[AwardInfo], so they don't fit neatly into the above list
       ++ Champion("Archery", "Archer")
-      ++ Champion("Arms", "Rattan", "Heavy List", "Tournament")
+      ++ Champion("Arms", "Rattan", "Heavy List", "Tournament", "List")
       ++ Champion("Arts and Sciences", "A&S", "Arts & Sciences")
       ++ Champion("Bardic", "Bard")
       ++ Champion("Horse", "Equestrian")

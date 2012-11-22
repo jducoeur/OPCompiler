@@ -78,6 +78,15 @@ class Court(val title:String, val date:OPDate) {
   // Court, then build the Recognitions, then put them into it.
   var business:Seq[Recognition] = Seq[Recognition]()
   
+  def isChampionship = title.contains("Champion")
+  val champRegex = """^.* (\S*) Champion.*$""".r
+  def champName = {
+    title match {
+      case champRegex(name) => name
+      case _ => ""
+    }
+  }
+  
   override def toString = {
     "== " + title + " == (" + date + ")\n" +
     business.foldLeft("")((str, item) => str + item + "\n")

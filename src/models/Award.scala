@@ -178,6 +178,11 @@ object Award {
         )
     }
   }
+  
+  def contains(inName:String):Boolean = {
+    val name = scrubName(inName)
+    knownAwards.contains(AwardName.canonName(name))
+  }
 
   // This is the accessor for finding the canonical copy of an Award, given a string
   // representation in the OP. I confess, I'm still twitchy about using the
