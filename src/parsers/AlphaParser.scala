@@ -67,7 +67,7 @@ class AlphaParser extends OPFileParser {
     val reg = (name.charAt(0) == '*')
     name = if (reg) name.substring(1) else name
     val breakdown = checkReferences(name)
-    name = breakdown.curName
+    name = breakdown.curName.trim
     // The current name is current iff none of the others are
     val currentName = breakdown.others.find(_.isCurrent)
     val isCurrent = currentName.isEmpty
