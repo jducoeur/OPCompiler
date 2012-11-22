@@ -97,6 +97,7 @@ object Award {
   def isCommentaryBusiness(rawName:String) = {
     val name = rawName.toLowerCase
     val commentRegexes:Seq[scala.util.matching.Regex] = Vector(
+            """business""".r,
     		"""writ""".r,
     		"""charter""".r,
     		"""fealty""".r,

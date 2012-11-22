@@ -72,6 +72,7 @@ object Config2 {
           awards = Seq(
             // Common non-awards
             Award("Armorer to the Crown"),
+            Award("Grandmaster Bowman"),
             Award("Master Bowman"),
             Award("Seamstress to the Crown", gender = Female, synonyms = Seq(AwardName("Taylor to the Crown", Male))),
             Award("Toymaker to the Queen"),
@@ -79,6 +80,7 @@ object Config2 {
             Award("Admiral of the Armies"),
             Award("Shield of Chivalry"),
             Award("Youth Archery Champion"),
+            Award("Confirmation of Gentility"),
             
             // Official non-precedential awards from the Crown
             Award("Queen's Honor of Distinction", "Queen's Honour of Distinction", "Queens's Honor of Distinction", "Queen Honor of Distinction"),

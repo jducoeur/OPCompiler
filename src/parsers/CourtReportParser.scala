@@ -65,7 +65,11 @@ class CurrentCourtReportParser extends CourtReportParser {
         captions.head.text.trim.replace("\n", " - ") 
       else {
         val captions = (tableNode \\ "caption")
-        if (captions.length > 0) captions.head.text.trim else ""
+        if (captions.length > 0) captions.head.text.trim
+        else {
+          val captionDivs = (tableNode \\ "caption" \\ "div")
+          if (captionDivs.length > 0) captionDivs.head.text.trim else ""
+        }
       }
     // ... remove basic junk...
     val scrubbedCaption = process.StringUtils.scrub(caption)
