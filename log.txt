@@ -4318,9 +4318,9 @@ Court Reports {
       INFO:Adding commentary "Queen's Bardic Bardic Champion - Out Going"
       == Twelfth Night & Bardic Champions == (January 7, 2012)
         01/07/2012  C  (Kings Bardic Bardic Champion - Out going (Unknown Branch) -- Aneleda Falconbridge)
-        01/07/2012  C  King's Bardic Champion -- Linette de Gallardon
+        01/07/2012  C  King's Bardic Champion -- Linette de Gallardon [In Coming]
         01/07/2012  C  (Queen's Bardic Bardic Champion - Out Going (Unknown Branch) -- Jean de Montagne)
-        01/07/2012  C  Queen's Bardic Champion -- Marion Quyn
+        01/07/2012  C  Queen's Bardic Champion -- Marion Quyn [In Coming]
         01/07/2012  C  Award of Arms -- Marion Quyn
         01/07/2012  C  Troubadour -- Marion Quyn
         01/07/2012  C  Troubadour -- Dona Sol de La Cantor
@@ -4403,9 +4403,9 @@ Court Reports {
       INFO:Adding commentary "King's Arts and Sciences Champion - Outgoing"
       == Kings and Queens - Arts and Sciences/Noisemakers == (February 11, 2012)
         02/11/2012  C  (Queen's Arts and Sciences Champion - Outgoing (Unknown Branch) -- Catheryn Shadwell)
-        02/11/2012  C  Queen's Arts and Sciences Champion -- Catarina Giaocchini
+        02/11/2012  C  Queen's Arts and Sciences Champion -- Catarina Giaocchini [Incoming]
         02/11/2012  C  (King's Arts and Sciences Champion - Outgoing (Unknown Branch) -- Xandra Rozina Xiberras Galea)
-        02/11/2012  C  King's Arts and Sciences Champion -- Alexander the Younger
+        02/11/2012  C  King's Arts and Sciences Champion -- Alexander the Younger [Incoming]
         02/11/2012  C  Silver Crescent -- Alanna of Skye [backlog]
         02/11/2012  C  Award of Arms -- Takiyama Toshiatsu
         02/11/2012  C  Queen's Courtesy -- Aaron Peregrine [backlog]
@@ -8112,7 +8112,6 @@ Alphabetical {
   Abu Mohammed Hassan {
   }
   Aceline Barrett of Seven Oaks {
-    ERROR: Adding unknown award "Leviathan"
   }
   Achilles son Asia {
   }
@@ -8127,8 +8126,6 @@ Alphabetical {
   Acuma the Goth {
   }
   Ada inghean Taran {
-    ERROR: Adding unknown award "Burden Tyger - Lucan VIII"
-    ERROR: Adding unknown award "Jana V"
   }
   Adam MacGregor {
   }
@@ -8171,7 +8168,6 @@ Alphabetical {
   Adeth MacGregor {
   }
   Adhemar de Villarquamada {
-    ERROR: Adding unknown award "Herald Extraordinaire"
   }
   Adin Nortment {
   }
@@ -8184,7 +8180,6 @@ Alphabetical {
   Adrian Alonzo De Cadiz {
   }
   Adrian Meddylgar {
-    ERROR: Adding unknown award "Princess's Courtesy"
   }
   Adrian of Saint Clair {
   }
@@ -8227,7 +8222,6 @@ Alphabetical {
   Aelfgeorn Harbeard {
   }
   Aelfgifu of the Hazel Thicket {
-    ERROR: Unparsed line: 09??/1999 Defender of the Whote Oak (BBM)
   }
   Aelfgifu Honeybee {
   }
@@ -8354,8 +8348,6 @@ Alphabetical {
   Aiden de Sainte Nazaire {
   }
   Aife ingen Chonchobair {
-    ERROR: Adding unknown award "Companion fo the order of the Troubadour"
-    ERROR: Adding unknown award "order of the Sapphire"
   }
   Aife ingen ui'Lochain {
   }
@@ -8366,7 +8358,6 @@ Alphabetical {
   Ailean Mac an Daraich {
   }
   Ailill mac Ferchair Ui Diarmata {
-    ERROR: Adding unknown award "Silver Martler"
   }
   Ailionora inghean Ronain {
   }
@@ -8387,7 +8378,8 @@ Alphabetical {
   A'isha bint Jamil {
   }
   Aisin-gioro Biya {
-    ERROR: Unparsed line: Aislinn Chiabach
+  }
+  Aislinn Chiabach {
   }
   Aislinn ní Baotháin {
   }
@@ -8398,7 +8390,6 @@ Alphabetical {
   Aislinn Cul Dulach {
   }
   Aislinn Gildara Breemore {
-    ERROR: Adding unknown award "Wooden Spoon"
   }
   Aislinn of Leioness {
   }
@@ -8435,8 +8426,6 @@ Alphabetical {
   Alana of Carillion {
   }
   Alana O'Keeve {
-    ERROR: Adding unknown award "Baronial award of Excellence"
-    ERROR: Adding unknown award "Blue Collar"
   }
   Alana of Ramskeep {
   }
@@ -8545,7 +8534,6 @@ Alphabetical {
   Alesia Gillefalyn {
   }
   Alesone Gray of Cranleigh {
-    ERROR: Adding unknown award "Comanion of the Silver Crescent"
   }
   Alessandra Francesca di Milano {
   }
@@ -8582,7 +8570,6 @@ Alphabetical {
   Alexander Listkeeper {
   }
   Alexander MacGregor {
-    ERROR: Adding unknown award "Silver Tower"
   }
   Alexander Mór MacIan {
   }
@@ -8625,7 +8612,6 @@ Alphabetical {
   Alexandre Bautista de la Mar {
   }
   Alexandre Lerot d'Avignon {
-    ERROR: Adding unknown award "Compainion of the Augmented Seahorse"
   }
   Alexandre Saint Pierre {
   }
@@ -8716,16 +8702,16 @@ Alphabetical {
   Alisay de Falaise {
   }
   Alienor Llanfair {
-    ERROR: Unparsed line: )
   }
-  Aline Kinneir (Aline Ankyrmayden Kinnear {
+  Aline Kinneir (Aline Ankyrmayden Kinnear) {
   }
   Alionora inghean Pilib O'Corcrain {
   }
   Alisaundre Quinnye {
   }
   Alise Queneby {
-    ERROR: Unparsed line: Alisha MacLeod
+  }
+  Alisha MacLeod {
   }
   Alison Haworth Frasier {
   }
@@ -8736,9 +8722,8 @@ Alphabetical {
   Alison von Halstern {
   }
   Alison of the Weresheep {
-    ERROR: Unparsed line: )
   }
-  Alison Winter (called Absentia {
+  Alison Winter (called Absentia) {
   }
   Alison Wodehalle {
   }
@@ -8773,7 +8758,6 @@ Alphabetical {
   Alixia Aurora Airielle {
   }
   Ayiyah of Endewearde {
-    ERROR: Unparsed line: 10/8/2012 Tyger's Cub
   }
   Alizaunde de Bregeuf {
   }
@@ -8820,7 +8804,6 @@ Alphabetical {
   Alron of Carillion ("Shadowmaker") {
   }
   Alsandryr St. Claire {
-    ERROR: Unparsed line: ,
   }
   Alsvid Annarin {
   }
@@ -8837,7 +8820,6 @@ Alphabetical {
   Alycia Ravaine de Champagne {
   }
   Alys Attewater {
-    ERROR: Adding unknown award "Quadrant"
   }
   Alys of Bath {
   }
@@ -8888,7 +8870,6 @@ Alphabetical {
   Amber Surrey {
   }
   Ambre Milhert {
-    ERROR: Unparsed line: 03/0/2011 Award of Arms
   }
   Ambrin the Dancer {
   }
@@ -8905,7 +8886,6 @@ Alphabetical {
   Ame Chambrier {
   }
   Amee de Jardyn {
-    ERROR: Adding unknown award "Guardsman"
   }
   Amélia dit la Belle {
   }
@@ -8916,10 +8896,10 @@ Alphabetical {
   Amelia Skye Lysander {
   }
   Webbe aka Amelia bint Wojciech {
-    ERROR: Adding unknown award "Light of Carillion"
   }
   Ameline Bernaerds {
-    ERROR: Unparsed line: Ameline Genevieve
+  }
+  Ameline Genevieve {
   }
   Americ of Seashire {
   }
@@ -8962,7 +8942,6 @@ Alphabetical {
   Ananda Rhiannon {
   }
   Anarra Karlsdottir {
-    ERROR: Unparsed line: )
   }
   Anastasia Adrianova {
   }
@@ -9001,7 +8980,8 @@ Alphabetical {
   Anders Botman {
   }
   Andras of Wealdon {
-    ERROR: Unparsed line: Andrea Caitlin MacIntyre
+  }
+  Andrea Caitlin MacIntyre {
   }
   Andre de Bourgogne {
   }
@@ -9036,7 +9016,6 @@ Alphabetical {
   Andreas de Vulpes {
   }
   Andrée Diane Chartier de l'Oise {
-    ERROR: Adding unknown award "Dragons Pride"
   }
   Andreiko Eferiev {
   }
@@ -9079,8 +9058,8 @@ Alphabetical {
   Angelica di Nova Lipa {
   }
   Angelina Foljambe {
-    ERROR: Unparsed line: Angelina Giaocchini
-    ERROR: Unparsed line: 03/24/2012
+  }
+  Angelina Giaocchini {
   }
   Angelina Rose Capasso {
   }
@@ -9153,7 +9132,6 @@ Alphabetical {
   Ann Woods {
   }
   Anna d'Amiens {
-    ERROR: Unparsed line: )
   }
   Anna of Aarnimetsä {
   }
@@ -9278,7 +9256,8 @@ Alphabetical {
   Anton Lowe von Ulm {
   }
   Anton McRae {
-    ERROR: Unparsed line: Anton Tilwon Steffan
+  }
+  Anton Tilwon Steffan {
   }
   Anton Winteroak {
   }
@@ -9339,8 +9318,6 @@ Alphabetical {
   Apollonia Timandra Domitia {
   }
   Apollonia Knutsdottir {
-    ERROR: Unparsed line: 09/18/2010
-    ERROR: Unparsed line: Award of Arms
   }
   Apollonia Voss {
   }
@@ -9365,7 +9342,6 @@ Alphabetical {
   Arabella von Somerfeldt {
   }
   Arabis Tarragon {
-    ERROR: Unparsed line: )
   }
   Arabella of Thornwood {
   }
@@ -9388,14 +9364,14 @@ Alphabetical {
   Arden of Icomb {
   }
   Arden MacIllhatton {
-    ERROR: Unparsed line: )
   }
-  Ardenia the Red (Ardennia Arouadh {
+  Ardenia the Red (Ardennia Arouadh) {
   }
   Areusa Salvadorez Gustioz {
   }
   Argus of the Seven Hills {
-    ERROR: Unparsed line: Arianwen of Urquhart
+  }
+  Arianwen of Urquhart {
   }
   Ari de Lyon {
   }
@@ -9424,7 +9400,6 @@ Alphabetical {
   Arianna Maria di Marchesi {
   }
   Arianna Ravenstar of Wolfwood (“Aja”) {
-    ERROR: Adding unknown award "Yale (Dragonship Haven"
   }
   Arianne ferch Rhys {
   }
@@ -9527,7 +9502,6 @@ Alphabetical {
   Artemas le Beau {
   }
   Artemas Maximus {
-    ERROR: Adding unknown award "Baron"
   }
   Arthur de Beaumont {
   }
@@ -9638,7 +9612,6 @@ Alphabetical {
   Aurelia Bryhtwyn {
   }
   Aurelia da Calabria {
-    ERROR: Unparsed line: )
   }
   Aurelia du Vrai Coeur {
   }
@@ -9663,7 +9636,6 @@ Alphabetical {
   Auriana de Auntie {
   }
   Auriana Filia Germani {
-    ERROR: Adding unknown award "Queen's Honor of Distintion"
   }
   Auriana of the Bridge {
   }
@@ -10352,7 +10324,6 @@ Alphabetical {
   }
   Bryetor Aison of Devon {
     ERROR: Adding unknown award "Viscounty"
-    ERROR: Adding unknown award "Chivalry - Alantia"
     ERROR: Adding unknown award "Champion on the Manche"
   }
   Bryghan MacGuinness {
@@ -12584,7 +12555,6 @@ Alphabetical {
   Eoan of Montvale {
   }
   Eofn ap Erwyn {
-    ERROR: Adding unknown award "Pheon"
     ERROR: Adding unknown award "Silver Snowflake"
   }
   Eogan Macdomnail {
@@ -19266,8 +19236,6 @@ Alphabetical {
   }
   Shadia bint Barro {
     ERROR: Unparsed line: Shadiyah al-Zahra
-    ERROR: Adding unknown award "Seamstress to the Crown - Gryffith II"
-    ERROR: Adding unknown award "Aikaterine II"
   }
   Shaitan of the Tuchux {
   }
@@ -20285,7 +20253,6 @@ Alphabetical {
   }
   Tomas an Bhogha o Neil {
     ERROR: Unparsed line: 2010 Award of Arms
-    ERROR: Adding unknown award "Queen's Courtesy - Jana V"
   }
   Tomas MacLaren {
   }
@@ -21391,7 +21358,7 @@ Alpha List {
     04/19/1997 A   Queen's Honor of Distinction -- Aceline Barrett of Seven Oaks [Moruadh]
     06/19/2004 AC  Grant of Arms -- Aceline Barrett of Seven Oaks
     06/19/2004 AC  Court Baroness -- Aceline Barrett of Seven Oaks
-    04/03/2010 A   Leviathan (Unknown Branch) -- Aceline Barrett of Seven Oaks [from Smoking Rocks]
+    04/03/2010 A   Leviathan (Smoking Rocks) -- Aceline Barrett of Seven Oaks
   
   == Achilles (von Drachenklaue) ==
     SEE: Achilles son Asia
@@ -21432,8 +21399,7 @@ Alpha List {
   
   == Ada inghean Taran ==
     03/24/2001 AC  Award of Arms -- Ada inghean Taran
-    06/11/2011 A   Jana V (Unknown Branch) -- Ada inghean Taran
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Ada inghean Taran
+    06/11/2011 A   Burdened Tyger -- Ada inghean Taran [Lucan VIII and Jana V]
   
   == Adam MacGregor ==
     07/21/2001 AC  Tygers Cub -- Adam MacGregor
@@ -21530,7 +21496,7 @@ Alpha List {
     04/20/2002 A   King's Excellence -- Adhemar de Villarquamada
     09/14/2002 ACL Master of the Pelican -- Adhemar (formerly Morgan) de Villarquamada
     07/22/2006 AC  Queen's Honor of Distinction -- Adhemar de Villarquemada [Anna II]
-    09/15/2012 A   Herald Extraordinaire (Unknown Branch) -- Adhemar de Villarquamada
+    09/15/2012 A   Herald Extraordinaire -- Adhemar de Villarquamada
   
   
   == Adin Nortment ==
@@ -21567,7 +21533,7 @@ Alpha List {
   
   == Adrian Meddylgar [registered] ==
     09/13/1986 A   Award of Arms -- Adrian Meddylgar
-    03/26/1988 A   Princess's Courtesy (Unknown Branch) -- Adrian Meddylgar
+    03/26/1988 A   Princess's Courtesy (Drachenwald) -- Adrian Meddylgar
     09/16/1989 A   Principality Company of Sojourners (Drachenwald) -- Adrian Meddylgar
   
   == Adrian of Saint Clair [registered] ==
@@ -21662,6 +21628,7 @@ Alpha List {
     10/09/1993 A   Queen's Cypher -- Aelfgifu of the Hazel Thicket [Genevieve]
     12/30/1995 A   Mistress of the Laurel -- Aelfgifu of the Hazel Thicket
     04/10/1999 A   Tygers Combattant -- Aelfgifu of the Hazel Thicket
+    09/??/1999 A   Defender of the White Oak (Beyond the Mountain) -- Aelfgifu of the Hazel Thicket
     06/03/2006 AC  Baroness Beyond the Mountain -- Aelfgifu of the Hazel Thicket
     04/21/2007 AC  Silver Crescent -- Aelfgifu of the Hazel Thicket
     04/18/2009 ACL Mistress of the Pelican -- Aelfgifu of the Hazel Thicket
@@ -21919,11 +21886,9 @@ Alpha List {
     AKA: Aoife inghean Conchobair
     11/11/2006 A   Award of Arms -- Aife ingen Chonchobair
     11/11/2006  C  Award of Arms -- Aoife inghean Conchobar
-    09/15/2007 A   Companion fo the order of the Troubadour (Unknown Branch) -- Aife ingen Chonchobair
-    09/15/2007 A   Troubadour -- Aoife inghean Conchobair -
+    09/15/2007 A   Troubadour -- Aife ingen Chonchobair
     09/15/2007  C  Troubadour -- Aoife inghean Conchobar
-    05/24/2009 A   order of the Sapphire (Unknown Branch) -- Aife ingen Chonchobair
-    05/24/2009 A   Sapphire (Concordia of the Snows) -- Aoife inghean Conchobair -
+    05/24/2009 A   Sapphire (Concordia of the Snows) -- Aife ingen Chonchobair
     02/20/2010  C  King's Bard -- Aoife ingen Conchobair
     09/25/2010 A   Maunche -- Aife ingen Chonchobair
     09/25/2010  C  Maunche -- Aoife inghean Conchobhair
@@ -22009,7 +21974,7 @@ Alpha List {
     08/13/2006 A   Sable Martlet (Iron Bog) -- Ailill mac Ferchair Ui Diarmata
     11/11/2006 A   Baroness's Silver Ring (Iron Bog) -- Ailill mac Ferchair Ui Diarmata
     10/15/2011 A   Silver Martlet (Iron Bog) -- Ailill mac Ferchair Ui Diarmata
-    03/17/2012 A   Silver Martler (Unknown Branch) -- Ailill mac Ferchair Ui Diarmata [from Iron Bog]
+    03/17/2012 A   Silver Martlet (Iron Bog) -- Ailill mac Ferchair Ui Diarmata
   
   
   == Ailionora inghean Ronain [registered] ==
@@ -22077,7 +22042,6 @@ Alpha List {
   
   == Aisin-gioro Biya ==
     10/20/2007 AC  Award of Arms -- Aisin-gioro Biya
-    11/19/2011 A   Silver Crescent -- Aisin-gioro Biya
   
   == Aislinn (of Stonemarche) ==
     02/05/2000 AC  Award of Arms -- Aislinn (of Stonemarche)
@@ -22086,7 +22050,7 @@ Alpha List {
     09/27/2008 AC  Award of Arms -- Aislinn Cainnealaigh
   
   == Aislinn Chiabach ==
-    11/19/2011  C  Silver Crescent -- Aislinn Chiabach
+    11/19/2011 AC  Silver Crescent -- Aislinn Chiabach
   
   == Aislinn Cul Dulach ==
     05/04/2002 AC  Award of Arms -- Aislinn Cul Dulach
@@ -22096,7 +22060,7 @@ Alpha List {
   
   == Aislinn Gildara Breemore [registered] ==
     01/10/1981 A   Award of Arms -- Aislinn Gildara Breemore
-    01/01/1982 A   Wooden Spoon (Unknown Branch) -- Aislinn Gildara Breemore
+    01/01/1982 A   Wooden Spoon (West) -- Aislinn Gildara Breemore
     09/11/1982 A   Rose Leaf (Mists) -- Aislinn Gildara Breemore
     11/13/1982 A   Leaf of Merit (West) -- Aislinn Gildara Breemore [from Mists]
     01/28/1984 A   La Courtesia (Cynagua) -- Aislinn Gildara Breemore
@@ -22192,8 +22156,8 @@ Alpha List {
     08/11/2010 AC  Award of Arms -- Alan of Wytleseie
   
   == Alana O'Keeve ==
-    10/31/1998 A   Baronial award of Excellence (Unknown Branch) -- Alana O'Keeve [Alantia) (Barony of Bright Hills]
-    08/07/2001 A   Blue Collar (Unknown Branch) -- Alana O'Keeve [Alantia) (Barony of Bright Hills]
+    10/31/1998 A   Baronial award of Excellence (Bright Hills) -- Alana O'Keeve [Alantia) (Barony of Bright Hills]
+    08/07/2001 A   Blue Collar (Bright Hills) -- Alana O'Keeve [Alantia) (Barony of Bright Hills]
     09/08/2001 A   Award of Arms -- Alana O'Keeve
   
   == Alana of Carillion [registered] ==
@@ -22503,7 +22467,7 @@ Alpha List {
     10/01/2011 AC  Seamstress to the Crown -- Alesone Gray of Cranleigh
     02/11/2012 A   Salamander (Bhakail) -- Alesone Gray of Cranleigh
     02/11/2012  C  Seamstress to the Crown -- Alesone Gray of Cranlegh
-    06/09/2012 A   Comanion of the Silver Crescent (Unknown Branch) -- Alesone Gray of Cranleigh
+    06/09/2012 A   Silver Crescent -- Alesone Gray of Cranleigh
   
   
   == Alessandra Brucioli ==
@@ -22580,7 +22544,7 @@ Alpha List {
   
   == Alexander MacGregor ==
     04/14/1984 A   Award of Arms -- Alexander MacGregor
-    03/15/1986 A   Silver Tower (Unknown Branch) -- Alexander MacGregor [from Settmour Swamp]
+    03/15/1986 A   Silver Tower (Settmour Swamp) -- Alexander MacGregor
     09/20/1998 A   Burdened Tyger -- Alexander MacGregor
     04/12/2003 AC  Queen's Courtesy -- Alexander MacGregor
     11/22/2003 AC  Silver Crescent -- Alexander Mac Gregor
@@ -22631,7 +22595,7 @@ Alpha List {
     03/05/2005 A   Ivory Tower (Settmour Swamp) -- Alexander Younger
     11/22/2008 A   Manche -- Alexander Younger
     12/05/2009 ACL Master of the Laurel -- Alexander Younger
-    02/11/2012  C  King's Arts and Sciences Champion -- Alexander the Younger
+    02/11/2012  C  King's Arts and Sciences Champion -- Alexander the Younger [Incoming]
   
   == Alexander ap Talhaearn [registered] ==
     09/27/1997 A   Award of Arms -- Alexander ap Talhaearn
@@ -22756,7 +22720,7 @@ Alpha List {
     07/05/2008 AC  Burdened Tyger -- Alexandre Lerot d'Avignon
     08/07/2008 AC  Silver Crescent -- Alexandre Lerot d'Avignon
     08/06/2009 ACL Master of the Laurel -- Alexandre Lerot d'Avigne
-    09/10/2011 A   Compainion of the Augmented Seahorse (Unknown Branch) -- Alexandre Lerot d'Avignon [from Ostgardr]
+    09/10/2011 A   Augmented Seahorse (Ostgardr) -- Alexandre Lerot d'Avignon
     09/10/2011  C  (Outgoing Viceroy of Ostgardr (Unknown Branch) -- Alexandre Lerot d'Avigne)
   
   == Alexandre Saint Pierre [registered] ==
@@ -22933,7 +22897,7 @@ Alpha List {
   
   == Alicia Vespasiana [registered] ==
     10/09/1993 A   Award of Arms -- Alicia Vespasiana
-    03/10/2001 A   Silver Tower (Unknown Branch) -- Alicia Vespasiana [from Settmour Swamp]
+    03/10/2001 A   Silver Tower (Settmour Swamp) -- Alicia Vespasiana
   
   == Alicia Violante di Buonarotti ==
     11/27/1993 A   Award of Arms -- Alicia Violante di Buonarotti
@@ -22987,10 +22951,14 @@ Alpha List {
   
   == Aline Kinneir ==
     AKA: Aline Ankyrmayden Kinnear
-    05/23/1998 A   Award of Arms -- Aline Kinneir (Aline Ankyrmayden Kinnear
-    05/28/2006 AC  Queen's Courtesy -- Aline Ankyrmayden Kinnear
-    07/04/2009 AC  Silver Crescent -- Aline Ankyrmayden Kinnear (*Aline Kinnir)
+    05/28/2006  C  Queen's Courtesy -- Aline Ankyrmayden Kinnear
+    07/04/2009  C  Silver Crescent -- Aline Ankyrmayden Kinnear (*Aline Kinnir)
   
+  
+  == Aline Kinneir (Aline Ankyrmayden Kinnear) [registered] ==
+    05/23/1998 A   Award of Arms -- Aline Kinneir (Aline Ankyrmayden Kinnear)
+    05/28/2006 A   Queen's Courtesy -- Aline Kinneir (Aline Ankyrmayden Kinnear)
+    07/04/2009 A   Silver Crescent -- Aline Kinneir (Aline Ankyrmayden Kinnear)
   
   == Alionora inghean Pilib O'Corcrain ==
     01/27/2001 AC  Award of Arms -- Alionora inghean Pilib O'Corcrain
@@ -23007,13 +22975,14 @@ Alpha List {
     03/22/2003 A   Golden Lyre -- Alisay de Falaise
     03/05/2005 AC  Court Baroness -- Alisay de Falaise
     04/14/2007 A   Queen's Honor of Distinction -- Alisay de Falaise [Jana IV]
-    01/28/2012 A   Comanion of the Silver Crescent (Unknown Branch) -- Alisay de Falaise
-    01/28/2012  C  Silver Crescent -- Alisay de Falaise
+    01/28/2012 AC  Silver Crescent -- Alisay de Falaise
   
   == Alise Queneby [registered] ==
-    01/21/1984 A   Sable Bell (Carillion) -- Alise Queneby
     06/14/2003 AC  Award of Arms -- Alise Whenby
   
+  
+  == Alisha MacLeod ==
+    01/21/1984 A   Sable Bell (Carillion) -- Alisha MacLeod
   
   == Alison Haworth Frasier ==
     08/07/2008 AC  Tygers Cub -- Alison Haworth Frasier
@@ -23029,10 +22998,13 @@ Alpha List {
   
   
   
+  == Alison Winter (called Absentia) [registered] ==
+    11/04/1995 A   Award of Arms -- Alison Winter (called Absentia)
+    04/30/2006 A   Moon (Carolingia) -- Alison Winter (called Absentia)
+    01/13/2007 A   Manche -- Alison Winter (called Absentia)
+  
   == Alison Winter, called Absentia ==
-    11/04/1995 A   Award of Arms -- Alison Winter (called Absentia
-    04/30/2006 A   Moon (Carolingia) -- Alison Winter (called Absentia
-    01/13/2007 AC  Manche -- Alison Winter
+    01/13/2007  C  Manche -- Alison Winter
   
   == Alison Wodehalle [registered] ==
     02/05/2005 AC  Award of Arms -- Alison Wodehalle
@@ -23261,7 +23233,7 @@ Alpha List {
     01/31/2009  C  Award of Arms -- Alys Atwater
     01/31/2010 A   Award of Arms -- Alys Attewater
     03/06/2010  C  Queen's A&S Champion -- Alys Attewater
-    04/03/2010 A   Quadrant (Unknown Branch) -- Alys Attewater [from Smoking Rocks]
+    04/03/2010 A   Quadrant (Smoking Rocks) -- Alys Attewater
     09/25/2010 AC  Maunche -- Alys Attewater
   
   
@@ -23384,7 +23356,7 @@ Alpha List {
     03/05/2011  C  Award of Arms -- Ambre Milhent
   
   == Ambre Milhert ==
-  
+    03/??/2011 A   Award of Arms -- Ambre Milhert
   
   == Ambrin the Dancer ==
     01/06/1990 A   Award of Arms -- Ambrin the Dancer
@@ -23411,7 +23383,7 @@ Alpha List {
   
   == Amee de Jardyn [registered] ==
     02/11/1989 A   Award of Arms -- Amee de Jardyn
-    07/27/1991 A   Guardsman (Unknown Branch) -- Amee de Jardyn
+    07/27/1991 A   Guardsman -- Amee de Jardyn
     01/23/1993 A   Golden Rapier -- Amee de Jardyn
     08/14/1996 A   Manche -- Amee de Jardyn
   
@@ -23429,7 +23401,9 @@ Alpha List {
   
   == Ameline Bernaerds ==
     07/20/2002 AC  Award of Arms -- Ameline Bernaerds
-    ??/??/2003 A   Ordre du Pelerin (Havre des Glaces) -- Ameline Bernaerds
+  
+  == Ameline Genevieve ==
+    ??/??/2003 A   Ordre du Pelerin (Havre des Glaces) -- Ameline Genevieve
   
   == Americ of Seashire [registered] ==
     09/28/1991 A   Award of Arms -- Americ of Seashire
@@ -23638,7 +23612,6 @@ Alpha List {
   
   == Andras of Wealdon ==
     03/17/1984 A   Award of Arms -- Andras of Wealdon
-    09/22/1987 A   Sable Bell (Carillion) -- Andras of Wealdon
   
   
   == Andre Kirlov, of House Wilmot ==
@@ -23667,6 +23640,7 @@ Alpha List {
     06/13/1992 A   Award of Arms -- Andre of Twin Keeps
   
   == Andrea Caitlin MacIntyre [registered] ==
+    09/22/1987 A   Sable Bell (Carillion) -- Andrea Caitlin MacIntyre
     01/13/1990 A   Award of Arms -- Andrea Caitlin MacIntyre
     09/07/1996 A   Seahorse (Ostgardr) -- Andrea Caitlin MacIntyre
     05/02/1998 A   Silver Crescent -- Andrea Caitlin MacIntyre
@@ -23803,7 +23777,7 @@ Alpha List {
     08/08/2011 A   Baroness's Silver Ring (Iron Bog) -- André l’Épervier
   
   == Andrée Diane Chartier de l'Oise [registered] ==
-    12/06/1987 A   Dragons Pride (Unknown Branch) -- Andrée Diane Chartier de l'Oise
+    12/06/1987 A   Dragons Pride (Drachenwald) -- Andrée Diane Chartier de l'Oise
     03/26/1988 A   Award of Arms -- Andrée Diane Chartier de l'Oise
   
   == Ane du Vey [registered] ==
@@ -23849,7 +23823,7 @@ Alpha List {
     04/30/1994 A   Millstone (Stonemarche) -- Angelina Foljambe
   
   == Angelina Giaocchini ==
-    03/24/2012  C  Tygers Cub -- Angelina Giaocchini
+    03/24/2012 AC  Tygers Cub -- Angelina Giaocchini
   
   == Angelina Rose Capasso ==
     12/06/2008 AC  Award of Arms -- Angelina Rose Capasso
@@ -24060,8 +24034,7 @@ Alpha List {
     10/30/1999 AC  Terpsichore -- Ann Sarasin
   
   == Ann Woods ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Ann Woods
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Ann Woods
+    06/11/2011 A   Burdened Tyger -- Ann Woods [Lucan VIII and Jana V]
     06/11/2011 AC  Award of Arms -- Ann Woods
   
   == Ann of Bergen ==
@@ -24413,8 +24386,10 @@ Alpha List {
   == Anton McRae ==
     03/??/1981 A   Seahorse (Ostgardr) -- Anton McRae
     03/13/1982 A   Award of Arms -- Anton McRae
-    09/22/1987 A   White Oak (Beyond the Mountain) -- Anton McRae
     04/16/1988 A   Manche -- Anton McRae
+  
+  == Anton Tilwon Steffan ==
+    09/22/1987 A   White Oak (Beyond the Mountain) -- Anton Tilwon Steffan
   
   == Anton Winteroak [registered] ==
     10/27/1984 A   Award of Arms -- Anton Winteroak
@@ -24571,7 +24546,7 @@ Alpha List {
     09/27/1997 A   Grant of Arms -- Aonghas of Clan Campbell
   
   == Apollonia Knutsdottir ==
-    09/18/2010  C  Award of Arms -- Apollonia Knutsdottir
+    09/18/2010 AC  Award of Arms -- Apollonia Knutsdottir
   
   == Apollonia Timandra Domitia ==
     03/??/1981 A   Seahorse (Ostgardr) -- Apollonia Timandra Domitia
@@ -24614,8 +24589,7 @@ Alpha List {
     SEE: Ali Abbas al Gazzaz
   
   == Arabella D'Armentiera ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Arabella D'Armentiera
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Arabella D'Armentiera
+    06/11/2011 A   Burdened Tyger -- Arabella D'Armentiera [Lucan VIII and Jana V]
   
   == Arabella Radcliffe ==
     SEE: Arabella of Thornwood
@@ -24696,12 +24670,18 @@ Alpha List {
   
   == Ardenia the Red ==
     AKA: Ardennia Arouadh
-    05/03/1997 A   Award of Arms -- Ardenia the Red (Ardennia Arouadh
-    09/27/2003 AC  Grant of Arms -- Ardenia Aruadh
-    09/27/2003 AC  Court Baroness -- Ardenia Aruadh
-    02/27/2005 AC  Silver Crescent -- Ardenia Aruadh
-    03/25/2006 ACL Mistress of the Pelican -- Ardenia Arouadh
+    09/27/2003  C  Grant of Arms -- Ardenia Aruadh
+    09/27/2003  C  Court Baroness -- Ardenia Aruadh
+    02/27/2005  C  Silver Crescent -- Ardenia Aruadh
+    03/25/2006  CL Mistress of the Pelican -- Ardenia Arouadh
   
+  
+  == Ardenia the Red (Ardennia Arouadh) [registered] ==
+    05/03/1997 A   Award of Arms -- Ardenia the Red (Ardennia Arouadh)
+    09/27/2003 A   Court Baroness -- Ardenia the Red (Ardennia Arouadh)
+    09/27/2003 A   Grant of Arms -- Ardenia the Red (Ardennia Arouadh)
+    02/27/2005 A   Silver Crescent -- Ardenia the Red (Ardennia Arouadh)
+    03/25/2006 A   Mistress of the Pelican -- Ardenia the Red (Ardennia Arouadh)
   
   == Ardennia Arouadh ==
     SEE: Ardenia the Red
@@ -24715,8 +24695,6 @@ Alpha List {
   
   == Argus of the Seven Hills ==
     09/16/2000 AC  Award of Arms -- Argus of the Seven Hills
-    08/08/2012 A   Court Barony -- Argus of the Seven Hills
-    08/08/2012 A   Grant of Arms -- Argus of the Seven Hills
   
   == Ari de Lyon ==
     07/26/1997 A   Award of Arms -- Ari de Lyon
@@ -24780,7 +24758,7 @@ Alpha List {
     11/26/1994 A   Award of Arms -- Arianna Maria di Marchesi
   
   == Arianna Ravenstar of Wolfwood (“Aja”) [registered] ==
-    02/05/1989 A   Yale (Dragonship Haven (Unknown Branch) -- Arianna Ravenstar of Wolfwood (“Aja”)
+    02/05/1989 A   Yale (Dragonship Haven) -- Arianna Ravenstar of Wolfwood (“Aja”)
     06/24/1989 A   Award of Arms -- Arianna Ravenstar of Wolfwood (“Aja”)
     01/29/1994 A   Terpsichore -- Arianna Ravenstar of Wolfwood (“Aja”)
     05/29/1999 A   Manche -- Arianna Ravenstar of Wolfwood (“Aja”)
@@ -24819,6 +24797,10 @@ Alpha List {
   == Arianwen ferch Lawen [registered] ==
     10/12/2002 AC  Golden Lyre -- Arianwen ferch Llawen
   
+  
+  == Arianwen of Urquhart ==
+    08/08/2012 A   Court Barony -- Arianwen of Urquhart
+    08/08/2012 A   Grant of Arms -- Arianwen of Urquhart
   
   == Aric Arundel of the Mist [registered] ==
     10/19/1985 A   Award of Arms -- Aric Arundel of the Mist
@@ -25018,7 +25000,7 @@ Alpha List {
     06/30/1985   L Chivalry -- Artemas Maximus [from West]
     06/30/1985 A   Knight -- Artemas Maximus [from West]
     05/15/1993 A   Valor (West) -- Artemas Maximus
-    08/27/1994 A   Baron (Unknown Branch) -- Artemas Maximus [from West]
+    08/27/1994 A   Court Baron -- Artemas Maximus [from West]
     06/10/2007 A   Millstone (Stonemarche) -- Artemas Maximus
   
   == Artemas le Beau [registered] ==
@@ -25112,7 +25094,7 @@ Alpha List {
     08/16/2006 AC  Award of Arms -- Asa Ellisifdottir
   
   == Asa Lee Durant [registered] ==
-    04/16/1988 A   Guardsman (Unknown Branch) -- Asa Lee Durant
+    04/16/1988 A   Guardsman -- Asa Lee Durant
   
   == Asa de Tanet [registered] ==
     06/18/2005 AC  Award of Arms -- Asa de Tanet
@@ -25390,12 +25372,11 @@ Alpha List {
     09/18/2010 AC  Award of Arms -- Aurerliana Curva
   
   == Auriana Filia Germani ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Auriana Filia Germani
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Auriana Filia Germani
+    06/11/2011 A   Burden Tyger -- Auriana Filia Germani [Lucan VIII and Jana V]
     06/11/2011  C  Grand of Arms -- Auriana filia Germani
     06/11/2011  C  Court Barony -- Auriana filia Germani
     09/24/2011  C  Queen's Honor of Distinction -- Auriana Filia Germani
-    10/01/2011 A   Queen's Honor of Distintion (Unknown Branch) -- Auriana Filia Germani [Lucan VIII]
+    10/01/2011 A   Queen's Honor of Distinction -- Auriana Filia Germani [Lucan VIII]
     09/22/2012 A   Queen's Honor of Distinction -- Auriana Filia Germani [Avelina]
   
   == Auriana de Auntie ==
@@ -25575,7 +25556,7 @@ Alpha List {
     05/19/2001 AC  Award of Arms -- Ayden of Owls Reste
   
   == Ayiyah of Endewearde ==
-  
+    10/08/2012 A   Tygers Cub -- Ayiyah of Endewearde
   
   == Azalais de Fontevrault ==
     02/22/2003 AC  Award of Arms -- Azalais de Fontevrault
@@ -26003,7 +25984,7 @@ Alpha List {
     03/18/1995 A   Award of Arms -- Berelindis filia Cunowulfi (was:Cynewulfdohtor
     05/28/1995 A   ze Tower (Unknown Branch) -- Berelindis filia Cunowulfi (was:Cynewulfdohtor [from Settmour Swamp]
     09/20/1998 A   Burdened Tyger -- Berelindis filia Cunowulfi (was:Cynewulfdohtor
-    03/18/2000 A   Silver Tower (Unknown Branch) -- Berelindis filia Cunowulfi (was:Cynewulfdohtor [from Settmour Swamp]
+    03/18/2000 A   Silver Tower (Settmour Swamp) -- Berelindis filia Cunowulfi (was:Cynewulfdohtor
     07/26/2003 A   Burdened Tyger -- Berelindis filia Cunowulfi (was:Cynewulfdohtor
     01/14/2005 A   Manche -- Berelindis filia Cunowulfi (was:Cynewulfdohtor
     01/15/2005 A   Silver Crescent -- Berelindis filia Cunowulfi (was:Cynewulfdohtor
@@ -26120,7 +26101,7 @@ Alpha List {
     10/29/1988 A   Award of Arms -- Bettina von Suessen
     01/05/1991 A   Lady of the Edelweiss (Unknown Branch) -- Bettina von Suessen
     01/05/1991 A   Viscountess -- Bettina von Suessen [from Drachenwald]
-    10/05/1991 A   Princess's Courtesy (Unknown Branch) -- Bettina von Suessen
+    10/05/1991 A   Princess's Courtesy (Drachenwald) -- Bettina von Suessen
     10/05/1991 A   Lindquistrings (Unknown Branch) -- Bettina von Suessen
     06/20/1992 A   Principality Company of Sojourners (Drachenwald) -- Bettina von Suessen
   
@@ -26293,8 +26274,7 @@ Alpha List {
     10/03/2009  C  Blue Tyger Legion -- Blutwache (House Bloodguard)
   
   == Blythe de' Eye ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Blythe de' Eye
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Blythe de' Eye
+    06/11/2011 A   Burden Tyger -- Blythe de' Eye [Lucan VIII and Jana V]
     04/14/2012 A   Award of Arms -- Blythe de' Eye
   
   == Boal Mergen [registered] ==
@@ -26550,7 +26530,7 @@ Alpha List {
   
   == Brendan Olthursson [registered] ==
     10/22/1988 A   Award of Arms -- Brendan Olthursson
-    02/01/1989 A   Guardsman (Unknown Branch) -- Brendan Olthursson
+    02/01/1989 A   Guardsman -- Brendan Olthursson
     04/20/1991 A   Silver Crescent -- Brendan Olthursson
     08/12/1992 A   Golden Rapier -- Brendan Olthursson
     10/15/1994 A   Sun and Soil (Beyond the Mountain) -- Brendan Olthursson
@@ -27205,8 +27185,7 @@ Alpha List {
     12/28/1991 A   Award of Arms -- Bryanna nic Kiley
   
   == Bryetor Aison of Devon ==
-    01/13/1979   L Chivalry -- Bryetor Aison of Devon [from East]
-    01/13/1979 A   Chivalry - Alantia (Unknown Branch) -- Bryetor Aison of Devon
+    01/13/1979 A L Chivalry -- Bryetor Aison of Devon [Alantia]
     03/24/1979   L Viscount -- Bryetor Aison of Devon [from Atlantia]
     03/24/1979 A   Viscounty (Unknown Branch) -- Bryetor Aison of Devon
     04/26/1980 A   Champion on the Manche (Unknown Branch) -- Bryetor Aison of Devon
@@ -27327,8 +27306,7 @@ Alpha List {
     04/25/1978 A   White Oak (Beyond the Mountain) -- Caedwyn of the Shadows
   
   == Caelia Blackwolf ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Caelia Blackwolf
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Caelia Blackwolf
+    06/11/2011 A   Burden Tyger -- Caelia Blackwolf [Lucan VIII and Jana V]
     06/23/2012 A   Queen's Honor of Distinction -- Caelia Blackwolf [Avelina]
   
   == Caellyn Fitzhugh ==
@@ -27466,7 +27444,7 @@ Alpha List {
     06/19/2004 AC  Baroness of Smoking Rocks -- Caitlin Fraser
     04/14/2007 A   Manche -- Caitlin Fraser
     06/20/2009 A   Silver Crescent -- Caitlin Fraser
-    06/19/2010 A   Leviathan (Unknown Branch) -- Caitlin Fraser
+    06/19/2010 A   Leviathan (Smoking Rocks) -- Caitlin Fraser
     06/19/2010 AC  Court Baroness -- Caitlin Fraser
   
   == Caitlin Frazer ==
@@ -27630,7 +27608,7 @@ Alpha List {
     12/15/2007 AC  Burdened Tyger -- Calogero Urso
   
   == Calron Redwolf ==
-    05/30/1992 A   Princess's Courtesy (Unknown Branch) -- Calron Redwolf
+    05/30/1992 A   Princess's Courtesy (Drachenwald) -- Calron Redwolf
   
   == Calum Creachadair [registered] ==
     03/15/1986 A   Bronze Tower (Settmour Swamp) -- Calum Creachadair
@@ -27971,7 +27949,7 @@ Alpha List {
     06/03/2006 A   Manche -- Catalina d’Orieux (Catalina Maria d’Oro)
   
   == Catarina Giaocchini ==
-    02/11/2012  C  Queen's Arts and Sciences Champion -- Catarina Giaocchini
+    02/11/2012  C  Queen's Arts and Sciences Champion -- Catarina Giaocchini [Incoming]
     03/24/2012  C  Queen's A&S Champion -- Catarina Giaocchini [backlog]
   
   == Catarina di Venezia ==
@@ -28469,7 +28447,7 @@ Alpha List {
     06/19/2004 A   Grant of Arms -- Cerdic of Colbridge
     06/19/2004 AC  Baron of Smoking Rocks -- Cerdic of Colbridge
     10/09/2004 AC  Silver Crescent -- Cerdic of Colbridge
-    06/09/2010 A   Leviathan (Unknown Branch) -- Cerdic of Colbridge [from Smoking Rocks]
+    06/09/2010 A   Leviathan (Smoking Rocks) -- Cerdic of Colbridge
     06/19/2010 AC  Court Baron -- Cerdic of Colbridge
   
   == Cerdic the Bull [registered] ==
@@ -28578,7 +28556,7 @@ Alpha List {
     10/20/1984 A   Award of Arms -- Charles Philippe Castlemore de Cadours
     05/26/1985 A   Queen's Courtesy -- Charles Philippe Castlemore de Cadours
     10/10/1987 A   Manche -- Charles Philippe Castlemore de Cadours
-    03/26/1988 A   Guardsman (Unknown Branch) -- Charles Philippe Castlemore de Cadours
+    03/26/1988 A   Guardsman -- Charles Philippe Castlemore de Cadours
     01/31/2004 AC  Golden Rapier -- Charles Philippe Castlemore de Cadours
   
   == Charles Raven ==
@@ -29025,7 +29003,7 @@ Alpha List {
   
   == Cinhil MacAran [registered] ==
     06/07/1980 A   Award of Arms -- Cinhil MacAran
-    05/08/1982 A   Princess's Courtesy (Unknown Branch) -- Cinhil MacAran
+    05/08/1982 A   Princess's Courtesy (Drachenwald) -- Cinhil MacAran
     07/03/1982 A   Silver Crescent -- Cinhil MacAran
     10/02/1982 A   Court Baron -- Cinhil MacAran
     09/08/1984 A   Queen's Courtesy -- Cinhil MacAran
@@ -29074,7 +29052,7 @@ Alpha List {
   == Claude the Frank [registered] [deceased] ==
     04/06/1991 A   Award of Arms -- Claude the Frank
     09/24/1994 A   Tygers Combattant -- Claude the Frank
-    06/26/2004 A   Leviathan (Unknown Branch) -- Claude the Frank [from Smoking Rocks]
+    06/26/2004 A   Leviathan (Smoking Rocks) -- Claude the Frank
   
   == Claudius of Neddingham [registered] [deceased] ==
     01/04/1986 A   Award of Arms -- Claudius of Neddingham
@@ -29965,8 +29943,7 @@ Alpha List {
   == Céleste le Mercier [registered] ==
     04/10/1999 A   Award of Arms -- Céleste le Mercier
     01/29/2011 A   Silver Crescent -- Céleste le Mercier
-    06/11/2011 A   Jana V (Unknown Branch) -- Céleste le Mercier
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Céleste le Mercier
+    06/11/2011 A   Burden Tyger -- Céleste le Mercier [Lucan VIII and Jana V]
   
   == Céline Elisabeth de Meaux [registered] ==
     03/05/1994 A   Award of Arms -- Céline Elisabeth de Meaux
@@ -30551,8 +30528,7 @@ Alpha List {
     01/27/2001 AC  Award of Arms -- Deirdre Gervais de la Vallee
   
   == Deirdre MacMamara ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Deirdre MacMamara
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Deirdre MacMamara
+    06/11/2011 A   Burden Tyger -- Deirdre MacMamara [Lucan VIII and Jana V]
   
   == Deirdre MacNamara of Trollhaven [registered] ==
     09/07/1996 A   Award of Arms -- Deirdre MacNamara of Trollhaven
@@ -30581,7 +30557,7 @@ Alpha List {
   == Deirdre Schneider [registered] ==
     01/11/1986 A   Award of Arms -- Deirdre Schneider
     03/28/1987 A   Bronze Tower (Settmour Swamp) -- Deirdre Schneider
-    10/23/1988 A   Silver Tower (Unknown Branch) -- Deirdre Schneider [from Settmour Swamp]
+    10/23/1988 A   Silver Tower (Settmour Swamp) -- Deirdre Schneider
   
   == Deirdre Ui Mhaille [registered] ==
     01/12/1985 A   Award of Arms -- Deirdre Ui Mhaille
@@ -30790,7 +30766,7 @@ Alpha List {
   
   == Dianaim ingen Eochada [registered] ==
     06/21/2003 AC  Award of Arms -- Dianaim ingen Eochada
-    06/18/2005 A   Quadrant (Unknown Branch) -- Dianaim ingen Eochada [from Smoking Rocks]
+    06/18/2005 A   Quadrant (Smoking Rocks) -- Dianaim ingen Eochada
     06/03/2006 A   Manche -- Dianaim ingen Eochada
     04/14/2007 A   Queen's Honor of Distinction -- Dianaim ingen Eochada [Jana IV]
   
@@ -30821,8 +30797,7 @@ Alpha List {
     11/26/2011  C  Princess's Champion of Arts & Sciences -- Diarmit O'Brien
   
   == Dideyon ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Dideyon
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Dideyon
+    06/11/2011 A   Burden Tyger -- Dideyon [Lucan VIII and Jana V]
   
   == Didier de Montfort ==
     05/08/1999 A   Award of Arms -- Didier de Montfort
@@ -30916,7 +30891,7 @@ Alpha List {
   
   == Dillon Griffith a' Bheither [registered] ==
     03/30/1985 A   Bronze Tower (Settmour Swamp) -- Dillon Griffith a' Bheither
-    10/23/1988 A   Silver Tower (Unknown Branch) -- Dillon Griffith a' Bheither [from Settmour Swamp]
+    10/23/1988 A   Silver Tower (Settmour Swamp) -- Dillon Griffith a' Bheither
     07/??/1989 A   Ivory Tower (Settmour Swamp) -- Dillon Griffith a' Bheither
     08/??/1990 A   Bloody Tower (Settmour Swamp) -- Dillon Griffith a' Bheither
   
@@ -31007,8 +30982,7 @@ Alpha List {
     07/03/1988 A   Award of Arms -- Doigh
   
   == Dom Coelho do Buraco ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Dom Coelho do Buraco
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Dom Coelho do Buraco
+    06/11/2011 A   Burden Tyger -- Dom Coelho do Buraco [Lucan VIII and Jana V]
   
   == Dom Lourenco Coelho do Buraco ==
     11/08/2008 A   White Oak (Beyond the Mountain) -- Dom Lourenco Coelho do Buraco
@@ -31051,7 +31025,7 @@ Alpha List {
     07/23/1989 A   Award of Arms -- Donal Artur of the Silver Band
     10/07/1989 A   Troubadour -- Donal Artur of the Silver Band
     04/27/1991 A   Perseus (Carolingia) -- Donal Artur of the Silver Band
-    09/28/1991 A   Guardsman (Unknown Branch) -- Donal Artur of the Silver Band
+    09/28/1991 A   Guardsman -- Donal Artur of the Silver Band
     10/05/1996 A   Golden Rapier -- Donal Artur of the Silver Band
   
   == Donal Galbraith [registered] ==
@@ -31576,8 +31550,7 @@ Alpha List {
     09/30/1995 A   Court Baroness -- Dyan O'Choda
     09/30/1995 A   Grant of Arms -- Dyan O'Choda
     08/12/1998 A   Silver Crescent -- Dyan O'Choda
-    06/11/2011 A   Jana V (Unknown Branch) -- Dyan O'Choda
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Dyan O'Choda
+    06/11/2011 A   Burden Tyger -- Dyan O'Choda [Lucan VIII and Jana V]
   
   == Dyana Greenwood [registered] ==
     11/07/1987 A   Award of Arms -- Dyana Greenwood
@@ -32030,8 +32003,7 @@ Alpha List {
   == Eilidh Froach ==
     11/06/2005 A   White Oak (Beyond the Mountain) -- Eilidh Froach
     01/28/2006 AC  Award of Arms -- Eilidh Froach
-    06/11/2011 A   Jana V (Unknown Branch) -- Eilidh Froach
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Eilidh Froach
+    06/11/2011 A   Burden Tyger -- Eilidh Froach [Lucan VIII and Jana V]
     09/22/2012 A   Embroideress to the Crown (Unknown Branch) -- Eilidh Froach
   
   == Eilionora inghean ui Ruairc ==
@@ -32098,7 +32070,7 @@ Alpha List {
     07/25/1992 A   Silver Crescent -- Eirik Rodbjorn
     03/18/1995 A   Burdened Tyger -- Eirik Rodbjorn
     03/10/2001 A   Manche -- Eirik Rodbjorn
-    03/23/2002 A   Silver Tower (Unknown Branch) -- Eirik Rodbjorn [from Settmour Swamp]
+    03/23/2002 A   Silver Tower (Settmour Swamp) -- Eirik Rodbjorn
     03/23/2002 A   Court Baron -- Eirik Rodbjorn
     03/23/2002 A   Grant of Arms -- Eirik Rodbjorn
     03/20/2004 A   Iron Tower (Settmour Swamp) -- Eirik Rodbjorn
@@ -32211,7 +32183,7 @@ Alpha List {
   
   == Elaine Howys of Morningthorpe ==
     01/31/2009 AC  Award of Arms -- Elaine Howys of Morningthorpe
-    06/16/2012 A   Quadrant (Unknown Branch) -- Elaine Howys of Morningthorpe [from Smoking Rocks]
+    06/16/2012 A   Quadrant (Smoking Rocks) -- Elaine Howys of Morningthorpe
   
   == Elaine de Caer Llynnedd ==
     05/24/1998 A   Award of Arms -- Elaine de Caer Llynnedd
@@ -32260,7 +32232,7 @@ Alpha List {
     03/10/2001 A   Bronze Tower (Settmour Swamp) -- Eleanor Callaghan
     03/10/2001 A   Award of Arms -- Eleanor Callaghan
     03/25/2006 AC  Troubadour -- Eleanor Callaghan
-    05/27/2007 A   Silver Tower (Unknown Branch) -- Eleanor Callaghan [from Settmour Swamp]
+    05/27/2007 A   Silver Tower (Settmour Swamp) -- Eleanor Callaghan
   
   == Eleanor Catlyn [registered] ==
     02/03/1996 A   Award of Arms -- Eleanor Catlyn
@@ -32754,8 +32726,7 @@ Alpha List {
   
   == Elizabeth Miller of Edgewater ==
     09/29/2007 AC  Award of Arms -- Elizabeth Miller of Edgewater
-    06/11/2011 A   Jana V (Unknown Branch) -- Elizabeth Miller of Edgewater
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Elizabeth Miller of Edgewater
+    06/11/2011 A   Burden Tyger -- Elizabeth Miller of Edgewater [Lucan VIII and Jana V]
   
   == Elizabeth Morgan Ausdauer ==
     11/09/1991 A   White Oak (Beyond the Mountain) -- Elizabeth Morgan Ausdauer
@@ -33080,7 +33051,7 @@ Alpha List {
   == Elysende Leville [registered] ==
     09/13/1980 A   Award of Arms -- Elysende Leville
     05/09/1981 A   Burdened Tyger -- Elysende Leville
-    10/25/1982 A   Silver Tower (Unknown Branch) -- Elysende Leville [from Settmour Swamp]
+    10/25/1982 A   Silver Tower (Settmour Swamp) -- Elysende Leville
   
   == Emanuelle of Southbank ==
     SEE: Emmanuelle de Chenonceaux
@@ -33109,7 +33080,7 @@ Alpha List {
     07/03/2010 AC  Silver Crescent -- Emeline Patterson
     03/24/2012 A   Ivory Tower (Settmour Swamp) -- Emeline Patterson
     03/24/2012  C  Seamstress to the Crown -- Emeline Patterson
-    08/09/2012 A   Silver Tower (Unknown Branch) -- Emeline Patterson [from Settmour Swamp]
+    08/09/2012 A   Silver Tower (Settmour Swamp) -- Emeline Patterson
   
   == Emelyne Reisehund ==
     01/28/2012 AC  Award of Arms -- Emelyne Reisehund
@@ -33285,7 +33256,7 @@ Alpha List {
   == Eofn ap Erwyn ==
     01/07/1980 A   Silver Snowflake (Unknown Branch) -- Eofn ap Erwyn [from Concordia of the Snows]
     10/18/1980 A   Baron Concordia of the Snows -- Eofn ap Erwyn [retired]
-    01/10/1982 A   Pheon (Unknown Branch) -- Eofn ap Erwyn
+    01/10/1982 A   Pheon -- Eofn ap Erwyn
   
   == Eogan Macdomnail ==
     05/07/2011 AC  Award of Arms -- Eogan Macdomnail
@@ -33439,7 +33410,7 @@ Alpha List {
   == Eric the Horseman [registered] ==
     AKA: the Wandering Horseman
     03/18/2000 A   Award of Arms -- Eric the Horseman
-    05/28/2006 A   Silver Tower (Unknown Branch) -- Eric the Horseman [from Settmour Swamp]
+    05/28/2006 A   Silver Tower (Settmour Swamp) -- Eric the Horseman
     03/29/2008 AC  Queen's Courtesy -- Eric the Horseman
     01/15/2011 AC  Silver Crescent -- Eric the Horseman
   
@@ -33476,8 +33447,7 @@ Alpha List {
     03/24/2012 A   Iron Tower (Settmour Swamp) -- Erich Hundeman
   
   == Erich Ridlon ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Erich Ridlon
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Erich Ridlon
+    06/11/2011 A   Burden Tyger -- Erich Ridlon [Lucan VIII and Jana V]
   
   == Erich von Halstern ==
     04/19/1990 A   Tygers Cub -- Erich von Halstern
@@ -33928,8 +33898,7 @@ Alpha List {
     06/09/2007 A   Award of Arms -- Eydis of Stonemarche
   
   == Eyva Kilcullen ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Eyva Kilcullen
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Eyva Kilcullen
+    06/11/2011 A   Burden Tyger -- Eyva Kilcullen [Lucan VIII and Jana V]
     04/14/2012 A   Award of Arms -- Eyva Kilcullen
   
   == Eílís ní Bhraonaín ==
@@ -34289,7 +34258,7 @@ Alpha List {
   
   == Fiona MacNicol [registered] ==
     10/09/1993 A   Award of Arms -- Fiona MacNicol
-    03/10/2001 A   Silver Tower (Unknown Branch) -- Fiona MacNicol [from Settmour Swamp]
+    03/10/2001 A   Silver Tower (Settmour Swamp) -- Fiona MacNicol
   
   == Fiona O'Maille o Chuan Coille ==
     06/23/2012   L Pelican -- Fiona O'Maille o Chuan Coille
@@ -34834,7 +34803,7 @@ Alpha List {
     03/10/2001 A   Bronze Tower (Settmour Swamp) -- Gabrielle van Nijenrode
     04/21/2001 AC  Queen's Honor of Distinction -- Gabrielle van Nijenrode [Isabella]
     09/28/2002 AC  Silver Crescent -- Gabrielle van Nijenrode
-    03/29/2003 A   Silver Tower (Unknown Branch) -- Gabrielle van Nijenrode [from Settmour Swamp]
+    03/29/2003 A   Silver Tower (Settmour Swamp) -- Gabrielle van Nijenrode
     08/13/2003 ACL Mistress of the Pelican -- Gabrielle van Nijenrode
   
   == Gabrielle von Njenrode ==
@@ -36011,7 +35980,7 @@ Alpha List {
   
   == Gregory Finche [registered] ==
     02/11/1989 A   Award of Arms -- Gregory Finche
-    07/27/1991 A   Guardsman (Unknown Branch) -- Gregory Finche
+    07/27/1991 A   Guardsman -- Gregory Finche
     07/19/1992 A   Silver Crescent -- Gregory Finche
     08/12/1992 A   Golden Rapier -- Gregory Finche
     04/23/1994 A   Manche -- Gregory Finche
@@ -36639,7 +36608,7 @@ Alpha List {
     05/16/1992 A   Leaf of Merit (West) -- Gwenllian Rhiannon of Dragon Keep [from Mists]
     10/24/1992   L Chivalry -- Gwenllian Rhiannon of Dragon Keep [from West]
     10/24/1992 A   Master at Arms -- Gwenllian Rhiannon of Dragon Keep [from West]
-    01/09/1993 A   Wooden Spoon (Unknown Branch) -- Gwenllian Rhiannon of Dragon Keep [from West]
+    01/09/1993 A   Wooden Spoon (West) -- Gwenllian Rhiannon of Dragon Keep
     06/19/1993 A L Mistress of the Pelican -- Gwenllian Rhiannon of Dragon Keep
     05/18/1996 A   Rose Leaf (Mists) -- Gwenllian Rhiannon of Dragon Keep
     06/10/2007 A   Millstone (Stonemarche) -- Gwenllian Rhiannon of Dragon Keep
@@ -36695,9 +36664,12 @@ Alpha List {
   == Gwladys Chittenden [registered] ==
     04/11/1992 A   Award of Arms -- Gwladys Chittenden
   
+  == Gwyddon Alexander MacGregor of Settmour ==
+    03/26/2011   L Pelican -- Gwyddon Alexander MacGregor of Settmour [called Alexander MacGregor]
+  
   == Gwyddon Alexander MacGregor of Settmour - called Alexander MacGregor ==
     03/26/2011  C  Patent of Arms -- Gwyddon Alexander MacGregor of Settmour - called Alexander MacGregor
-    03/26/2011  CL Pelican -- Gwyddon Alexander MacGregor of Settmour - called Alexander MacGregor
+    03/26/2011  C  Pelican -- Gwyddon Alexander MacGregor of Settmour - called Alexander MacGregor
   
   == Gwydiaan am y'Gorlwyn [registered] ==
     08/21/1976 A   Award of Arms -- Gwydiaan am y'Gorlwyn [from West]
@@ -36729,7 +36701,7 @@ Alpha List {
   == Gwynaeth ferch Llewellyn von Westfalen [registered] ==
     04/04/1981 A   Award of Arms -- Gwynaeth ferch Llewellyn von Westfalen
     05/09/1981 A   Queen's Cypher -- Gwynaeth ferch Llewellyn von Westfalen [from West]
-    03/06/1982 A   Silver Tower (Unknown Branch) -- Gwynaeth ferch Llewellyn von Westfalen [from Settmour Swamp]
+    03/06/1982 A   Silver Tower (Settmour Swamp) -- Gwynaeth ferch Llewellyn von Westfalen
     09/08/1984 A   Manche -- Gwynaeth ferch Llewellyn von Westfalen
   
   == Gwynedd de Gellingaer ==
@@ -36746,7 +36718,7 @@ Alpha List {
   
   == Gwyneth ferch Meredydd Ynys Mon [registered] ==
     04/11/1987 A   Award of Arms -- Gwyneth ferch Meredydd Ynys Mon
-    10/07/1987 A   Guardsman (Unknown Branch) -- Gwyneth ferch Meredydd Ynys Mon
+    10/07/1987 A   Guardsman -- Gwyneth ferch Meredydd Ynys Mon
     07/10/1993 A   Golden Rapier -- Gwyneth ferch Meredydd Ynys Mon
   
   == Gwyneth ni Mathghamhan ==
@@ -37140,7 +37112,7 @@ Alpha List {
   == Helen of Dianasgrove [registered] ==
     10/23/1988 A   Bronze Tower (Settmour Swamp) -- Helen of Dianasgrove
     05/13/1989 A   Award of Arms -- Helen of Dianasgrove
-    03/12/1994 A   Silver Tower (Unknown Branch) -- Helen of Dianasgrove [from Settmour Swamp]
+    03/12/1994 A   Silver Tower (Settmour Swamp) -- Helen of Dianasgrove
   
   == Helen of Forestgate ==
     01/29/1994 A   Award of Arms -- Helen of Forestgate
@@ -37636,7 +37608,7 @@ Alpha List {
     04/30/2011 AC  Golden Mantle -- Ichabod the Tall
   
   == Iciar Albarez de Montesinos [registered] ==
-    04/16/1988 A   Guardsman (Unknown Branch) -- Iciar Albarez de Montesinos
+    04/16/1988 A   Guardsman -- Iciar Albarez de Montesinos
     04/16/1988 A   Award of Arms -- Iciar Albarez de Montesinos
     08/12/1992 A   Golden Rapier -- Iciar Albarez de Montesinos
   
@@ -38426,8 +38398,7 @@ Alpha List {
   
   == Jake de Twelfoaks ==
     06/05/1999 A   Award of Arms -- Jake de Twelfoaks
-    06/11/2011 A   Jana V (Unknown Branch) -- Jake de Twelfoaks
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Jake de Twelfoaks
+    06/11/2011 A   Burden Tyger -- Jake de Twelfoaks [Lucan VIII and Jana V]
     06/11/2011 AC  Silver Crescent -- Jake de Twelfoaks
   
   == Jakob van Vanren ==
@@ -38613,8 +38584,7 @@ Alpha List {
     04/14/2007 AC  Award of Arms -- Janos Abendroth
   
   == Janos Meszaros ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Janos Meszaros
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Janos Meszaros
+    06/11/2011 A   Burden Tyger -- Janos Meszaros [Lucan VIII and Jana V]
     07/02/2011 AC  Maunche -- Janos Meszaros
   
   == Janos Veres ==
@@ -38895,7 +38865,7 @@ Alpha List {
   
   == Jehanne Urchurdan [registered] ==
     01/05/1991 A   Award of Arms -- Jehanne Urchurdan
-    06/26/2004 A   Leviathan (Unknown Branch) -- Jehanne Urchurdan [from Smoking Rocks]
+    06/26/2004 A   Leviathan (Smoking Rocks) -- Jehanne Urchurdan
   
   == Jehanne de Wodeford [registered] ==
     01/24/1998 A   Award of Arms -- Jehanne de Wodeford
@@ -39044,7 +39014,7 @@ Alpha List {
     03/??/1992 A   Ivory Tower (Settmour Swamp) -- Jessa of Avondale
     04/03/1993 A   Terpsichore -- Jessa of Avondale
     10/09/1993 A   Manche -- Jessa of Avondale
-    03/18/1995 A   Silver Tower (Unknown Branch) -- Jessa of Avondale [from Settmour Swamp]
+    03/18/1995 A   Silver Tower (Settmour Swamp) -- Jessa of Avondale
     03/18/1995 A   Burdened Tyger -- Jessa of Avondale
     04/05/1997 A L Mistress of the Pelican -- Jessa of Avondale
     09/28/2002 A   King's Cypher -- Jessa of Avondale [Darius]
@@ -39060,8 +39030,7 @@ Alpha List {
     07/12/1986 A   Pillar (Bridge) -- Jesse the Smith
   
   == Jessica Bouchard ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Jessica Bouchard
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Jessica Bouchard
+    06/11/2011 A   Burden Tyger -- Jessica Bouchard [Lucan VIII and Jana V]
   
   == Jessica Buckley ==
     09/28/2002  C  Award of Arms -- Jessica Buckley
@@ -40568,8 +40537,7 @@ Alpha List {
   == Katherine O'Brien ==
     03/06/2010 AC  Award of Arms -- Katherine O'Brien
     04/10/2010 AC  King's Cypher -- Katherine O'Brien [Konrad II]
-    06/11/2011 A   Jana V (Unknown Branch) -- Katherine O'Brien
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Katherine O'Brien
+    06/11/2011 A   Burden Tyger -- Katherine O'Brien [Lucan VIII and Jana V]
   
   == Katherine Stanhope [registered] ==
     11/15/1986 A   Award of Arms -- Katherine Stanhope
@@ -41737,8 +41705,7 @@ Alpha List {
   
   == Lassairfhina MacIntyre ==
     05/01/2010 AC  Award of Arms -- Lassairfhina MacIntyre
-    06/11/2011 A   Jana V (Unknown Branch) -- Lassairfhina MacIntyre
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Lassairfhina MacIntyre
+    06/11/2011 A   Burden Tyger -- Lassairfhina MacIntyre [Lucan VIII and Jana V]
   
   == Lassairfhiona inghean Cheallaigh ==
     05/29/2010 AC  Award of Arms -- Lassairfhiona inghean Cheallaigh
@@ -42221,7 +42188,7 @@ Alpha List {
     10/12/2002 A   Sable Bell (Carillion) -- Lillian atte Valeye
     07/26/2003 A   Award of Arms -- Lillian atte Valeye
     09/21/2008 A   Silver Crescent -- Lillian atte Valeye
-    04/21/2012 A   Light of Carillion (Unknown Branch) -- Lillian atte Valeye
+    04/21/2012 A   Light of Carillion (Carillion) -- Lillian atte Valeye
   
   == Lillian atte Valeye (called Lilly of the Valley) ==
     09/21/2008  C  Silver Crescent -- Lillian atte Valeye (called Lilly of the Valley)
@@ -42282,7 +42249,7 @@ Alpha List {
     08/16/2000 ACL Mistress of the Laurel -- Linette de Gallardon
     04/27/2002 AC  Burdened Tyger -- Linette de Gallardon
     02/24/2007  C  Queen's Bard -- Linette de Gallardon
-    01/07/2012  C  King's Bardic Champion -- Linette de Gallardon
+    01/07/2012  C  King's Bardic Champion -- Linette de Gallardon [In Coming]
   
   == Link Wulfsbane ==
     07/12/2008 AC  Award of Arms -- Link Wulfsbane
@@ -42627,8 +42594,7 @@ Alpha List {
     06/21/1986   L Viscount -- Lucilla Theresa de Courtenay [from Drachenwald]
   
   == Lucinda de la Tambor ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Lucinda de la Tambor
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Lucinda de la Tambor
+    06/11/2011 A   Burden Tyger -- Lucinda de la Tambor [Lucan VIII and Jana V]
   
   == Lucinda de la Tambox ==
     06/11/2011  C  Award of Arms -- Lucinda de la Tambox
@@ -42776,8 +42742,7 @@ Alpha List {
     04/03/2004 AC  Augmentation of Arms -- Luna Athanwulf
   
   == Luna dei Gatti ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Luna dei Gatti
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Luna dei Gatti
+    06/11/2011 A   Burden Tyger -- Luna dei Gatti [Lucan VIII and Jana V]
     11/05/2011 AC  Award of Arms -- Luna dei Gatti
   
   == Luncanne Di Giovanni ==
@@ -42835,7 +42800,7 @@ Alpha List {
   
   == Lydia Oenothera [registered] ==
     03/26/1983 A   Award of Arms -- Lydia Oenothera
-    03/31/1984 A   Silver Tower (Unknown Branch) -- Lydia Oenothera [from Settmour Swamp]
+    03/31/1984 A   Silver Tower (Settmour Swamp) -- Lydia Oenothera
   
   == Lydia Rayn Watson ==
     09/25/1999 AC  Award of Arms -- Lydia Rayn Watson
@@ -43237,7 +43202,7 @@ Alpha List {
     ??/??/-1 A   Horse's Head (Unknown Branch) -- Mairghread Ghearr - aka Mairghread of Carillion [from Carillion]
     05/09/2009 A   Award of Arms -- Mairghread Ghearr - aka Mairghread of Carillion
     08/??/2009 A   Sable Bell (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
-    04/21/2012 A   Light of Carillion (Unknown Branch) -- Mairghread Ghearr - aka Mairghread of Carillion
+    04/21/2012 A   Light of Carillion (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
   
   == Mairghread MacCuinnegain ==
     09/19/1987 A   Award of Arms -- Mairghread MacCuinnegain
@@ -43950,7 +43915,7 @@ Alpha List {
   == Marion Quyn ==
     01/07/2012 A   Tourbadour (Unknown Branch) -- Marion Quyn
     01/07/2012  C  Troubadour -- Marion Quyn
-    01/07/2012  C  Queen's Bardic Champion -- Marion Quyn
+    01/07/2012  C  Queen's Bardic Champion -- Marion Quyn [In Coming]
     01/07/2012 AC  Award of Arms -- Marion Quyn
   
   == Marion del Okes [registered] ==
@@ -44413,8 +44378,7 @@ Alpha List {
   
   == Maurin Lessault ==
     06/19/2010 AC  Terpsichore -- Maurin Lessault
-    06/11/2011 A   Jana V (Unknown Branch) -- Maurin Lessault
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Maurin Lessault
+    06/11/2011 A   Burden Tyger -- Maurin Lessault [Lucan VIII and Jana V]
     06/23/2012 A   Queen's Honor of Distinction -- Maurin Lessault [Avelina]
     09/22/2012 A   Silver Crescent -- Maurin Lessault
   
@@ -44808,7 +44772,7 @@ Alpha List {
   == Merlynia of Rivenoak [registered] ==
     01/03/1976 A   Award of Arms -- Merlynia of Rivenoak
     03/19/1977 A   Seahorse (Ostgardr) -- Merlynia of Rivenoak
-    03/26/1983 A   Silver Tower (Unknown Branch) -- Merlynia of Rivenoak [from Settmour Swamp]
+    03/26/1983 A   Silver Tower (Settmour Swamp) -- Merlynia of Rivenoak
     08/17/1985 A   Manche -- Merlynia of Rivenoak
     07/26/1986 A   Ivory Tower (Settmour Swamp) -- Merlynia of Rivenoak
     03/10/1990 A   Court Baroness -- Merlynia of Rivenoak
@@ -45247,7 +45211,7 @@ Alpha List {
     10/09/1993 A   Tygers Combattant -- Mitchell MacBain
     08/18/1995   L Chivalry -- Mitchell MacBain
     08/18/1995 A   Knight -- Mitchell MacBain
-    05/26/2002 A   Silver Tower (Unknown Branch) -- Mitchell MacBain [from Settmour Swamp]
+    05/26/2002 A   Silver Tower (Settmour Swamp) -- Mitchell MacBain
     09/28/2002 AC  King's Cypher -- Mitchell MacBain [Darius]
     03/20/2004 A   Iron Tower (Settmour Swamp) -- Mitchell MacBain
     03/28/2009 ACL Master of the Pelican -- Mitchell MacBain
@@ -45467,7 +45431,7 @@ Alpha List {
     06/06/1998 A   Burdened Tyger -- Morgaine á Bheithir
     03/18/2000 A   Bronze Tower (Settmour Swamp) -- Morgaine á Bheithir
     03/23/2002 A   Terpsichore -- Morgaine á Bheithir
-    05/25/2008 A   Silver Tower (Unknown Branch) -- Morgaine á Bheithir [from Settmour Swamp]
+    05/25/2008 A   Silver Tower (Settmour Swamp) -- Morgaine á Bheithir
   
   == Morgan Arianblaidd [registered] ==
     SEE: Ailis inghean Muirgen
@@ -45615,8 +45579,7 @@ Alpha List {
     10/05/1996 A L Countess -- Morgen Duvall
     09/22/2001 A   Silver Crescent -- Morgen Duvall
     11/04/2006 A   Sun and Soil (Beyond the Mountain) -- Morgen Duvall
-    06/11/2011 A   Jana V (Unknown Branch) -- Morgen Duvall
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Morgen Duvall
+    06/11/2011 A   Burden Tyger -- Morgen Duvall [Lucan VIII and Jana V]
   
   == Morgiane de Provence [registered] ==
     04/20/1974 A   Award of Arms -- Morgiane de Provence
@@ -46128,12 +46091,12 @@ Alpha List {
     06/21/2003 A   Award of Arms -- Nest verch Tangwistel
     08/16/2004 A   Sagittarius -- Nest verch Tangwistel
     01/14/2006  C  Queen's Champion of Arts & Sciences -- Nest verch Tangwistel
-    04/22/2006 A   Quadrant (Unknown Branch) -- Nest verch Tangwistel [from Smoking Rocks]
+    04/22/2006 A   Quadrant (Smoking Rocks) -- Nest verch Tangwistel
     04/30/2006 A   Manche -- Nest verch Tangwistel
     04/14/2007 A   Queen's Honor of Distinction -- Nest verch Tangwistel [Jana IV]
     01/05/2008 A   Silver Crescent -- Nest verch Tangwistel
     01/16/2010 ACL Mistress of the Laurel -- Nest verch Tangwistel
-    04/03/2010 A   Leviathan (Unknown Branch) -- Nest verch Tangwistel [from Smoking Rocks]
+    04/03/2010 A   Leviathan (Smoking Rocks) -- Nest verch Tangwistel
     06/19/2010 A   Baroness of Smoking Rocks -- Nest verch Tangwistel
   
   == Nesta ferch Meriadoc Hartley ==
@@ -46274,8 +46237,7 @@ Alpha List {
     01/08/1994 A   Award of Arms -- Nicolette Nacrobie
   
   == Nicolette de Mathieu ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Nicolette de Mathieu
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Nicolette de Mathieu
+    06/11/2011 A   Burden Tyger -- Nicolette de Mathieu [Lucan VIII and Jana V]
   
   == Nicolette von Zweiberge [registered] ==
     07/19/1997 A   Award of Arms -- Nicolette von Zweiberge
@@ -46938,7 +46900,7 @@ Alpha List {
     06/21/2003 AC  Silver Crescent -- Padraig Dubh MacEanruig
     09/13/2003 AC  Burdened Tyger -- Padraig Dubh MacEanruig
     01/06/2007 ACL Master of the Pelican -- Padraig Dubh MacEanruig
-    04/03/2010 A   Leviathan (Unknown Branch) -- Padraig Dubh MacEanruig [from Smoking Rocks]
+    04/03/2010 A   Leviathan (Smoking Rocks) -- Padraig Dubh MacEanruig
     01/28/2012 A   Troubadour -- Padraig Dubh MacEanruig
   
   == Padraig MacHail ==
@@ -47020,7 +46982,7 @@ Alpha List {
     03/10/2001 A   Bronze Tower (Settmour Swamp) -- Paigan Crawford
     03/23/2002 AC  Baroness of Settmour Swamp -- Paigan Crawford
     07/24/2004 AC  Burdened Tyger -- Paigan Crawford
-    03/24/2007 A   Silver Tower (Unknown Branch) -- Paigan Crawford [from Settmour Swamp]
+    03/24/2007 A   Silver Tower (Settmour Swamp) -- Paigan Crawford
     03/24/2007 AC  Court Baroness -- Paigan Crawford
   
   == Palotzi Marta [registered] ==
@@ -47479,10 +47441,10 @@ Alpha List {
   
   == Philippe Attaignant [registered] ==
     01/28/1989 A   Award of Arms -- Philippe Attaignant
-    04/06/1991 A   Guardsman (Unknown Branch) -- Philippe Attaignant
+    04/06/1991 A   Guardsman -- Philippe Attaignant
   
   == Philippe Provost ==
-    06/26/2004 A   Leviathan (Unknown Branch) -- Philippe Provost [from Smoking Rocks]
+    06/26/2004 A   Leviathan (Smoking Rocks) -- Philippe Provost
   
   == Philippe de Bouillion ==
     05/06/2000  C  Award of Arms -- Philippe de Bouillion
@@ -47523,7 +47485,7 @@ Alpha List {
     05/29/2005 A   Bronze Tower (Settmour Swamp) -- Phillip Reed, called the Facetious
     01/14/2006 A   Silver Crescent -- Phillip Reed, called the Facetious
     08/08/2007 A   Master of the Pelican -- Phillip Reed, called the Facetious
-    03/29/2008 A   Silver Tower (Unknown Branch) -- Phillip Reed, called the Facetious [from Settmour Swamp]
+    03/29/2008 A   Silver Tower (Settmour Swamp) -- Phillip Reed, called the Facetious
     01/17/2009 A   Sagittarius -- Phillip Reed, called the Facetious
     10/01/2011 A   Grand master Bowman (Unknown Branch) -- Phillip Reed, called the Facetious
     12/03/2012 A   Baron of the Court -- Phillip Reed, called the Facetious
@@ -47533,7 +47495,7 @@ Alpha List {
   
   == Phillip of the Golden Stag [registered] ==
     01/30/1988 A   Award of Arms -- Phillip of the Golden Stag
-    06/15/1991 A   Guardsman (Unknown Branch) -- Phillip of the Golden Stag
+    06/15/1991 A   Guardsman -- Phillip of the Golden Stag
     08/12/1992 A   Golden Rapier -- Phillip of the Golden Stag
   
   == Phillip the Facetious ==
@@ -47555,7 +47517,7 @@ Alpha List {
   
   == Phillippe Provost ==
     05/24/2008 AC  Award of Arms -- Phillippe Provost
-    04/11/2009 A   Leviathan (Unknown Branch) -- Phillippe Provost [from Smoking Rocks]
+    04/11/2009 A   Leviathan (Smoking Rocks) -- Phillippe Provost
   
   == Phillippe de Lamperiere ==
     01/11/2003 AC  Award of Arms -- Phillippe de Lamperiere
@@ -47798,7 +47760,7 @@ Alpha List {
   == Rachel of Gwynedd [registered] ==
     03/28/1987 A   Bronze Tower (Settmour Swamp) -- Rachel of Gwynedd
     03/05/1988 A   Award of Arms -- Rachel of Gwynedd
-    03/??/1989 A   Silver Tower (Unknown Branch) -- Rachel of Gwynedd [from Settmour Swamp]
+    03/??/1989 A   Silver Tower (Settmour Swamp) -- Rachel of Gwynedd
     04/04/1998 A   Silver Crescent -- Rachel of Gwynedd
   
   == Rachel of Hartshorn-dale ==
@@ -48344,7 +48306,7 @@ Alpha List {
     09/08/1984 A   Award of Arms -- Retepert the Barbarian
     07/26/1986 A   Bronze Tower (Settmour Swamp) -- Retepert the Barbarian
     03/??/1992 A   Ivory Tower (Settmour Swamp) -- Retepert the Barbarian
-    03/??/1992 A   Silver Tower (Unknown Branch) -- Retepert the Barbarian [from Settmour Swamp]
+    03/??/1992 A   Silver Tower (Settmour Swamp) -- Retepert the Barbarian
   
   == Reya nam Beanntan [registered] ==
     04/06/1982 A   Seahorse (Ostgardr) -- Reya nam Beanntan
@@ -48414,7 +48376,7 @@ Alpha List {
     04/04/1998 A   Manche -- Rhiannon de Carreg Cennen
     03/23/2002 A   Terpsichore -- Rhiannon de Carreg Cennen
     07/26/2003 A   Burdened Tyger -- Rhiannon de Carreg Cennen
-    03/24/2007 A   Silver Tower (Unknown Branch) -- Rhiannon de Carreg Cennen [from Settmour Swamp]
+    03/24/2007 A   Silver Tower (Settmour Swamp) -- Rhiannon de Carreg Cennen
     03/24/2007 A   Baroness of Settmour Swamp -- Rhiannon de Carreg Cennen
     03/26/2011 AC  Queen's Courtesy -- Rhiannon de Carreg Cennen [Aikaterine II]
   
@@ -48751,7 +48713,7 @@ Alpha List {
   
   == Robert Howys of Morningthorpe ==
     01/31/2009 AC  Award of Arms -- Robert Howys of Morningthorpe
-    06/19/2010 A   Quadrant (Unknown Branch) -- Robert Howys of Morningthorpe
+    06/19/2010 A   Quadrant (Smoking Rocks) -- Robert Howys of Morningthorpe
   
   == Robert Kirkpatrick [registered] ==
     02/02/2002 AC  Award of Arms -- Robert Kirkpatrick
@@ -49013,7 +48975,7 @@ Alpha List {
     02/21/1979 A   Yale (Dragonship Haven) -- Roderick of Basing - aka Roderic Hawkyns
     03/01/1986 A   Raven's Feather (Thescorre) -- Roderick of Basing - aka Roderic Hawkyns
     01/30/1988 A   Grant of Arms -- Roderick of Basing - aka Roderic Hawkyns
-    04/16/1988 A   Guardsman (Unknown Branch) -- Roderick of Basing - aka Roderic Hawkyns
+    04/16/1988 A   Guardsman -- Roderick of Basing - aka Roderic Hawkyns
     07/30/1988 A   Manche -- Roderick of Basing - aka Roderic Hawkyns
     09/30/1995 A   Golden Rapier -- Roderick of Basing - aka Roderic Hawkyns
     09/07/1996 A   Silver Crescent -- Roderick of Basing - aka Roderic Hawkyns
@@ -49573,7 +49535,7 @@ Alpha List {
   
   == Rufus Bowie ==
     01/30/2010 AC  Award of Arms -- Rufus Bowie
-    04/03/2010 A   Quadrant (Unknown Branch) -- Rufus Bowie
+    04/03/2010 A   Quadrant (Smoking Rocks) -- Rufus Bowie
   
   == Rufus Fletcher ==
     06/19/1993 A   Award of Arms -- Rufus Fletcher
@@ -50670,8 +50632,7 @@ Alpha List {
     07/20/2002 AC  Terpsichore -- Shadia bint Barro
     ??/??/2010 A   Ordre de Mai (Unknown Branch) -- Shadia bint Barro [from Havre des Glaces]
     09/18/2010 A   Grant of Arms -- Shadia bint Barro
-    03/05/2011 A   Aikaterine II (Unknown Branch) -- Shadia bint Barro
-    03/05/2011 A   Seamstress to the Crown - Gryffith II (Unknown Branch) -- Shadia bint Barro
+    03/05/2011 A   Seamstress to the Crown -- Shadia bint Barro [Gryffith II and Aikaterine II]
     03/05/2011 A   Maunche -- Shadia bint Barro
   
   == Shadiyah al-Zahra ==
@@ -50712,7 +50673,7 @@ Alpha List {
     01/15/2005 A   Award of Arms -- Shannon inghean Bhriain uí Dhuilleáin [from Caid]
     09/23/2006 A   Blasted Oak (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
     09/23/2006 A   Opal (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [from Atlantia]
-    08/07/2007 A   Baronial award of Excellence (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
+    08/07/2007 A   Baronial award of Excellence (Bright Hills) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
     08/07/2007 A   Eagle's Feather (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
     01/19/2008 A   Princess's Riband (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Oertha, West]
     06/28/2008 A   Silver Bough (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Eskalya, West]
@@ -51320,7 +51281,7 @@ Alpha List {
   
   == Solskinn of Smoking Rocks ==
     06/21/2003 A   Award of Arms -- Solskinn of Smoking Rocks
-    06/18/2005 A   Leviathan (Unknown Branch) -- Solskinn of Smoking Rocks [from Smoking Rocks]
+    06/18/2005 A   Leviathan (Smoking Rocks) -- Solskinn of Smoking Rocks
     02/11/2011 AC  Silver Crescent -- Solskinn of Smoking Rocks
   
   == Solvig of Rusted Woodlands ==
@@ -51686,8 +51647,7 @@ Alpha List {
     SEE: Jamila of Bhakail
   
   == Suhayma bint Rasheed ==
-    06/11/2011 A   Jana V (Unknown Branch) -- Suhayma bint Rasheed
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Suhayma bint Rasheed
+    06/11/2011 A   Burden Tyger -- Suhayma bint Rasheed [Lucan VIII and Jana V]
   
   == Suikazura ==
     SEE: Anne von Hellestal
@@ -52366,7 +52326,7 @@ Alpha List {
     09/30/2006  C  Queen's Cypher -- Tatiana Negoshka Danilova
   
   == Tatiana diBivar ==
-    06/26/2004 A   Leviathan (Unknown Branch) -- Tatiana diBivar
+    06/26/2004 A   Leviathan (Smoking Rocks) -- Tatiana diBivar
   
   == Tatjana vom Hülst [registered] ==
     07/11/1992 A   Award of Arms -- Tatjana vom Hülst
@@ -52506,7 +52466,7 @@ Alpha List {
     08/17/1991 A   Knight -- Teric Gwynedd
     10/01/1994 A   Queen's Courtesy -- Teric Gwynedd
     03/23/2002 A   Baron of Settmour Swamp -- Teric Gwynedd
-    03/24/2007 A   Silver Tower (Unknown Branch) -- Teric Gwynedd [from Settmour Swamp]
+    03/24/2007 A   Silver Tower (Settmour Swamp) -- Teric Gwynedd
     03/24/2007 AC  Court Baron -- Teric Gwynedd
     03/29/2008 A   Iron Tower (Settmour Swamp) -- Teric Gwynedd
   
@@ -53051,12 +53011,11 @@ Alpha List {
     10/30/2004 AC  Award of Arms -- Tim, der Zeidelmeister
   
   == Timo Schuzzilwenst ==
-    06/19/2010 A   Leviathan (Unknown Branch) -- Timo Schuzzilwenst
+    06/19/2010 A   Leviathan (Smoking Rocks) -- Timo Schuzzilwenst
   
   == Timothy MacIntyre ==
     05/01/2010 AC  Award of Arms -- Timothy MacIntyre
-    06/11/2011 A   Jana V (Unknown Branch) -- Timothy MacIntyre
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Timothy MacIntyre
+    06/11/2011 A   Burden Tyger -- Timothy MacIntyre [Lucan VIII and Jana V]
   
   == Timothy of Arindale [registered] ==
     08/19/1984 A   Award of Arms -- Timothy of Arindale [from Atlantia]
@@ -53071,7 +53030,7 @@ Alpha List {
     06/17/2000  C  Queen's List Champion -- Timothy of Arindale
     03/10/2001 A   Ivory Tower (Settmour Swamp) -- Timothy of Arindale
     08/15/2002 AC  Tygers Combattant -- Timothy of Arindale
-    03/29/2003 A   Silver Tower (Unknown Branch) -- Timothy of Arindale [from Settmour Swamp]
+    03/29/2003 A   Silver Tower (Settmour Swamp) -- Timothy of Arindale
     05/01/2004  C  Shield of Chivalry -- Timothy of Arindale
     03/17/2012 A   Sable Martlet (Iron Bog) -- Timothy of Arindale
   
@@ -53186,8 +53145,7 @@ Alpha List {
   
   == Tomas an Bhogha o Neil [registered] ==
     AKA: T'Mas na Ui Naill na Boghdoireacht
-    07/02/2011 A   Queen's Courtesy - Jana V (Unknown Branch) -- Tomas an Bhogha o Neil
-    07/02/2011  C  Queen's Courtesy -- T'Mas na Ui Naill na Boghdoireacht
+    07/02/2011 AC  Queen's Courtesy -- T'Mas na Ui Naill na Boghdoireacht [Jana V]
   
   == Tomasso Valeriano ==
     07/22/2000  C  Award of Arms -- Tomasso Valeriano
@@ -53522,7 +53480,7 @@ Alpha List {
   == Tysha z Kieva [registered] ==
     08/02/2009 A   Award of Arms -- Tysha z Kieva
     09/10/2011 A   Chime (Carillion) -- Tysha z Kieva
-    04/21/2012 A   Light of Carillion (Unknown Branch) -- Tysha z Kieva
+    04/21/2012 A   Light of Carillion (Carillion) -- Tysha z Kieva
   
   == Tyssyn the Sneaky ==
     12/16/1995 A   Yale (Dragonship Haven) -- Tyssyn the Sneaky
@@ -53752,7 +53710,7 @@ Alpha List {
     05/09/1981 A   Burdened Tyger -- Ursula of North Woods
     01/09/1982 A   Silver Crescent -- Ursula of North Woods
     01/30/1982 A   Baroness of Settmour Swamp -- Ursula of North Woods
-    03/28/1987 A   Silver Tower (Unknown Branch) -- Ursula of North Woods [from Settmour Swamp]
+    03/28/1987 A   Silver Tower (Settmour Swamp) -- Ursula of North Woods
     03/05/1988 A   Ivory Tower (Settmour Swamp) -- Ursula of North Woods
     05/12/1990 A   Terpsichore -- Ursula of North Woods
     03/12/1994 A   Manche -- Ursula of North Woods
@@ -54044,8 +54002,7 @@ Alpha List {
     01/29/2005 AC  Award of Arms -- Vibeke Dejlie Steinnsdottir
     11/08/2008 A   Sun and Soil (Beyond the Mountain) -- Vibeke Dejlie Steinnsdottir
     05/01/2010 A   Manche -- Vibeke Dejlie Steinnsdottir
-    06/11/2011 A   Jana V (Unknown Branch) -- Vibeke Dejlie Steinnsdottir
-    06/11/2011 A   Burden Tyger - Lucan VIII (Unknown Branch) -- Vibeke Dejlie Steinnsdottir
+    06/11/2011 A   Burden Tyger -- Vibeke Dejlie Steinnsdottir [Lucan VIII and Jana V]
   
   == Vibeke Steensdottir ==
     05/01/2010  C  Manche -- Vibeke Steensdottir
@@ -54359,7 +54316,7 @@ Alpha List {
     ??/??/-1 A   Fish (Carillion) -- Webbe aka Amelia bint Wojciech
     09/21/2008 A   Award of Arms -- Webbe aka Amelia bint Wojciech
     01/22/2011 A   Sable Bell (Carillion) -- Webbe aka Amelia bint Wojciech
-    04/21/2012 A   Light of Carillion (Unknown Branch) -- Webbe aka Amelia bint Wojciech
+    04/21/2012 A   Light of Carillion (Carillion) -- Webbe aka Amelia bint Wojciech
   
   == Weehafoc of Panther Vale ==
     05/30/2010 AC  Gawain -- Weehafoc of Panther Vale
@@ -54682,7 +54639,7 @@ Alpha List {
     10/09/1982 A   Yale (Dragonship Haven) -- William of St. Ives
   
   == William of the Black Fletch [registered] ==
-    01/10/1982 A   Pheon (Unknown Branch) -- William of the Black Fletch
+    01/10/1982 A   Pheon -- William of the Black Fletch
     01/29/1983 A   Manche -- William of the Black Fletch
     03/17/1984 A   Sagittarius -- William of the Black Fletch
     07/??/1985 A   Yale (Dragonship Haven) -- William of the Black Fletch
@@ -54840,7 +54797,7 @@ Alpha List {
   
   == Wulfgang Gruenwald ==
     04/30/2011 AC  Award of Arms -- Wulfgang Gruenwald
-    04/21/2012 A   Light of Carillion (Unknown Branch) -- Wulfgang Gruenwald
+    04/21/2012 A   Light of Carillion (Carillion) -- Wulfgang Gruenwald
   
   == Wulfgar Longaxe [registered] ==
     06/22/1991 A   Award of Arms -- Wulfgar Longaxe
@@ -55184,7 +55141,7 @@ Alpha List {
   
   == Yoshihara Kojirou Munemasa [registered] ==
     05/28/1995 A   Bloody Tower (Settmour Swamp) -- Yoshihara Kojirou Munemasa
-    03/20/2004 A   Silver Tower (Unknown Branch) -- Yoshihara Kojirou Munemasa [from Settmour Swamp]
+    03/20/2004 A   Silver Tower (Settmour Swamp) -- Yoshihara Kojirou Munemasa
   
   == Yric Carlisle ==
     07/03/2010 AC  Award of Arms -- Yric Carlisle
@@ -55553,7 +55510,7 @@ Alpha List {
     SEE: Eric the Horseman
   
   == verch Rychard ==
-    06/19/2010 A   Leviathan (Unknown Branch) -- verch Rychard
+    06/19/2010 A   Leviathan (Smoking Rocks) -- verch Rychard
   
   == von Wettin ==
     SEE: Sabine Berard
@@ -55684,196 +55641,6 @@ Alpha List {
 
 ERROR LOG:
 
-Aceline Barrett of Seven Oaks - Alphabetical
-{
-  Adding unknown award "Leviathan"
-}
-
-Ada inghean Taran - Alphabetical
-{
-  Adding unknown award "Burden Tyger - Lucan VIII"
-  Adding unknown award "Jana V"
-}
-
-Adhemar de Villarquamada - Alphabetical
-{
-  Adding unknown award "Herald Extraordinaire"
-}
-
-Adrian Meddylgar - Alphabetical
-{
-  Adding unknown award "Princess's Courtesy"
-}
-
-Aelfgifu of the Hazel Thicket - Alphabetical
-{
-  Unparsed line: 09??/1999 Defender of the Whote Oak (BBM)
-}
-
-Aife ingen Chonchobair - Alphabetical
-{
-  Adding unknown award "Companion fo the order of the Troubadour"
-  Adding unknown award "order of the Sapphire"
-}
-
-Ailill mac Ferchair Ui Diarmata - Alphabetical
-{
-  Adding unknown award "Silver Martler"
-}
-
-Aisin-gioro Biya - Alphabetical
-{
-  Unparsed line: Aislinn Chiabach
-}
-
-Aislinn Gildara Breemore - Alphabetical
-{
-  Adding unknown award "Wooden Spoon"
-}
-
-Alana O'Keeve - Alphabetical
-{
-  Adding unknown award "Baronial award of Excellence"
-  Adding unknown award "Blue Collar"
-}
-
-Alesone Gray of Cranleigh - Alphabetical
-{
-  Adding unknown award "Comanion of the Silver Crescent"
-}
-
-Alexander MacGregor - Alphabetical
-{
-  Adding unknown award "Silver Tower"
-}
-
-Alexandre Lerot d'Avignon - Alphabetical
-{
-  Adding unknown award "Compainion of the Augmented Seahorse"
-}
-
-Alienor Llanfair - Alphabetical
-{
-  Unparsed line: )
-}
-
-Alise Queneby - Alphabetical
-{
-  Unparsed line: Alisha MacLeod
-}
-
-Alison of the Weresheep - Alphabetical
-{
-  Unparsed line: )
-}
-
-Ayiyah of Endewearde - Alphabetical
-{
-  Unparsed line: 10/8/2012 Tyger's Cub
-}
-
-Alsandryr St. Claire - Alphabetical
-{
-  Unparsed line: ,
-}
-
-Alys Attewater - Alphabetical
-{
-  Adding unknown award "Quadrant"
-}
-
-Ambre Milhert - Alphabetical
-{
-  Unparsed line: 03/0/2011 Award of Arms
-}
-
-Amee de Jardyn - Alphabetical
-{
-  Adding unknown award "Guardsman"
-}
-
-Webbe aka Amelia bint Wojciech - Alphabetical
-{
-  Adding unknown award "Light of Carillion"
-}
-
-Ameline Bernaerds - Alphabetical
-{
-  Unparsed line: Ameline Genevieve
-}
-
-Anarra Karlsdottir - Alphabetical
-{
-  Unparsed line: )
-}
-
-Andras of Wealdon - Alphabetical
-{
-  Unparsed line: Andrea Caitlin MacIntyre
-}
-
-Andrée Diane Chartier de l'Oise - Alphabetical
-{
-  Adding unknown award "Dragons Pride"
-}
-
-Angelina Foljambe - Alphabetical
-{
-  Unparsed line: Angelina Giaocchini
-  Unparsed line: 03/24/2012
-}
-
-Anna d'Amiens - Alphabetical
-{
-  Unparsed line: )
-}
-
-Anton McRae - Alphabetical
-{
-  Unparsed line: Anton Tilwon Steffan
-}
-
-Apollonia Knutsdottir - Alphabetical
-{
-  Unparsed line: 09/18/2010
-  Unparsed line: Award of Arms
-}
-
-Arabis Tarragon - Alphabetical
-{
-  Unparsed line: )
-}
-
-Arden MacIllhatton - Alphabetical
-{
-  Unparsed line: )
-}
-
-Argus of the Seven Hills - Alphabetical
-{
-  Unparsed line: Arianwen of Urquhart
-}
-
-Arianna Ravenstar of Wolfwood (“Aja”) - Alphabetical
-{
-  Adding unknown award "Yale (Dragonship Haven"
-}
-
-Artemas Maximus - Alphabetical
-{
-  Adding unknown award "Baron"
-}
-
-Aurelia da Calabria - Alphabetical
-{
-  Unparsed line: )
-}
-
-Auriana Filia Germani - Alphabetical
-{
-  Adding unknown award "Queen's Honor of Distintion"
-}
-
 Baildrin MacEinri - Alphabetical
 {
   Unparsed line: Baildrain MacEnri
@@ -55994,7 +55761,6 @@ Bruno Cavavello - Alphabetical
 Bryetor Aison of Devon - Alphabetical
 {
   Adding unknown award "Viscounty"
-  Adding unknown award "Chivalry - Alantia"
   Adding unknown award "Champion on the Manche"
 }
 
@@ -56374,7 +56140,6 @@ Enraig the Bonesetter - Alphabetical
 
 Eofn ap Erwyn - Alphabetical
 {
-  Adding unknown award "Pheon"
   Adding unknown award "Silver Snowflake"
 }
 
@@ -57244,8 +57009,6 @@ Seosamh Tadhg an Crúca O'Maille - Alphabetical
 Shadia bint Barro - Alphabetical
 {
   Unparsed line: Shadiyah al-Zahra
-  Adding unknown award "Seamstress to the Crown - Gryffith II"
-  Adding unknown award "Aikaterine II"
 }
 
 Shannon inghean Bhriain uí Dhuilleáin - Alphabetical
@@ -57343,7 +57106,6 @@ Toki Redbeard - Alphabetical
 Tomas an Bhogha o Neil - Alphabetical
 {
   Unparsed line: 2010 Award of Arms
-  Adding unknown award "Queen's Courtesy - Jana V"
 }
 
 Torvald Sigurdsson - Alphabetical

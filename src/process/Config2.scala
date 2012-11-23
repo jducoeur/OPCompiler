@@ -25,6 +25,8 @@ object Config2 {
           Award("King's Cypher"),
           Award("Queen's Cypher"),
           
+          Award("Herald Extraordinaire"),
+          
           Award("Award of Arms", "Award of Arm", "AOA"),
           
           Award("Court Barony", synonyms = Seq(
@@ -82,6 +84,11 @@ object Config2 {
             Award("Youth Archery Champion"),
             Award("Confirmation of Gentility"),
             
+            // Closed Orders
+            Award("Guardsman"),
+            Award("Fatima"),
+            Award("Pheon"),
+            
             // Official non-precedential awards from the Crown
             Award("Queen's Honor of Distinction", "Queen's Honour of Distinction", "Queens's Honor of Distinction", "Queen Honor of Distinction"),
             Award("King's Esteem of Merit", "Kings's Esteem of Merit"),
@@ -133,7 +140,8 @@ object Config2 {
             // Baronies
             Barony("Ostgardr", awards = Seq(
               Award("Seadog", "Sea Dog"),
-              "Seahorse"
+              "Seahorse",
+              "Augmented Seahorse"
             )),
             
             Barony("Carolingia", awards = Seq(
@@ -177,7 +185,8 @@ object Config2 {
               "Bloody Tower",
               "Bronze Tower",
               "Iron Tower",
-              "Ivory Tower"
+              "Ivory Tower",
+              "Silver Tower"
             )),
             
             Barony("Mountain Freehold"),
@@ -185,7 +194,8 @@ object Config2 {
             Barony("Carillion", awards = Seq(
               "Chime",
               "Fish",
-              "Sable Bell"
+              "Sable Bell",
+              "Light of Carillion"
             )),
             
             Barony("Stonemarche", awards = Seq(
@@ -201,7 +211,10 @@ object Config2 {
               "Silver Feather"
             )),
             
-            Barony("Smoking Rocks"),
+            Barony("Smoking Rocks", awards = Seq(
+                "Leviathan",
+                "Quadrant"
+            )),
             
             Barony("Iron Bog", awards = Seq(
               "Baroness's Silver Ring",
@@ -306,7 +319,9 @@ object Config2 {
           children = Seq(
             Barony("Bright Hills", awards = Seq(
               "Cat's Paw",
-              "Silver Scroll"
+              "Silver Scroll",
+              "Baronial award of Excellence",
+              "Blue Collar"
             )),
             
             Barony("Caer Mear", awards = Seq(
@@ -331,7 +346,9 @@ object Config2 {
         
         Kingdom("Drachenwald",
           awards = Seq(
-            "Principality Company of Sojourners"
+            "Principality Company of Sojourners",
+            Award("Princess's Order of Courtesy", "Princess's Courtesy"),
+            "Dragons Pride"
           )
         ),
         
@@ -410,7 +427,8 @@ object Config2 {
             "Pied d'Argent",
             "Queen's Grace",
             "Silver Molet",
-            "Valor"
+            "Valor",
+            "Wooden Spoon"
           ),
           
           children = Seq(
