@@ -108,7 +108,7 @@ class OPShortDate(f:String) extends OPDateFromString(f) {
   
   // This expects each date part to be either two digits, or "??"
   def optionalPart(digits:String) = {
-    if (digits == "??")
+    if (digits == "??" || digits == "????")
       OPDate.Unknown
     else
       try {

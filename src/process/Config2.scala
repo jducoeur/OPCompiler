@@ -24,6 +24,7 @@ object Config2 {
           Award("Royal Cypher"),
           Award("King's Cypher"),
           Award("Queen's Cypher"),
+          Award("Prince's Cypher"),
           
           Award("Herald Extraordinaire"),
           
@@ -78,7 +79,9 @@ object Config2 {
             Award("Master Bowman"),
             Award("Seamstress to the Crown", gender = Female, synonyms = Seq(
               AwardName("Taylor to the Crown", Male),
-              AwardName("Tailor to the Crown", Male))),
+              AwardName("Tailor to the Crown", Male),
+              AwardName("Seamstress to the Court", Female))),
+            Award("Seamstress to the Princess Royal"),
             Award("Toymaker to the Queen"),
             Award("Court Jester"),
             Award("Admiral of the Armies"),
@@ -143,13 +146,15 @@ object Config2 {
             Barony("Ostgardr", awards = Seq(
               Award("Seadog", "Sea Dog"),
               "Seahorse",
-              "Augmented Seahorse"
+              "Augmented Seahorse",
+              "Sea Star"
             )),
             
             Barony("Carolingia", awards = Seq(
               "Daystar",
               "Moon",
-              "Perseus"
+              "Perseus",
+              "Free Griffin"
             )),
             
             Barony("Beyond the Mountain", synonyms = Seq("BBM"), awards = Seq(
@@ -173,12 +178,13 @@ object Config2 {
             Barony("Dragonship Haven", awards = Seq(
               "Yale",
               "Hawk's Bell",
+              "Keel",
               "Oar",
-              "St. Martin"
+              Award("St. Martin", "Company of St. Martin")
             )),
             
             Barony("Concordia of the Snows", synonyms = Seq("Concordia"), awards = Seq(
-              "Friend of Concordia",
+              Award("Friends", "Friend of Concordia"),
               "Pine",
               "Sapphire",
               "Snow Hare"
@@ -198,11 +204,13 @@ object Config2 {
               "Chime",
               "Fish",
               "Sable Bell",
-              "Light of Carillion"
+              "Light of Carillion",
+              "Horse's Head",
+              "Shrouded Bell"
             )),
             
             Barony("Stonemarche", awards = Seq(
-              "Furison",
+              Award("Furison", "Fusion"),
               "Lamp of Apollo",
               "Millstone"
             )),
@@ -216,15 +224,19 @@ object Config2 {
             
             Barony("Smoking Rocks", awards = Seq(
                 "Leviathan",
-                "Quadrant"
+                "Quadrant",
+                "Rock"
             )),
             
             Barony("Iron Bog", awards = Seq(
               "Baroness's Silver Ring",
+              "Duck",
+              Award("Sable Compass", "Sable Compuss"),
               "Sable Martlet",
               "Silver Compass",
               "Silver Gauntlet",
-              "Silver Martlet"
+              "Silver Martlet",
+              "Silver Cattail"
             )),
             
             // Tir Mara and its Baronies
@@ -255,9 +267,15 @@ object Config2 {
         
           children = Seq(
             Barony("BMDL", awards = Seq(
-              "Gold Comet",
+              Award("Gold Comet", "Comet Or"),
+              Award("Green Comet", "Comet Vert"),
               "Silver Comet",
-              "Iron Comet"
+              "Iron Comet",
+              "Red Comet"
+            )),
+            
+            Barony("Delftwood", awards = Seq(
+              "Windmill"
             )),
             
             Barony("Thescorre", awards = Seq(
@@ -325,7 +343,8 @@ object Config2 {
         Kingdom("Atlantia",
           awards = Seq(
             "Golden Dolphin",
-            "Pearl"
+            "Pearl",
+            "Sea Stag"
           ),
           
           children = Seq(
@@ -349,15 +368,24 @@ object Config2 {
             //  Note that Myrkwode was dissolved into Atlantia
             Barony("Myrkwood", awards = Seq(
               "Windblown Leaf"
+            )),
+            
+            Barony("Stierbach", awards = Seq(
+              "St. Roche"
             ))
           )
         ),
         
-        Kingdom("Caid"),
+        Kingdom("Caid", awards = Seq(
+          "Corde de Guerre of Caid",
+          "Dolphin"
+        )),
         
         Kingdom("Calontir",
           awards = Seq(
-            Award("Golden Calon Swan", "Swan")
+            Award("Golden Calon Swan", "Swan"),
+            "Iren Fyrd",
+            "Iren Hirth"
           ),
           
           children = Seq(
@@ -373,7 +401,8 @@ object Config2 {
             Award("Princess's Order of Courtesy", "Princess's Courtesy"),
             "Dragons Pride",
             "Lady of the Edelweiss",
-            "Lindquistrings"
+            "Lindquistrings",
+            "Prince's Companions of Albion"
           )
         ),
         
@@ -381,7 +410,8 @@ object Config2 {
           awards = Seq(
             "Bee",
             "OHS",
-            "Award of Tangwystyl's Favor"
+            "Award of Tangwystyl's Favor",
+            "Orion"
           )
         ),
         
@@ -404,6 +434,10 @@ object Config2 {
           children = Seq(
             Barony("Middle Marches", awards = Seq(
               "Watchful Tower"
+            )),
+            
+            Barony("North Woods", awards = Seq(
+              "White Wolf"
             ))
           )
         ),
@@ -430,7 +464,8 @@ object Config2 {
             "Stag",
             "Stag's Blood",
             "Stag's Heart",
-            "Trefoil"
+            "Stag's Tynes",
+			"Trefoil"
           ),
           
           children = Seq(
@@ -442,14 +477,39 @@ object Config2 {
             Barony("Caerthe", awards = Seq(
               "Aspen of Caerthe",
               "Gilded Leaf"
+            )),
+            
+            Barony("Dragonsspine", awards = Seq(
+              "Scales of Dragonsspine"
+            )),
+            
+            Barony("Ered Sul", awards = Seq(
+              "Gilded Heart of Ered Sul"
+            )),
+            
+            Barony("Irel", awards = Seq(
+              "Cordon Royale"
             ))
           )
         ),
         
         Kingdom("Trimaris",
           awards = Seq(
+            "Argent Estoile",
             "Argent Morningstar",
-            "Bards Laureate"
+            "Argent Scales",
+            "Bards Laureate",
+            "Emerald Seas",
+            "Herald's Tressure",
+            "Silver Trident",
+            "Trade Winds"
+          ),
+          
+          children = Seq(
+            Barony("Wyvernwood", awards = Seq(
+              "Wyvern's Claw",
+              "Wyvern's Scale"
+            ))
           )
         ),
         
@@ -479,6 +539,7 @@ object Config2 {
             
             Principality("Mists", awards = Seq(
               "Corolla Muralis",
+              "Corolla Nebularum",
               "Princess's Grace",
               "Rose Leaf"
             ))

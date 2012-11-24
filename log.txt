@@ -10335,7 +10335,6 @@ Alphabetical {
   Caerdyn Ambrosius {
   }
   Cahan Kyle {
-    ERROR: Adding unknown award "Prince's Cypher"
   }
   Cahir Morgwyn {
   }
@@ -10344,7 +10343,6 @@ Alphabetical {
   Cailean of Moray {
   }
   Cailin Faolan {
-    ERROR: Unparsed line: )
   }
   Cailin mac Eachduinn {
   }
@@ -10359,8 +10357,8 @@ Alphabetical {
   Cairistiona of Dun Glas {
   }
   Cairn MacAllister {
-    ERROR: Unparsed line: Cairnait inghean Broin
-    ERROR: Adding unknown award "Fusion"
+  }
+  Cairnait inghean Broin {
   }
   Cairrena of Stonemarche {
   }
@@ -10397,21 +10395,16 @@ Alphabetical {
   Caitrin Maura Gordon {
   }
   Caitrina Gordon (called Katya) {
-    ERROR: Adding unknown award "Duck"
-    ERROR: Adding unknown award "Sable Compuss"
   }
   Caitriona Bennett inghean Niall {
-    ERROR: Unparsed line: )
   }
-  Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray {
-    ERROR: Adding unknown award "Sea Star"
+  Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray) {
   }
   Caitriona Meehan {
   }
   Caitriona of Greenwood Isle {
   }
   Caius Marius Germanicus {
-    ERROR: Adding unknown award "Rock"
   }
   Caleb the Woodpecker {
   }
@@ -10448,10 +10441,10 @@ Alphabetical {
   Camilla Nightingale {
   }
   Camille des Jardins {
-    ERROR: Adding unknown award "Companion fo the Maunche"
   }
   Camma an Daraich {
-    ERROR: Unparsed line: Camron MacAuley
+  }
+  Camron MacAuley {
   }
   Cananan MacGrath {
   }
@@ -10526,9 +10519,6 @@ Alphabetical {
   Cassandra de Monserrat {
   }
   Cassandra la Sable, aka Morrigan deWinter {
-    ERROR: Adding unknown award "Stag's Tynes"
-    ERROR: Adding unknown award "Cordon Royale"
-    ERROR: Adding unknown award "Scales of Dragonsspine"
   }
   Cassandra Seer {
   }
@@ -10553,17 +10543,8 @@ Alphabetical {
   Catarina di Venezia {
   }
   Cateline la Broderesse {
-    ERROR: Adding unknown award "Seamstress to the Princess Royal"
   }
   Cateline de la Mor la Souriete {
-    ERROR: Adding unknown award "Silver Trident"
-    ERROR: Adding unknown award "Trade Winds"
-    ERROR: Adding unknown award "Argent Scales"
-    ERROR: Adding unknown award "Wyvern's Claw"
-    ERROR: Adding unknown award "Emerald Seas"
-    ERROR: Adding unknown award "Argent Estoile"
-    ERROR: Adding unknown award "Herald's Tressure"
-    ERROR: Adding unknown award "Wyvern's Scale"
   }
   Caterina della Rosa {
   }
@@ -10644,7 +10625,6 @@ Alphabetical {
   Cearnach of Stonemarche {
   }
   Ceawlin Ealhreding {
-    ERROR: Adding unknown award "St. Roche"
   }
   Cecelia of Bhakail {
   }
@@ -10667,7 +10647,6 @@ Alphabetical {
   Cecily of Middleham {
   }
   Cedric of Armorica {
-    ERROR: Adding unknown award "order of the Chivalry"
   }
   Cedric von Anderlecht {
   }
@@ -10678,16 +10657,12 @@ Alphabetical {
   Cedric MacShannachan {
   }
   Cedric of Thanet {
-    ERROR: Adding unknown award "Sea Stag"
   }
   Cedric of Wessex Manor {
   }
   Cei Wiclif of Haewengraes {
   }
   Ceinwen ferch Llewelyn ab Owain {
-    ERROR: Adding unknown award "Comet Or"
-    ERROR: Adding unknown award "Comet Vert"
-    ERROR: Adding unknown award "Green Comet"
   }
   Celanise Margaretta of Greyledge {
   }
@@ -10714,10 +10689,8 @@ Alphabetical {
   Cellach Dhonn Inghean Mhic an Mhadaidh {
   }
   Cellach ingen Chernaig {
-    ERROR: Unparsed line: )
   }
-  Cellach Mac Faoitigh (aka: Kayleigh McWhyte {
-    ERROR: Adding unknown award "Horse's Head"
+  Cellach Mac Faoitigh (aka: Kayleigh McWhyte) {
   }
   Celyn ap Llewelyn {
   }
@@ -10726,7 +10699,6 @@ Alphabetical {
   Cenwulf Bearwes {
   }
   Cenwulf Godfyrht {
-    ERROR: Adding unknown award "Dolphin"
   }
   Cerdic the Bull {
   }
@@ -10757,7 +10729,6 @@ Alphabetical {
   Cezilia Reposa {
   }
   Chaim Elihu ben Moshe {
-    ERROR: Adding unknown award "Free Griffin"
   }
   Chaise the Rus {
   }
@@ -10788,7 +10759,6 @@ Alphabetical {
   Charles Zanos {
   }
   Charles the Zealous {
-    ERROR: Adding unknown award "Windmill"
   }
   Charles von Drachenklaue {
   }
@@ -10801,14 +10771,12 @@ Alphabetical {
   Chiara di Marte da Venezia {
   }
   Chiara da Montepulciano {
-    ERROR: Adding unknown award "Orion"
   }
   Chiara of Ravenna {
   }
   Chiarina the Wise {
   }
   Chiron of Thessaly {
-    ERROR: Adding unknown award "Red Comet"
   }
   Chlotivert der Affe {
   }
@@ -10855,8 +10823,6 @@ Alphabetical {
   Christoff of Eisental {
   }
   Christoffel d'Allaines-sur-Comte {
-    ERROR: Adding unknown award "Company of St. Martin"
-    ERROR: Adding unknown award "Sun ans Soil"
   }
   Christofo of Caer Adamant {
   }
@@ -10873,7 +10839,6 @@ Alphabetical {
   ChristopherCalhoune {
   }
   Christopher Darras {
-    ERROR: Adding unknown award "White Wolf"
   }
   Christopher de Planchette {
   }
@@ -10884,7 +10849,6 @@ Alphabetical {
   Christopher Hughes {
   }
   Christopher Jameson {
-    ERROR: Adding unknown award "Gilded Heart of Ered Sul"
   }
   Christopher Michael {
   }
@@ -10895,8 +10859,6 @@ Alphabetical {
   Christos di Cherubino {
   }
   Chritophre Cynwyd {
-    ERROR: Adding unknown award "Iren Fyrd"
-    ERROR: Adding unknown award "Iren Hirth"
   }
   Chryseis Andromache {
   }
@@ -10975,7 +10937,6 @@ Alphabetical {
   Clotilda Warhammer {
   }
   Clotilde von der Insel {
-    ERROR: Adding unknown award "Seamstress to the Court"
   }
   Coalan an Panga Dubh {
   }
@@ -11014,7 +10975,6 @@ Alphabetical {
   Colin MacKenna {
   }
   Colin MacKenzie {
-    ERROR: Adding unknown award "Keel"
   }
   Colin mac Eoain mec Lachlainn {
   }
@@ -11027,7 +10987,6 @@ Alphabetical {
   Colin Tyndall de ffrayser {
   }
   Colin Ursell {
-    ERROR: Adding unknown award "Companon of the Perseus"
   }
   Collach O Choda {
   }
@@ -11132,15 +11091,12 @@ Alphabetical {
   Constantine the Varangian {
   }
   Constantine (Constantinius) von Drachenklaue {
-    ERROR: Adding unknown award "Corde de Guerre of Caid"
   }
   Constanza Maria Colonna {
   }
   Coofwin Glenmass, of House Wind Dragon {
-    ERROR: Adding unknown award "Friends"
   }
   Cooks Guild of Owl's Reste {
-    ERROR: Adding unknown award "Companions of the Burdened Tyger"
   }
   Corcoran mac Diarmaid {
   }
@@ -11189,13 +11145,10 @@ Alphabetical {
   Cosmano Piero Micheletto da Roma {
   }
   Cosmo {
-    ERROR: Adding unknown award "Prince's Companions of Albion"
   }
   Cosmo of Carillion {
-    ERROR: Adding unknown award "Shrouded Bell"
   }
   Creatura Christi ofOakes {
-    ERROR: Adding unknown award "Silver Cattail"
   }
   Crispin Cox {
   }
@@ -11254,7 +11207,6 @@ Alphabetical {
   Cynric the Dabbler {
   }
   Cynthia du Pré Argent {
-    ERROR: Adding unknown award "Corolla Nebularum"
   }
   Cynthia of Oakenwode ("Cinder") {
   }
@@ -14142,7 +14094,6 @@ Alphabetical {
   Honda Saburou Taremitsu {
   }
   Honor Savage {
-    ERROR: Adding unknown award "Sable Compass"
   }
   Hopestill {
   }
@@ -15123,7 +15074,6 @@ Alphabetical {
   Justine Hart {
   }
   Justine of the Free Companions {
-    ERROR: Bad date part: ????
   }
   Justinian the Sluggard {
   }
@@ -17026,7 +16976,6 @@ Alphabetical {
   Micheal von Lubeck {
   }
   Micheil, Younger of An Alltan {
-    ERROR: Adding unknown award "Companions of the Leaf of Merit"
     ERROR: Adding unknown award "Companion"
     ERROR: Adding unknown award "Oerthan Grace"
     ERROR: Adding unknown award "Companion Estoile"
@@ -19054,6 +19003,7 @@ Alphabetical {
   Sean MacPherson {
   }
   Sean O Choda {
+    ERROR: Adding unknown award "Sun ans Soil"
   }
   Sean of Caer Cinniuint {
   }
@@ -26404,10 +26354,6 @@ Alpha List {
     09/29/2007 AC  Tygers Cub -- Branson the Younger
     12/05/2009 AC  Gawain -- Branson the Younger
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Branwen Ottersby [registered] ==
     ??/??/-1 A   Baroness of Black Diamond (Atlantia) -- Branwen Ottersby
     05/01/1987 A   Polished Mirror (Black Diamond) -- Branwen Ottersby
@@ -27293,7 +27239,7 @@ Alpha List {
     10/06/1990 A   Burdened Tyger -- Cahan Kyle
     01/05/1991 A   Silver Crescent -- Cahan Kyle
     04/04/1992 A   Sagittarius -- Cahan Kyle
-    08/??/1996 A   Prince's Cypher (Unknown Branch) -- Cahan Kyle [from Lochac]
+    08/??/1996 A   Prince's Cypher -- Cahan Kyle [from Lochac]
     10/30/1999 AC  Troubadour -- Cahan Kyle
     01/08/2000 ACL Master of the Pelican -- Cahan Kyle
     02/10/2001 AC  Grant of Arms -- Cahan Kyle
@@ -27372,7 +27318,9 @@ Alpha List {
     03/31/2001 AC  Queen's Courtesy -- Cairn MacAllister
     11/29/2008 AC  Silver Crescent -- Cairn MacAllister
     03/05/2011 ACL Pelican -- Cairn MacAllister
-    06/12/2011 A   Fusion (Unknown Branch) -- Cairn MacAllister [from Stonemarche]
+  
+  == Cairnait inghean Broin ==
+    06/12/2011 A   Fusion (Stonemarche) -- Cairnait inghean Broin
   
   == Cairrena of Stonemarche ==
     09/30/2006 AC  Queen's Honor of Distinction -- Cairrena of Stonemarche [Anna II]
@@ -27501,26 +27449,26 @@ Alpha List {
     09/13/2003 A   Burdened Tyger -- Caitrina Gordon (called Katya)
     03/26/2011 A   Burdened Tyger -- Caitrina Gordon (called Katya)
     06/25/2011 A   Silver Crescent -- Caitrina Gordon (called Katya)
-    07/09/2011 A   Duck (Unknown Branch) -- Caitrina Gordon (called Katya) [from Iron Bog]
-    09/29/2012 A   Duck (Unknown Branch) -- Caitrina Gordon (called Katya) [from Iron Bog]
-    09/29/2012 A   Sable Compuss (Unknown Branch) -- Caitrina Gordon (called Katya) [from Iron Bog]
+    07/09/2011 A   Duck (Iron Bog) -- Caitrina Gordon (called Katya)
+    09/29/2012 A   Duck (Iron Bog) -- Caitrina Gordon (called Katya)
+    09/29/2012 A   Sable Compuss (Iron Bog) -- Caitrina Gordon (called Katya)
   
   == Caitriona Bennett inghean Niall ==
     AKA: Meredith de Witte
     09/13/1997 A   Tygers Cub -- Caitriona Bennett inghean Niall
     09/11/2004 AC  Award of Arms -- Caitriona Bennett inghean Niall
   
-  == Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray [registered] ==
-    12/08/1990 A   Award of Arms -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
-    07/25/1992 A   Manche -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
-    08/19/1993 A   Mistress of the Laurel -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
-    04/04/1998 A   King's Excellence -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
-    09/19/1998 A   Silver Crescent -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
-    04/??/2001 A   Silver Feather (An Dubhaigeainn) -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
-    03/??/2002 A   Sea Star (Unknown Branch) -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray [from Ostgardr]
-    07/26/2003 A   Queen's Courtesy -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
-    08/18/2004 A   Mistress of the Pelican -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
-    01/14/2006 A   Court Baroness -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray
+  == Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray) [registered] ==
+    12/08/1990 A   Award of Arms -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    07/25/1992 A   Manche -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    08/19/1993 A   Mistress of the Laurel -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    04/04/1998 A   King's Excellence -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    09/19/1998 A   Silver Crescent -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    04/??/2001 A   Silver Feather (An Dubhaigeainn) -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    03/??/2002 A   Sea Star (Ostgardr) -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    07/26/2003 A   Queen's Courtesy -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    08/18/2004 A   Mistress of the Pelican -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
+    01/14/2006 A   Court Baroness -- Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray)
   
   == Caitriona Meehan [registered] ==
     07/15/1995 A   Award of Arms -- Caitriona Meehan
@@ -27544,7 +27492,7 @@ Alpha List {
     12/01/2007 A   Daystar (Carolingia) -- Caitriona of Greenwood Isle
   
   == Caius Marius Germanicus ==
-    04/22/2006 A   Rock (Unknown Branch) -- Caius Marius Germanicus [from Smoking Rocks]
+    04/22/2006 A   Rock (Smoking Rocks) -- Caius Marius Germanicus
   
   == Caleb the Woodpecker ==
     07/04/2009 AC  Grant of Arms -- Caleb the Woodpecker
@@ -27625,8 +27573,7 @@ Alpha List {
     07/15/2006 AC  Award of Arms -- Camille des Jardins
     04/10/2010 AC  Silver Rapier -- Camille des Jardins
     04/10/2010 AC  Queen's Honor of Distinction -- Camille des Jardins [Brenwen II]
-    02/05/2011 A   Companion fo the Maunche (Unknown Branch) -- Camille des Jardins
-    02/05/2011  C  Maunche -- Camille des Jardins
+    02/05/2011 AC  Maunche -- Camille des Jardins
   
   == Camma an Daraich [registered] ==
     07/24/1993 A   Award of Arms -- Camma an Daraich
@@ -27634,7 +27581,9 @@ Alpha List {
     04/13/1996 A   Sagittarius -- Camma an Daraich
     11/07/1998 A   Manche -- Camma an Daraich
     08/13/2003 ACL Mistress of the Laurel -- Camma an Daraich
-    06/12/2011 A   Furison (Stonemarche) -- Camma an Daraich
+  
+  == Camron MacAuley ==
+    06/12/2011 A   Furison (Stonemarche) -- Camron MacAuley
   
   == Cananan MacGrath [registered] ==
     07/24/1993 A   Award of Arms -- Cananan MacGrath
@@ -27856,13 +27805,13 @@ Alpha List {
   
   == Cassandra la Sable, aka Morrigan deWinter [registered] ==
     01/09/1982 A   Award of Arms -- Cassandra la Sable, aka Morrigan deWinter [from Atenveldt]
-    01/14/1984 A   Scales of Dragonsspine (Unknown Branch) -- Cassandra la Sable, aka Morrigan deWinter [Dragonsspine, Atenveldt]
+    01/14/1984 A   Scales of Dragonsspine (Dragonsspine) -- Cassandra la Sable, aka Morrigan deWinter
     04/28/1984 A   Queen's Grace (West) -- Cassandra la Sable, aka Morrigan deWinter [Trude, Atenveldt]
-    05/27/1984 A   Stag's Tynes (Unknown Branch) -- Cassandra la Sable, aka Morrigan deWinter [from Atenveldt]
+    05/27/1984 A   Stag's Tynes (Outlands) -- Cassandra la Sable, aka Morrigan deWinter [from Atenveldt]
     09/01/1984 A   Aspen of Caerthe (Caerthe) -- Cassandra la Sable, aka Morrigan deWinter
     05/30/1987 A   Stag's Heart (Outlands) -- Cassandra la Sable, aka Morrigan deWinter
     01/02/1988 A   Mistress of the Pelican -- Cassandra la Sable, aka Morrigan deWinter [from Outlands]
-    11/02/1991 A   Cordon Royale (Unknown Branch) -- Cassandra la Sable, aka Morrigan deWinter [Irel, Outlands]
+    11/02/1991 A   Cordon Royale (Irel) -- Cassandra la Sable, aka Morrigan deWinter
     07/31/1993 A   Gilded Leaf (Caerthe) -- Cassandra la Sable, aka Morrigan deWinter [from Outlands]
   
   == Cassandra of An Dubhaigeainn ==
@@ -27919,16 +27868,16 @@ Alpha List {
   
   == Cateline de la Mor la Souriete [registered] ==
     03/23/1985 A   Award of Arms -- Cateline de la Mor la Souriete [from Trimaris]
-    01/25/1986 A   Emerald Seas (Unknown Branch) -- Cateline de la Mor la Souriete [from Trimaris]
-    01/17/1987 A   Argent Estoile (Unknown Branch) -- Cateline de la Mor la Souriete [from Trimaris]
-    01/10/1988 A   Wyvern's Scale (Unknown Branch) -- Cateline de la Mor la Souriete [Wyvernwood, Trimaris]
+    01/25/1986 A   Emerald Seas (Trimaris) -- Cateline de la Mor la Souriete
+    01/17/1987 A   Argent Estoile (Trimaris) -- Cateline de la Mor la Souriete
+    01/10/1988 A   Wyvern's Scale (Wyvernwood) -- Cateline de la Mor la Souriete
     10/29/1988 A   Grant of Arms -- Cateline de la Mor la Souriete [from Trimaris]
-    10/29/1988 A   Silver Trident (Unknown Branch) -- Cateline de la Mor la Souriete [from Trimaris]
-    04/08/1989 A   Wyvern's Claw (Unknown Branch) -- Cateline de la Mor la Souriete [Wyvernwood, Trimaris]
+    10/29/1988 A   Silver Trident (Trimaris) -- Cateline de la Mor la Souriete
+    04/08/1989 A   Wyvern's Claw (Wyvernwood) -- Cateline de la Mor la Souriete
     06/09/1990 A L Mistress of the Laurel -- Cateline de la Mor la Souriete
-    01/19/1991 A   Herald's Tressure (Unknown Branch) -- Cateline de la Mor la Souriete [from Trimaris]
-    09/05/1992 A   Trade Winds (Unknown Branch) -- Cateline de la Mor la Souriete [from Trimaris]
-    06/25/1994 A   Argent Scales (Unknown Branch) -- Cateline de la Mor la Souriete [from Trimaris]
+    01/19/1991 A   Herald's Tressure (Trimaris) -- Cateline de la Mor la Souriete
+    09/05/1992 A   Trade Winds (Trimaris) -- Cateline de la Mor la Souriete
+    06/25/1994 A   Argent Scales (Trimaris) -- Cateline de la Mor la Souriete
   
   == Cateline la Broderesse [registered] ==
     AKA: Caitlyn McKenzie
@@ -27944,7 +27893,7 @@ Alpha List {
     04/14/2007 A   Queen's Honor of Distinction -- Cateline la Broderesse [Jana IV]
     04/10/2010 AC  Queen's Honor of Distinction -- Cateline la Broderesse [Brenwen II]
     04/02/2011 AC  Queen's Cypher -- Cateline la Broderesse [Aikaterine II]
-    08/08/2012 A   Seamstress to the Princess Royal (Unknown Branch) -- Cateline la Broderesse
+    08/08/2012 A   Seamstress to the Princess Royal -- Cateline la Broderesse
   
   == Cateline la Broideresse ==
     02/05/2005  C  Golden Tyger -- Cateline la Broideresse
@@ -28152,7 +28101,7 @@ Alpha List {
   == Catriona inghean Sheamuis ==
     08/03/2008 A   Sable Martlet (Iron Bog) -- Catriona inghean Sheamuis
     02/21/2009 A   Award of Arms -- Catriona inghean Sheamuis
-    01/21/2012 A   Sable Compuss (Unknown Branch) -- Catriona inghean Sheamuis [from Iron Bog]
+    01/21/2012 A   Sable Compuss (Iron Bog) -- Catriona inghean Sheamuis
   
   == Catriona nic Duibh ==
     08/19/1993   L Laurel -- Catriona nic Duibh
@@ -28195,8 +28144,8 @@ Alpha List {
   == Ceawlin Ealhreding [registered] ==
     10/07/1989 A   Award of Arms -- Ceawlin Ealhreding
     05/05/1990 A   Pillar of the Bridge (Bridge) -- Ceawlin Ealhreding
-    04/??/2000 A   St. Roche (Unknown Branch) -- Ceawlin Ealhreding [Stierbach, Atlantia]
-    06/26/2004 A   Rock (Unknown Branch) -- Ceawlin Ealhreding [from Smoking Rocks]
+    04/??/2000 A   St. Roche (Stierbach) -- Ceawlin Ealhreding
+    06/26/2004 A   Rock (Smoking Rocks) -- Ceawlin Ealhreding
     08/16/2004 A   Tygers Combattant -- Ceawlin Ealhreding
     09/24/2005 A   Queen's Courtesy -- Ceawlin Ealhreding
   
@@ -28252,16 +28201,15 @@ Alpha List {
     03/29/2008 A   Court Baron -- Cedric of Armorica
     03/29/2008 A   Grant of Arms -- Cedric of Armorica
     04/17/2010 AC  Silver Crescent -- Cedric of Armorica
-    08/10/2012   L Chivalry -- Cedric of Armorica
     08/10/2012 A   Patent of Arms -- Cedric of Armorica
-    08/10/2012 A   order of the Chivalry (Unknown Branch) -- Cedric of Armorica
+    08/10/2012 A L Chivalry -- Cedric of Armorica
   
   == Cedric of Lochleven ==
     10/27/2001 AC  Award of Arms -- Cedric of Lochleven
   
   == Cedric of Thanet [registered] ==
     10/27/1984 A   Award of Arms -- Cedric of Thanet [from Atlantia]
-    09/10/1988 A   Sea Stag (Unknown Branch) -- Cedric of Thanet [from Atlantia]
+    09/10/1988 A   Sea Stag (Atlantia) -- Cedric of Thanet
     09/08/1990   L Chivalry -- Cedric of Thanet [from Atlantia]
     09/08/1990 A   Knight -- Cedric of Thanet [from Atlantia]
     05/17/2003 AC  Tygers Combattant -- Cedric of Thanet
@@ -28284,9 +28232,9 @@ Alpha List {
   
   == Ceinwen ferch Llewelyn ab Owain [registered] ==
     06/12/1999 A   Award of Arms -- Ceinwen ferch Llewelyn ab Owain [from AEthelmearc]
-    05/20/2000 A   Comet Or (Unknown Branch) -- Ceinwen ferch Llewelyn ab Owain [from BMDL]
-    05/19/2001 A   Comet Vert (Unknown Branch) -- Ceinwen ferch Llewelyn ab Owain [from BMDL]
-    04/03/2004 A   Green Comet (Unknown Branch) -- Ceinwen ferch Llewelyn ab Owain [from BMDL]
+    05/20/2000 A   Comet Or (BMDL) -- Ceinwen ferch Llewelyn ab Owain
+    05/19/2001 A   Comet Vert (BMDL) -- Ceinwen ferch Llewelyn ab Owain
+    04/03/2004 A   Green Comet (BMDL) -- Ceinwen ferch Llewelyn ab Owain
     05/22/2004 A   Keystone (AEthelmearc) -- Ceinwen ferch Llewelyn ab Owain
     02/05/2005 AC  Golden Tyger -- Ceinwen ferch Llewelyn ab Owain
   
@@ -28323,18 +28271,18 @@ Alpha List {
   == Cellach Mac Faoitigh ==
     06/23/2007   L Laurel -- Cellach Mac Faoitigh [Kayleigh McWhyte]
   
-  == Cellach Mac Faoitigh (aka: Kayleigh McWhyte [registered] ==
-    08/15/2001 A   Award of Arms -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte
-    06/??/2003 A   Silver Feather (An Dubhaigeainn) -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte [An Dubhaigeann]
-    04/01/2006 A   Manche -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte
-    09/30/2006 A   Silver Crescent -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte
-    04/14/2007 A   Queen's Honor of Distinction -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte [Yana IV]
-    06/23/2007 A   Mistress of the Laurel -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte
-    04/12/2008 A   Queen's Cypher -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte [Gabriella]
-    11/06/2010 A   White Oak (Beyond the Mountain) -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte
-    04/02/2011 A   King's Cypher -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte [Gryffith II]
-    05/01/2011 A   Horse's Head (Unknown Branch) -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte
-    05/01/2011 A   Fish (Carillion) -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte
+  == Cellach Mac Faoitigh (aka: Kayleigh McWhyte) [registered] ==
+    08/15/2001 A   Award of Arms -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte)
+    06/??/2003 A   Silver Feather (An Dubhaigeainn) -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte) [An Dubhaigeann]
+    04/01/2006 A   Manche -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte)
+    09/30/2006 A   Silver Crescent -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte)
+    04/14/2007 A   Queen's Honor of Distinction -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte) [Yana IV]
+    06/23/2007 A   Mistress of the Laurel -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte)
+    04/12/2008 A   Queen's Cypher -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte) [Gabriella]
+    11/06/2010 A   White Oak (Beyond the Mountain) -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte)
+    04/02/2011 A   King's Cypher -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte) [Gryffith II]
+    05/01/2011 A   Horse's Head (Carillion) -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte)
+    05/01/2011 A   Fish (Carillion) -- Cellach Mac Faoitigh (aka: Kayleigh McWhyte)
   
   == Cellach MacFaoitigh ==
     AKA: Kayleigh McWhyte
@@ -28400,7 +28348,7 @@ Alpha List {
     09/26/1987 A   Leaf of Merit (West) -- Cenwulf Godfyrht
     03/20/1988   L Chivalry -- Cenwulf Godfyrht [from West]
     03/20/1988 A   Knight -- Cenwulf Godfyrht [from West]
-    08/22/1988 A   Dolphin (Unknown Branch) -- Cenwulf Godfyrht [from West]
+    08/22/1988 A   Dolphin (Caid) -- Cenwulf Godfyrht [from West]
   
   == Cerdic of Colbridge [registered] ==
     11/28/1992 A   Award of Arms -- Cerdic of Colbridge
@@ -28475,7 +28423,7 @@ Alpha List {
     04/07/2012 A   Award of Arms -- Cezilia Reposa
   
   == Chaim Elihu ben Moshe ==
-    02/10/1973 A   Free Griffin (Unknown Branch) -- Chaim Elihu ben Moshe [from Carolingia]
+    02/10/1973 A   Free Griffin (Carolingia) -- Chaim Elihu ben Moshe
     02/10/1973 A   Award of Arms -- Chaim Elihu ben Moshe
   
   == Chaise the Rus ==
@@ -28549,7 +28497,7 @@ Alpha List {
   
   == Charles the Zealous [registered] ==
     03/20/1982 A   Award of Arms -- Charles the Zealous
-    09/18/1982 A   Windmill (Unknown Branch) -- Charles the Zealous [Delftwood]
+    09/18/1982 A   Windmill (Delftwood) -- Charles the Zealous
   
   == Charles von Drachenklaue ==
     08/13/1998 A   Award of Arms -- Charles von Drachenklaue
@@ -28569,7 +28517,7 @@ Alpha List {
   
   == Chiara da Montepulciano [registered] ==
     07/03/1999 A   Award of Arms -- Chiara da Montepulciano
-    08/14/2002 A   Orion (Unknown Branch) -- Chiara da Montepulciano [from Ealdormere]
+    08/14/2002 A   Orion (Ealdormere) -- Chiara da Montepulciano
     12/11/2004 AC  Manche -- Chiara da Montepulciano
     02/25/2006  C  King's Bard -- Chiara da Montepulciano
     05/28/2006 AC  Troubadour -- Chiara da Montepulciano
@@ -28600,7 +28548,7 @@ Alpha List {
     09/13/2008 AC  Award of Arms -- Chiarina the Wise
   
   == Chiron of Thessaly ==
-    03/26/1983 A   Red Comet (Unknown Branch) -- Chiron of Thessaly [from BMDL]
+    03/26/1983 A   Red Comet (BMDL) -- Chiron of Thessaly
     06/18/1983 A   Award of Arms -- Chiron of Thessaly
   
   == Chlotivert der Affe [registered] ==
@@ -28736,8 +28684,8 @@ Alpha List {
   
   == Christoffel d'Allaines-sur-Comte [registered] ==
     06/24/2000 A   Award of Arms -- Christoffel d'Allaines-sur-Comte
-    04/10/2004 A   Company of St. Martin (Unknown Branch) -- Christoffel d'Allaines-sur-Comte [from Dragonship Haven]
-    05/19/2012 A   Sun ans Soil (Unknown Branch) -- Christoffel d'Allaines-sur-Comte [Barony Beyond the Mountain]
+    04/10/2004 A   Company of St. Martin (Dragonship Haven) -- Christoffel d'Allaines-sur-Comte
+    05/19/2012 A   Sun and Soil (Beyond the Mountain) -- Christoffel d'Allaines-sur-Comte [Barony Beyond the Mountain]
   
   == Christoffel d'Allains-sur-Comte ==
     06/24/2000  C  Award of Arms -- Christoffel d'Allains-sur-Comte
@@ -28777,7 +28725,7 @@ Alpha List {
     04/26/2003  C  Award of Arms -- Christopher Chalchoune
   
   == Christopher Darras [registered] ==
-    ??/??/1975 A   White Wolf (Unknown Branch) -- Christopher Darras [North Woods, Mid]
+    ??/??/1975 A   White Wolf (North Woods) -- Christopher Darras
     ??/??/1976 A   Award of Arms -- Christopher Darras
     05/29/1977 A   Willow (Middle) -- Christopher Darras
     01/10/1981 A L Master of the Laurel -- Christopher Darras
@@ -28789,7 +28737,7 @@ Alpha List {
   
   == Christopher Jameson [registered] ==
     10/08/1994 A   Award of Arms -- Christopher Jameson [from Atenveldt]
-    08/24/1996 A   Gilded Heart of Ered Sul (Unknown Branch) -- Christopher Jameson [from Atenveldt]
+    08/24/1996 A   Gilded Heart of Ered Sul (Ered Sul) -- Christopher Jameson [from Atenveldt]
     12/06/2003 A   Harlequin (Bhakail) -- Christopher Jameson
   
   == Christopher Michael ==
@@ -28858,9 +28806,9 @@ Alpha List {
   
   == Chritophre Cynwyd [registered] ==
     02/25/1979 A   Award of Arms -- Chritophre Cynwyd [from Middle]
-    04/26/1980 A   Iren Fyrd (Unknown Branch) -- Chritophre Cynwyd [from Calontir]
+    04/26/1980 A   Iren Fyrd (Calontir) -- Chritophre Cynwyd
     09/26/1981 A   Knight -- Chritophre Cynwyd [from Middle]
-    09/26/1985 A   Iren Hirth (Unknown Branch) -- Chritophre Cynwyd [from Calontir]
+    09/26/1985 A   Iren Hirth (Calontir) -- Chritophre Cynwyd
   
   == Chryseis Andromache ==
     11/08/1997 A   Award of Arms -- Chryseis Andromache
@@ -29051,7 +28999,7 @@ Alpha List {
     05/15/1999 A   Mistress of the Laurel -- Clotilde von der Insel
     12/04/1999 AC  Silver Crescent -- Clotilde von der Insel
     03/31/2000 A   Ordre du Pèlerin (Havre des Glaces) -- Clotilde von der Insel
-    09/22/2012 A   Seamstress to the Court (Unknown Branch) -- Clotilde von der Insel
+    09/22/2012 A   Seamstress to the Court -- Clotilde von der Insel
     09/22/2012 A   Queen's Cypher -- Clotilde von der Insel [Avelina]
   
   == Coalan an Panga Dubh ==
@@ -29132,7 +29080,7 @@ Alpha List {
   == Colin MacKenzie ==
     06/05/1999 A   Award of Arms -- Colin MacKenzie
     03/23/2002 AC  Silver Crescent -- Colin MacKenzie
-    11/08/2003 A   Keel (Unknown Branch) -- Colin MacKenzie [from Dragonship Haven]
+    11/08/2003 A   Keel (Dragonship Haven) -- Colin MacKenzie
     06/05/2010 AC  Golden Mantle -- Colin MacKenzie
   
   == Colin MacKinnon ==
@@ -29158,7 +29106,7 @@ Alpha List {
     12/28/1991 A   Award of Arms -- Colin Ursell
     12/10/1994 A   Daystar (Carolingia) -- Colin Ursell
     03/02/1996 A   Sagittarius -- Colin Ursell
-    07/14/2011 A   Companon of the Perseus (Unknown Branch) -- Colin Ursell [from Carolingia]
+    07/14/2011 A   Perseus (Carolingia) -- Colin Ursell
     08/08/2012 A   Queen's Courtesy -- Colin Ursell [Avelina]
   
   == Colin mac Eoain mac Lachlainn ==
@@ -29462,7 +29410,7 @@ Alpha List {
     04/08/2000 A   King's Cypher -- Constantine (Constantinius) von Drachenklaue [Lucan V]
     08/15/2001 A   Award of Arms -- Constantine (Constantinius) von Drachenklaue
     04/06/2002 A   Queen's Honor of Distinction -- Constantine (Constantinius) von Drachenklaue [Yana III]
-    02/17/2007 A   Corde de Guerre of Caid (Unknown Branch) -- Constantine (Constantinius) von Drachenklaue
+    02/17/2007 A   Corde de Guerre of Caid (Caid) -- Constantine (Constantinius) von Drachenklaue
     04/14/2007 A   Queen's Honor of Distinction -- Constantine (Constantinius) von Drachenklaue [Jana IV]
     04/14/2007 A   Court Baron -- Constantine (Constantinius) von Drachenklaue
     04/14/2007 A   Grant of Arms -- Constantine (Constantinius) von Drachenklaue
@@ -29496,16 +29444,13 @@ Alpha List {
     03/24/2012 A   Bronze Tower (Settmour Swamp) -- Constanza Maria Colonna
   
   == Coofwin Glenmass, of House Wind Dragon ==
-    05/30/1999 A   Friends (Unknown Branch) -- Coofwin Glenmass, of House Wind Dragon [from Concordia of the Snows]
+    05/30/1999 A   Friends (Concordia of the Snows) -- Coofwin Glenmass, of House Wind Dragon
   
   == Cooks Guild of Bright Hills, Atlantia ==
     10/12/2002  C  Golden Lyre -- Cooks Guild of Bright Hills, Atlantia
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Cooks Guild of Owl's Reste ==
-    ??/??/-1 A   Companions of the Burdened Tyger (Unknown Branch) -- Cooks Guild of Owl's Reste
-    04/30/2005  C  Burdened Tyger -- Cooks Guild of Owl's Reste [backlog]
+    ??/??/-1 AC  Burdened Tyger -- Cooks Guild of Owl's Reste [backlog]
   
   ERROR: Bad date part: xx
   ERROR: Bad date part: xx
@@ -29630,13 +29575,13 @@ Alpha List {
     05/04/2002  C  Silver Crescent -- Cosmano Piero Michelotta da Roma
   
   == Cosmo ==
-    08/19/1988 A   Prince's Companions of Albion (Unknown Branch) -- Cosmo
+    08/19/1988 A   Prince's Companions of Albion (Drachenwald) -- Cosmo
   
   == Cosmo of Carillion ==
     11/19/2005 AC  Award of Arms -- Cosmo of Carillion
     09/21/2008 AC  Baron of Carillion -- Cosmo of Carillion
     05/07/2011 AC  Silver Crescent -- Cosmo of Carillion
-    10/22/2011 A   Shrouded Bell (Unknown Branch) -- Cosmo of Carillion [from Carillion]
+    10/22/2011 A   Shrouded Bell (Carillion) -- Cosmo of Carillion
   
   == Cramine the Oud Player ==
     08/10/2011 A   Award of Arms -- Cramine the Oud Player
@@ -29651,11 +29596,11 @@ Alpha List {
     03/18/2006 A   Award of Arms -- Creatura Christi ofOakes
     04/01/2006 A   Queen's Honor of Distinction -- Creatura Christi ofOakes [Roxane III]
     05/30/2008 A   Silver Compass (Iron Bog) -- Creatura Christi ofOakes
-    02/21/2009 A   Silver Cattail (Unknown Branch) -- Creatura Christi ofOakes [from Iron Bog]
+    02/21/2009 A   Silver Cattail (Iron Bog) -- Creatura Christi ofOakes
     09/26/2009 A   Burdened Tyger -- Creatura Christi ofOakes
     01/21/2012 A   Silver Martlet (Iron Bog) -- Creatura Christi ofOakes
     01/21/2012 A   Silver Crescent -- Creatura Christi ofOakes
-    09/29/2012 A   Duck (Unknown Branch) -- Creatura Christi ofOakes [from Iron Bog]
+    09/29/2012 A   Duck (Iron Bog) -- Creatura Christi ofOakes
   
   == Creature Christi of Oaks ==
     04/01/2006  C  Queen's Honor of Distinction -- Creature Christi of Oaks
@@ -29673,7 +29618,7 @@ Alpha List {
     07/05/2008 AC  Award of Arms -- Crispin of Glenn Linn
   
   == Crispin the Pitiless ==
-    05/30/1999 A   Friends (Unknown Branch) -- Crispin the Pitiless [from Concordia of the Snows]
+    05/30/1999 A   Friends (Concordia of the Snows) -- Crispin the Pitiless
   
   == Cristiana ingen Mec-Bead [registered] ==
     11/30/2002 A   Award of Arms -- Cristiana ingen Mec-Bead
@@ -29862,7 +29807,7 @@ Alpha List {
   
   == Cynthia du Pré Argent [registered] ==
     10/07/1989 A   Award of Arms -- Cynthia du Pré Argent
-    04/06/1996 A   Corolla Nebularum (Unknown Branch) -- Cynthia du Pré Argent [Vitea) (Mists, West]
+    04/06/1996 A   Corolla Nebularum (Mists) -- Cynthia du Pré Argent [Vitea) (Mists, West]
     01/03/1998 A   Rose Leaf (Mists) -- Cynthia du Pré Argent [from West]
     01/23/1999 A   Court Baroness -- Cynthia du Pré Argent [from West]
     02/26/2000 AC  Manche -- Cynthia du Pré Argent
@@ -32219,11 +32164,6 @@ Alpha List {
   == Eleanor Fitz Patrick ==
     09/16/2000  C  Silver Crescent -- Eleanor Fitz Patrick
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Eleanor FitzPatrick [registered] ==
     ??/??/-1 A   Fountain (Unknown Branch) -- Eleanor FitzPatrick [Alantia]
     03/02/1996 A   Award of Arms -- Eleanor FitzPatrick
@@ -32399,9 +32339,6 @@ Alpha List {
   == Eleni of Carolingia [deceased] ==
     04/05/1997 A   Award of Arms -- Eleni of Carolingia
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Elennar Linwen [registered] ==
     ??/??/-1 A   Salamander (Bhakail) -- Elennar Linwen
     09/06/1980 A   Award of Arms -- Elennar Linwen
@@ -32429,10 +32366,6 @@ Alpha List {
   == Elgiva Wilhelm ==
     09/18/2010 AC  Award of Arms -- Elgiva Wilhelm
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Elglin of House Eagle ==
     ??/??/-1 A   Horse (Bhakail) -- Elglin of House Eagle
     01/??/1992 A   Attic Helm (Unknown Branch) -- Elglin of House Eagle [Barony of the Far West]
@@ -32879,11 +32812,6 @@ Alpha List {
   == Elric Fyrkatsson ==
     12/13/1997 A   Award of Arms -- Elric Fyrkatsson
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Elric of Erehwon [registered] ==
     ??/??/-1 A   Salamander (Bhakail) -- Elric of Erehwon
     12/08/1973 A   Award of Arms -- Elric of Erehwon [from Atenveldt]
@@ -34333,7 +34261,7 @@ Alpha List {
     08/18/1999 A   Award of Arms -- Formis della Scala
   
   == Fortune Sancte Keynes ==
-    09/02/2012 A   Fusion (Unknown Branch) -- Fortune Sancte Keynes [from Stonemarche]
+    09/02/2012 A   Fusion (Stonemarche) -- Fortune Sancte Keynes
   
   == Fortune St. Tysilio ==
     04/11/2009 AC  Award of Arms -- Fortune St. Tysilio
@@ -35995,10 +35923,6 @@ Alpha List {
   == Griffith Allt y Genlli [registered] ==
     04/04/1992 A   Burdened Tyger -- Griffith Allt y Genlli
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Griffith Davion [registered] ==
     ??/??/-1 A   Sable Bell (Carillion) -- Griffith Davion
     08/13/1997 A   Award of Arms -- Griffith Davion
@@ -36284,7 +36208,7 @@ Alpha List {
     05/29/1993 A   Award of Arms -- Gunther Englehaus
     01/13/2001 AC  Grant of Arms -- Gunther Englehaus
     01/13/2001 AC  Court Baron -- Gunther Englehaus
-    02/10/2007 A   Friends (Unknown Branch) -- Gunther Englehaus [from Concordia of the Snows]
+    02/10/2007 A   Friends (Concordia of the Snows) -- Gunther Englehaus
   
   == Gunther Kronewache ==
     01/02/1993   L Chivalry -- Gunther Kronewache
@@ -36636,7 +36560,7 @@ Alpha List {
   == Gwydiaan am y'Gorlwyn [registered] ==
     08/21/1976 A   Award of Arms -- Gwydiaan am y'Gorlwyn [from West]
     03/18/1978 A   Leaf of Merit (West) -- Gwydiaan am y'Gorlwyn
-    06/02/1979 A   Dolphin (Unknown Branch) -- Gwydiaan am y'Gorlwyn [from Caid]
+    06/02/1979 A   Dolphin (Caid) -- Gwydiaan am y'Gorlwyn
     01/15/1983 A   Burdened Tyger -- Gwydiaan am y'Gorlwyn
     01/28/1984 A   Manche -- Gwydiaan am y'Gorlwyn
   
@@ -37146,7 +37070,7 @@ Alpha List {
     06/30/2007 A   Troubadour -- Henry (McQueen) of Longhouse
   
   == Henry Balsac Dumas [registered] ==
-    04/10/2004 A   Company of St. Martin (Unknown Branch) -- Henry Balsac Dumas [from Dragonship Haven]
+    04/10/2004 A   Company of St. Martin (Dragonship Haven) -- Henry Balsac Dumas
     10/15/2005 A   Award of Arms -- Henry Balsac Dumas
   
   == Henry Balzac Dumas ==
@@ -37283,7 +37207,7 @@ Alpha List {
   
   == Honor Savage [registered] ==
     04/27/2002 AC  Award of Arms -- Honor Savage
-    11/11/2006 A   Sable Compass (Unknown Branch) -- Honor Savage [from Iron Bog]
+    11/11/2006 A   Sable Compass (Iron Bog) -- Honor Savage
   
   == Hopestill ==
     12/19/1981 A   Award of Arms -- Hopestill
@@ -38057,7 +37981,7 @@ Alpha List {
   == Ismenia Wystan [registered] ==
     09/13/1997 A   Award of Arms -- Ismenia Wystan
     09/01/2001 AC  Manche -- Ismenia Wystan
-    04/10/2004 A   Company of St. Martin (Unknown Branch) -- Ismenia Wystan [from Dragonship Haven]
+    04/10/2004 A   Company of St. Martin (Dragonship Haven) -- Ismenia Wystan
   
   == Isobel Bennett ==
     08/14/2002 AC  Award of Arms -- Isobel Bennett
@@ -38430,10 +38354,6 @@ Alpha List {
     AKA: Suba al-Hadid
     09/26/2009  C  Queen's Honor of Distinction -- Suba al-Hadid
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia (called Suba al-Hadid) [registered] ==
     ??/??/-1 A   Salamander (Bhakail) -- Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia (called Suba al-Hadid)
     08/13/2003 A   Award of Arms -- Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia (called Suba al-Hadid)
@@ -38507,7 +38427,7 @@ Alpha List {
   == Jane of Milford [registered] ==
     09/30/2000 AC  Award of Arms -- Jane of Milford
     11/23/2002 AC  Terpsichore -- Jane of Milford
-    09/23/2006 A   Sable Compass (Unknown Branch) -- Jane of Milford [from Iron Bog]
+    09/23/2006 A   Sable Compass (Iron Bog) -- Jane of Milford
     05/30/2008 A   Sable Gauntlet (Unknown Branch) -- Jane of Milford [from Iron Bog]
     03/28/2009 AC  Manche -- Jane of Milford
   
@@ -38787,11 +38707,6 @@ Alpha List {
   == Jehan dit Dubé ==
     05/08/2010 A   Award of Arms -- Jehan dit Dubé
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Jehan du Lac [registered] ==
     11/04/-1 A   Sun and Soil (Beyond the Mountain) -- Jehan du Lac
     10/21/1995 A   Award of Arms -- Jehan du Lac
@@ -38833,10 +38748,6 @@ Alpha List {
     01/24/1998 A   Award of Arms -- Jehanne de Wodeford
     11/18/2000 AC  Troubadour -- Jehanne de Wodeford
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Jehanne l'Enragee [registered] ==
     ??/??/-1 A   Troubadour -- Jehanne l'Enragee
     10/??/1975 A   Award of Arms -- Jehanne l'Enragee [from Middle]
@@ -38870,7 +38781,7 @@ Alpha List {
   ERROR: Bad date part: xxxx
   == Jehannine de Flandres [registered] ==
     AKA: Jehannine de Bordeu
-    ??/??/-1 A   Horse's Head (Unknown Branch) -- Jehannine de Flandres [from Carillion]
+    ??/??/-1 A   Horse's Head (Carillion) -- Jehannine de Flandres
     06/16/2001 A   Award of Arms -- Jehannine de Flandres
     02/15/2003 A   Sable Bell (Carillion) -- Jehannine de Flandres
     05/29/2005 A   Iron Tower (Settmour Swamp) -- Jehannine de Flandres
@@ -39317,7 +39228,7 @@ Alpha List {
   == John fitzArnulf de Lithia [registered] ==
     11/01/1980 A   Award of Arms -- John fitzArnulf de Lithia [Meridies?]
     01/25/1986 A   Crown's Gratitude (Unknown Branch) -- John fitzArnulf de Lithia [from Trimaris]
-    04/08/1989 A   Wyvern's Scale (Unknown Branch) -- John fitzArnulf de Lithia [Wyvernwood, Trimaris]
+    04/08/1989 A   Wyvern's Scale (Wyvernwood) -- John fitzArnulf de Lithia
     09/03/1994 A   Argent Palm (Unknown Branch) -- John fitzArnulf de Lithia [from Trimaris]
   
   == John of Brook-Lynne ==
@@ -39678,10 +39589,6 @@ Alpha List {
   == Judith of Northumbria ==
     06/13/1998 A   Award of Arms -- Judith of Northumbria
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Judith the Confused ==
     ??/??/-1 A   Horse (Bhakail) -- Judith the Confused
     09/28/2002 AC  Award of Arms -- Judith the Confused
@@ -39809,16 +39716,6 @@ Alpha List {
     02/10/1996 A   Tygers Cub -- Juliana the Helpful
     07/20/1996 A   Award of Arms -- Juliana the Helpful
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Juliana von Altenfeld ==
     ??/??/-1 A   Horse (Bhakail) -- Juliana von Altenfeld
     ??/??/-1 A   Salamander (Bhakail) -- Juliana von Altenfeld
@@ -39932,7 +39829,6 @@ Alpha List {
   == Justine Hart [registered] ==
     01/26/1991 A   Award of Arms -- Justine Hart
   
-  ERROR: Bad date part: ????
   == Justine of the Free Companions ==
     ??/??/-1 AC  Award of Arms -- Justine of the Free Companions [backlog]
   
@@ -39944,7 +39840,7 @@ Alpha List {
     08/14/1999 A   Defender of the White Scarf -- Justinian Timagenes [from Atenveldt]
     10/30/1999 A   Queen's Grace (West) -- Justinian Timagenes [from Atenveldt]
     11/23/2002 AC  Terpsichore -- Justinian Timagenes
-    09/23/2006 A   Sable Compass (Unknown Branch) -- Justinian Timagenes [from Iron Bog]
+    09/23/2006 A   Sable Compass (Iron Bog) -- Justinian Timagenes
     03/29/2008 AC  Manche -- Justinian Timagenes
   
   == Justinian the Sluggard [registered] ==
@@ -41025,7 +40921,7 @@ Alpha List {
   
   == Khavi bint Rozakii ("Khatife") ==
     01/21/1995 A   Award of Arms -- Khavi bint Rozakii ("Khatife") [from Middle]
-    06/02/2007 A   Sable Compass (Unknown Branch) -- Khavi bint Rozakii ("Khatife") [from Iron Bog]
+    06/02/2007 A   Sable Compass (Iron Bog) -- Khavi bint Rozakii ("Khatife")
     02/21/2009 A   Baroness's Silver Ring (Iron Bog) -- Khavi bint Rozakii ("Khatife")
     02/21/2009 A   Silver Martlet (Iron Bog) -- Khavi bint Rozakii ("Khatife")
     12/12/2009 A   Baroness's Silver Ring (Iron Bog) -- Khavi bint Rozakii ("Khatife")
@@ -41710,7 +41606,7 @@ Alpha List {
   == Laure Aleire de Laon [registered] ==
     04/17/1999 A   Popular Company of Sojourners (Unknown Branch) -- Laure Aleire de Laon [from Drachenwald]
     08/22/1999 A   Award of Arms -- Laure Aleire de Laon [from Drachenwald]
-    10/07/2000 A   Dragon's Blood (Unknown Branch) -- Laure Aleire de Laon [Barony of Dragonsspine, Outlands]
+    10/07/2000 A   Dragon's Blood (Unknown Branch) -- Laure Aleire de Laon [from Dragonsspine]
     10/07/2000 A   Argent Hart (Unknown Branch) -- Laure Aleire de Laon [from Outlands]
     06/30/2001 A   Desert Flower (Unknown Branch) -- Laure Aleire de Laon [from Outlands]
     06/30/2001 A   Grant of Arms -- Laure Aleire de Laon [from Outlands]
@@ -42361,7 +42257,7 @@ Alpha List {
   == Lorenzo il Confuso [registered] ==
     06/21/1997 A   Yew Bow (Unknown Branch) -- Lorenzo il Confuso [from Atlantia]
     06/21/1997 A   Award of Arms -- Lorenzo il Confuso [from Atlantia]
-    03/20/1999 A   Sea Stag (Unknown Branch) -- Lorenzo il Confuso [from Atlantia]
+    03/20/1999 A   Sea Stag (Atlantia) -- Lorenzo il Confuso
     08/19/1999 A   Mountain Hawk (Unknown Branch) -- Lorenzo il Confuso [Highland Foorde, Atlantia]
     06/03/2000  C  Queen's Archery Champion -- Lorenzo il Confuso
     09/30/2000 A   Sagittarius -- Lorenzo il Confuso
@@ -43069,7 +42965,7 @@ Alpha List {
     02/03/2001  C  Award of Arms -- Magnus Lucius Castus
   
   == Magnus Morte ==
-    10/20/2012 A   Fusion (Unknown Branch) -- Magnus Morte [from Stonemarche]
+    10/20/2012 A   Fusion (Stonemarche) -- Magnus Morte
   
   == Magnus Sigurdsson ==
     04/22/2006  C  Award of Arms -- Magnus Sigurdsson
@@ -43096,13 +42992,11 @@ Alpha List {
     08/08/2007 AC  Award of Arms -- Mahmoun of Beyond the Mountain
   
   == Mahr of Concordia ==
-    12/06/2006 A   Friends (Unknown Branch) -- Mahr of Concordia [from Concordia of the Snows]
+    12/06/2006 A   Friends (Concordia of the Snows) -- Mahr of Concordia
   
   == Maida Bebbington ==
     06/12/2004 AC  Award of Arms -- Maida Bebbington
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Maighread ni Loingsigh ==
     ??/??/-1 A   Tygers Cub -- Maighread ni Loingsigh
     09/15/2007 AC  Award of Arms -- Maighread ni Loingsigh
@@ -43161,7 +43055,7 @@ Alpha List {
   ERROR: Bad date part: xxxx
   == Mairghread Ghearr - aka Mairghread of Carillion ==
     ??/??/-1 A   Fish (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
-    ??/??/-1 A   Horse's Head (Unknown Branch) -- Mairghread Ghearr - aka Mairghread of Carillion [from Carillion]
+    ??/??/-1 A   Horse's Head (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
     05/09/2009 A   Award of Arms -- Mairghread Ghearr - aka Mairghread of Carillion
     08/??/2009 A   Sable Bell (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
     04/21/2012 A   Light of Carillion (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
@@ -44973,7 +44867,7 @@ Alpha List {
   
   == Micheil, Younger of An Alltan [registered] ==
     12/27/1980 A   Companion Estoile (Unknown Branch) -- Micheil, Younger of An Alltan [from West]
-    05/30/1981 A   Companions of the Leaf of Merit (Unknown Branch) -- Micheil, Younger of An Alltan [from West]
+    05/30/1981 A   Leaf of Merit (West) -- Micheil, Younger of An Alltan
     09/13/1981 A   Award of Arms -- Micheil, Younger of An Alltan [from West]
     01/24/1982 A   Oerthan Grace (Unknown Branch) -- Micheil, Younger of An Alltan
     01/24/1982 A   Companion (Unknown Branch) -- Micheil, Younger of An Alltan
@@ -45284,7 +45178,7 @@ Alpha List {
     07/24/2004 A   Silver Crescent -- Molly inghean ui Raighallaigh
     02/17/2007 A   Silver Martlet (Iron Bog) -- Molly inghean ui Raighallaigh
     12/08/2007 A   Burdened Tyger -- Molly inghean ui Raighallaigh
-    05/30/2008 A   Sable Compass (Unknown Branch) -- Molly inghean ui Raighallaigh [from Iron Bog]
+    05/30/2008 A   Sable Compass (Iron Bog) -- Molly inghean ui Raighallaigh
   
   == Molly of Thunder Mountain ==
     07/12/2008  C  Award of Arms -- Molly of Thunder Mountain
@@ -46237,7 +46131,7 @@ Alpha List {
     04/01/2006 A   Queen's Honor of Distinction -- Nigel of Castle West (Westcastle) [Roxane III]
     08/13/2006 A   Silver Martlet (Iron Bog) -- Nigel of Castle West (Westcastle)
     08/16/2006 A   Silver Crescent -- Nigel of Castle West (Westcastle)
-    08/04/2007 A   Silver Cattail (Unknown Branch) -- Nigel of Castle West (Westcastle) [from Iron Bog]
+    08/04/2007 A   Silver Cattail (Iron Bog) -- Nigel of Castle West (Westcastle)
     02/21/2009 A   Grant of Arms -- Nigel of Castle West (Westcastle)
     02/21/2009 A   Barone of Iron Bog (Unknown Branch) -- Nigel of Castle West (Westcastle)
   
@@ -46506,8 +46400,6 @@ Alpha List {
   == Olrick von Lubbeke ==
     06/15/2002  C  Award of Arms -- Olrick von Lubbeke
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Olrik van Lubbeke [registered] ==
     ??/??/-1 A   Salamander (Bhakail) -- Olrik van Lubbeke
     06/15/2002 A   Award of Arms -- Olrik van Lubbeke
@@ -46756,16 +46648,11 @@ Alpha List {
     08/17/2005 A   Tygers Combattant -- Otto Ulm
     02/24/2007 A   Silver Crescent -- Otto Ulm
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Otto the Obscure [registered] ==
     ??/??/-1 A   Baron of Black Diamond (Atlantia) -- Otto the Obscure
     10/20/1984 A   Award of Arms -- Otto the Obscure [from Atlantia]
     12/31/1985 A   Sable Blade (Unknown Branch) -- Otto the Obscure [from Atlantia]
-    10/18/1986 A   Sea Stag (Unknown Branch) -- Otto the Obscure [from Atlantia]
+    10/18/1986 A   Sea Stag (Atlantia) -- Otto the Obscure
     12/31/1986 A   Fettered Crane (Unknown Branch) -- Otto the Obscure [from Black Diamond]
     05/01/1988 A   Shark's Tooth (Unknown Branch) -- Otto the Obscure [from Atlantia]
     08/20/1988 A   Golden Dolphin (Atlantia) -- Otto the Obscure
@@ -47517,7 +47404,7 @@ Alpha List {
     ??/??/-1 A   Fish (Carillion) -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
     02/04/1995 A   Award of Arms -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
     06/02/2002 A   Sable Bell (Carillion) -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
-    05/30/2008 A   Sable Compass (Unknown Branch) -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach) [from Iron Bog]
+    05/30/2008 A   Sable Compass (Iron Bog) -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
     02/21/2009 A   Baroness's Silver Ring (Iron Bog) -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
     02/21/2009 A   Silver Martlet (Iron Bog) -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
     07/18/2009 A   Silver Crescent -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
@@ -47806,7 +47693,7 @@ Alpha List {
   ERROR: Bad date part: xxxx
   == Raffaella Mascolo [registered] ==
     ??/??/-1 A   Fish (Carillion) -- Raffaella Mascolo
-    ??/??/-1 A   Horse's Head (Unknown Branch) -- Raffaella Mascolo [from Carillion]
+    ??/??/-1 A   Horse's Head (Carillion) -- Raffaella Mascolo
     11/13/2004 A   Award of Arms -- Raffaella Mascolo
     01/15/2005 A   Queen's Honor of Distinction -- Raffaella Mascolo [Svava]
     04/12/2008 A   Queen's Cypher -- Raffaella Mascolo [Gabriella]
@@ -48276,7 +48163,7 @@ Alpha List {
   
   == Reynard des Montaignes [registered] ==
     02/20/1982 A   Award of Arms -- Reynard des Montaignes
-    12/10/1983 A   Windmill (Unknown Branch) -- Reynard des Montaignes [Delftwood]
+    12/10/1983 A   Windmill (Delftwood) -- Reynard des Montaignes
     07/28/1984 A   Queen's Courtesy -- Reynard des Montaignes
     10/05/1996 A   Silver Crescent -- Reynard des Montaignes
   
@@ -48488,7 +48375,7 @@ Alpha List {
   
   == Richard Leviathan ==
     06/18/2005 AC  Award of Arms -- Richard Leviathan
-    04/03/2010 A   Rock (Unknown Branch) -- Richard Leviathan [Smoking Rock]
+    04/03/2010 A   Rock (Smoking Rocks) -- Richard Leviathan [Smoking Rock]
     04/14/2012 A   Tygers Combattant -- Richard Leviathan
   
   == Richard Magnusson ==
@@ -48725,9 +48612,6 @@ Alpha List {
   == Robert Tristian ==
     10/01/2011  C  Award of Arms -- Robert Tristian
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Robert Whitcome of Brandywine [registered] ==
     ??/??/-1 A   Boreas (Unknown Branch) -- Robert Whitcome of Brandywine [Windmaster's Hill, Atlantia]
     06/07/1980 A   Award of Arms -- Robert Whitcome of Brandywine
@@ -49252,7 +49136,7 @@ Alpha List {
   == Rouland Carre [registered] ==
     06/04/1983 A   Award of Arms -- Rouland Carre
     07/??/1988 A   Tower (Unknown Branch) -- Rouland Carre [Dreiburgen]
-    01/13/1990 A   Dolphin (Unknown Branch) -- Rouland Carre [from Caid]
+    01/13/1990 A   Dolphin (Caid) -- Rouland Carre
     03/10/1990 A   Illuminated Tower (Unknown Branch) -- Rouland Carre [Dreiburgen]
     06/02/1990 A   Signum Regina (Unknown Branch) -- Rouland Carre [from Caid]
     10/27/1990 A   Harp Argent (Unknown Branch) -- Rouland Carre [from Caid]
@@ -49264,9 +49148,6 @@ Alpha List {
   == Rowan Durning ==
     09/10/2011  C  Award of Arms -- Rowan Durning [Backlog]
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Rowan Elayne of Kendal [registered] ==
     ??/??/-1 A   Halberd of Bryn Gwlad (Unknown Branch) -- Rowan Elayne of Kendal [from Ansteorra]
     07/01/1984 A   Award of Arms -- Rowan Elayne of Kendal [from Ansteorra]
@@ -49760,7 +49641,7 @@ Alpha List {
     05/22/1993 A   Purple Fret (Middle) -- Saerlaith ingen Cinneide
     06/20/1993 A   Spider (Unknown Branch) -- Saerlaith ingen Cinneide
     08/13/1998 A   Golden Otter (Unknown Branch) -- Saerlaith ingen Cinneide [Prin. of Ealdormere]
-    06/18/1999 A   Orion (Unknown Branch) -- Saerlaith ingen Cinneide [from Ealdormere]
+    06/18/1999 A   Orion (Ealdormere) -- Saerlaith ingen Cinneide
     11/20/1999 A   Baroness' Favour (Unknown Branch) -- Saerlaith ingen Cinneide
     05/27/2000 A   Golden Chalice (Unknown Branch) -- Saerlaith ingen Cinneide
     02/01/2003 A   Manche -- Saerlaith ingen Cinneide
@@ -50332,7 +50213,7 @@ Alpha List {
     07/28/2001  C  Award of Arms -- Sebastian Manetti
   
   == Sebastian Nightwind [registered] ==
-    01/14/1981 A   Red Comet (Unknown Branch) -- Sebastian Nightwind [from BMDL]
+    01/14/1981 A   Red Comet (BMDL) -- Sebastian Nightwind
     07/04/1981 A   Award of Arms -- Sebastian Nightwind
     01/16/1982 A   Silver Crescent -- Sebastian Nightwind
     05/11/1983 A   Gold Comet (BMDL) -- Sebastian Nightwind
@@ -50392,12 +50273,6 @@ Alpha List {
     09/26/1998 A   Burdened Tyger -- Sedalia MacNare
     02/21/2009 A   Baroness's Silver Ring (Iron Bog) -- Sedalia MacNare
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Segnat ingen Dhonnchada [registered] ==
     ??/??/-1 A   Empty Shell (Unknown Branch) -- Segnat ingen Dhonnchada [Far West, West]
     ??/??/-1 A   Bearer of the Burdoned Bouchet (Unknown Branch) -- Segnat ingen Dhonnchada [Far West, West]
@@ -50969,7 +50844,7 @@ Alpha List {
   
   == Simone bat Leone ==
     04/11/2009 A   Award of Arms -- Simone bat Leone
-    09/02/2012 A   Fusion (Unknown Branch) -- Simone bat Leone [from Stonemarche]
+    09/02/2012 A   Fusion (Stonemarche) -- Simone bat Leone
   
   == Simric Mailweaver [registered] ==
     12/29/1990 A   Award of Arms -- Simric Mailweaver
@@ -51463,9 +51338,6 @@ Alpha List {
   == Stephan Nosca Personae ==
     03/04/2006 AC  Award of Arms -- Stephan Nosca Personae
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Stephan of Silverforge [registered] ==
     ??/??/-1 A   Award of Arms -- Stephan of Silverforge [from Middle]
     07/21/1990 A   Purple Fret (Middle) -- Stephan of Silverforge
@@ -51555,7 +51427,7 @@ Alpha List {
     05/30/2008 A   Silver Martlet (Iron Bog) -- Sterling de la Rosa
     03/27/2010 AC  Tygers Combattant -- Sterling de la Rosa
     03/26/2011 AC  Burdened Tyger -- Sterling de la Rosa
-    10/15/2011 A   Duck (Unknown Branch) -- Sterling de la Rosa
+    10/15/2011 A   Duck (Iron Bog) -- Sterling de la Rosa
   
   == Sternwulf von Drachenwyck ==
     01/04/1986 A   Award of Arms -- Sternwulf von Drachenwyck
@@ -51658,7 +51530,7 @@ Alpha List {
   
   == Susan the Midwife [registered] ==
     08/16/1986 A   Award of Arms -- Susan the Midwife [from Outlands]
-    11/14/1987 A   Dragon's Blood (Unknown Branch) -- Susan the Midwife [Dragonsspine, Outlands]
+    11/14/1987 A   Dragon's Blood (Unknown Branch) -- Susan the Midwife [from Dragonsspine]
     01/02/1988 A   Stag's Heart (Outlands) -- Susan the Midwife
     12/16/1989 A   Russian Thistle (Unknown Branch) -- Susan the Midwife [Al-Barran, Outlands]
     04/11/1992 A   Scorpion (Unknown Branch) -- Susan the Midwife [Al-Barran, Outlands]
@@ -51666,7 +51538,7 @@ Alpha List {
     05/23/1992 A   Grant of Arms -- Susan the Midwife [from Outlands]
     05/30/1993 A   Radiant Rose (Unknown Branch) -- Susan the Midwife [from Atenveldt]
     07/24/1993 A L Mistress of the Pelican -- Susan the Midwife
-    11/06/1993 A   Cordon Royale (Unknown Branch) -- Susan the Midwife [Leif II, Outlands]
+    11/06/1993 A   Cordon Royale (Irel) -- Susan the Midwife [Leif II, Outlands]
     11/05/1994 A   Queen's Cypher -- Susan the Midwife [Aziza II, Outlands]
     12/16/1995 A   Argent Heart (Unknown Branch) -- Susan the Midwife [from Outlands]
     05/25/1997 A   Court Baroness -- Susan the Midwife [from Outlands]
@@ -52981,7 +52853,7 @@ Alpha List {
   
   == Timothy of Arindale [registered] ==
     08/19/1984 A   Award of Arms -- Timothy of Arindale [from Atlantia]
-    07/08/1989 A   Sea Stag (Unknown Branch) -- Timothy of Arindale [from Atlantia]
+    07/08/1989 A   Sea Stag (Atlantia) -- Timothy of Arindale
     08/18/1990   L Chivalry -- Timothy of Arindale [from Atlantia]
     08/18/1990 A   Knight -- Timothy of Arindale [from Atlantia]
     02/09/1991 A   Vanguard of Honor (Unknown Branch) -- Timothy of Arindale [from Caid]
@@ -53014,7 +52886,7 @@ Alpha List {
   == Tirza bithe Reaboughes [registered] ==
     02/10/1990 A   Award of Arms -- Tirza bithe Reaboughes
     04/04/1992 A   Burdened Tyger -- Tirza bithe Reaboughes
-    08/??/1996 A   Prince's Cypher (Unknown Branch) -- Tirza bithe Reaboughes [from Lochac]
+    08/??/1996 A   Prince's Cypher -- Tirza bithe Reaboughes [from Lochac]
     08/13/1996 A   Silver Crescent -- Tirza bithe Reaboughes
     08/12/1998 A   Manche -- Tirza bithe Reaboughes
     11/04/2000 AC  Queen's Courtesy -- Tirza bithe Reaboughes
@@ -53061,11 +52933,6 @@ Alpha List {
   == Toki Red Beard (Garth Fairchild) ==
     05/24/2003  C  Troubadour -- Toki Red Beard (Garth Fairchild)
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Toki Redbeard [registered] ==
     AKA: Garth Fairchild
     ??/??/-1 A   Snowflake (Unknown Branch) -- Toki Redbeard [from Concordia of the Snows]
@@ -53715,7 +53582,7 @@ Alpha List {
     04/03/1993 A   Queen's Courtesy -- Uther Shieldbreaker
     06/??/2000 A   Silver Feather (An Dubhaigeainn) -- Uther Shieldbreaker
     04/??/2001 A   Silver Feather (An Dubhaigeainn) -- Uther Shieldbreaker
-    03/??/2002 A   Sea Star (Unknown Branch) -- Uther Shieldbreaker [from Ostgardr]
+    03/??/2002 A   Sea Star (Ostgardr) -- Uther Shieldbreaker
     07/06/2002 AC  Silver Crescent -- Uther Shieldbreaker
     07/24/2004 AC  Tygers Combattant -- Uther Shieldbreaker
     08/16/2005  C  Grant of Arms -- Uther Shieldbreaker
@@ -54107,7 +53974,7 @@ Alpha List {
   ERROR: Bad date part: xxxx
   == Violet Grey ==
     ??/??/-1 A   Fish (Carillion) -- Violet Grey
-    ??/??/-1 A   Horse's Head (Unknown Branch) -- Violet Grey [from Carillion]
+    ??/??/-1 A   Horse's Head (Carillion) -- Violet Grey
     01/07/2011 A   Award of Arms -- Violet Grey
     05/01/2011 A   Chime (Carillion)\ (Unknown Branch) -- Violet Grey
     01/07/2012  C  Award of Arms -- Violet Grey
@@ -54222,10 +54089,6 @@ Alpha List {
   == Walter de Montagne [registered] ==
     10/09/1976 A   Award of Arms -- Walter de Montagne
   
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
-  ERROR: Bad date part: ????
   == Walter de Witte [registered] ==
     ??/??/-1 A   Gilded Reed (Unknown Branch) -- Walter de Witte [from Middle]
     05/08/1982 A   Award of Arms -- Walter de Witte [from Middle]
@@ -54988,11 +54851,11 @@ Alpha List {
   
   == Yesunge Altan [registered] ==
     12/15/1997 A   Award of Arms -- Yesunge Altan [from Calontir]
-    05/16/1998 A   Iren Fyrd (Unknown Branch) -- Yesunge Altan [from Calontir]
+    05/16/1998 A   Iren Fyrd (Calontir) -- Yesunge Altan
     05/15/1999 A   Torse (Unknown Branch) -- Yesunge Altan [from Calontir]
     12/15/1999 A   Leather Mallet (Unknown Branch) -- Yesunge Altan [Barony of Forgotten Sea, Calontir]
     03/??/2000 A   Green Cord (Unknown Branch) -- Yesunge Altan [Barony of Vatavia, Calontir]
-    06/15/2000 A   Iren Hirth (Unknown Branch) -- Yesunge Altan [from Calontir]
+    06/15/2000 A   Iren Hirth (Calontir) -- Yesunge Altan
     05/01/2004 A   Silver Crescent -- Yesunge Altan
     11/27/2004 A   Tygers Combattant -- Yesunge Altan
     07/02/2005 A   Manche -- Yesunge Altan
@@ -55353,8 +55216,8 @@ Alpha List {
     03/10/2001 A   Mistress of the Laurel -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [from Outlands]
     05/11/2002 A   Queen's Cypher -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [Cainnleach, Outlands]
     09/21/2003 A   Augmentation of Arms -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [from Outlands]
-    01/28/2006 A   Scales of Dragonsspine (Unknown Branch) -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [Dragonsspine, Outlands]
-    06/16/2007 A   Dragon's Blood (Unknown Branch) -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [Dragonsspine, Outlands]
+    01/28/2006 A   Scales of Dragonsspine (Dragonsspine) -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina)
+    06/16/2007 A   Dragon's Blood (Unknown Branch) -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [from Dragonsspine]
   
   == Zipporah Qirah ==
     07/05/2008 AC  Award of Arms -- Zipporah Qirah
@@ -55595,206 +55458,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-Cahan Kyle - Alphabetical
-{
-  Adding unknown award "Prince's Cypher"
-}
-
-Cailin Faolan - Alphabetical
-{
-  Unparsed line: )
-}
-
-Cairn MacAllister - Alphabetical
-{
-  Unparsed line: Cairnait inghean Broin
-  Adding unknown award "Fusion"
-}
-
-Caitrina Gordon (called Katya) - Alphabetical
-{
-  Adding unknown award "Duck"
-  Adding unknown award "Sable Compuss"
-}
-
-Caitriona Bennett inghean Niall - Alphabetical
-{
-  Unparsed line: )
-}
-
-Caitriona MacDuff (aka: *Catriona Mairghread nic Dhuibh of Moray - Alphabetical
-{
-  Adding unknown award "Sea Star"
-}
-
-Caius Marius Germanicus - Alphabetical
-{
-  Adding unknown award "Rock"
-}
-
-Camille des Jardins - Alphabetical
-{
-  Adding unknown award "Companion fo the Maunche"
-}
-
-Camma an Daraich - Alphabetical
-{
-  Unparsed line: Camron MacAuley
-}
-
-Cassandra la Sable, aka Morrigan deWinter - Alphabetical
-{
-  Adding unknown award "Stag's Tynes"
-  Adding unknown award "Cordon Royale"
-  Adding unknown award "Scales of Dragonsspine"
-}
-
-Cateline la Broderesse - Alphabetical
-{
-  Adding unknown award "Seamstress to the Princess Royal"
-}
-
-Cateline de la Mor la Souriete - Alphabetical
-{
-  Adding unknown award "Silver Trident"
-  Adding unknown award "Trade Winds"
-  Adding unknown award "Argent Scales"
-  Adding unknown award "Wyvern's Claw"
-  Adding unknown award "Emerald Seas"
-  Adding unknown award "Argent Estoile"
-  Adding unknown award "Herald's Tressure"
-  Adding unknown award "Wyvern's Scale"
-}
-
-Ceawlin Ealhreding - Alphabetical
-{
-  Adding unknown award "St. Roche"
-}
-
-Cedric of Armorica - Alphabetical
-{
-  Adding unknown award "order of the Chivalry"
-}
-
-Cedric of Thanet - Alphabetical
-{
-  Adding unknown award "Sea Stag"
-}
-
-Ceinwen ferch Llewelyn ab Owain - Alphabetical
-{
-  Adding unknown award "Comet Or"
-  Adding unknown award "Comet Vert"
-  Adding unknown award "Green Comet"
-}
-
-Cellach ingen Chernaig - Alphabetical
-{
-  Unparsed line: )
-}
-
-Cellach Mac Faoitigh (aka: Kayleigh McWhyte - Alphabetical
-{
-  Adding unknown award "Horse's Head"
-}
-
-Cenwulf Godfyrht - Alphabetical
-{
-  Adding unknown award "Dolphin"
-}
-
-Chaim Elihu ben Moshe - Alphabetical
-{
-  Adding unknown award "Free Griffin"
-}
-
-Charles the Zealous - Alphabetical
-{
-  Adding unknown award "Windmill"
-}
-
-Chiara da Montepulciano - Alphabetical
-{
-  Adding unknown award "Orion"
-}
-
-Chiron of Thessaly - Alphabetical
-{
-  Adding unknown award "Red Comet"
-}
-
-Christoffel d'Allaines-sur-Comte - Alphabetical
-{
-  Adding unknown award "Company of St. Martin"
-  Adding unknown award "Sun ans Soil"
-}
-
-Christopher Darras - Alphabetical
-{
-  Adding unknown award "White Wolf"
-}
-
-Christopher Jameson - Alphabetical
-{
-  Adding unknown award "Gilded Heart of Ered Sul"
-}
-
-Chritophre Cynwyd - Alphabetical
-{
-  Adding unknown award "Iren Fyrd"
-  Adding unknown award "Iren Hirth"
-}
-
-Clotilde von der Insel - Alphabetical
-{
-  Adding unknown award "Seamstress to the Court"
-}
-
-Colin MacKenzie - Alphabetical
-{
-  Adding unknown award "Keel"
-}
-
-Colin Ursell - Alphabetical
-{
-  Adding unknown award "Companon of the Perseus"
-}
-
-Constantine (Constantinius) von Drachenklaue - Alphabetical
-{
-  Adding unknown award "Corde de Guerre of Caid"
-}
-
-Coofwin Glenmass, of House Wind Dragon - Alphabetical
-{
-  Adding unknown award "Friends"
-}
-
-Cooks Guild of Owl's Reste - Alphabetical
-{
-  Adding unknown award "Companions of the Burdened Tyger"
-}
-
-Cosmo - Alphabetical
-{
-  Adding unknown award "Prince's Companions of Albion"
-}
-
-Cosmo of Carillion - Alphabetical
-{
-  Adding unknown award "Shrouded Bell"
-}
-
-Creatura Christi ofOakes - Alphabetical
-{
-  Adding unknown award "Silver Cattail"
-}
-
-Cynthia du Pré Argent - Alphabetical
-{
-  Adding unknown award "Corolla Nebularum"
-}
 
 Damiana Morgana delle Onde - Alphabetical
 {
@@ -56215,11 +55878,6 @@ Hilary of the Danelagh - Alphabetical
   Adding unknown award "Healer's Lamp"
 }
 
-Honor Savage - Alphabetical
-{
-  Adding unknown award "Sable Compass"
-}
-
 House Kellswood - Alphabetical
 {
   Adding unknown award "Purple Fretty"
@@ -56322,11 +55980,6 @@ Joshua Blackwolf - Alphabetical
 Judith the Confused - Alphabetical
 {
   Adding unknown award "Salamander's Tear"
-}
-
-Justine of the Free Companions - Alphabetical
-{
-  Bad date part: ????
 }
 
 Justinian Timagenes - Alphabetical
@@ -56555,7 +56208,6 @@ Michaela ní Duibhne Uí Bhardáin - Alphabetical
 
 Micheil, Younger of An Alltan - Alphabetical
 {
-  Adding unknown award "Companions of the Leaf of Merit"
   Adding unknown award "Companion"
   Adding unknown award "Oerthan Grace"
   Adding unknown award "Companion Estoile"
@@ -56817,6 +56469,11 @@ Seamus Donn - Alphabetical
   Adding unknown award "Companion des Lindquistrings"
 }
 
+Sean O Choda - Alphabetical
+{
+  Adding unknown award "Sun ans Soil"
+}
+
 Seán Ó Súilleabháin Beirre - Alphabetical
 {
   Adding unknown award "Award of Arms arillion"
@@ -57059,10 +56716,6 @@ Alpha List
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
@@ -57078,8 +56731,6 @@ Alpha List
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
@@ -57089,53 +56740,10 @@ Alpha List
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
   Bad date part: 0?
   Bad date part: 0?
   Bad date part: 0?
   Bad date part: 0?
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
@@ -57154,27 +56762,21 @@ Alpha List
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
   Bad date part: xx
   Bad date part: xx
   Bad date part: xx
@@ -57218,51 +56820,6 @@ Alpha List
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
@@ -57325,12 +56882,42 @@ Alpha List
   Bad date part: xxxx
   Bad date part: xx
   Bad date part: xx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
+  Bad date part: xxxx
+  Bad date part: xx
+  Bad date part: xx
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
@@ -57361,20 +56948,6 @@ Alpha List
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
@@ -57399,10 +56972,6 @@ Alpha List
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
-  Bad date part: ????
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx

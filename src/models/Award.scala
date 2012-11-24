@@ -142,6 +142,7 @@ object Award {
     		"Order of ",
     		"Award of the ",
     		"Companion of the ",
+    		"Companions of the ",
     		"Companion of ",
     		"- In Coming",
     		"- Incoming",
