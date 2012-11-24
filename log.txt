@@ -11957,7 +11957,6 @@ Alphabetical {
   Edward Grey of Lochleven {
   }
   Edward the Incorrigible {
-    ERROR: Adding unknown award "Flame"
   }
   Edward Kinnon {
   }
@@ -11972,8 +11971,6 @@ Alphabetical {
   Edward Talbot {
   }
   Edward Zifran of Gendy {
-    ERROR: Adding unknown award "Golden Unicorn"
-    ERROR: Adding unknown award "Cornelian"
   }
   Edweard James Midnight {
   }
@@ -12004,10 +12001,8 @@ Alphabetical {
   Eilbhen na Orien {
   }
   Eilidh Froach {
-    ERROR: Adding unknown award "Embroideress to the Crown"
   }
   Eilís ní Bhraonáin {
-    ERROR: Adding unknown award "Worshipful Company of Artificers"
   }
   Eilis of Eisental {
   }
@@ -12040,7 +12035,6 @@ Alphabetical {
   Eirikr Thórisson {
   }
   Eriny Thorvaldstottir {
-    ERROR: Unparsed line: 5/13/1998 Award of Arms
   }
   Eissdrache of the Vale {
   }
@@ -12061,8 +12055,6 @@ Alphabetical {
   Ekkehardt of Oakenwode {
   }
   El of the Two Knives {
-    ERROR: Unparsed line: ??/??/1973? Grant of Arms
-    ERROR: Adding unknown award "East Kingdom Augmentation of Arms"
   }
   Ela Bathory {
   }
@@ -12091,7 +12083,6 @@ Alphabetical {
   Eleanor the Faire {
   }
   Eleanor FitzPatrick {
-    ERROR: Adding unknown award "Fountain"
   }
   Eleanor of the Grey Waters {
   }
@@ -12100,7 +12091,6 @@ Alphabetical {
   Eleanor atte Knolle {
   }
   Eleanor Lebrun {
-    ERROR: Adding unknown award "Seamstress to the Princess Royale"
   }
   Eleanor the Librarie-Keeper {
   }
@@ -12115,10 +12105,6 @@ Alphabetical {
   Eleanora the Tilemaker {
   }
   Eleanore MacCarthaigh {
-    ERROR: Adding unknown award "Maple Leaf"
-    ERROR: Adding unknown award "Tripsichore's Mouffle"
-    ERROR: Adding unknown award "S.P.U.D."
-    ERROR: Adding unknown award "King's Council"
   }
   Eleazar ha Levi {
   }
@@ -12151,7 +12137,6 @@ Alphabetical {
   Elgiva Wilhelm {
   }
   Elglin of House Eagle {
-    ERROR: Adding unknown award "Attic Helm"
   }
   Elfrida di Arboria {
   }
@@ -12230,9 +12215,6 @@ Alphabetical {
   Elizabeth Curwen {
   }
   Elizabeth Darnley {
-    ERROR: Adding unknown award "Iren Fera"
-    ERROR: Adding unknown award "White Cord"
-    ERROR: Adding unknown award "Green Cord"
   }
   Elizabeth Donnegal {
   }
@@ -12323,7 +12305,6 @@ Alphabetical {
   Elric Fyrkatsson {
   }
   Elric of Erehwon {
-    ERROR: Adding unknown award "Lamp of Tir Ysgithr"
   }
   Elric von Ostenbridge {
   }
@@ -12336,7 +12317,6 @@ Alphabetical {
   Elspeth y Gweledydd {
   }
   Elspeth Keyf of Neddingham {
-    ERROR: Adding unknown award "Lodestone"
   }
   Elspeth Livingston {
   }
@@ -12401,7 +12381,6 @@ Alphabetical {
   Emmeline Deepwater {
   }
   Emme Attewater {
-    ERROR: Adding unknown award "White Oak (BBM)f"
   }
   Emory the Scarlet {
   }
@@ -12434,7 +12413,6 @@ Alphabetical {
   Enoch McGill {
   }
   Enraig the Bonesetter {
-    ERROR: Adding unknown award "Roasted Duck"
   }
   Enrique de Valencia {
   }
@@ -12443,7 +12421,6 @@ Alphabetical {
   Eoan of Montvale {
   }
   Eofn ap Erwyn {
-    ERROR: Adding unknown award "Silver Snowflake"
   }
   Eogan Macdomnail {
   }
@@ -12454,7 +12431,6 @@ Alphabetical {
   Eoin an Doire {
   }
   Eoin Dubh {
-    ERROR: Adding unknown award "Copanion of the Sable Martlet"
   }
   Eoin Mac Eoghain {
   }
@@ -12555,11 +12531,8 @@ Alphabetical {
   Erik the Tall {
   }
   Erik of Dragonwyck {
-    ERROR: Unparsed line: 06/30/212 Award of Arms
   }
   Erik of Vastergotland {
-  }
-  Erik of Winteroak {
   }
   Erika of the Flaming Sword {
   }
@@ -12603,13 +12576,9 @@ Alphabetical {
   }
   Esclarmonde al-Andalusiyya {
   }
-  Esmeralda la Sabia(called Sol la Cantor) {
-    ERROR: Adding unknown award "Troubsdour"
+  Esmeralda la Sabia (called Sol la Cantor) {
   }
   Esperanza Razzolini d'Asolo {
-    ERROR: Adding unknown award "Goute de Sang"
-    ERROR: Adding unknown award "Jambe de Lion"
-    ERROR: Adding unknown award "Elder of Avacal"
   }
   Essyllt ferch Llewellyn ap Rhodri {
   }
@@ -12690,7 +12659,6 @@ Alphabetical {
   Everard Martel {
   }
   Ewan the Mad Wanderer {
-    ERROR: Adding unknown award "Troubadors"
   }
   Ewan de Vassy {
   }
@@ -16308,6 +16276,7 @@ Alphabetical {
   Maliusha Kralika Zhera {
   }
   Malkin Grey {
+    ERROR: Adding unknown award "Troubadors"
     ERROR: Unparsed line: ??/??/?? Companion of the Salamander (Bhakail)
   }
   Malkyn of Glenhaven {
@@ -17039,7 +17008,6 @@ Alphabetical {
   Miryha na Halla Lan {
   }
   Miscell of Lyonesse {
-    ERROR: Adding unknown award "Founding Baroness Starkhafn"
   }
   Mistral de Tramecourt {
   }
@@ -20074,6 +20042,7 @@ Alphabetical {
   Tibicen Blackmane {
   }
   Tibor of Rock Valley {
+    ERROR: Adding unknown award "Iren Fera"
   }
   Tiecia O'Scanlan {
   }
@@ -31762,7 +31731,7 @@ Alpha List {
     06/21/1975 A   Knight -- Edward Zifran of Gendy [from West]
     01/03/1976 A L Viscount -- Edward Zifran of Gendy [AnTir, West]
     05/02/1981 A   Leaf of Merit (West) -- Edward Zifran of Gendy
-    04/24/1982 A   Golden Unicorn (Unknown Branch) -- Edward Zifran of Gendy [from An Tir]
+    04/24/1982 A   Golden Unicorn (An Tir) -- Edward Zifran of Gendy
     05/22/1983 A L Master of the Laurel -- Edward Zifran of Gendy [AnTir]
     04/14/1984 A   Queen's Cypher -- Edward Zifran of Gendy [Sedalia I]
     09/08/1984 A   Troubadour -- Edward Zifran of Gendy
@@ -31777,7 +31746,7 @@ Alpha List {
     08/16/1996 A   Silver Crescent -- Edward Zifran of Gendy
     08/18/2002 A   Court Baron -- Edward Zifran of Gendy [from AEthelmearc]
     03/29/2003 A   Bronze Tower (Settmour Swamp) -- Edward Zifran of Gendy
-    04/22/2006 A   Cornelian (Unknown Branch) -- Edward Zifran of Gendy [from AEthelmearc]
+    04/22/2006 A   Cornelian (AEthelmearc) -- Edward Zifran of Gendy
     09/30/2006 AC  King's Cypher -- Edward Zifran of Gendy [Brion II]
     08/09/2007 A   Royal Augmentation of Arms -- Edward Zifran of Gendy [from AEthelmearc]
     08/10/2007 A   Court Baron -- Edward Zifran of Gendy [from Atlantia]
@@ -31796,7 +31765,7 @@ Alpha List {
   
   == Edward the Incorrigible [registered] [deceased] ==
     05/21/1983 A   Award of Arms -- Edward the Incorrigible [from Caid]
-    10/05/1985 A   Flame (Unknown Branch) -- Edward the Incorrigible [Starkhafn, Caid]
+    10/05/1985 A   Flame (Starkhafn) -- Edward the Incorrigible
     04/16/1988   L Chivalry -- Edward the Incorrigible
     05/16/1988 A   Knight -- Edward the Incorrigible
   
@@ -31893,7 +31862,7 @@ Alpha List {
     11/06/2005 A   White Oak (Beyond the Mountain) -- Eilidh Froach
     01/28/2006 AC  Award of Arms -- Eilidh Froach
     06/11/2011 A   Burden Tyger -- Eilidh Froach [Lucan VIII and Jana V]
-    09/22/2012 A   Embroideress to the Crown (Unknown Branch) -- Eilidh Froach
+    09/22/2012 A   Embroideress to the Crown -- Eilidh Froach
   
   == Eilionora inghean ui Ruairc ==
     04/16/2011  C  Award of Arms -- Eilionora inghean ui Ruairc
@@ -31923,7 +31892,7 @@ Alpha List {
     09/22/2001 A   Mistress of the Laurel -- Eilís ní Bhraonáin
     04/20/2002 A   Silver Crescent -- Eilís ní Bhraonáin
     11/20/2004 A   Yale (Dragonship Haven) -- Eilís ní Bhraonáin
-    11/20/2004 A   Worshipful Company of Artificers (Unknown Branch) -- Eilís ní Bhraonáin [from Dragonship Haven]
+    11/20/2004 A   Worshipful Company of Artificers (Dragonship Haven) -- Eilís ní Bhraonáin
   
   == Einar Njorthurson ==
     SEE: Baliq the Kazar
@@ -32041,14 +32010,14 @@ Alpha List {
     04/21/2001  C  Queen's Honor of Distinction -- El of Two Knives
   
   == El of the Two Knives [registered] ==
+    ??/??/-1 A   Grant of Arms -- El of the Two Knives
     09/26/1971 A   Silver Crescent -- El of the Two Knives
     11/17/1973 A   Master of the Pelican -- El of the Two Knives
     04/24/1982 A   Troubadour -- El of the Two Knives
     08/14/1982 A   Pillar (Bridge) -- El of the Two Knives
     01/05/1991 A   Court Baron -- El of the Two Knives
     04/21/2001 A   Queen's Honor of Distinction -- El of the Two Knives [Isabella]
-    08/07/2008 A   East Kingdom Augmentation of Arms (Unknown Branch) -- El of the Two Knives
-    08/07/2008  C  Kingdom Augmentation of Arms -- El of the Two Knives
+    08/07/2008 AC  Kingdom Augmentation of Arms -- El of the Two Knives
   
   == Ela Bathory [registered] ==
     04/11/2009 AC  Golden Lyre -- Ela Bathory
@@ -32147,7 +32116,7 @@ Alpha List {
     09/16/2000  C  Silver Crescent -- Eleanor Fitz Patrick
   
   == Eleanor FitzPatrick [registered] ==
-    ??/??/-1 A   Fountain (Unknown Branch) -- Eleanor FitzPatrick [Alantia]
+    ??/??/-1 A   Fountain (Atlantia) -- Eleanor FitzPatrick [Alantia]
     03/02/1996 A   Award of Arms -- Eleanor FitzPatrick
     04/10/1999 A   Queen's Cypher -- Eleanor FitzPatrick [Anna]
     09/18/1999 A   King's Cypher -- Eleanor FitzPatrick [Hanse II]
@@ -32177,7 +32146,7 @@ Alpha List {
     06/26/2005 A   Golden Tyger -- Eleanor Lebrun
     06/03/2006 A   Mistress of the Laurel -- Eleanor Lebrun
     07/03/2010 AC  Silver Crescent -- Eleanor Lebrun
-    09/22/2012 A   Seamstress to the Princess Royale (Unknown Branch) -- Eleanor Lebrun
+    09/22/2012 A   Seamstress to the Princess Royale -- Eleanor Lebrun
   
   == Eleanor atte Knolle [registered] ==
     10/31/1992 A   Award of Arms -- Eleanor atte Knolle
@@ -32244,15 +32213,15 @@ Alpha List {
     01/11/2003 AC  Award of Arms -- Eleanora the Tilemaker
   
   == Eleanore MacCarthaigh [registered] ==
-    03/28/1992 A   Tripsichore's Mouffle (Unknown Branch) -- Eleanore MacCarthaigh [from Arn Hold]
+    03/28/1992 A   Tripsichore's Mouffle (Arn Hold) -- Eleanore MacCarthaigh
     03/13/1993 A   Award of Arms -- Eleanore MacCarthaigh [from Atenveldt]
-    05/08/1993 A   Maple Leaf (Unknown Branch) -- Eleanore MacCarthaigh [from Artemisia]
-    11/20/1993 A   S.P.U.D. (Unknown Branch) -- Eleanore MacCarthaigh [from Arn Hold]
+    05/08/1993 A   Maple Leaf (Artemisia) -- Eleanore MacCarthaigh
+    11/20/1993 A   S.P.U.D. (Arn Hold) -- Eleanore MacCarthaigh
     11/27/1993 A   Fleur de Soleil (Atenveldt) -- Eleanore MacCarthaigh
     03/05/1994 A   Queen's Cypher -- Eleanore MacCarthaigh [Corisande, Atenveldt]
     09/10/1994 A   Griffin's Heart (Artemisia) -- Eleanore MacCarthaigh
     09/16/1995 A   Mistress of the Laurel -- Eleanore MacCarthaigh [from Atenveldt]
-    11/28/1998 A   King's Council (Unknown Branch) -- Eleanore MacCarthaigh [from Artemisia]
+    11/28/1998 A   King's Council (Artemisia) -- Eleanore MacCarthaigh
     11/11/2006 AC  Silver Crescent -- Eleanore MacCarthaigh
     04/14/2007 A   Queen's Honor of Distinction -- Eleanore MacCarthaigh [Jana IV]
     01/29/2011 AC  Maunche -- Eleanore MacCarthaigh
@@ -32350,7 +32319,7 @@ Alpha List {
   
   == Elglin of House Eagle ==
     ??/??/-1 A   Horse (Bhakail) -- Elglin of House Eagle
-    01/??/1992 A   Attic Helm (Unknown Branch) -- Elglin of House Eagle [Barony of the Far West]
+    01/??/1992 A   Attic Helm (Far West) -- Elglin of House Eagle
     01/04/1992 A   Award of Arms -- Elglin of House Eagle [from West]
     01/04/1992 A   Leaf of Merit (West) -- Elglin of House Eagle
     04/02/2005 AC  Tygers Combattant -- Elglin of House Eagle
@@ -32524,11 +32493,11 @@ Alpha List {
     09/19/1998 A   Manche -- Elizabeth Darnley
     11/27/1999 A   Mistress of the Laurel -- Elizabeth Darnley
     05/06/2000 A   Iceberg (Ruantallan) -- Elizabeth Darnley
-    09/02/2001 A   Green Cord (Unknown Branch) -- Elizabeth Darnley [Barony of Vatavia, Calontir]
-    09/02/2001 A   White Cord (Unknown Branch) -- Elizabeth Darnley [Barony of Vatavia, Calontir]
+    09/02/2001 A   Green Cord (Vatavia) -- Elizabeth Darnley
+    09/02/2001 A   White Cord (Vatavia) -- Elizabeth Darnley
     11/30/2002 A   Terpsichore -- Elizabeth Darnley
     05/01/2004 AC  Silver Crescent -- Elizabeth Darnley
-    02/18/2005 A   Iren Fera (Unknown Branch) -- Elizabeth Darnley [from Calontir]
+    02/18/2005 A   Iren Fyrd (Calontir) -- Elizabeth Darnley
     04/01/2006 A   Burdened Tyger -- Elizabeth Darnley
     04/26/2008 AC  Queen's Honor of Distinction -- Elizabeth Darnley [Brenwen]
     11/26/2011  C  Seamstress to the Crown -- Elizabeth Darnley
@@ -32797,7 +32766,7 @@ Alpha List {
   == Elric of Erehwon [registered] ==
     ??/??/-1 A   Salamander (Bhakail) -- Elric of Erehwon
     12/08/1973 A   Award of Arms -- Elric of Erehwon [from Atenveldt]
-    12/18/1976 A   Lamp of Tir Ysgithr (Unknown Branch) -- Elric of Erehwon
+    12/18/1976 A   Lamp of Tir Ysgithr (Tir Ysgithr) -- Elric of Erehwon
     03/26/1977 A   Light of Atenveldt (Atenveldt) -- Elric of Erehwon
     04/02/1978 A   Court Baron -- Elric of Erehwon [from Atenveldt]
     10/18/1980 A   Queen's Courtesy -- Elric of Erehwon
@@ -32846,7 +32815,7 @@ Alpha List {
     04/05/1997 A L Countess -- Elspeth Keyf of Neddingham
     04/05/1997 A L Lady of the Rose -- Elspeth Keyf of Neddingham
     02/28/1998 A   Queen's Honor of Distinction -- Elspeth Keyf of Neddingham [Caitlin]
-    06/26/2004 A   Lodestone (Unknown Branch) -- Elspeth Keyf of Neddingham [from Smoking Rocks]
+    06/26/2004 A   Lodestone (Smoking Rocks) -- Elspeth Keyf of Neddingham
     04/14/2007 AC  Queen's Honor of Distinction -- Elspeth Keyf of Neddingham [Jana IV]
     05/01/2010 AC  Court Baroness -- Elspeth Keyf of Neddingham
     05/01/2010 AC  Kingdom Augmentation of Arms -- Elspeth Keyf of Neddingham
@@ -33032,7 +33001,7 @@ Alpha List {
   
   == Emme Attewater [registered] ==
     01/13/2001 A   Silver Crescent -- Emme Attewater
-    06/02/2007 A   White Oak (BBM)f (Unknown Branch) -- Emme Attewater
+    06/02/2007 A   White Oak (Beyond the Mountain) -- Emme Attewater
   
   == Emmeline Deepwater ==
     01/22/2011 AC  Queen's Honour of Distinction -- Emmeline Deepwater
@@ -33111,7 +33080,7 @@ Alpha List {
     10/03/1998 A   Award of Arms -- Enoch McGill
   
   == Enraig the Bonesetter ==
-    05/14/2011 A   Roasted Duck (Unknown Branch) -- Enraig the Bonesetter [An Dubhaigeann]
+    05/14/2011 A   Roasted Duck (An Dubhaigeainn) -- Enraig the Bonesetter [An Dubhaigeann]
     10/15/2011 A   Silver Feather (An Dubhaigeainn) -- Enraig the Bonesetter [An Dubhaigeann]
   
   == Enrique de Valencia [registered] ==
@@ -33126,7 +33095,7 @@ Alpha List {
     03/09/1996 A   Award of Arms -- Eoan of Montvale
   
   == Eofn ap Erwyn ==
-    01/07/1980 A   Silver Snowflake (Unknown Branch) -- Eofn ap Erwyn [from Concordia of the Snows]
+    01/07/1980 A   Silver Snowflake (Concordia of the Snows) -- Eofn ap Erwyn
     10/18/1980 A   Baron Concordia of the Snows -- Eofn ap Erwyn [retired]
     01/10/1982 A   Pheon -- Eofn ap Erwyn
   
@@ -33151,7 +33120,7 @@ Alpha List {
   == Eoin Dubh ==
     02/21/2009 A   Sable Gauntlet (Iron Bog) -- Eoin Dubh
     02/21/2009 AC  Award of Arms -- Eoin Dubh
-    01/21/2012 A   Copanion of the Sable Martlet (Unknown Branch) -- Eoin Dubh [from Iron Bog]
+    01/21/2012 A   Sable Martlet (Iron Bog) -- Eoin Dubh
   
   == Eoin Mac Eoghain [registered] ==
     11/05/1988 A   Award of Arms -- Eoin Mac Eoghain
@@ -33373,13 +33342,15 @@ Alpha List {
     07/11/2009 AC  Award of Arms -- Erik Snarfison
   
   == Erik of Dragonwyck ==
-  
+    06/30/2012 A   Award of Arms -- Erik of Dragonwyck
   
   == Erik of Vastergotland ==
+    AKA: Erik of Winteroak
+    02/21/1987 A   Award of Arms -- Erik of Vastergotland
     07/11/2009  C  Award of Arms -- Erik of Vastergotland
   
-  == Erik of Winteroak [registered] ==
-    02/21/1987 A   Award of Arms -- Erik of Winteroak
+  == Erik of Winteroak ==
+    SEE: Erik of Vastergotland
   
   == Erik the Green ==
     05/30/2008 A   Sable Gauntlet (Iron Bog) -- Erik the Green
@@ -33406,7 +33377,7 @@ Alpha List {
     02/17/2007 A   Silver Feather (An Dubhaigeainn) -- Erin of Sky
   
   == Eriny Thorvaldstottir ==
-  
+    05/13/1998 A   Award of Arms -- Eriny Thorvaldstottir
   
   == Erlan Nordenskald ==
     08/11/2012 A   Award of Arms -- Erlan Nordenskald
@@ -33531,25 +33502,25 @@ Alpha List {
     AKA: Sol la Cantor
     09/25/2010 A   Maunche -- Sol la Cantor
   
+  == Esmeralda la Sabia (called Sol la Cantor) [registered] ==
+    09/30/1989 A   Award of Arms -- Esmeralda la Sabia (called Sol la Cantor)
+    11/16/1991 A   Gold Comet (BMDL) -- Esmeralda la Sabia (called Sol la Cantor)
+    12/12/1992 A   Keystone (AEthelmearc) -- Esmeralda la Sabia (called Sol la Cantor)
+    09/24/1994 A   Sycamore (AEthelmearc) -- Esmeralda la Sabia (called Sol la Cantor)
+    02/20/2010 A   Golden Lyre -- Esmeralda la Sabia (called Sol la Cantor)
+    01/07/2011 A   Troubadour -- Esmeralda la Sabia (called Sol la Cantor)
+    08/08/2012 A   Laurel -- Esmeralda la Sabia (called Sol la Cantor)
+  
   == Esmeralda la Sabia called Sol la Cantor ==
     08/08/2012   L Laurel -- Esmeralda la Sabia called Sol la Cantor
-  
-  == Esmeralda la Sabia(called Sol la Cantor) [registered] ==
-    09/30/1989 A   Award of Arms -- Esmeralda la Sabia(called Sol la Cantor)
-    11/16/1991 A   Gold Comet (BMDL) -- Esmeralda la Sabia(called Sol la Cantor)
-    12/12/1992 A   Keystone (AEthelmearc) -- Esmeralda la Sabia(called Sol la Cantor)
-    09/24/1994 A   Sycamore (AEthelmearc) -- Esmeralda la Sabia(called Sol la Cantor)
-    02/20/2010 A   Golden Lyre -- Esmeralda la Sabia(called Sol la Cantor)
-    01/07/2011 A   Troubsdour (Unknown Branch) -- Esmeralda la Sabia(called Sol la Cantor)
-    08/08/2012 A   Laurel -- Esmeralda la Sabia(called Sol la Cantor)
   
   == Esperanza Razzolini d'Asolo [registered] ==
     06/11/1993 A   Award of Arms -- Esperanza Razzolini d'Asolo [from An Tir]
     10/15/1994 A   Grant of Arms -- Esperanza Razzolini d'Asolo [from An Tir]
-    10/15/1994 A   Goute de Sang (Unknown Branch) -- Esperanza Razzolini d'Asolo [from An Tir]
-    02/22/1997 A   Elder of Avacal (Unknown Branch) -- Esperanza Razzolini d'Asolo [from An Tir]
-    01/23/1999 A   Jambe de Lion (Unknown Branch) -- Esperanza Razzolini d'Asolo [from An Tir]
-    08/21/1999 A L Viscountess -- Esperanza Razzolini d'Asolo [Avacal, An Tir]
+    10/15/1994 A   Goute de Sang (An Tir) -- Esperanza Razzolini d'Asolo
+    02/22/1997 A   Elder of Avacal (Avacal) -- Esperanza Razzolini d'Asolo [from An Tir]
+    01/23/1999 A   Jambe de Lion (An Tir) -- Esperanza Razzolini d'Asolo
+    08/21/1999 A L Viscountess -- Esperanza Razzolini d'Asolo
     11/24/2001 AC  Baroness of Ruantallan (Tir Mara) -- Esperanza Razzolini d'Asolo
     11/27/2004 AC  Silver Crescent -- Esperanza Razzolini d'Asolo
     11/26/2005 AC  Manche -- Esperanza Razzolini d'Asolo
@@ -33759,7 +33730,7 @@ Alpha List {
   
   == Ewan the Mad Wanderer [registered] ==
     01/07/1978 A   Award of Arms -- Ewan the Mad Wanderer
-    01/05/1980 A   Troubadors (Unknown Branch) -- Ewan the Mad Wanderer
+    01/05/1980 A   Troubadour -- Ewan the Mad Wanderer
     01/08/1983 A   Golden Dolphin (Atlantia) -- Ewan the Mad Wanderer
   
   == Ewen Ericsson [registered] ==
@@ -36304,22 +36275,22 @@ Alpha List {
     05/13/2000 A   Sable Falcon (Unknown Branch) -- Guy Lestrange [from Ansteorra]
     08/17/2001 A   Knight -- Guy Lestrange [from Ansteorra]
     08/24/2002 A   Court Baron -- Guy Lestrange [from Ansteorra]
-    10/31/2002 A   Baronial Gallant (Unknown Branch) -- Guy Lestrange [Far West, West]
+    10/31/2002 A   Baronial Gallant (Unknown Branch) -- Guy Lestrange [from Far West]
     03/14/2003 A   Queen's Rapier -- Guy Lestrange [from Ansteorra]
-    05/31/2003 A   Leaping Dolphin (Unknown Branch) -- Guy Lestrange [Far West, West]
+    05/31/2003 A   Leaping Dolphin (Unknown Branch) -- Guy Lestrange [from Far West]
     08/24/2004 A   Defender of the West (West) -- Guy Lestrange
-    10/31/2004 A   Ginger Flower (Unknown Branch) -- Guy Lestrange [Far West, West]
-    10/31/2004 A   Coronet's Appreciation (Unknown Branch) -- Guy Lestrange [Far West, West]
-    10/31/2004 A   Gules (Unknown Branch) -- Guy Lestrange [Far West, West]
-    10/31/2004 A   Tempest Tossed Traveller (Unknown Branch) -- Guy Lestrange [Far West, West]
-    07/31/2005 A   Sea Griffon (Unknown Branch) -- Guy Lestrange [Far West, West]
-    07/31/2005 A   Coronet's Appreciation (Unknown Branch) -- Guy Lestrange [Far West, West]
+    10/31/2004 A   Ginger Flower (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2004 A   Coronet's Appreciation (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2004 A   Gules (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2004 A   Tempest Tossed Traveller (Unknown Branch) -- Guy Lestrange [from Far West]
+    07/31/2005 A   Sea Griffon (Unknown Branch) -- Guy Lestrange [from Far West]
+    07/31/2005 A   Coronet's Appreciation (Unknown Branch) -- Guy Lestrange [from Far West]
     08/15/2005 A   Master of the Pelican -- Guy Lestrange [from West]
-    10/31/2005 A   Argent (Unknown Branch) -- Guy Lestrange [Far West, West]
-    10/31/2005 A   Tempest Tossed Traveller (Unknown Branch) -- Guy Lestrange [Far West, West]
-    10/31/2005 A   Attic Helm (Unknown Branch) -- Guy Lestrange [Far West, West]
-    10/31/2005 A   Empty Shell (Unknown Branch) -- Guy Lestrange [Far West, West]
-    10/31/2005 A   Burdened Bouget (Unknown Branch) -- Guy Lestrange [Far West, West]
+    10/31/2005 A   Argent (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2005 A   Tempest Tossed Traveller (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2005 A   Attic Helm (Far West) -- Guy Lestrange
+    10/31/2005 A   Empty Shell (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2005 A   Burdened Bouget (Unknown Branch) -- Guy Lestrange [from Far West]
     08/09/2007 A   Ponte di Ferro (Unknown Branch) -- Guy Lestrange [Ponte Alto, Atlantia]
     11/17/2007 A   Queen's Courtesy -- Guy Lestrange [from Atlantia]
   
@@ -36780,7 +36751,7 @@ Alpha List {
   
   == Harkin Mactiernan ==
     03/05/2011 A   Sable Bear (Unknown Branch) -- Harkin Mactiernan [from Bergental]
-    05/28/2011 A   Fountain (Unknown Branch) -- Harkin Mactiernan [from Bergental]
+    05/28/2011 A   Fountain (Atlantia) -- Harkin Mactiernan [from Bergental]
   
   == Harold Longfellow ==
     10/14/1986 A   Award of Arms -- Harold Longfellow
@@ -37033,7 +37004,7 @@ Alpha List {
   == Henna Sinclair of Orkney ==
     01/27/2007 AC  Award of Arms -- Henna Sinclair of Orkney
     01/31/2009 A   Manche -- Henna Sinclair of Orkney
-    09/10/2011 A   Fountain (Unknown Branch) -- Henna Sinclair of Orkney [from Bergental]
+    09/10/2011 A   Fountain (Atlantia) -- Henna Sinclair of Orkney [from Bergental]
   
   == Henri Maisiere [registered] ==
     07/10/1993 A   Award of Arms -- Henri Maisiere
@@ -37723,7 +37694,7 @@ Alpha List {
   == Isabeau de Valle [registered] ==
     01/05/2002 A   Award of Arms -- Isabeau de Valle
     12/06/2008 A   Sun and Soil (Beyond the Mountain) -- Isabeau de Valle
-    06/16/2012 A   Lodestone (Unknown Branch) -- Isabeau de Valle [from Smoking Rocks]
+    06/16/2012 A   Lodestone (Smoking Rocks) -- Isabeau de Valle
   
   == Isabeau del Isle ==
     03/24/1995   L Viscount -- Isabeau del Isle [from AEthelmearc]
@@ -37829,7 +37800,7 @@ Alpha List {
     06/05/1999 A   Award of Arms -- Isabella d'Allaines-le-Comte
     03/11/2000 A   Queen's Honor of Distinction -- Isabella d'Allaines-le-Comte
     06/24/2000 A   Burdened Tyger -- Isabella d'Allaines-le-Comte
-    11/20/2004 A   Worshipful Company of Artificers (Unknown Branch) -- Isabella d'Allaines-le-Comte [from Dragonship Haven]
+    11/20/2004 A   Worshipful Company of Artificers (Dragonship Haven) -- Isabella d'Allaines-le-Comte
     11/14/2009 A   Queen's Honor of Distinction -- Isabella d'Allaines-le-Comte [Brenwen II]
     11/05/2011 A   Silver Crescent -- Isabella d'Allaines-le-Comte
   
@@ -39281,7 +39252,7 @@ Alpha List {
   
   == Jolie de la Rue ==
     06/16/2012 A   Flame of Bhakail (Bhakail) -- Jolie de la Rue
-    08/08/2012 A   Seamstress to the Princess Royale (Unknown Branch) -- Jolie de la Rue
+    08/08/2012 A   Seamstress to the Princess Royale -- Jolie de la Rue
   
   == Jon i Visby [registered] ==
     AKA: Jan aff Wisby
@@ -40345,7 +40316,7 @@ Alpha List {
     10/06/1990 A   Burdened Tyger -- Katherine Jade of Bayley
     08/15/1991 A   Keystone (AEthelmearc) -- Katherine Jade of Bayley
     08/15/1991 A   Manche -- Katherine Jade of Bayley
-    03/12/1992 A   Cornelian (Unknown Branch) -- Katherine Jade of Bayley
+    03/12/1992 A   Cornelian (AEthelmearc) -- Katherine Jade of Bayley
     03/26/1994 A   Sigil of AEthelmearc (AEthelmearc) -- Katherine Jade of Bayley
     08/13/2002 AC  Queen's Honor of Distinction -- Katherine Jade of Bayley [Roxane]
     04/12/2003 A   Mistress of the Pelican -- Katherine Jade of Bayley
@@ -42281,7 +42252,7 @@ Alpha List {
     03/29/2003 A   Ivory Tower (Settmour Swamp) -- Loriwynn the Harper
   
   == Lorraine of Smoking Rocks ==
-    06/18/2005 A   Lodestone (Unknown Branch) -- Lorraine of Smoking Rocks [from Smoking Rocks]
+    06/18/2005 A   Lodestone (Smoking Rocks) -- Lorraine of Smoking Rocks
   
   == Lorraine of the Lily Pad ==
     07/15/2006 AC  Award of Arms -- Lorraine of the Lily Pad
@@ -42661,7 +42632,7 @@ Alpha List {
   == Lyle FitzWilliam [registered] ==
     AKA: Damon de la Main
     ??/??/-1 A   Sable Bear (Unknown Branch) -- Lyle FitzWilliam [from Bergental]
-    ??/??/-1 A   Fountain (Unknown Branch) -- Lyle FitzWilliam [from Bergental]
+    ??/??/-1 A   Fountain (Atlantia) -- Lyle FitzWilliam [from Bergental]
     04/11/1987 A   Award of Arms -- Lyle FitzWilliam
     04/15/1989 A   Silver Crescent -- Lyle FitzWilliam
     04/13/1996 A   Manche -- Lyle FitzWilliam
@@ -44098,7 +44069,7 @@ Alpha List {
     02/25/2006 A   Award of Arms -- Matilde DeCadenet -
     11/22/2008 A   Court Baroness -- Matilde DeCadenet -
     11/22/2008 A   Grant of Arms -- Matilde DeCadenet -
-    08/08/2012 A   Seamstress to the Princess Royale (Unknown Branch) -- Matilde DeCadenet -
+    08/08/2012 A   Seamstress to the Princess Royale -- Matilde DeCadenet -
   
   == Matsuyamagi no Mokurai ==
     01/08/2000  C  Silver Crescent -- Matsuyamagi no Mokurai
@@ -45026,7 +44997,7 @@ Alpha List {
   
   == Miscell of Lyonesse [registered] ==
     09/04/1982 A   Award of Arms -- Miscell of Lyonesse [from Caid]
-    04/28/1984 A   Founding Baroness Starkhafn (Unknown Branch) -- Miscell of Lyonesse [from Caid]
+    04/28/1984 A   Founding Baroness Starkhafn (Caid) -- Miscell of Lyonesse
     06/01/1985 A   Court Baroness -- Miscell of Lyonesse [from Caid]
   
   == Mistral de Tramecourt ==
@@ -45216,7 +45187,7 @@ Alpha List {
   
   == Mordred McCarthy ==
     01/27/2007 AC  Award of Arms -- Mordred McCarthy
-    05/28/2011 A   Fountain (Unknown Branch) -- Mordred McCarthy [from Bergental]
+    05/28/2011 A   Fountain (Atlantia) -- Mordred McCarthy [from Bergental]
   
   == Mordred Mjothvitner [registered] ==
     06/14/1980 A   Award of Arms -- Mordred Mjothvitner
@@ -45646,7 +45617,7 @@ Alpha List {
     05/24/2003  C  Mistress of the Laurel -- Murshida bint Safia al Andalus
   
   == Murshida bint Safia al Andalusi ==
-    03/07/1998 A   Fountain (Unknown Branch) -- Murshida bint Safia al Andalusi [from Bergental]
+    03/07/1998 A   Fountain (Atlantia) -- Murshida bint Safia al Andalusi [from Bergental]
     11/07/1998 A   Award of Arms -- Murshida bint Safia al Andalusi
     02/03/2001 A   Manche -- Murshida bint Safia al Andalusi
     05/24/2003 A L Mistress of the Laurel -- Murshida bint Safia al Andalusi
@@ -47133,7 +47104,7 @@ Alpha List {
     11/22/2003 A   Award of Arms -- Peter of Hawkwood
     04/12/2008 AC  Queen's Courtesy -- Peter of Hawkwood
     11/07/2009 AC  Grant of Arms -- Peter of Hawkwood
-    05/14/2011 A   Roasted Duck (Unknown Branch) -- Peter of Hawkwood [from An Dubhaigeainn]
+    05/14/2011 A   Roasted Duck (An Dubhaigeainn) -- Peter of Hawkwood
   
   == Peter of Hawkwoods ==
     11/22/2003  C  Award of Arms -- Peter of Hawkwoods
@@ -49537,7 +49508,7 @@ Alpha List {
     05/26/2001  C  Award of Arms -- Sabina (of Concordia)
   
   == Sabina Appalonia Weber ==
-    03/07/1998 A   Fountain (Unknown Branch) -- Sabina Appalonia Weber [from Bergental]
+    03/07/1998 A   Fountain (Atlantia) -- Sabina Appalonia Weber [from Bergental]
   
   == Sabina Iulia Metella ==
     11/26/2011 AC  Award of Arms -- Sabina Iulia Metella
@@ -50024,7 +49995,7 @@ Alpha List {
     04/13/1985 A   Award of Arms -- Seamus Langstaff
   
   == Seamus MacCorcrain ==
-    03/05/2011 A   Fountain (Unknown Branch) -- Seamus MacCorcrain [from Bergental]
+    03/05/2011 A   Fountain (Atlantia) -- Seamus MacCorcrain [from Bergental]
   
   == Seamus Maguidhir an Rua ==
     07/02/2005 AC  Award of Arms -- Seamus Maguidhir an Rua
@@ -50258,8 +50229,8 @@ Alpha List {
     02/21/2009 A   Baroness's Silver Ring (Iron Bog) -- Sedalia MacNare
   
   == Segnat ingen Dhonnchada [registered] ==
-    ??/??/-1 A   Empty Shell (Unknown Branch) -- Segnat ingen Dhonnchada [Far West, West]
-    ??/??/-1 A   Bearer of the Burdoned Bouchet (Unknown Branch) -- Segnat ingen Dhonnchada [Far West, West]
+    ??/??/-1 A   Empty Shell (Unknown Branch) -- Segnat ingen Dhonnchada [from Far West]
+    ??/??/-1 A   Bearer of the Burdoned Bouchet (Unknown Branch) -- Segnat ingen Dhonnchada [from Far West]
     07/13/2002 A   Award of Arms -- Segnat ingen Dhonnchada [from Outlands]
   
   == Seigrit Elsa von Zagrafen ==
@@ -50410,7 +50381,7 @@ Alpha List {
   
   == Seumas Camshronach an Lochabair [registered] ==
     06/11/1993 A   Award of Arms -- Seumas Camshronach an Lochabair [from An Tir]
-    02/22/1997 A   Goute de Sang (Unknown Branch) -- Seumas Camshronach an Lochabair [from An Tir]
+    02/22/1997 A   Goute de Sang (An Tir) -- Seumas Camshronach an Lochabair
     02/22/1997 A   Grant of Arms -- Seumas Camshronach an Lochabair [from An Tir]
     11/24/2001 A   Baron of Ruantallan (Tir Mara) -- Seumas Camshronach an Lochabair
     11/27/2004 A   Silver Crescent -- Seumas Camshronach an Lochabair
@@ -51294,7 +51265,7 @@ Alpha List {
     12/02/1984 A   Freedom of the Bridge (Bridge) -- Steffan ap Cenydd of Silverwing
     12/05/1998 A   Pillar of the Bridge (Bridge) -- Steffan ap Cenydd of Silverwing
     09/18/1999 A   Manche -- Steffan ap Cenydd of Silverwing
-    06/26/2004 A   Lodestone (Unknown Branch) -- Steffan ap Cenydd of Silverwing [from Smoking Rocks]
+    06/26/2004 A   Lodestone (Smoking Rocks) -- Steffan ap Cenydd of Silverwing
     08/18/2004 A   Master of the Laurel -- Steffan ap Cenydd of Silverwing
     09/22/2012 A   King's Cypher -- Steffan ap Cenydd of Silverwing [Kenrick]
   
@@ -53126,7 +53097,7 @@ Alpha List {
     06/24/2000 A   Award of Arms -- Tristan de Warrell
     04/??/2002 A   St. Martin (Dragonship Haven) -- Tristan de Warrell
     11/??/2002 A   Yale (Dragonship Haven) -- Tristan de Warrell
-    11/20/2004 A   Worshipful Company of Artificers (Unknown Branch) -- Tristan de Warrell [from Dragonship Haven]
+    11/20/2004 A   Worshipful Company of Artificers (Dragonship Haven) -- Tristan de Warrell
     01/06/2007  C  King's Arts & Sciences Champion -- Tristan de Warrell
     04/21/2007 AC  Manche -- Tristan de Warrell
     11/14/2009 AC  Golden Lyre -- Tristan de Warrell
@@ -53145,7 +53116,7 @@ Alpha List {
   
   == Tristan le Sauvage [registered] ==
     06/19/2004 AC  Award of Arms -- Tristan le Sauvage
-    06/20/2009 A   Lodestone (Unknown Branch) -- Tristan le Sauvage [from Smoking Rocks]
+    06/20/2009 A   Lodestone (Smoking Rocks) -- Tristan le Sauvage
     03/06/2010 AC  Silver Rapier -- Tristan le Sauvage
     11/06/2010 A   Defender of the White Oak (Beyond the Mountain) -- Tristan le Sauvage
   
@@ -54578,7 +54549,7 @@ Alpha List {
     SEE: Talen Hackewrist
   
   == Wulf Darkstalker [registered] ==
-    05/06/1979 A   Silver Snowflake (Unknown Branch) -- Wulf Darkstalker [from Concordia of the Snows]
+    05/06/1979 A   Silver Snowflake (Concordia of the Snows) -- Wulf Darkstalker
     02/13/1982 A   Award of Arms -- Wulf Darkstalker
     11/11/2006 AC  Court Baron -- Wulf Darkstalker
   
@@ -54838,7 +54809,7 @@ Alpha List {
     05/16/1998 A   Iren Fyrd (Calontir) -- Yesunge Altan
     05/15/1999 A   Torse (Unknown Branch) -- Yesunge Altan [from Calontir]
     12/15/1999 A   Leather Mallet (Unknown Branch) -- Yesunge Altan [Barony of Forgotten Sea, Calontir]
-    03/??/2000 A   Green Cord (Unknown Branch) -- Yesunge Altan [Barony of Vatavia, Calontir]
+    03/??/2000 A   Green Cord (Vatavia) -- Yesunge Altan
     06/15/2000 A   Iren Hirth (Calontir) -- Yesunge Altan
     05/01/2004 A   Silver Crescent -- Yesunge Altan
     11/27/2004 A   Tygers Combattant -- Yesunge Altan
@@ -55443,120 +55414,6 @@ Alpha List {
 
 ERROR LOG:
 
-Edward the Incorrigible - Alphabetical
-{
-  Adding unknown award "Flame"
-}
-
-Edward Zifran of Gendy - Alphabetical
-{
-  Adding unknown award "Golden Unicorn"
-  Adding unknown award "Cornelian"
-}
-
-Eilidh Froach - Alphabetical
-{
-  Adding unknown award "Embroideress to the Crown"
-}
-
-Eilís ní Bhraonáin - Alphabetical
-{
-  Adding unknown award "Worshipful Company of Artificers"
-}
-
-Eriny Thorvaldstottir - Alphabetical
-{
-  Unparsed line: 5/13/1998 Award of Arms
-}
-
-El of the Two Knives - Alphabetical
-{
-  Unparsed line: ??/??/1973? Grant of Arms
-  Adding unknown award "East Kingdom Augmentation of Arms"
-}
-
-Eleanor FitzPatrick - Alphabetical
-{
-  Adding unknown award "Fountain"
-}
-
-Eleanor Lebrun - Alphabetical
-{
-  Adding unknown award "Seamstress to the Princess Royale"
-}
-
-Eleanore MacCarthaigh - Alphabetical
-{
-  Adding unknown award "Maple Leaf"
-  Adding unknown award "Tripsichore's Mouffle"
-  Adding unknown award "S.P.U.D."
-  Adding unknown award "King's Council"
-}
-
-Elglin of House Eagle - Alphabetical
-{
-  Adding unknown award "Attic Helm"
-}
-
-Elizabeth Darnley - Alphabetical
-{
-  Adding unknown award "Iren Fera"
-  Adding unknown award "White Cord"
-  Adding unknown award "Green Cord"
-}
-
-Elric of Erehwon - Alphabetical
-{
-  Adding unknown award "Lamp of Tir Ysgithr"
-}
-
-Elspeth Keyf of Neddingham - Alphabetical
-{
-  Adding unknown award "Lodestone"
-}
-
-Emme Attewater - Alphabetical
-{
-  Adding unknown award "White Oak (BBM)f"
-}
-
-Enraig the Bonesetter - Alphabetical
-{
-  Adding unknown award "Roasted Duck"
-}
-
-Eofn ap Erwyn - Alphabetical
-{
-  Adding unknown award "Silver Snowflake"
-}
-
-Eoin Dubh - Alphabetical
-{
-  Adding unknown award "Copanion of the Sable Martlet"
-}
-
-Erik of Dragonwyck - Alphabetical
-{
-  Unparsed line: 06/30/212 Award of Arms
-}
-
-Esmeralda la Sabia(called Sol la Cantor) - Alphabetical
-{
-  Adding unknown award "Troubsdour"
-}
-
-Esperanza Razzolini d'Asolo - Alphabetical
-{
-  Adding unknown award "Goute de Sang"
-  Adding unknown award "Jambe de Lion"
-  Adding unknown award "Elder of Avacal"
-}
-
-Ewan the Mad Wanderer - Alphabetical
-{
-  Adding unknown award "Troubadors"
-}
-
 Fabrisse of Owlsherst - Alphabetical
 {
   Unparsed line: Companion of the White Oak (BBM)Companion of the White Oak (BBM)Companion of the White Oak (BBM)
@@ -56038,6 +55895,7 @@ Mairghread Ghearr - aka Mairghread of Carillion - Alphabetical
 
 Malkin Grey - Alphabetical
 {
+  Adding unknown award "Troubadors"
   Unparsed line: ??/??/?? Companion of the Salamander (Bhakail)
 }
 
@@ -56103,11 +55961,6 @@ Micheil, Younger of An Alltan - Alphabetical
   Adding unknown award "Companion"
   Adding unknown award "Oerthan Grace"
   Adding unknown award "Companion Estoile"
-}
-
-Miscell of Lyonesse - Alphabetical
-{
-  Adding unknown award "Founding Baroness Starkhafn"
 }
 
 Mori Matsunomae - Alphabetical
@@ -56470,6 +56323,11 @@ Thomas de Castellan - Alphabetical
 Thorfinn Jarlsson - Alphabetical
 {
   Unparsed line: Thorlaeifr hvitzkegg
+}
+
+Tibor of Rock Valley - Alphabetical
+{
+  Adding unknown award "Iren Fera"
 }
 
 Timothy of Arindale - Alphabetical

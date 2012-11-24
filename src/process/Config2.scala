@@ -81,7 +81,10 @@ object Config2 {
               AwardName("Taylor to the Crown", Male),
               AwardName("Tailor to the Crown", Male),
               AwardName("Seamstress to the Court", Female))),
-            Award("Seamstress to the Princess Royal"),
+            Award("Seamstress to the Princess Royal", gender = Female, synonyms = Seq(
+              AwardName("Seamstress to the Princess Royale", Female)
+            )),
+            Award("Embroideress to the Crown"),
             Award("Toymaker to the Queen"),
             Award("Court Jester"),
             Award("Admiral of the Armies"),
@@ -102,7 +105,7 @@ object Config2 {
             Award("Tyger of Foreign Legions", "Foreign Tyger"),
             Award("Golden Tyger", "Golden Lyre"),
             Award("Royal Augmentation of Arms"),
-            Award("Kingdom Augmentation of Arms", "(Kingdom) Augmentation of Arms", "Augmentation of Arms"),
+            Award("Kingdom Augmentation of Arms", "(Kingdom) Augmentation of Arms", "Augmentation of Arms", "East Kingdom Augmentation of Arms"),
             // Yes, the Tyger carries no precedence -- it just has all the prestige ever:
             Award("Tyger of the East"),
             
@@ -181,7 +184,8 @@ object Config2 {
               "Hawk's Bell",
               "Keel",
               "Oar",
-              Award("St. Martin", "Company of St. Martin")
+              Award("St. Martin", "Company of St. Martin"),
+              "Worshipful Company of Artificers"
             )),
             
             Barony("Concordia of the Snows", synonyms = Seq("Concordia"), awards = Seq(
@@ -189,7 +193,8 @@ object Config2 {
               "Pine",
               "Sapphire",
               "Snow Hare",
-              "Ram's Horn"
+              "Ram's Horn",
+              "Silver Snowflake"
             )),
             
             Barony("Settmour Swamp", synonyms = Seq("Swamp"), awards = Seq(
@@ -221,13 +226,15 @@ object Config2 {
             
             Barony("An Dubhaigeainn", awards = Seq(
               "Drake's Spur",
+              "Roasted Duck",
               "Silver Feather"
             )),
             
             Barony("Smoking Rocks", awards = Seq(
                 "Leviathan",
                 "Quadrant",
-                "Rock"
+                "Rock",
+                "Lodestone"
             )),
             
             Barony("Iron Bog", awards = Seq(
@@ -263,6 +270,7 @@ object Config2 {
           
         Kingdom("AEthelmearc", 
           awards = Seq(
+            "Cornelian",
             "Golden Alce",
             "Golden Stirrup",
             "Keystone",
@@ -294,9 +302,19 @@ object Config2 {
         )),
         
         Kingdom("An Tir", 
+          awards = Seq(
+            "Golden Unicorn",
+            Award("Goutte de Sang", "Goute de Sang"),
+            "Jambe de Lion"
+          ),
+          
           children = Seq(
             Barony("Adiantum", awards = Seq(
               "Baronial Brownie"
+            )),
+            
+            Principality("Avacal", awards = Seq(
+              "Elder of Avacal"
             ))
           )
         ),
@@ -309,13 +327,16 @@ object Config2 {
             Award("Griffin's Talon", "Gryphon's Talon"),
             "Lady of the Papillon",
             "LUST",
-            "Maple Leaf of Artemisia",
-            "Pillar of Artemisia"
+            Award("Maple Leaf of Artemisia", "Maple Leaf"),
+            "Pillar of Artemisia",
+            "King's Council"
           ),
           
           children = Seq(
             Barony("Arn Hold", awards = Seq(
-              "Moose Combatant of Arn Hold"
+              "Moose Combatant of Arn Hold",
+              "Tripsichore's Mouffle",
+              "S.P.U.D."
             )),
             
             Barony("Loch Salaan", awards = Seq(
@@ -351,7 +372,8 @@ object Config2 {
           awards = Seq(
             "Golden Dolphin",
             "Pearl",
-            "Sea Stag"
+            "Sea Stag",
+            "Fountain"
           ),
           
           children = Seq(
@@ -383,10 +405,19 @@ object Config2 {
           )
         ),
         
-        Kingdom("Caid", awards = Seq(
-          "Corde de Guerre of Caid",
-          "Dolphin"
-        )),
+        Kingdom("Caid", 
+          awards = Seq(
+            "Corde de Guerre of Caid",
+            "Dolphin"
+          ),
+        
+          children = Seq(
+            Barony("Starkhafn", awards = Seq(
+              "Flame"
+            ))
+          )
+        
+        ),
         
         Kingdom("Calontir",
           awards = Seq(
@@ -396,9 +427,14 @@ object Config2 {
           ),
           
           children = Seq(
-              Barony("Lonely Tower", awards = Seq(
-                  "Lonely Tower"
-              ))
+            Barony("Lonely Tower", awards = Seq(
+              "Lonely Tower"
+            )),
+            
+            Barony("Vatavia", awards = Seq(
+              "Green Cord",
+              "White Cord"
+            ))
           )
         ),
         
@@ -501,6 +537,10 @@ object Config2 {
             
             Barony("Irel", awards = Seq(
               "Cordon Royale"
+            )),
+            
+            Barony("Tir Ysgithr", awards = Seq(
+              "Lamp of Tir Ysgithr"
             ))
           )
         ),
@@ -547,6 +587,10 @@ object Config2 {
               "La Courtesia",
               "Princess's Token",
               "Ruxton"
+            )),
+            
+            Barony("Far West", awards = Seq(
+              "Attic Helm"
             )),
             
             Principality("Mists", awards = Seq(
