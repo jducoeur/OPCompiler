@@ -98,7 +98,12 @@ object Config2 {
             Award("Pheon"),
             
             // Official non-precedential awards from the Crown
-            Award("Queen's Honor of Distinction", "Queen's Honour of Distinction", "Queens's Honor of Distinction", "Queen Honor of Distinction"),
+            Award(
+              "Queen's Honor of Distinction", 
+              "Queen's Honour of Distinction", 
+              "Queens's Honor of Distinction", 
+              "Queen Honor of Distinction",
+              "Queen's Distinction"),
             Award("King's Esteem of Merit", "Kings's Esteem of Merit"),
             Award("Tyger of Valor", "King's Tyger of Valor", "Valiant Tyger", "King's Valor"),
             Award("Blue Tyger Legion"),
@@ -284,7 +289,8 @@ object Config2 {
               Award("Green Comet", "Comet Vert"),
               "Silver Comet",
               "Iron Comet",
-              "Red Comet"
+              "Red Comet",
+              "Blue Comet"
             )),
             
             Barony("Delftwood", awards = Seq(
@@ -373,7 +379,8 @@ object Config2 {
             "Golden Dolphin",
             "Pearl",
             "Sea Stag",
-            "Fountain"
+            "Fountain",
+            "Opal"
           ),
           
           children = Seq(
@@ -401,6 +408,10 @@ object Config2 {
             
             Barony("Stierbach", awards = Seq(
               "St. Roche"
+            )),
+            
+            Barony("Windmaster's Hill", awards = Seq(
+              "St Nicholas"
             ))
           )
         ),
@@ -427,6 +438,10 @@ object Config2 {
           ),
           
           children = Seq(
+            Barony("Conn", awards = Seq(
+              "King's Favor"
+            )),
+            
             Barony("Lonely Tower", awards = Seq(
               "Lonely Tower"
             )),
@@ -468,13 +483,17 @@ object Config2 {
         
         Kingdom("Middle",
           awards = Seq(
+            "Doe's Grace",
             "Dragon's Barb",
             "Dragon's Heart",
+            "Dragon's Tooth",
             "Gaping Wound",
             "Purple Fret",
+            "Queen's Favor",
+            "Red Company",
+            "Royal Vanguard",
             "Silver Oak",
-            "Willow",
-            "Queen's Favor"
+            "Willow"
           ),
           
           children = Seq(

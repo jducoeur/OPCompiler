@@ -12673,7 +12673,6 @@ Alphabetical {
   Fabrisse ter Brugghe {
   }
   Fabrisse of Owlsherst {
-    ERROR: Unparsed line: Companion of the White Oak (BBM)Companion of the White Oak (BBM)Companion of the White Oak (BBM)
   }
   Fa'el Nameer {
   }
@@ -12700,7 +12699,8 @@ Alphabetical {
   Faolchadh of Dubh Linn {
   }
   Farasha Joralemon {
-    ERROR: Unparsed line: Fastrior Hrothgarsdottir
+  }
+  Fastrior Hrothgarsdottir {
   }
   Fatima of House Hakim {
   }
@@ -12763,9 +12763,8 @@ Alphabetical {
   Fiacha Mac Niall of Glencar {
   }
   Fiachra Failroch {
-    ERROR: Unparsed line: )
   }
-  Fianachet Karmen (Fia Carmen {
+  Fianachet Karmen (Fia Carmen) {
   }
   Fiadhnait inghean Chiaragáin {
   }
@@ -12788,13 +12787,8 @@ Alphabetical {
   Fine of Clare {
   }
   Finn Finnegan O'Flynn {
-    ERROR: Adding unknown award "Doe's Grace"
-    ERROR: Adding unknown award "Red Company"
-    ERROR: Adding unknown award "Dragon's Tooth"
-    ERROR: Adding unknown award "Royal Vanguard"
-    ERROR: Unparsed line: *Finnguala ingen Neill meic Chuicc
-    ERROR: Adding unknown award "Opal"
-    ERROR: Adding unknown award "Copanion of the St Nicholas"
+  }
+  Finnguala ingen Neill meic Chuicc {
   }
   Finn the Wanderer {
   }
@@ -12891,7 +12885,6 @@ Alphabetical {
   Francesca Teresa Giani {
   }
   Francesco Gaetano Greco d'Edessa (called Bishop) {
-    ERROR: Adding unknown award "King's Favor"
   }
   Francesco de Grimm {
   }
@@ -12954,14 +12947,8 @@ Alphabetical {
   Freydis Ragnarsdottir {
   }
   Freydis Wolvesbrat {
-    ERROR: Unparsed line: *Freygerðr in st
-    ERROR: Unparsed line: ó
-    ERROR: Unparsed line: rràða Hallad
-    ERROR: Unparsed line: ó
-    ERROR: Unparsed line: ttir (
-    ERROR: Unparsed line: "Frigga")
   }
-  called {
+  Freygerðr in stórràða Halladóttir (called "Frigga") {
   }
   Freygerðr of Visby {
   }
@@ -12970,7 +12957,6 @@ Alphabetical {
   Frideger Leopo Sturmreiter {
   }
   Friderich Grimm (Friedrich of Northpass) {
-    ERROR: Unparsed line: 01/29/011 Order of the Silver Crescent
   }
   Friedrich Parcifal von Osterreich {
   }
@@ -12985,7 +12971,6 @@ Alphabetical {
   Frodo von Halstern {
   }
   Frydherik Eysenkopf {
-    ERROR: Adding unknown award "Blue Comet"
   }
   Fucha de la Rua {
   }
@@ -13002,7 +12987,6 @@ Alphabetical {
   Fulk the Fool {
   }
   Fygen Abendroth {
-    ERROR: Adding unknown award "Queen's Distinction"
   }
   Fyodor MacIlhoyle {
   }
@@ -33756,6 +33740,7 @@ Alpha List {
   
   == Fabrisse of Owlsherst ==
     AKA: Carol Bair
+    ??/??/-1 A   White Oak (Beyond the Mountain) -- Fabrisse of Owlsherst
     04/16/2005 AC  Award of Arms -- Carol Bair
   
   == Fabrisse ter Brugghe [registered] ==
@@ -33813,7 +33798,9 @@ Alpha List {
     10/03/1992 A   Grant of Arms -- Farasha Joralemon
     08/21/1993 A L Mistress of the Laurel -- Farasha Joralemon
     03/01/2003 AC  Terpsichore -- Farasha Joralemon
-    09/22/2012 A   Queen's Cypher -- Farasha Joralemon [Aveline]
+  
+  == Fastrior Hrothgarsdottir ==
+    09/22/2012 A   Queen's Cypher -- Fastrior Hrothgarsdottir [Aveline]
   
   == Fatima ==
     06/13/1970   L Rose -- Fatima
@@ -34016,10 +34003,10 @@ Alpha List {
   == Fianachet Karmen ==
     04/02/2005  C  Silver Crescent -- Fianachet Karmen
   
-  == Fianachet Karmen (Fia Carmen ==
-    05/13/2000 A   Award of Arms -- Fianachet Karmen (Fia Carmen
-    04/02/2005 A   Silver Crescent -- Fianachet Karmen (Fia Carmen
-    03/24/2007 A   Mistress of the Pelican -- Fianachet Karmen (Fia Carmen
+  == Fianachet Karmen (Fia Carmen) ==
+    05/13/2000 A   Award of Arms -- Fianachet Karmen (Fia Carmen)
+    04/02/2005 A   Silver Crescent -- Fianachet Karmen (Fia Carmen)
+    03/24/2007 A   Mistress of the Pelican -- Fianachet Karmen (Fia Carmen)
   
   == Fidelco de Rochefort ==
     02/22/1997   L Laurel -- Fidelco de Rochefort
@@ -34062,16 +34049,18 @@ Alpha List {
   
   == Finn Finnegan O'Flynn [registered] ==
     09/16/1989 A   Award of Arms -- Finn Finnegan O'Flynn [from Middle]
-    05/16/1992 A   Doe's Grace (Unknown Branch) -- Finn Finnegan O'Flynn [from Middle]
+    05/16/1992 A   Doe's Grace (Middle) -- Finn Finnegan O'Flynn
     09/12/1992 A   Purple Fret (Middle) -- Finn Finnegan O'Flynn
-    06/01/1996 A   Red Company (Unknown Branch) -- Finn Finnegan O'Flynn [from Middle]
-    08/14/1997 A   Dragon's Tooth (Unknown Branch) -- Finn Finnegan O'Flynn [from Middle]
-    09/20/1997 A   Royal Vanguard (Unknown Branch) -- Finn Finnegan O'Flynn [from Middle]
-    09/04/2004 A   Opal (Unknown Branch) -- Finn Finnegan O'Flynn [from Atlantia]
-    02/11/2005 A   Copanion of the St Nicholas (Unknown Branch) -- Finn Finnegan O'Flynn [from Atlantia]
+    06/01/1996 A   Red Company (Middle) -- Finn Finnegan O'Flynn
+    08/14/1997 A   Dragon's Tooth (Middle) -- Finn Finnegan O'Flynn
+    09/20/1997 A   Royal Vanguard (Middle) -- Finn Finnegan O'Flynn
   
   == Finn the Wanderer [registered] ==
     09/17/1994 A   Award of Arms -- Finn the Wanderer
+  
+  == Finnguala ingen Neill meic Chuicc [registered] ==
+    09/04/2004 A   Opal (Atlantia) -- Finnguala ingen Neill meic Chuicc
+    02/11/2005 A   St Nicholas (Windmaster's Hill) -- Finnguala ingen Neill meic Chuicc [from Atlantia]
   
   == Finnguella ingen MacCeallaigh ==
     06/12/2010 A   Furison (Stonemarche) -- Finnguella ingen MacCeallaigh
@@ -34274,7 +34263,7 @@ Alpha List {
     04/12/2008  C  Court Baron -- Francesco Gaetano Greco d'Edessa
   
   == Francesco Gaetano Greco d'Edessa (called Bishop) [registered] ==
-    09/17/1994 A   King's Favor (Unknown Branch) -- Francesco Gaetano Greco d'Edessa (called Bishop) [Conn, Calontir]
+    09/17/1994 A   King's Favor (Conn) -- Francesco Gaetano Greco d'Edessa (called Bishop)
     04/04/1998 A   Award of Arms -- Francesco Gaetano Greco d'Edessa (called Bishop)
     04/21/2001 A   King's Excellence -- Francesco Gaetano Greco d'Edessa (called Bishop)
     04/12/2008 A   Court Baron -- Francesco Gaetano Greco d'Edessa (called Bishop)
@@ -34422,6 +34411,13 @@ Alpha List {
   == Freygerðr in stórràða Halladóttir ==
     01/30/2010  C  Manche -- Freygerðr in stórràða Halladóttir
   
+  == Freygerðr in stórràða Halladóttir (called "Frigga") [registered] ==
+    02/25/2006 A   Award of Arms -- Freygerðr in stórràða Halladóttir (called "Frigga")
+    09/23/2006 A   Silver Crescent -- Freygerðr in stórràða Halladóttir (called "Frigga")
+    01/31/2009 A   Burdened Tyger -- Freygerðr in stórràða Halladóttir (called "Frigga")
+    01/30/2010 A   Manche -- Freygerðr in stórràða Halladóttir (called "Frigga")
+    06/30/2012 A   Pelican -- Freygerðr in stórràða Halladóttir (called "Frigga")
+  
   == Freygerðr of Visby [registered] ==
     01/31/2004 A   Millstone (Stonemarche) -- Freygerðr of Visby
   
@@ -34435,6 +34431,7 @@ Alpha List {
     02/23/2002 A   Seadog (Ostgardr) -- Friderich Grimm (Friedrich of Northpass)
     02/22/2003 A   Queen's Courtesy -- Friderich Grimm (Friedrich of Northpass)
     11/01/2003 A   Seahorse (Ostgardr) -- Friderich Grimm (Friedrich of Northpass)
+    01/29/2011 A   Silver Crescent -- Friderich Grimm (Friedrich of Northpass)
   
   == Friderich Grimme ==
     01/29/2011  C  Silver Crescent -- Friderich Grimme
@@ -34476,7 +34473,7 @@ Alpha List {
     01/04/1988   L Laurel -- Fryderich Eisenkopf
   
   == Frydherik Eysenkopf [registered] ==
-    01/14/1981 A   Blue Comet (Unknown Branch) -- Frydherik Eysenkopf [from BMDL]
+    01/14/1981 A   Blue Comet (BMDL) -- Frydherik Eysenkopf
     10/02/1982 A   Award of Arms -- Frydherik Eysenkopf
     10/08/1983 A   Manche -- Frydherik Eysenkopf
     01/04/1988 A   Master of the Laurel -- Frydherik Eysenkopf
@@ -34527,8 +34524,7 @@ Alpha List {
     09/30/2006 AC  Award of Arms -- Fygen Abendroth
     04/14/2007 AC  Grant of Arms -- Fygen Abendroth
     04/14/2007 AC  Court Baroness -- Fygen Abendroth
-    10/01/2011 A   Queen's Distinction (Unknown Branch) -- Fygen Abendroth [Jana V]
-    10/01/2011  C  Queen's Honor of Distinction -- Fygen Abendroth
+    10/01/2011 AC  Queen's Honor of Distinction -- Fygen Abendroth [Jana V]
   
   == Fyodor MacIlhoyle ==
     12/05/1981 A   Award of Arms -- Fyodor MacIlhoyle
@@ -42421,9 +42417,9 @@ Alpha List {
     01/23/1993 A   Warriors of the Chalice (Unknown Branch) -- Lucius Aurelius Varus
     08/15/1995 A   Wolf's Tooth (Unknown Branch) -- Lucius Aurelius Varus [Princip. of Ealdormere]
     08/14/1996 A   Wolf's Tooth (Unknown Branch) -- Lucius Aurelius Varus [Princip. of Ealdormere]
-    08/17/1996 A   Red Company (Unknown Branch) -- Lucius Aurelius Varus [from Middle]
+    08/17/1996 A   Red Company (Middle) -- Lucius Aurelius Varus
     06/29/1997 A   Ord of the Peregrine (Unknown Branch) -- Lucius Aurelius Varus [Princip. of Ealdormere]
-    08/14/1997 A   Dragon's Tooth (Unknown Branch) -- Lucius Aurelius Varus [from Middle]
+    08/14/1997 A   Dragon's Tooth (Middle) -- Lucius Aurelius Varus
     05/30/1998 A   OPC (Unknown Branch) -- Lucius Aurelius Varus
     08/19/1999 A   Grant of Arms -- Lucius Aurelius Varus [from Ealdormere]
     08/19/1999 A   Thorbjorn's Hammer (Unknown Branch) -- Lucius Aurelius Varus [from Ealdormere]
@@ -45410,7 +45406,7 @@ Alpha List {
   == Mori Matsunomae ==
     11/05/2005 A   Award of Arms -- Mori Matsunomae
     02/18/2006 A   Silver Crocus (Unknown Branch) -- Mori Matsunomae [from Black Diamond]
-    02/18/2006 A   Opal (Unknown Branch) -- Mori Matsunomae [from Atlantia]
+    02/18/2006 A   Opal (Atlantia) -- Mori Matsunomae
     08/18/2006 A   Silver Chalice (Black Diamond) -- Mori Matsunomae
   
   == Mori Nagahide ==
@@ -46477,14 +46473,14 @@ Alpha List {
   == Oscad de Segovia ==
     05/30/1987 A   Award of Arms -- Oscad de Segovia [from Middle]
     04/18/1992 A   Purple Fret (Middle) -- Oscad de Segovia
-    06/14/1997 A   Red Company (Unknown Branch) -- Oscad de Segovia [from Middle]
-    08/14/1997 A   Dragon's Tooth (Unknown Branch) -- Oscad de Segovia [from Middle]
+    06/14/1997 A   Red Company (Middle) -- Oscad de Segovia
+    08/14/1997 A   Dragon's Tooth (Middle) -- Oscad de Segovia
     04/15/2000 A   Sapphire (Concordia of the Snows) -- Oscad de Segovia [from Middle]
-    04/13/2002 A   Doe's Grace (Unknown Branch) -- Oscad de Segovia [from Middle]
+    04/13/2002 A   Doe's Grace (Middle) -- Oscad de Segovia
     08/16/2002 A   Gold Mace (Unknown Branch) -- Oscad de Segovia [from Middle]
     08/16/2002 A   Grant of Arms -- Oscad de Segovia [from Middle]
-    03/19/2004 A   Dragon's Tooth (Unknown Branch) -- Oscad de Segovia [from Middle]
-    05/15/2004 A   Royal Vanguard (Unknown Branch) -- Oscad de Segovia [from Middle]
+    03/19/2004 A   Dragon's Tooth (Middle) -- Oscad de Segovia
+    05/15/2004 A   Royal Vanguard (Middle) -- Oscad de Segovia
     01/16/2010  C  King's Champion of Arms -- Oscad de Segovia
     03/27/2010 AC  King's Esteem of Merit -- Oscad de Segovia
     09/25/2010 A   Tygers Combattant -- Oscad de Segovia
@@ -48568,7 +48564,7 @@ Alpha List {
     10/01/2011  C  Award of Arms -- Robert Tristian
   
   == Robert Whitcome of Brandywine [registered] ==
-    ??/??/-1 A   Boreas (Unknown Branch) -- Robert Whitcome of Brandywine [Windmaster's Hill, Atlantia]
+    ??/??/-1 A   Boreas (Unknown Branch) -- Robert Whitcome of Brandywine [from Windmaster's Hill]
     06/07/1980 A   Award of Arms -- Robert Whitcome of Brandywine
     02/21/1981 A   Pearl (Atlantia) -- Robert Whitcome of Brandywine
     07/06/1985 A L Master of the Laurel -- Robert Whitcome of Brandywine
@@ -50290,7 +50286,7 @@ Alpha List {
     04/27/1991 A   Award of Arms -- Seosamh Tadhg an Crúca O'Maille
     10/12/1991 A   Perseus (Carolingia) -- Seosamh Tadhg an Crúca O'Maille
     08/12/1992 A   Golden Rapier -- Seosamh Tadhg an Crúca O'Maille
-    04/17/1993 A   Doe's Grace (Unknown Branch) -- Seosamh Tadhg an Crúca O'Maille [from Middle]
+    04/17/1993 A   Doe's Grace (Middle) -- Seosamh Tadhg an Crúca O'Maille
     07/10/1993 A   Silver Crescent -- Seosamh Tadhg an Crúca O'Maille
     09/07/1996 A   Master of the Pelican -- Seosamh Tadhg an Crúca O'Maille
     08/13/1997 A   Tygers Combattant -- Seosamh Tadhg an Crúca O'Maille
@@ -50464,7 +50460,7 @@ Alpha List {
   == Shannon inghean Bhriain uí Dhuilleáin [registered] ==
     01/15/2005 A   Award of Arms -- Shannon inghean Bhriain uí Dhuilleáin [from Caid]
     09/23/2006 A   Blasted Oak (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
-    09/23/2006 A   Opal (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [from Atlantia]
+    09/23/2006 A   Opal (Atlantia) -- Shannon inghean Bhriain uí Dhuilleáin
     08/07/2007 A   Baronial award of Excellence (Bright Hills) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
     08/07/2007 A   Eagle's Feather (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
     01/19/2008 A   Princess's Riband (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Oertha, West]
@@ -51698,8 +51694,7 @@ Alpha List {
     07/04/2009  C  Queen's Equestrian Champion -- Sylvia du Vey
     03/06/2010 AC  Silver Crescent -- Sylvia du Vey
     02/05/2011 A   Maunche -- Sylvia du Vey
-    01/28/2012 A   Queen's Distinction (Unknown Branch) -- Sylvia du Vey [Kiena I]
-    01/28/2012  C  Queen's Honor of Distinction -- Sylvia du Vey
+    01/28/2012 AC  Queen's Honor of Distinction -- Sylvia du Vey [Kiena I]
     06/16/2012 A   King's Champion of Horse -- Sylvia du Vey
   
   == Symon de Poitier ==
@@ -52527,7 +52522,7 @@ Alpha List {
     07/08/1995 A   Award of Arms -- Thomas of Ravenhill
     12/09/1995 A   White Oak (Beyond the Mountain) -- Thomas of Ravenhill
     04/13/1996 A   Tygers Combattant -- Thomas of Ravenhill
-    08/14/1997 A   Dragon's Tooth (Unknown Branch) -- Thomas of Ravenhill [from Middle]
+    08/14/1997 A   Dragon's Tooth (Middle) -- Thomas of Ravenhill
     03/17/2001   L Chivalry -- Thomas of Ravenhill [from Middle]
     03/17/2001 A   Knight -- Thomas of Ravenhill [from Middle]
     11/07/2009 A   Defender of the White Oak (Beyond the Mountain) -- Thomas of Ravenhill
@@ -55241,13 +55236,6 @@ Alpha List {
   == an Bheithir ==
     SEE: Berelindis filia Cunowulfi (was:Cynewulfdohtor
   
-  == called ==
-    02/25/2006 A   Award of Arms -- called
-    09/23/2006 A   Silver Crescent -- called
-    01/31/2009 A   Burdened Tyger -- called
-    01/30/2010 A   Manche -- called
-    06/30/2012 A   Pelican -- called
-  
   == called Althea de Grimm ==
     SEE: Violeante de Rojas
   
@@ -55413,62 +55401,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-Fabrisse of Owlsherst - Alphabetical
-{
-  Unparsed line: Companion of the White Oak (BBM)Companion of the White Oak (BBM)Companion of the White Oak (BBM)
-}
-
-Farasha Joralemon - Alphabetical
-{
-  Unparsed line: Fastrior Hrothgarsdottir
-}
-
-Fiachra Failroch - Alphabetical
-{
-  Unparsed line: )
-}
-
-Finn Finnegan O'Flynn - Alphabetical
-{
-  Adding unknown award "Doe's Grace"
-  Adding unknown award "Red Company"
-  Adding unknown award "Dragon's Tooth"
-  Adding unknown award "Royal Vanguard"
-  Unparsed line: *Finnguala ingen Neill meic Chuicc
-  Adding unknown award "Opal"
-  Adding unknown award "Copanion of the St Nicholas"
-}
-
-Francesco Gaetano Greco d'Edessa (called Bishop) - Alphabetical
-{
-  Adding unknown award "King's Favor"
-}
-
-Freydis Wolvesbrat - Alphabetical
-{
-  Unparsed line: *Freygerðr in st
-  Unparsed line: ó
-  Unparsed line: rràða Hallad
-  Unparsed line: ó
-  Unparsed line: ttir (
-  Unparsed line: "Frigga")
-}
-
-Friderich Grimm (Friedrich of Northpass) - Alphabetical
-{
-  Unparsed line: 01/29/011 Order of the Silver Crescent
-}
-
-Frydherik Eysenkopf - Alphabetical
-{
-  Adding unknown award "Blue Comet"
-}
-
-Fygen Abendroth - Alphabetical
-{
-  Adding unknown award "Queen's Distinction"
-}
 
 Gabriella de Bas Serra - Alphabetical
 {
