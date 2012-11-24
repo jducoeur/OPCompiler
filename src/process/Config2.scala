@@ -76,7 +76,9 @@ object Config2 {
             Award("Armorer to the Crown"),
             Award("Grandmaster Bowman"),
             Award("Master Bowman"),
-            Award("Seamstress to the Crown", gender = Female, synonyms = Seq(AwardName("Taylor to the Crown", Male))),
+            Award("Seamstress to the Crown", gender = Female, synonyms = Seq(
+              AwardName("Taylor to the Crown", Male),
+              AwardName("Tailor to the Crown", Male))),
             Award("Toymaker to the Queen"),
             Award("Court Jester"),
             Award("Admiral of the Armies"),
@@ -157,7 +159,7 @@ object Config2 {
             )),
             
             Barony("Bhakail", awards = Seq(
-              "Flame of Bhakail",
+              Award("Flame of Bhakail", "Guardian of the Flame"),
               "Harlequin",
               Award("Master of Horse", "Horse"),
               "Salamander"
@@ -171,7 +173,8 @@ object Config2 {
             Barony("Dragonship Haven", awards = Seq(
               "Yale",
               "Hawk's Bell",
-              "Oar"
+              "Oar",
+              "St. Martin"
             )),
             
             Barony("Concordia of the Snows", synonyms = Seq("Concordia"), awards = Seq(
@@ -227,14 +230,15 @@ object Config2 {
             // Tir Mara and its Baronies
             Principality("Tir Mara", children = Seq(
 	          Barony("Ruantallan", awards = Seq(
-	            "Iceburg"
+	            Award("Iceburg", "Iceberg")
 	          )),
             
               Barony("Havre des Glaces", synonyms = Seq("Havre de Glaces", "Havres des Glaces"), awards = Seq(
                 Award("Ordre du Pèlerin", "Ordre du Pelerin"),
                 "Chiffre du Baron",
-                "Order du Lys d'argent",
-                "Ordre du Meritum Martialis"
+                Award("Order du Lys d'argent", "Ordre du Lys d'Argent"),
+                "Ordre du Meritum Martialis",
+                "Order de Mai"
               )),
             
               Barony("L'Ile du Dragon Dormant")            
@@ -251,7 +255,9 @@ object Config2 {
         
           children = Seq(
             Barony("BMDL", awards = Seq(
-              "Gold Comet"
+              "Gold Comet",
+              "Silver Comet",
+              "Iron Comet"
             )),
             
             Barony("Thescorre", awards = Seq(
@@ -275,7 +281,7 @@ object Config2 {
             "Golden Feather of Artemisia",
             "Grace of Artemisia",
             "Griffin's Heart",
-            "Griffin's Talon",
+            Award("Griffin's Talon", "Gryphon's Talon"),
             "Lady of the Papillon",
             "LUST",
             "Maple Leaf of Artemisia",
@@ -289,18 +295,24 @@ object Config2 {
             
             Barony("Loch Salaan", awards = Seq(
               "Bannthegn",
-              "Crystal of the Salt Wastes",
+              Award("Crystal of the Salt Wastes", "Crystal of the Salt Waste"),
               Award("Devoted and Unique Company of Keepers", "Devoted & Unique Company of Keepers"),
-              "Falcon of Loch Salaan"
+              "Falcon of Loch Salaan",
+              "Flower of Chivalry"
             ))
           )
         ),
         
         Kingdom("Atenveldt",
           awards = Seq(
+            "Fleur de Soleil",
             "Light of Atenveldt",
             "Lion of Atenveldt",
-            "King's Sigil"
+            "King's Sigil",
+            "Queen's Grace of Atenveldt",
+            "Beacon of the Desert",
+            "Thegn",
+            "Hawk's Lure"
           ),
           
           children = Seq(
@@ -317,6 +329,11 @@ object Config2 {
           ),
           
           children = Seq(
+            Barony("Black Diamond", awards = Seq(
+              "Polished Mirror",
+              "Silver Chalice"
+            )),
+            
             Barony("Bright Hills", awards = Seq(
               "Cat's Paw",
               "Silver Scroll",
@@ -341,6 +358,12 @@ object Config2 {
         Kingdom("Calontir",
           awards = Seq(
             Award("Golden Calon Swan", "Swan")
+          ),
+          
+          children = Seq(
+              Barony("Lonely Tower", awards = Seq(
+                  "Lonely Tower"
+              ))
           )
         ),
         
@@ -348,7 +371,9 @@ object Config2 {
           awards = Seq(
             "Principality Company of Sojourners",
             Award("Princess's Order of Courtesy", "Princess's Courtesy"),
-            "Dragons Pride"
+            "Dragons Pride",
+            "Lady of the Edelweiss",
+            "Lindquistrings"
           )
         ),
         
@@ -372,7 +397,14 @@ object Config2 {
             "Gaping Wound",
             "Purple Fret",
             "Silver Oak",
-            "Willow"
+            "Willow",
+            "Queen's Favor"
+          ),
+          
+          children = Seq(
+            Barony("Middle Marches", awards = Seq(
+              "Watchful Tower"
+            ))
           )
         ),
         
@@ -397,7 +429,8 @@ object Config2 {
             "Golden Reflection",
             "Stag",
             "Stag's Blood",
-            "Stag's Heart"
+            "Stag's Heart",
+            "Trefoil"
           ),
           
           children = Seq(
@@ -422,10 +455,14 @@ object Config2 {
         
         Kingdom("West",
           awards = Seq(
+            "Commendabilis",
             "Defender of the West",
+            "Knight Bannerette",
             "Leaf of Merit",
+            "Old Battered Helm",
             "Pied d'Argent",
             "Queen's Grace",
+            "Silver Mantle",
             "Silver Molet",
             "Valor",
             "Wooden Spoon"
@@ -441,6 +478,8 @@ object Config2 {
             )),
             
             Principality("Mists", awards = Seq(
+              "Corolla Muralis",
+              "Princess's Grace",
               "Rose Leaf"
             ))
           )
