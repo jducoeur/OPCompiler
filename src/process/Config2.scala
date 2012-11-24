@@ -167,7 +167,8 @@ object Config2 {
               Award("Flame of Bhakail", "Guardian of the Flame"),
               "Harlequin",
               Award("Master of Horse", "Horse"),
-              "Salamander"
+              "Salamander",
+              "Bhakail Order of Fence"
             )),
             
             Barony("Bridge", synonyms = Seq("the Bridge"), awards = Seq(
@@ -187,7 +188,8 @@ object Config2 {
               Award("Friends", "Friend of Concordia"),
               "Pine",
               "Sapphire",
-              "Snow Hare"
+              "Snow Hare",
+              "Ram's Horn"
             )),
             
             Barony("Settmour Swamp", synonyms = Seq("Swamp"), awards = Seq(
@@ -232,6 +234,7 @@ object Config2 {
               "Baroness's Silver Ring",
               "Duck",
               Award("Sable Compass", "Sable Compuss"),
+              "Sable Gauntlet",
               "Sable Martlet",
               "Silver Compass",
               "Silver Gauntlet",
@@ -250,7 +253,8 @@ object Config2 {
                 "Chiffre du Baron",
                 Award("Order du Lys d'argent", "Ordre du Lys d'Argent"),
                 "Ordre du Meritum Martialis",
-                "Order de Mai"
+                "Order de Mai",
+                "Ordre de la Rose des Glaces"
               )),
             
               Barony("L'Ile du Dragon Dormant")            
@@ -260,6 +264,7 @@ object Config2 {
         Kingdom("AEthelmearc", 
           awards = Seq(
             "Golden Alce",
+            "Golden Stirrup",
             "Keystone",
             "Sigil of AEthelmearc",
             "Sycamore"
@@ -284,7 +289,9 @@ object Config2 {
           )
         ),
         
-        Kingdom("Ansteorra"),
+        Kingdom("Ansteorra", awards = Seq(
+          "Queen's Glove of Ansteorra"
+        )),
         
         Kingdom("An Tir", 
           children = Seq(
@@ -400,9 +407,11 @@ object Config2 {
             "Principality Company of Sojourners",
             Award("Princess's Order of Courtesy", "Princess's Courtesy"),
             "Dragons Pride",
+            "Dragons Tear",
             "Lady of the Edelweiss",
             "Lindquistrings",
-            "Prince's Companions of Albion"
+            "Prince's Companions of Albion",
+            "Panache"
           )
         ),
         
@@ -423,6 +432,7 @@ object Config2 {
         
         Kingdom("Middle",
           awards = Seq(
+            "Dragon's Barb",
             "Dragon's Heart",
             "Gaping Wound",
             "Purple Fret",
@@ -438,7 +448,9 @@ object Config2 {
             
             Barony("North Woods", awards = Seq(
               "White Wolf"
-            ))
+            )),
+            
+            Barony("Tree-Girt-Sea")
           )
         ),
         

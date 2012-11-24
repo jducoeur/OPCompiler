@@ -11285,8 +11285,6 @@ Alphabetical {
   Damiana di Crescienzo {
   }
   Damiana Morgana delle Onde {
-    ERROR: Adding unknown award "Panache"
-    ERROR: Adding unknown award "Dragons Tear"
   }
   Damiana the Unnamed {
   }
@@ -11367,7 +11365,6 @@ Alphabetical {
   Daria Jotham {
   }
   Darius Aurelius (Serpentius {
-    ERROR: Unparsed line: - see Nissim aven Darmon
   }
   Darmyn the Beastmaster {
   }
@@ -11424,7 +11421,8 @@ Alphabetical {
   David ha-Yansuf ben Nathan {
   }
   Davin Criss {
-    ERROR: Unparsed line: Davius St. Jacques
+  }
+  Davius St. Jacques {
   }
   Dawyd z Gury {
   }
@@ -11433,7 +11431,6 @@ Alphabetical {
   De’Dannen O’Kelleher {
   }
   Deacon de Chatillon {
-    ERROR: Adding unknown award "Ram's Horn"
   }
   Deanie of Owl's Reste {
   }
@@ -11536,7 +11533,6 @@ Alphabetical {
   Devos Abendroth {
   }
   Devra the Baker {
-    ERROR: Adding unknown award "Silver Crescet"
   }
   Dewi Balch {
   }
@@ -11545,7 +11541,6 @@ Alphabetical {
   Dharr al-Shaatir ibn Abd al-Muntaquim {
   }
   Diana Alene {
-    ERROR: Adding unknown award "Founding Baroness Tree-Girt-Sea"
   }
   Diana Brythonwen ferch Cynfarch ap Cynan {
   }
@@ -11586,16 +11581,6 @@ Alphabetical {
   Diego Miguel de Vega {
   }
   Diego Miguel Munoz de Castilla {
-    ERROR: Unparsed line: 08/10/10 Companion of the Golden Rapier
-    ERROR: Unparsed line: 04/22/06 Court Baron (Aethelmearc)
-    ERROR: Unparsed line: 08/17/99 Companion of the keystone (Aethelmearc)
-    ERROR: Unparsed line: 07/15/06 Companion of the Sycamore (Aethelmearc)
-    ERROR: Unparsed line: 08/17/06 Companion of the Golden Stirrup (Aethelmearc)
-    ERROR: Unparsed line: 10/04/97 Companion of the White Scarf (Aethelmearc)
-    ERROR: Unparsed line: 09/05/92 Award of Arms (Ansteorra)
-    ERROR: Unparsed line: 04/22/06 Sigel of Aethelmearc
-    ERROR: Unparsed line: 10/16/93 Award of the Queen's Rapier (Ansteorra)
-    ERROR: Unparsed line: 03/23/96 Queen's Glove of Ansteorra
   }
   Diego Mundoz {
   }
@@ -11698,8 +11683,6 @@ Alphabetical {
   Donk Jorgenson {
   }
   Donna of Stonemarche {
-    ERROR: Adding unknown award "he Millstone"
-    ERROR: Adding unknown award "Milstone"
   }
   Donnachadh O'Faolan {
   }
@@ -11714,8 +11697,6 @@ Alphabetical {
   Donnel MacKinnon {
   }
   Donovan Shinnock {
-    ERROR: Adding unknown award "Silver Rapierar"
-    ERROR: Adding unknown award "Perseus (C"
   }
   Donus MacInstalker {
   }
@@ -11728,7 +11709,6 @@ Alphabetical {
   Dorigen of the Grey Gate {
   }
   Dorigen of Lewes {
-    ERROR: Adding unknown award "Dragon's Barb"
   }
   Dorio of the Oaks {
   }
@@ -11777,7 +11757,6 @@ Alphabetical {
   Drucilla Katerina d'Aartwerk {
   }
   Drueta de la Rosa {
-    ERROR: Adding unknown award "Sable Gauntlet"
   }
   Drulina Drulet {
   }
@@ -11802,10 +11781,8 @@ Alphabetical {
   Dugan MacGowan of Edzell {
   }
   Dugan MacKinnon {
-    ERROR: Adding unknown award "he Silver Crescent"
   }
   Dugan Makgowin of Aydel {
-    ERROR: Adding unknown award "Ordre de la Rose des Glaces"
   }
   Dughal McCafferty {
   }
@@ -11868,7 +11845,8 @@ Alphabetical {
   Dunstan of Thorun Watch {
   }
   Dunstin le Noie {
-    ERROR: Unparsed line: Durkin McWard
+  }
+  Durkin McWard {
   }
   Durko Vadas {
   }
@@ -11887,12 +11865,12 @@ Alphabetical {
   Dylan Fitzgerald {
   }
   Dylan ap Maelgwn {
-    ERROR: Adding unknown award "Bhakail order of Fence"
   }
   Dyonysus Apollonius Sapphire {
   }
   Dzintakrasty Guntars {
-    ERROR: Unparsed line: Dziuginte Litovka
+  }
+  Dziuginte Litovka {
   }
   Dzguinte of Dragonship Haven {
   }
@@ -30018,8 +29996,8 @@ Alpha List {
   == Damiana Morgana delle Onde ==
     07/15/1989 A   Award of Arms -- Damiana Morgana delle Onde
     10/14/1989 A   Troubadour -- Damiana Morgana delle Onde
-    02/17/1990 A   Panache (Unknown Branch) -- Damiana Morgana delle Onde
-    05/26/1990 A   Dragons Tear (Unknown Branch) -- Damiana Morgana delle Onde
+    02/17/1990 A   Panache (Drachenwald) -- Damiana Morgana delle Onde
+    05/26/1990 A   Dragons Tear (Drachenwald) -- Damiana Morgana delle Onde
     01/02/1993 A   Manche -- Damiana Morgana delle Onde
     10/09/1993 A   Court Baroness -- Damiana Morgana delle Onde
     10/09/1993 A   Grant of Arms -- Damiana Morgana delle Onde
@@ -30234,7 +30212,7 @@ Alpha List {
     09/13/2003  C  Burdened Tyger -- Darka Vadas
   
   == Darmyn the Beastmaster ==
-    12/14/2002  C  Queen's Courtesy -- Darmyn the Beastmaster
+    SEE: Nissim aven Darmon
   
   == Darrel McGuinness ==
     11/23/2002 AC  Award of Arms -- Darrel McGuinness
@@ -30342,10 +30320,10 @@ Alpha List {
   
   == Davin Criss ==
     07/20/1996 A   Queen's Courtesy -- Davin Criss
-    01/21/2012 A   Silver Rapier -- Davin Criss
   
   == Davius St. Jacques ==
     01/14/2012  C  Silver Rapier -- Davius St. Jacques
+    01/21/2012 A   Silver Rapier -- Davius St. Jacques
   
   == Davíd de Londres ==
     07/26/1997 A   Award of Arms -- Davíd de Londres
@@ -30370,7 +30348,7 @@ Alpha List {
     07/01/2006 AC  Award of Arms -- Deacon de Chatillon
     10/25/2008 A   Tygers Combattant -- Deacon de Chatillon
     04/11/2009 A   Queen's Cypher -- Deacon de Chatillon [Alethea]
-    05/24/2009 A   Ram's Horn (Unknown Branch) -- Deacon de Chatillon [from Concordia of the Snows]
+    05/24/2009 A   Ram's Horn (Concordia of the Snows) -- Deacon de Chatillon
   
   == Deanie of Owl's Reste ==
     03/06/2004 AC  Queen's Courtesy -- Deanie of Owl's Reste
@@ -30599,8 +30577,7 @@ Alpha List {
   
   == Devra the Baker [registered] ==
     03/10/2001 AC  Award of Arms -- Devra the Baker
-    08/07/2008 A   Silver Crescet (Unknown Branch) -- Devra the Baker
-    08/07/2008  C  Silver Crescent -- Devra the Baker
+    08/07/2008 AC  Silver Crescent -- Devra the Baker
     12/03/2011 A   Sea Dog (Ostgardr) -- Devra the Baker
   
   == Dewi Balch [registered] ==
@@ -30633,7 +30610,7 @@ Alpha List {
     10/10/1970 A L Countess -- Diana Alene
     10/10/1970 A L Lady of the Rose -- Diana Alene
     05/08/1971 A L Mistress of the Laurel -- Diana Alene
-    10/??/1971 A   Founding Baroness Tree-Girt-Sea (Unknown Branch) -- Diana Alene
+    10/??/1971 A   Founding Baroness Tree-Girt-Sea (Middle) -- Diana Alene
     10/09/1971 A L Duchess -- Diana Alene
     10/06/1979 A   Terpsichore -- Diana Alene
     01/04/1986 A L Mistress of the Pelican -- Diana Alene
@@ -30720,7 +30697,16 @@ Alpha List {
     05/01/2004  C  Troubadour -- Diedre du Champignon
   
   == Diego Miguel Munoz de Castilla ==
-    08/10/2010  C  Golden Rapier -- Diego Miguel Munoz de Castilla
+    09/05/1992 A   Award of Arms -- Diego Miguel Munoz de Castilla [from Ansteorra]
+    10/16/1993 A   Queen's Rapier -- Diego Miguel Munoz de Castilla [from Ansteorra]
+    03/23/1996 A   Queen's Glove of Ansteorra (Ansteorra) -- Diego Miguel Munoz de Castilla
+    10/04/1997 A   White Scarf -- Diego Miguel Munoz de Castilla [Aethelmearc]
+    08/17/1999 A   Keystone (AEthelmearc) -- Diego Miguel Munoz de Castilla [Aethelmearc]
+    04/22/2006 A   Sigil of AEthelmearc (AEthelmearc) -- Diego Miguel Munoz de Castilla
+    04/22/2006 A   Court Baron -- Diego Miguel Munoz de Castilla [Aethelmearc]
+    07/15/2006 A   Sycamore (AEthelmearc) -- Diego Miguel Munoz de Castilla [Aethelmearc]
+    08/17/2006 A   Golden Stirrup (AEthelmearc) -- Diego Miguel Munoz de Castilla [Aethelmearc]
+    08/10/2010 AC  Golden Rapier -- Diego Miguel Munoz de Castilla
   
   == Diego Miguel de Vega [registered] ==
     05/06/2000 AC  Award of Arms -- Diego Miguel de Vega
@@ -30996,8 +30982,8 @@ Alpha List {
   == Donna of Stonemarche ==
     10/26/2002 A   Golden Lyre -- Donna of Stonemarche
     07/17/2004 AC  Award of Arms -- Donna of Stonemarche
-    01/28/2006 A   he Millstone (Unknown Branch) -- Donna of Stonemarche [from Stonemarche]
-    01/28/2012 A   Milstone (Unknown Branch) -- Donna of Stonemarche [from Stonemarche]
+    01/28/2006 A   Millstone (Stonemarche) -- Donna of Stonemarche
+    01/28/2012 A   Millstone (Stonemarche) -- Donna of Stonemarche
   
   == Donnachadh O'Faolan ==
     07/17/2004 AC  Award of Arms -- Donnachadh O'Faolan
@@ -31034,10 +31020,9 @@ Alpha List {
     08/09/2011 A   Award of Arms -- Donnel MacKinnon
   
   == Donovan Shinnock [registered] ==
-    04/30/2006 A   Perseus (C (Unknown Branch) -- Donovan Shinnock
+    04/30/2006 A   Perseus (Carolingia) -- Donovan Shinnock
     06/24/2006 AC  Award of Arms -- Donovan Shinnock
-    03/28/2009 A   Silver Rapierar (Unknown Branch) -- Donovan Shinnock [from Carolingia]
-    03/28/2009  C  Silver Rapier -- Donovan Shinnock
+    03/28/2009 AC  Silver Rapier -- Donovan Shinnock
     02/27/2010  C  Queen's Rapier Champion -- Donovan Shinnock
     04/10/2010 AC  Golden Rapier -- Donovan Shinnock
     02/04/2012  C  King's Rapier Champion -- Donovan Shinnock
@@ -31067,7 +31052,7 @@ Alpha List {
     10/22/1988 A   Award of Arms -- Dorigen of Lewes
     12/10/1988 A   White Oak (Beyond the Mountain) -- Dorigen of Lewes
     07/07/1990 A   Sagittarius -- Dorigen of Lewes
-    04/24/1994 A   Dragon's Barb (Unknown Branch) -- Dorigen of Lewes [from Middle]
+    04/24/1994 A   Dragon's Barb (Middle) -- Dorigen of Lewes
     09/30/2000 AC  Grant of Arms -- Dorigen of Lewes
     09/30/2000 AC  Court Baron -- Dorigen of Lewes
     04/12/2003 AC  Maunche -- Dorigen of Lewes
@@ -31198,7 +31183,7 @@ Alpha List {
     09/24/2005 AC  Award of Arms -- Drueta de la Rosa
     02/17/2007 A   Silver Martlet (Iron Bog) -- Drueta de la Rosa
     09/29/2007 AC  Silver Crescent -- Drueta de la Rosa
-    08/03/2008 A   Sable Gauntlet (Unknown Branch) -- Drueta de la Rosa [from Iron Bog]
+    08/03/2008 A   Sable Gauntlet (Iron Bog) -- Drueta de la Rosa
     02/21/2009 AC  Baroness of Iron Bog -- Drueta de la Rosa
     02/21/2009 AC  Grant of Arms -- Drueta de la Rosa
     01/14/2012  C  Baroness of the Court -- Drueta de la Rosa
@@ -31256,8 +31241,7 @@ Alpha List {
   == Dugan MacKinnon ==
     09/30/2006 AC  Award of Arms -- Dugan MacKinnon
     04/14/2007  C  Burdened Tyger -- Dugan MacKinnon
-    08/08/2011 A   he Silver Crescent (Unknown Branch) -- Dugan MacKinnon
-    08/08/2011  C  Silver Crescent -- Dugan MacKinnon
+    08/08/2011 AC  Silver Crescent -- Dugan MacKinnon
     10/01/2011 A   Court Barony -- Dugan MacKinnon
     10/01/2011 A   Grant of Arms -- Dugan MacKinnon
   
@@ -31266,7 +31250,7 @@ Alpha List {
     08/13/1997 A   Award of Arms -- Dugan Makgowin of Aydel
     05/08/1999 A   Silver Crescent -- Dugan Makgowin of Aydel
     03/25/2000 A   Burdened Tyger -- Dugan Makgowin of Aydel
-    06/10/2000 A   Ordre de la Rose des Glaces (Unknown Branch) -- Dugan Makgowin of Aydel [from Havre des Glaces]
+    06/10/2000 A   Ordre de la Rose des Glaces (Havre des Glaces) -- Dugan Makgowin of Aydel
     07/16/2000 A   Manche -- Dugan Makgowin of Aydel
     04/14/2007 A   Burdened Tyger -- Dugan Makgowin of Aydel
   
@@ -31414,10 +31398,9 @@ Alpha List {
   
   == Dunstin le Noie ==
     02/03/1990 A   Award of Arms -- Dunstin le Noie
-    01/28/2012 A   Award of Arms -- Dunstin le Noie
   
   == Durkin McWard ==
-    01/28/2012  C  Award of Arms -- Durkin McWard
+    01/28/2012 AC  Award of Arms -- Durkin McWard
   
   == Durko Vadas [registered] ==
     05/03/2003 A   Award of Arms -- Durko Vadas
@@ -31481,7 +31464,7 @@ Alpha List {
   == Dylan ap Maelgwn [registered] ==
     07/01/1989 A   Award of Arms -- Dylan ap Maelgwn
     08/14/1991 A   Salamander (Bhakail) -- Dylan ap Maelgwn
-    06/05/1992 A   Bhakail order of Fence (Unknown Branch) -- Dylan ap Maelgwn
+    06/05/1992 A   Bhakail Order of Fence (Bhakail) -- Dylan ap Maelgwn
     08/12/1992 A   Golden Rapier -- Dylan ap Maelgwn
     02/05/1994 A   Silver Crescent -- Dylan ap Maelgwn
     04/08/2000 A   Master of the Pelican -- Dylan ap Maelgwn
@@ -31499,11 +31482,10 @@ Alpha List {
   
   == Dzintakrasty Guntars [deceased] ==
     05/26/1996 A   Award of Arms -- Dzintakrasty Guntars
-    01/07/2012 A   Mistress of the Pelican -- Dzintakrasty Guntars
   
   == Dziuginte Litovka ==
     01/07/2011   L Pelican -- Dziuginte Litovka
-    01/07/2012  C  Pelican -- Dziuginte Litovka
+    01/07/2012 AC  Pelican -- Dziuginte Litovka
   
   == Dzuginte of Dragonship Haven ==
     01/06/2007  C  Award of Arms -- Dzuginte of Dragonship Haven
@@ -31744,7 +31726,7 @@ Alpha List {
   
   == Edward Kinnon ==
     07/19/2008 AC  Award of Arms -- Edward Kinnon
-    06/06/2009 A   Sable Gauntlet (Unknown Branch) -- Edward Kinnon [from Iron Bog]
+    06/06/2009 A   Sable Gauntlet (Iron Bog) -- Edward Kinnon
   
   == Edward MacGyver [registered] ==
     05/31/1997 A   Award of Arms -- Edward MacGyver
@@ -32125,7 +32107,7 @@ Alpha List {
     AKA: Eldritch of Sylvan Glen
     07/27/2002 A   Award of Arms -- Eldrich Gaiman
     07/27/2002  C  Award of Arms -- Eldritch of Sylvan Glen
-    11/11/2006 A   Sable Gauntlet (Unknown Branch) -- Eldrich Gaiman [from Iron Bog]
+    11/11/2006 A   Sable Gauntlet (Iron Bog) -- Eldrich Gaiman
     02/21/2009 A   Silver Martlet (Iron Bog) -- Eldrich Gaiman
   
   == Eldritch of Sylvan Glen ==
@@ -33167,7 +33149,7 @@ Alpha List {
     10/11/1986 A   Award of Arms -- Eoghan Fionn MacDuibhshithe
   
   == Eoin Dubh ==
-    02/21/2009 A   Sable Gauntlet (Unknown Branch) -- Eoin Dubh [from Iron Bog]
+    02/21/2009 A   Sable Gauntlet (Iron Bog) -- Eoin Dubh
     02/21/2009 AC  Award of Arms -- Eoin Dubh
     01/21/2012 A   Copanion of the Sable Martlet (Unknown Branch) -- Eoin Dubh [from Iron Bog]
   
@@ -33400,7 +33382,7 @@ Alpha List {
     02/21/1987 A   Award of Arms -- Erik of Winteroak
   
   == Erik the Green ==
-    05/30/2008 A   Sable Gauntlet (Unknown Branch) -- Erik the Green [from Iron Bog]
+    05/30/2008 A   Sable Gauntlet (Iron Bog) -- Erik the Green
   
   == Erik the Nakinn ==
     11/22/2008 AC  Award of Arms -- Erik the Nakinn
@@ -33799,7 +33781,7 @@ Alpha List {
   
   == Fa'el Nameer ==
     08/16/2006 AC  Award of Arms -- Fa'el Nameer
-    06/02/2007 A   Sable Gauntlet (Unknown Branch) -- Fa'el Nameer [from Iron Bog]
+    06/02/2007 A   Sable Gauntlet (Iron Bog) -- Fa'el Nameer
   
   == Fabrisse of Owlsherst ==
     AKA: Carol Bair
@@ -36026,7 +36008,7 @@ Alpha List {
   == Gryffydd Belwyn [registered] ==
     07/15/1989 A   Award of Arms -- Gryffydd Belwyn
     10/14/1989 A   Troubadour -- Gryffydd Belwyn
-    04/21/1990 A   Panache (Unknown Branch) -- Gryffydd Belwyn
+    04/21/1990 A   Panache (Drachenwald) -- Gryffydd Belwyn
     03/27/1991 A   Manche -- Gryffydd Belwyn
   
   == Gryffyn Dunham [registered] ==
@@ -37174,7 +37156,7 @@ Alpha List {
   == Hobbe Yonge [registered] ==
     11/11/2006 AC  Award of Arms -- Hobbe Yonge
     10/04/2008 AC  Silver Crescent -- Hobbe Yonge
-    06/27/2009 A   Ram's Horn (Unknown Branch) -- Hobbe Yonge [from Concordia of the Snows]
+    06/27/2009 A   Ram's Horn (Concordia of the Snows) -- Hobbe Yonge
     11/13/2010 AC  Sagittarius -- Hobbe Yonge
   
   == Hobbe Young ==
@@ -37532,7 +37514,7 @@ Alpha List {
     05/08/1999 A   Award of Arms -- Igor Rostislavitch
     ??/??/2001 A   Chiffre du Baron (Havre des Glaces) -- Igor Rostislavitch
     ??/??/2003 A   Order du Lys d'argent (Havre des Glaces) -- Igor Rostislavitch
-    06/07/2003 A   Ordre de la Rose des Glaces (Unknown Branch) -- Igor Rostislavitch [from Havre des Glaces]
+    06/07/2003 A   Ordre de la Rose des Glaces (Havre des Glaces) -- Igor Rostislavitch
   
   == Iheronimus Bruckner ==
     03/06/2010  C  King's A&S Champion -- Iheronimus Bruckner
@@ -38035,7 +38017,7 @@ Alpha List {
   
   == Ito Kiyomoto [registered] ==
     09/21/1991 A   Award of Arms -- Ito Kiyomoto
-    05/01/1993 A   Dragons Tear (Unknown Branch) -- Ito Kiyomoto
+    05/01/1993 A   Dragons Tear (Drachenwald) -- Ito Kiyomoto
   
   == Iuliana Angelina [registered] ==
     03/01/2008 AC  Award of Arms -- Iuliana Angelina
@@ -38428,7 +38410,7 @@ Alpha List {
     09/30/2000 AC  Award of Arms -- Jane of Milford
     11/23/2002 AC  Terpsichore -- Jane of Milford
     09/23/2006 A   Sable Compass (Iron Bog) -- Jane of Milford
-    05/30/2008 A   Sable Gauntlet (Unknown Branch) -- Jane of Milford [from Iron Bog]
+    05/30/2008 A   Sable Gauntlet (Iron Bog) -- Jane of Milford
     03/28/2009 AC  Manche -- Jane of Milford
   
   == Janet Kempe [registered] ==
@@ -39325,7 +39307,7 @@ Alpha List {
   == Jonathan Blaecstan [registered] ==
     06/20/1987 A   Award of Arms -- Jonathan Blaecstan
     03/26/1988 A   Principality Company of Sojourners (Drachenwald) -- Jonathan Blaecstan
-    08/18/1989 A   Panache (Unknown Branch) -- Jonathan Blaecstan [from Drachenwald]
+    08/18/1989 A   Panache (Drachenwald) -- Jonathan Blaecstan
     03/17/1990 A   Manche -- Jonathan Blaecstan
     04/06/1991 A   Queen's Cypher -- Jonathan Blaecstan [Elaina]
     10/26/1991 A L Master of the Laurel -- Jonathan Blaecstan
@@ -39471,12 +39453,12 @@ Alpha List {
   == Joseph the Bold ==
     02/23/2008 AC  Award of Arms -- Joseph the Bold
     05/23/2009 AC  Sagittarius -- Joseph the Bold
-    06/27/2009 A   Ram's Horn (Unknown Branch) -- Joseph the Bold [from Concordia of the Snows]
+    06/27/2009 A   Ram's Horn (Concordia of the Snows) -- Joseph the Bold
     10/03/2009 AC  Queen's Courtesy -- Joseph the Bold
   
   == Joseph the Reluctant ==
     03/18/2006 AC  Award of Arms -- Joseph the Reluctant
-    11/11/2006 A   Sable Gauntlet (Unknown Branch) -- Joseph the Reluctant [from Iron Bog]
+    11/11/2006 A   Sable Gauntlet (Iron Bog) -- Joseph the Reluctant
   
   == Josephine de Tracey ==
     03/09/1996 A   Award of Arms -- Josephine de Tracey
@@ -41193,7 +41175,7 @@ Alpha List {
     08/06/2009 AC  Queen's Courtesy -- Koga Yoshitsune
   
   == Kokemori of Iron Bog ==
-    05/30/2008 A   Sable Gauntlet (Unknown Branch) -- Kokemori of Iron Bog [from Iron Bog]
+    05/30/2008 A   Sable Gauntlet (Iron Bog) -- Kokemori of Iron Bog
   
   == Kolosvari Arpadne Julia ==
     AKA: Julia Palotay Szent Gyorgyi
@@ -42393,7 +42375,7 @@ Alpha List {
   == Lucasta della Canzona Transalpina [registered] ==
     07/25/1981 A   Award of Arms -- Lucasta della Canzona Transalpina
     08/22/1981 A   Pillar (Bridge) -- Lucasta della Canzona Transalpina
-    06/26/1982 A   Dragons Tear (Unknown Branch) -- Lucasta della Canzona Transalpina
+    06/26/1982 A   Dragons Tear (Drachenwald) -- Lucasta della Canzona Transalpina
     08/17/1984 A   Manche -- Lucasta della Canzona Transalpina
   
   == Luchise Olafson ==
@@ -44455,7 +44437,7 @@ Alpha List {
     01/22/2011  C  Silver Rapier -- Melchior Keiebel
   
   == Melchior Kriebel ==
-    02/21/2009 A   Sable Gauntlet (Unknown Branch) -- Melchior Kriebel [from Iron Bog]
+    02/21/2009 A   Sable Gauntlet (Iron Bog) -- Melchior Kriebel
     02/21/2009 AC  Award of Arms -- Melchior Kriebel
     01/22/2011 A   Silver Rapier -- Melchior Kriebel
   
@@ -46197,6 +46179,8 @@ Alpha List {
     09/18/1999 A   Award of Arms -- Nisaa Karahisari
   
   == Nissim aven Darmon ==
+    AKA: Darmyn the Beastmaster
+    12/14/2002  C  Queen's Courtesy -- Darmyn the Beastmaster
     06/28/2008  C  Baron of Bhakail -- Nissim aven Darmon
   
   == Nissim aven Darmon aka - Darmyn the Beastmaster ==
@@ -46464,7 +46448,7 @@ Alpha List {
     05/12/1990 A   Burdened Tyger -- Oriana Greycloak
   
   == Oriana of Basingstoke [registered] ==
-    06/20/1987 A   Dragons Tear (Unknown Branch) -- Oriana of Basingstoke
+    06/20/1987 A   Dragons Tear (Drachenwald) -- Oriana of Basingstoke
     06/20/1987 A   Award of Arms -- Oriana of Basingstoke
   
   == Orianna Fridrikskona ==
@@ -49723,7 +49707,7 @@ Alpha List {
   
   == Saikhan fn [registered] ==
     11/19/2005 A   Award of Arms -- Saikhan fn
-    08/13/2006 A   Sable Gauntlet (Unknown Branch) -- Saikhan fn [from Iron Bog]
+    08/13/2006 A   Sable Gauntlet (Iron Bog) -- Saikhan fn
     07/09/2011 A   Silver Martlet (Iron Bog) -- Saikhan fn
   
   == Sakurai Kenjiro Takamori ==
@@ -52219,7 +52203,7 @@ Alpha List {
   
   == Tehgen of Iron Bog ==
     06/23/2007 AC  Award of Arms -- Tehgen of Iron Bog
-    08/08/2007 A   Sable Gauntlet (Unknown Branch) -- Tehgen of Iron Bog [from Iron Bog]
+    08/08/2007 A   Sable Gauntlet (Iron Bog) -- Tehgen of Iron Bog
   
   == Teleri Barod [registered] ==
     03/10/2001 A   Ivory Tower (Settmour Swamp) -- Teleri Barod
@@ -54081,7 +54065,7 @@ Alpha List {
   
   == Waldar Warfuegal ==
     03/07/1992 A   Award of Arms -- Waldar Warfuegal
-    05/22/1993 A   Panache (Unknown Branch) -- Waldar Warfuegal
+    05/22/1993 A   Panache (Drachenwald) -- Waldar Warfuegal
   
   == Waldemar Eriksson ==
     04/13/1985 A   Award of Arms -- Waldemar Eriksson
@@ -54686,7 +54670,7 @@ Alpha List {
     06/08/1991 A   Golden Alce (AEthelmearc) -- Wulfstan the Unshod
     11/03/2007   L Chivalry -- Wulfstan the Unshod
     11/03/2007 AC  Master at Arms -- Wulfstan the Unshod
-    05/24/2009 A   Ram's Horn (Unknown Branch) -- Wulfstan the Unshod [from Concordia of the Snows]
+    05/24/2009 A   Ram's Horn (Concordia of the Snows) -- Wulfstan the Unshod
   
   == Wulfwinn of Goblintooth Gap [registered] ==
     04/23/1983 A   Award of Arms -- Wulfwinn of Goblintooth Gap
@@ -55458,98 +55442,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-Damiana Morgana delle Onde - Alphabetical
-{
-  Adding unknown award "Panache"
-  Adding unknown award "Dragons Tear"
-}
-
-Darius Aurelius (Serpentius - Alphabetical
-{
-  Unparsed line: - see Nissim aven Darmon
-}
-
-Davin Criss - Alphabetical
-{
-  Unparsed line: Davius St. Jacques
-}
-
-Deacon de Chatillon - Alphabetical
-{
-  Adding unknown award "Ram's Horn"
-}
-
-Devra the Baker - Alphabetical
-{
-  Adding unknown award "Silver Crescet"
-}
-
-Diana Alene - Alphabetical
-{
-  Adding unknown award "Founding Baroness Tree-Girt-Sea"
-}
-
-Diego Miguel Munoz de Castilla - Alphabetical
-{
-  Unparsed line: 08/10/10 Companion of the Golden Rapier
-  Unparsed line: 04/22/06 Court Baron (Aethelmearc)
-  Unparsed line: 08/17/99 Companion of the keystone (Aethelmearc)
-  Unparsed line: 07/15/06 Companion of the Sycamore (Aethelmearc)
-  Unparsed line: 08/17/06 Companion of the Golden Stirrup (Aethelmearc)
-  Unparsed line: 10/04/97 Companion of the White Scarf (Aethelmearc)
-  Unparsed line: 09/05/92 Award of Arms (Ansteorra)
-  Unparsed line: 04/22/06 Sigel of Aethelmearc
-  Unparsed line: 10/16/93 Award of the Queen's Rapier (Ansteorra)
-  Unparsed line: 03/23/96 Queen's Glove of Ansteorra
-}
-
-Donna of Stonemarche - Alphabetical
-{
-  Adding unknown award "he Millstone"
-  Adding unknown award "Milstone"
-}
-
-Donovan Shinnock - Alphabetical
-{
-  Adding unknown award "Silver Rapierar"
-  Adding unknown award "Perseus (C"
-}
-
-Dorigen of Lewes - Alphabetical
-{
-  Adding unknown award "Dragon's Barb"
-}
-
-Drueta de la Rosa - Alphabetical
-{
-  Adding unknown award "Sable Gauntlet"
-}
-
-Dugan MacKinnon - Alphabetical
-{
-  Adding unknown award "he Silver Crescent"
-}
-
-Dugan Makgowin of Aydel - Alphabetical
-{
-  Adding unknown award "Ordre de la Rose des Glaces"
-}
-
-Dunstin le Noie - Alphabetical
-{
-  Unparsed line: Durkin McWard
-}
-
-Dylan ap Maelgwn - Alphabetical
-{
-  Adding unknown award "Bhakail order of Fence"
-}
-
-Dzintakrasty Guntars - Alphabetical
-{
-  Unparsed line: Dziuginte Litovka
-}
 
 Edward the Incorrigible - Alphabetical
 {
