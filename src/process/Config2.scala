@@ -443,7 +443,8 @@ object Config2 {
             "Corde de Guerre of Caid",
             Award("Dolphin", "Dolphin of Caid"),
             "Harp Argent of Caid",
-            "Crossed Swords"
+            "Crossed Swords",
+            "Lux Caidis"
           ),
         
           children = Seq(

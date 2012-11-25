@@ -14113,9 +14113,8 @@ Alphabetical {
   Ignatius Rhune {
   }
   Igor Rostislavitch {
-    ERROR: Unparsed line: ,
   }
-  Iheronimus Brücknerwas/see*Ohashi Katsutoshi {
+  Iheronimus Brückner, was/see *Ohashi Katsutoshi {
   }
   Ijod of Bergental {
   }
@@ -14132,7 +14131,6 @@ Alphabetical {
   Imbriana de la Luna {
   }
   Imigla Venture {
-    ERROR: Unparsed line: Baroness Carolignia
   }
   Imogen the Wyvern {
   }
@@ -14167,7 +14165,6 @@ Alphabetical {
   Iova Valdinsky {
   }
   Irayari Vairavi(*Bhairavi of Thescorre) {
-    ERROR: Adding unknown award "Lux Caidis"
   }
   Iredonn Briar {
   }
@@ -14244,7 +14241,6 @@ Alphabetical {
   Isabella Gattoneri {
   }
   Isabella Giaocchini {
-    ERROR: Unparsed line: 03/24/2012
   }
   Isabella de Surmount (of Haus von Halstern) {
   }
@@ -25908,7 +25904,7 @@ Alpha List {
     01/25/1997 A   Award of Arms -- Bevin of Forest Reach
   
   == Bhairavi of Thescorre [registered] ==
-    SEE: Irayari Vairavi
+    SEE: Imigla Venture
   
   == Bhakaili Branslers ==
     01/11/2003 A   Golden Lyre -- Bhakaili Branslers
@@ -37435,7 +37431,7 @@ Alpha List {
   == Iheronimus Bruckner - aka Ohashi Katsutoshi ==
     09/25/2010  C  King's Esteem of Merit -- Iheronimus Bruckner - aka Ohashi Katsutoshi
   
-  == Iheronimus Brücknerwas/see*Ohashi Katsutoshi ==
+  == Iheronimus Brückner, was/see *Ohashi Katsutoshi ==
   
   
   == Ijod of Bergental ==
@@ -37470,7 +37466,13 @@ Alpha List {
     03/01/2003 AC  Award of Arms -- Imbriana de la Luna
   
   == Imigla Venture ==
-  
+    AKA: Irayari Vairavi
+    AKA: Bhairavi of Thescorre
+    AKA: Vairavi
+    01/26/2008  C  Manche -- Irayari Vairavi
+    04/11/2009  C  Court Baroness -- Irayari Vairavi
+    10/31/2009  C  King's Excellence -- Irayari Vairavi
+    05/12/2012 A   Baroness Carolingia -- Imigla Venture
   
   == Imogen the Wyvern ==
     07/25/1998 A   Award of Arms -- Imogen the Wyvern
@@ -37536,11 +37538,7 @@ Alpha List {
     06/11/2011 A   Chiffre du Baron (Havre des Glaces) -- Iova Valdinsky
   
   == Irayari Vairavi ==
-    AKA: Bhairavi of Thescorre
-    AKA: Vairavi
-    01/26/2008  C  Manche -- Irayari Vairavi
-    04/11/2009  C  Court Baroness -- Irayari Vairavi
-    10/31/2009  C  King's Excellence -- Irayari Vairavi
+    SEE: Imigla Venture
   
   == Irayari Vairavi (*Bhairavi of Thescorre) ==
     08/11/2010  C  Patent of Arms -- Irayari Vairavi (*Bhairavi of Thescorre)
@@ -37550,7 +37548,7 @@ Alpha List {
     05/23/1998 A   Award of Arms -- Irayari Vairavi(*Bhairavi of Thescorre) [from AEthelmearc]
     07/20/2002 A   Burdened Tyger -- Irayari Vairavi(*Bhairavi of Thescorre)
     01/28/2006 A   Grant of Arms -- Irayari Vairavi(*Bhairavi of Thescorre) [from Caid]
-    01/28/2006 A   Lux Caidis (Unknown Branch) -- Irayari Vairavi(*Bhairavi of Thescorre) [from Caid]
+    01/28/2006 A   Lux Caidis (Caid) -- Irayari Vairavi(*Bhairavi of Thescorre)
     04/06/2006 A   Sigil of AEthelmearc (AEthelmearc) -- Irayari Vairavi(*Bhairavi of Thescorre)
     01/26/2008 A   Manche -- Irayari Vairavi(*Bhairavi of Thescorre)
     04/11/2009 A   Court Baroness -- Irayari Vairavi(*Bhairavi of Thescorre)
@@ -37733,7 +37731,7 @@ Alpha List {
     01/25/1992 A   Award of Arms -- Isabella Gattoneri
   
   == Isabella Giaocchini ==
-    03/24/2012  C  Tygers Cub -- Isabella Giaocchini
+    03/24/2012 AC  Tygers Cub -- Isabella Giaocchini
   
   == Isabella d'Aillaines-le-Comte ==
     11/14/2009  C  Queen's Honor of Distinction -- Isabella d'Aillaines-le-Comte
@@ -53494,7 +53492,7 @@ Alpha List {
     08/08/2008 A   Award of Arms -- Vadim Sajir
   
   == Vairavi ==
-    SEE: Irayari Vairavi
+    SEE: Imigla Venture
   
   == Val of Arx Ventus ==
     11/22/2003 AC  Award of Arms -- Val of Arx Ventus
@@ -55350,26 +55348,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-Igor Rostislavitch - Alphabetical
-{
-  Unparsed line: ,
-}
-
-Imigla Venture - Alphabetical
-{
-  Unparsed line: Baroness Carolignia
-}
-
-Irayari Vairavi(*Bhairavi of Thescorre) - Alphabetical
-{
-  Adding unknown award "Lux Caidis"
-}
-
-Isabella Giaocchini - Alphabetical
-{
-  Unparsed line: 03/24/2012
-}
 
 Jahroon Thorgimsdottler - Alphabetical
 {
