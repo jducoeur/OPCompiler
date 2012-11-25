@@ -225,11 +225,14 @@ object Config2 {
             Barony("Stonemarche", awards = Seq(
               Award("Furison", "Fusion"),
               "Lamp of Apollo",
-              "Millstone"
+              "Millstone",
+              "Keeper of the Flames"
             )),
             
             Barony("Bergental", awards = Seq(
-              "Hourglass"
+              "Hourglass",
+              "Sable Bear",
+              "Fountain of Bergental"
             )),
             
             Barony("An Dubhaigeainn", awards = Seq(
@@ -269,7 +272,7 @@ object Config2 {
                 Award("Ordre du Pèlerin", "Ordre du Pelerin"),
                 "Chiffre du Baron",
                 Award("Order du Lys d'argent", "Ordre du Lys d'Argent"),
-                "Ordre du Meritum Martialis",
+                Award("Ordre du Meritum Martialis", "Ordo Meriti Martialis"),
                 "Order de Mai",
                 Award("Rose des Glaces", "Ordre de la Rose des Glaces")
               )),
@@ -309,8 +312,14 @@ object Config2 {
         ),
         
         Kingdom("Ansteorra", awards = Seq(
+          Award("Compass Rose", "CRA", "ACR"),
+          "Iris of Merit",
           "Queen's Glove of Ansteorra",
-          "Sable Falcon"
+          "Sable Comet",
+          "Sable Crane",
+          "Sable Falcon",
+          "Sable Thistle",
+          "Star of Merit"
         )),
         
         Kingdom("An Tir", 
@@ -433,7 +442,8 @@ object Config2 {
           awards = Seq(
             "Corde de Guerre of Caid",
             Award("Dolphin", "Dolphin of Caid"),
-            "Harp Argent of Caid"
+            "Harp Argent of Caid",
+            "Crossed Swords"
           ),
         
           children = Seq(
@@ -507,6 +517,7 @@ object Config2 {
             "Dragon's Tooth",
             "Gaping Wound",
             "Purple Fret",
+            "Purple Fretty",
             "Queen's Favor",
             "Red Company",
             "Royal Vanguard",
@@ -589,6 +600,7 @@ object Config2 {
             "Argent Scales",
             "Bards Laureate",
             "Emerald Seas",
+            "Healer's Lamp",
             "Herald's Tressure",
             "Silver Trident",
             "Trade Winds"

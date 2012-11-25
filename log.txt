@@ -13781,11 +13781,6 @@ Alphabetical {
   Hala of Stonemarche {
   }
   Haldane Jensdottir de Baliol {
-    ERROR: Adding unknown award "Sable Thistle"
-    ERROR: Adding unknown award "Iris of Merit"
-    ERROR: Adding unknown award "Star of Merit"
-    ERROR: Adding unknown award "ACR"
-    ERROR: Adding unknown award "Sable Crane"
   }
   Haleric Poleskowna {
   }
@@ -13832,12 +13827,10 @@ Alphabetical {
   Haraldr Bassi {
   }
   Harkin Mactiernan {
-    ERROR: Adding unknown award "Sable Bear"
   }
   Harkin Mac Tighearnan {
   }
   Harold von Auerbach {
-    ERROR: Adding unknown award "Keeper of the Flames"
   }
   Harold of Eastwood {
   }
@@ -13868,7 +13861,6 @@ Alphabetical {
   Haus von Drachenklaue {
   }
   Haus von Halsstern {
-    ERROR: Adding unknown award "Crossed Swords"
   }
   Hawise Gadarn ferch Owein {
   }
@@ -13935,13 +13927,12 @@ Alphabetical {
   Hendricke Lambert Bloetgoet {
   }
   Henna Sinclair of Orkney {
-    ERROR: Unparsed line: Henry an Eynhallow
-    ERROR: Unparsed line: 5/31/ Award of Arms
+  }
+  Henry an Eynhallow {
   }
   Henry Balsac Dumas {
   }
   Henri de Leon {
-    ERROR: Adding unknown award "White Oak (BBM"
   }
   Henri Maisiere {
   }
@@ -13952,7 +13943,6 @@ Alphabetical {
   Henry (McQueen) of Longhouse {
   }
   Hensojin Khan {
-    ERROR: Adding unknown award "Ordo Meriti Martialis"
   }
   Herian Iarnsmidre {
   }
@@ -13971,7 +13961,6 @@ Alphabetical {
   Hilal al-Dubb {
   }
   Hilary of the Danelagh {
-    ERROR: Adding unknown award "Healer's Lamp"
   }
   Hilary of Keer {
   }
@@ -14008,7 +13997,6 @@ Alphabetical {
   House Casa de Buraco {
   }
   House Kellswood {
-    ERROR: Adding unknown award "Purple Fretty"
   }
   House Ostrov {
   }
@@ -14037,7 +14025,6 @@ Alphabetical {
   Hrolf Hrafnsen {
   }
   Hrothgar of Farley {
-    ERROR: Adding unknown award "Sable Comet"
   }
   Hrothgar Hrungnirsson of Dragonship Haven {
   }
@@ -14046,7 +14033,6 @@ Alphabetical {
   Hrut {
   }
   Hrut Skumsonner aka Pondskum {
-    ERROR: Adding unknown award "Perseueus"
   }
   Hubert d'Avignon {
   }
@@ -17784,7 +17770,6 @@ Alphabetical {
   Philipe White {
     ERROR: Adding unknown award "Oak"
     ERROR: Adding unknown award "Azure Keystone"
-    ERROR: Adding unknown award "Compass Rose"
     ERROR: Adding unknown award "Acorn"
     ERROR: Adding unknown award "Portcullis"
     ERROR: Adding unknown award "Eastern Tower"
@@ -36604,11 +36589,11 @@ Alpha List {
   
   == Haldane Jensdottir de Baliol [registered] ==
     05/11/1985 A   Award of Arms -- Haldane Jensdottir de Baliol [from Ansteorra]
-    07/19/1986 A   Sable Crane (Unknown Branch) -- Haldane Jensdottir de Baliol [from Ansteorra]
-    07/04/1987 A   Sable Thistle (Unknown Branch) -- Haldane Jensdottir de Baliol [from Ansteorra]
-    07/09/1988 A   Star of Merit (Unknown Branch) -- Haldane Jensdottir de Baliol [from Ansteorra]
-    10/08/1988 A   Iris of Merit (Unknown Branch) -- Haldane Jensdottir de Baliol [from Ansteorra]
-    07/21/1990 A   ACR (Unknown Branch) -- Haldane Jensdottir de Baliol [from Ansteorra]
+    07/19/1986 A   Sable Crane (Ansteorra) -- Haldane Jensdottir de Baliol
+    07/04/1987 A   Sable Thistle (Ansteorra) -- Haldane Jensdottir de Baliol
+    07/09/1988 A   Star of Merit (Ansteorra) -- Haldane Jensdottir de Baliol
+    10/08/1988 A   Iris of Merit (Ansteorra) -- Haldane Jensdottir de Baliol
+    07/21/1990 A   ACR (Ansteorra) -- Haldane Jensdottir de Baliol
     07/21/1990 A   Court Baroness -- Haldane Jensdottir de Baliol [from Ansteorra]
   
   == Haleric Poleskowna [registered] ==
@@ -36704,8 +36689,8 @@ Alpha List {
     04/07/2012 AC  Award of Arms -- Harkin Mac Tighearnan
   
   == Harkin Mactiernan ==
-    03/05/2011 A   Sable Bear (Unknown Branch) -- Harkin Mactiernan [from Bergental]
-    05/28/2011 A   Fountain (Atlantia) -- Harkin Mactiernan [from Bergental]
+    03/05/2011 A   Sable Bear (Bergental) -- Harkin Mactiernan
+    05/28/2011 A   Fountain of Bergental (Bergental) -- Harkin Mactiernan
   
   == Harold Longfellow ==
     10/14/1986 A   Award of Arms -- Harold Longfellow
@@ -36750,7 +36735,7 @@ Alpha List {
     04/12/2003 AC  Golden Lyre -- Harold von Auerbach
     06/14/2003 AC  Tyger of the East -- Harold von Auerbach
     04/14/2007 A   Queen's Honor of Distinction -- Harold von Auerbach [Jana IV]
-    06/08/2008 A   Keeper of the Flames (Unknown Branch) -- Harold von Auerbach [from Stonemarche]
+    06/08/2008 A   Keeper of the Flames (Stonemarche) -- Harold von Auerbach
   
   == Harolt of House Bloodguard ==
     06/12/1999 A   Award of Arms -- Harolt of House Bloodguard
@@ -36787,7 +36772,7 @@ Alpha List {
     08/14/2003 AC  Blue Tyger Legion -- Haus von Drachenklaue
   
   == Haus von Halsstern [registered] ==
-    08/16/1987 A   Crossed Swords (Unknown Branch) -- Haus von Halsstern [from Caid]
+    08/16/1987 A   Crossed Swords (Caid) -- Haus von Halsstern
     09/14/2002 AC  Blue Tyger Legion -- Haus von Halsstern
   
   == Hawise Gadarn ferch Owein ==
@@ -36965,7 +36950,7 @@ Alpha List {
   
   == Henri de Leon ==
     09/29/2001 AC  Award of Arms -- Henri de Leon
-    11/06/2005 A   White Oak (BBM (Unknown Branch) -- Henri de Leon
+    11/06/2005 A   White Oak (Beyond the Mountain) -- Henri de Leon
   
   == Henri the Pensive ==
     09/11/1993 A   Award of Arms -- Henri the Pensive
@@ -36995,6 +36980,9 @@ Alpha List {
   == Henry McQueen of Longhouse ==
     08/17/1994   L Laurel -- Henry McQueen of Longhouse
   
+  == Henry an Eynhallow ==
+    05/31/-1 A   Award of Arms -- Henry an Eynhallow
+  
   == Hensojin Kahn ==
     03/05/2011  C  Silver Crescent -- Hensojin Kahn
   
@@ -37003,7 +36991,7 @@ Alpha List {
     06/15/2002 AC  Award of Arms -- Fukushima Manasari Hanzo
     07/17/2004 A   Grant of Arms -- Hensojin Khan
     07/17/2004 A   Baron of Havre des Glaces (Tir Mara) -- Hensojin Khan
-    ??/??/2006 A   Ordo Meriti Martialis (Unknown Branch) -- Hensojin Khan [from Havre des Glaces]
+    ??/??/2006 A   Ordo Meriti Martialis (Havre des Glaces) -- Hensojin Khan
     09/05/2009 AC  Queen's Courtesy -- Hensojin Khan
     09/18/2010 AC  Court Barony -- Hensojin Khan
     03/05/2011 A   Silver Crescent -- Hensojin Khan
@@ -37055,7 +37043,7 @@ Alpha List {
   
   == Hilary of the Danelagh [registered] ==
     04/30/1988 A   Bards Laureate (Trimaris) -- Hilary of the Danelagh [Masque) (Trimaris]
-    05/27/1989 A   Healer's Lamp (Unknown Branch) -- Hilary of the Danelagh [from Trimaris]
+    05/27/1989 A   Healer's Lamp (Trimaris) -- Hilary of the Danelagh
     05/27/1989 A   Award of Arms -- Hilary of the Danelagh [from Trimaris]
     09/01/1990 A   Lady of the Rose -- Hilary of the Danelagh [from Trimaris]
     09/01/1990 A   Countess -- Hilary of the Danelagh [from Trimaris]
@@ -37158,7 +37146,7 @@ Alpha List {
     06/11/2011 A   Burdened Tyger -- House Casa de Buraco
   
   == House Kellswood ==
-    08/08/2007 A   Purple Fretty (Unknown Branch) -- House Kellswood [from Middle]
+    08/08/2007 A   Purple Fretty (Middle) -- House Kellswood
   
   == House Ostrov [registered] ==
     03/27/1976 A   Seahorse (Ostgardr) -- House Ostrov
@@ -37227,12 +37215,12 @@ Alpha List {
   
   == Hrothgar of Farley [registered] ==
     02/??/1982 A   Laurel -- Hrothgar of Farley [from Ansteorra]
-    03/03/1982 A   Sable Thistle (Unknown Branch) -- Hrothgar of Farley [from Ansteorra]
+    03/03/1982 A   Sable Thistle (Ansteorra) -- Hrothgar of Farley
     10/10/1982   L Laurel -- Hrothgar of Farley [from Ansteorra]
     10/10/1982   L Chivalry -- Hrothgar of Farley [from Ansteorra]
     10/10/1982 A   Knight -- Hrothgar of Farley [from Ansteorra]
-    ??/??/1985 A   Sable Comet (Unknown Branch) -- Hrothgar of Farley [from Ansteorra]
-    01/??/1986 A   Iris of Merit (Unknown Branch) -- Hrothgar of Farley [from Ansteorra]
+    ??/??/1985 A   Sable Comet (Ansteorra) -- Hrothgar of Farley
+    01/??/1986 A   Iris of Merit (Ansteorra) -- Hrothgar of Farley
     10/27/1990 A   Court Baron -- Hrothgar of Farley
   
   == Hrut ==
@@ -37241,7 +37229,7 @@ Alpha List {
     10/03/1992 A   Tygers Combattant -- Hrut
   
   == Hrut Skumsonner aka Pondskum ==
-    04/30/2011 A   Perseueus (Unknown Branch) -- Hrut Skumsonner aka Pondskum [Carolngia]
+    04/30/2011 A   Perseus (Carolingia) -- Hrut Skumsonner aka Pondskum [Carolngia]
     11/05/2011 A   Daystar (Carolingia) -- Hrut Skumsonner aka Pondskum
   
   == Hubert d'Avignon [registered] ==
@@ -39075,7 +39063,7 @@ Alpha List {
     11/07/1998 A   Manche -- John MacGuire
     06/21/2003 AC  Silver Crescent -- John MacGuire
     07/17/2004 ACL Master of the Pelican -- John MacGuire
-    08/??/2004 A   Sable Crane (Unknown Branch) -- John MacGuire [from Ansteorra]
+    08/??/2004 A   Sable Crane (Ansteorra) -- John MacGuire
     06/02/2007 A   White Oak (Beyond the Mountain) -- John MacGuire
   
   == John Mandrake ==
@@ -40538,9 +40526,9 @@ Alpha List {
     08/07/1999 A   White Scarf -- Kay Leigh Drake [from Ansteorra]
     07/22/2000 A   Lady of the Rose -- Kay Leigh Drake [from Ansteorra]
     07/22/2000 A   Countess -- Kay Leigh Drake [from Ansteorra]
-    09/22/2001 A   Star of Merit (Unknown Branch) -- Kay Leigh Drake [from Ansteorra]
+    09/22/2001 A   Star of Merit (Ansteorra) -- Kay Leigh Drake
     01/05/2002 A   Queen's Glove (Unknown Branch) -- Kay Leigh Drake [Larissa, Ansteorra]
-    03/16/2002 A   Iris of Merit (Unknown Branch) -- Kay Leigh Drake [from Ansteorra]
+    03/16/2002 A   Iris of Merit (Ansteorra) -- Kay Leigh Drake
     10/26/2002 A   Golden Lyre -- Kay Leigh Drake
     08/13/2003 ACL Mistress of the Laurel -- Kay Leigh Drake
   
@@ -42534,7 +42522,7 @@ Alpha List {
     03/22/2003  C  Award of Arms -- Luque de Montnoir
   
   == Luta Þóraldsdóttir ==
-    05/28/2011 A   Sable Bear (Unknown Branch) -- Luta Þóraldsdóttir [from Bergental]
+    05/28/2011 A   Sable Bear (Bergental) -- Luta Þóraldsdóttir
     06/04/2011  C  Award of Arms -- Luta Þóraldsdóttir
   
   == Lyanna ferch Gwynhelek ==
@@ -42585,7 +42573,7 @@ Alpha List {
   ERROR: Bad date part: 19??
   == Lyle FitzWilliam [registered] ==
     AKA: Damon de la Main
-    ??/??/-1 A   Sable Bear (Unknown Branch) -- Lyle FitzWilliam [from Bergental]
+    ??/??/-1 A   Sable Bear (Bergental) -- Lyle FitzWilliam
     ??/??/-1 A   Fountain (Atlantia) -- Lyle FitzWilliam [from Bergental]
     04/11/1987 A   Award of Arms -- Lyle FitzWilliam
     04/15/1989 A   Silver Crescent -- Lyle FitzWilliam
@@ -45018,7 +45006,7 @@ Alpha List {
   
   == Moira Fennor of Argyll [registered] ==
     03/11/1989 A   Award of Arms -- Moira Fennor of Argyll [from Ansteorra]
-    03/11/1989 A   Sable Thistle (Unknown Branch) -- Moira Fennor of Argyll [from Ansteorra]
+    03/11/1989 A   Sable Thistle (Ansteorra) -- Moira Fennor of Argyll
     12/03/1994 A   Pearl (Atlantia) -- Moira Fennor of Argyll
     11/16/1996 A   Court Baroness -- Moira Fennor of Argyll [from Atlantia]
     07/20/2002 A   Manche -- Moira Fennor of Argyll
@@ -47175,18 +47163,18 @@ Alpha List {
   == Philipe White ==
     08/23/1997 A   Acorn (Unknown Branch) -- Philipe White [Barony of the Steppes]
     01/10/1998 A   Award of Arms -- Philipe White [from Ansteorra]
-    08/01/1998 A   Sable Thistle (Unknown Branch) -- Philipe White [from Ansteorra]
-    05/13/2000 A   Sable Thistle (Unknown Branch) -- Philipe White [from Ansteorra]
-    08/05/2000 A   Iris of Merit (Unknown Branch) -- Philipe White [from Ansteorra]
+    08/01/1998 A   Sable Thistle (Ansteorra) -- Philipe White
+    05/13/2000 A   Sable Thistle (Ansteorra) -- Philipe White
+    08/05/2000 A   Iris of Merit (Ansteorra) -- Philipe White
     09/23/2000 A   Portcullis (Unknown Branch) -- Philipe White [Baony of Elfsea]
-    07/07/2001 A   Sable Comet (Unknown Branch) -- Philipe White [from Ansteorra]
+    07/07/2001 A   Sable Comet (Ansteorra) -- Philipe White
     01/26/2002 A   Eastern Tower (Unknown Branch) -- Philipe White [Barony of Elfsea]
-    06/07/2003 A   Sable Crane (Unknown Branch) -- Philipe White [from Ansteorra]
+    06/07/2003 A   Sable Crane (Ansteorra) -- Philipe White
     01/03/2004 A   Oak (Unknown Branch) -- Philipe White [from Ansteorra]
     01/08/2005 A   Laurel -- Philipe White [from Ansteorra]
     05/14/2005 A   Azure Keystone (Unknown Branch) -- Philipe White [from Ansteorra]
-    01/07/2006 A   Compass Rose (Unknown Branch) -- Philipe White [from Ansteorra]
-    07/29/2006 A   Star of Merit (Unknown Branch) -- Philipe White [from Ansteorra]
+    01/07/2006 A   Compass Rose (Ansteorra) -- Philipe White
+    07/29/2006 A   Star of Merit (Ansteorra) -- Philipe White
     01/26/2008 A   Purple Fret (Middle) -- Philipe White
     08/05/2010 A   Dragon's Heart (Middle) -- Philipe White
     02/12/2011 A   Pelican -- Philipe White [from Middle]
@@ -50955,7 +50943,7 @@ Alpha List {
   == Skye del Sol ==
     02/23/1991 A   Tygers Cub -- Skye del Sol
     10/25/1997 A   Award of Arms -- Skye del Sol
-    03/07/1998 A   Sable Bear (Unknown Branch) -- Skye del Sol [from Bergental]
+    03/07/1998 A   Sable Bear (Bergental) -- Skye del Sol
   
   == Skye na Ruadh ==
     05/04/1996 A   Award of Arms -- Skye na Ruadh
@@ -53577,8 +53565,8 @@ Alpha List {
   == Valerius Fidelis Camerinus ("Cameron") [registered] ==
     04/14/1984 A   Award of Arms -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
     04/14/1984 A   King's Gauntlet (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
-    10/12/1985 A   Sable Thistle (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
-    03/08/1986 A   Iris of Merit (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
+    10/12/1985 A   Sable Thistle (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
+    03/08/1986 A   Iris of Merit (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
     03/08/1987 A   Knight -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
     07/25/1987 A   Lion of Ansteorra (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron")
     07/01/1989 A   Sable Falcon (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
@@ -54183,8 +54171,8 @@ Alpha List {
   == William FitzBubba [registered] ==
     10/10/1992 A   Award of Arms -- William FitzBubba [from Ansteorra]
     05/14/1994 A   Heart of the Sable Storm (Unknown Branch) -- William FitzBubba [Namron, Ansteorra]
-    02/24/1996 A   Sable Crane (Unknown Branch) -- William FitzBubba [from Ansteorra]
-    10/12/1996 A   Star of Merit (Unknown Branch) -- William FitzBubba [from Ansteorra]
+    02/24/1996 A   Sable Crane (Ansteorra) -- William FitzBubba
+    10/12/1996 A   Star of Merit (Ansteorra) -- William FitzBubba
     10/12/1996 A   Grant of Arms -- William FitzBubba [from Ansteorra]
     09/30/2000 A   Queen's Cypher -- William FitzBubba [Luna III]
     05/05/2001 AC  Silver Crescent -- William FitzBubba
@@ -55363,66 +55351,6 @@ Alpha List {
 
 ERROR LOG:
 
-Haldane Jensdottir de Baliol - Alphabetical
-{
-  Adding unknown award "Sable Thistle"
-  Adding unknown award "Iris of Merit"
-  Adding unknown award "Star of Merit"
-  Adding unknown award "ACR"
-  Adding unknown award "Sable Crane"
-}
-
-Harkin Mactiernan - Alphabetical
-{
-  Adding unknown award "Sable Bear"
-}
-
-Harold von Auerbach - Alphabetical
-{
-  Adding unknown award "Keeper of the Flames"
-}
-
-Haus von Halsstern - Alphabetical
-{
-  Adding unknown award "Crossed Swords"
-}
-
-Henna Sinclair of Orkney - Alphabetical
-{
-  Unparsed line: Henry an Eynhallow
-  Unparsed line: 5/31/ Award of Arms
-}
-
-Henri de Leon - Alphabetical
-{
-  Adding unknown award "White Oak (BBM"
-}
-
-Hensojin Khan - Alphabetical
-{
-  Adding unknown award "Ordo Meriti Martialis"
-}
-
-Hilary of the Danelagh - Alphabetical
-{
-  Adding unknown award "Healer's Lamp"
-}
-
-House Kellswood - Alphabetical
-{
-  Adding unknown award "Purple Fretty"
-}
-
-Hrothgar of Farley - Alphabetical
-{
-  Adding unknown award "Sable Comet"
-}
-
-Hrut Skumsonner aka Pondskum - Alphabetical
-{
-  Adding unknown award "Perseueus"
-}
-
 Igor Rostislavitch - Alphabetical
 {
   Unparsed line: ,
@@ -55834,7 +55762,6 @@ Philipe White - Alphabetical
 {
   Adding unknown award "Oak"
   Adding unknown award "Azure Keystone"
-  Adding unknown award "Compass Rose"
   Adding unknown award "Acorn"
   Adding unknown award "Portcullis"
   Adding unknown award "Eastern Tower"
