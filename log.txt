@@ -14395,7 +14395,6 @@ Alphabetical {
   Jaffi al-Awad {
   }
   Jahroon Thorgimsdottler {
-    ERROR: Unparsed line: *
   }
   Jake de Twelfoaks {
   }
@@ -14448,7 +14447,6 @@ Alphabetical {
   Jan Rafiel Shkoder {
   }
   Jana von Drachenklaue {
-    ERROR: Adding unknown award "Lady of the Garnet"
   }
   Jane of Burnham {
   }
@@ -14519,7 +14517,6 @@ Alphabetical {
   Jean-Richard Alexandre de Bois Gomin {
   }
   Jean Xavier Boullier {
-    ERROR: Unparsed line: ? Silvanus Doke (An Dubhaigeainn)
   }
   Jean Louis of Bergental {
   }
@@ -14528,9 +14525,8 @@ Alphabetical {
   Jean-Michel de Taurion {
   }
   Jean-Oste de Murat {
-    ERROR: Unparsed line: )
   }
-  Jean Paul Ducasse (Jean-Paul Justen Casse {
+  Jean Paul Ducasse (Jean-Paul Justen Casse) {
   }
   Jean Philippe des Bouviers Noirs {
   }
@@ -14545,7 +14541,6 @@ Alphabetical {
   Jeanne die Spinnerin {
   }
   Jeanne Jonstone {
-    ERROR: Adding unknown award "Hour Glass"
   }
   Jeannette of Bhakail {
   }
@@ -14560,7 +14555,6 @@ Alphabetical {
   Jehan dit Dubé {
   }
   Jehan du Lac {
-    ERROR: Unparsed line: ??/??/????? Companion of the Daystar (Carolingia)
   }
   Jehan Fitz Alan {
   }
@@ -14569,9 +14563,6 @@ Alphabetical {
   Jehan le Batard {
   }
   Jehan Yves de Chateau Thierry {
-    ERROR: Adding unknown award "King's Award of Excellence"
-    ERROR: Adding unknown award "Silent Trumpet"
-    ERROR: Adding unknown award "Eagle's Feather"
   }
   Jehane le Duv {
   }
@@ -14709,7 +14700,6 @@ Alphabetical {
     ERROR: Adding unknown award "Silver Bell"
   }
   John Bor Ox {
-    ERROR: Adding unknown award "Legion of Courtesy"
   }
   John Coelho do Buraco {
   }
@@ -14722,14 +14712,10 @@ Alphabetical {
   John of Concordia (Little John) {
   }
   John Elys {
-    ERROR: Adding unknown award "Serpent's Flame"
-    ERROR: Adding unknown award "Golden Trident"
   }
   John of Fennburg {
   }
   John fitzArnulf de Lithia {
-    ERROR: Adding unknown award "Crown's Gratitude"
-    ERROR: Adding unknown award "Argent Palm"
   }
   John Geoffrey Fabyan of Ridgefield {
   }
@@ -14846,9 +14832,8 @@ Alphabetical {
   Joshua of Allendorf {
   }
   Joshua Blackwolf {
-    ERROR: Unparsed line: ,
   }
-  Joshua ibn Eleazar ha-ShalibseeJohn Elys {
+  Joshua ibn Eleazar ha-Shalib {
   }
   Joshua Redhawk {
   }
@@ -14871,7 +14856,6 @@ Alphabetical {
   Judith of Barren Sands {
   }
   Judith the Confused {
-    ERROR: Adding unknown award "Salamander's Tear"
   }
   Judith of Five Branches {
   }
@@ -14956,7 +14940,6 @@ Alphabetical {
   Justinian the Sluggard {
   }
   Justinian Timagenes {
-    ERROR: Adding unknown award "Solar Phoenix"
   }
   Prec_k.xhtml {
   }
@@ -38175,7 +38158,7 @@ Alpha List {
   == Jahroon Thorgimsdottler ==
     07/09/2011 A   Sable Martlet (Iron Bog) -- Jahroon Thorgimsdottler
   
-  == Jake de Twelfoaks ==
+  == Jake de Twelfoaks [registered] ==
     06/05/1999 A   Award of Arms -- Jake de Twelfoaks
     06/11/2011 A   Burden Tyger -- Jake de Twelfoaks [Lucan VIII and Jana V]
     06/11/2011 AC  Silver Crescent -- Jake de Twelfoaks
@@ -38292,7 +38275,7 @@ Alpha List {
   == Jana von Drachenklaue [registered] ==
     08/18/1988 A   Award of Arms -- Jana von Drachenklaue
     01/21/1991 A   Queen's Courtesy -- Jana von Drachenklaue
-    01/11/1992 A   Lady of the Garnet (Unknown Branch) -- Jana von Drachenklaue
+    01/11/1992 A   Lady of the Garnet (AEthelmearc) -- Jana von Drachenklaue
     01/11/1992 A L Viscountess -- Jana von Drachenklaue
     04/03/1993 A L Countess -- Jana von Drachenklaue
     04/03/1993 A L Lady of the Rose -- Jana von Drachenklaue
@@ -38429,14 +38412,14 @@ Alpha List {
     02/27/2010  C  King's Rapier Champion -- Jean Paul Ducasse
     01/15/2011  C  Silver Crescent -- Jean Paul Ducasse
   
-  == Jean Paul Ducasse (Jean-Paul Justen Casse ==
-    10/26/2002 A   Award of Arms -- Jean Paul Ducasse (Jean-Paul Justen Casse
-    08/16/2004 A   Golden Rapier -- Jean Paul Ducasse (Jean-Paul Justen Casse
-    04/01/2006 A   Queen's Honor of Distinction -- Jean Paul Ducasse (Jean-Paul Justen Casse [Roxane III]
-    01/17/2009 A   Court Baron -- Jean Paul Ducasse (Jean-Paul Justen Casse
-    01/17/2009 A   Grant of Arms -- Jean Paul Ducasse (Jean-Paul Justen Casse
-    10/10/2009 A   Queen's Courtesy -- Jean Paul Ducasse (Jean-Paul Justen Casse
-    01/15/2011 A   Silver Crescent -- Jean Paul Ducasse (Jean-Paul Justen Casse
+  == Jean Paul Ducasse (Jean-Paul Justen Casse) ==
+    10/26/2002 A   Award of Arms -- Jean Paul Ducasse (Jean-Paul Justen Casse)
+    08/16/2004 A   Golden Rapier -- Jean Paul Ducasse (Jean-Paul Justen Casse)
+    04/01/2006 A   Queen's Honor of Distinction -- Jean Paul Ducasse (Jean-Paul Justen Casse) [Roxane III]
+    01/17/2009 A   Court Baron -- Jean Paul Ducasse (Jean-Paul Justen Casse)
+    01/17/2009 A   Grant of Arms -- Jean Paul Ducasse (Jean-Paul Justen Casse)
+    10/10/2009 A   Queen's Courtesy -- Jean Paul Ducasse (Jean-Paul Justen Casse)
+    01/15/2011 A   Silver Crescent -- Jean Paul Ducasse (Jean-Paul Justen Casse)
   
   == Jean Paul Justin Casse ==
     03/04/2006  C  King's Rapier Champion -- Jean Paul Justin Casse
@@ -38453,6 +38436,7 @@ Alpha List {
     11/10/2007  C  Court Baron -- Jean Xavier Bouillier
   
   == Jean Xavier Boullier [registered] ==
+    ??/??/-1 A   Silvanus Doke (An Dubhaigeainn) -- Jean Xavier Boullier
     07/27/1996 A   Award of Arms -- Jean Xavier Boullier
     01/08/2000 AC  Queen's Courtesy -- Jean Xavier Boullier
     01/26/2002  C  Grant of Arms -- Jean Xavier Boullier
@@ -38536,7 +38520,7 @@ Alpha List {
     01/07/1989   L Viscount -- Jeanmaire du Domery [from Drachenwald]
   
   == Jeanne Jonstone ==
-    03/05/2011 A   Hour Glass (Unknown Branch) -- Jeanne Jonstone [from Bergental]
+    03/05/2011 A   Hourglass (Bergental) -- Jeanne Jonstone
   
   == Jeanne de Rennes [registered] ==
     11/05/1988 A   Award of Arms -- Jeanne de Rennes
@@ -38579,10 +38563,10 @@ Alpha List {
     02/05/2000  C  Golden Rapier -- Jehan FitzAlan
   
   == Jehan Yves de Chateau Thierry [registered] [deceased] ==
-    05/26/1001 A   King's Award of Excellence (Unknown Branch) -- Jehan Yves de Chateau Thierry [from Atlantia]
-    03/18/1978 A   Silent Trumpet (Unknown Branch) -- Jehan Yves de Chateau Thierry [Bordermarch, Atenveldt]
+    05/26/1001 A   King's Award of Excellence (Atlantia) -- Jehan Yves de Chateau Thierry
+    03/18/1978 A   Silent Trumpet (Bordermarch) -- Jehan Yves de Chateau Thierry
     03/18/1978 A   Award of Arms -- Jehan Yves de Chateau Thierry [from Atenveldt]
-    08/01/1998 A   Eagle's Feather (Unknown Branch) -- Jehan Yves de Chateau Thierry [Lochmere, Atlantia]
+    08/01/1998 A   Eagle's Feather (Lochmere) -- Jehan Yves de Chateau Thierry
     04/21/2001 A   Grant of Arms -- Jehan Yves de Chateau Thierry [from Atlantia]
     04/21/2001 A   Pearl (Atlantia) -- Jehan Yves de Chateau Thierry
   
@@ -38601,6 +38585,7 @@ Alpha List {
     05/08/2010 A   Award of Arms -- Jehan dit Dubé
   
   == Jehan du Lac [registered] ==
+    ??/??/-1 A   Daystar (Carolingia) -- Jehan du Lac
     11/04/-1 A   Sun and Soil (Beyond the Mountain) -- Jehan du Lac
     10/21/1995 A   Award of Arms -- Jehan du Lac
     09/21/1996 A   Perseus (Carolingia) -- Jehan du Lac
@@ -39018,16 +39003,16 @@ Alpha List {
   
   == John Bor Ox [registered] ==
     11/07/1987 A   Award of Arms -- John Bor Ox [from Caid]
-    08/18/1991 A   Legion of Courtesy (Unknown Branch) -- John Bor Ox [from Caid]
+    08/18/1991 A   Legion of Courtesy (Caid) -- John Bor Ox
   
   == John Coelho do Buraco ==
     11/08/2008 A   Sun and Soil (Beyond the Mountain) -- John Coelho do Buraco
   
   == John Elys ==
     AKA: Joshua ibn Eleazar ha-Shalib
-    04/27/1991 A   Serpent's Flame (Unknown Branch) -- John Elys [Barony of Calafia, Caid]
+    04/27/1991 A   Serpent's Flame (Calafia) -- John Elys
     06/01/1991 A   Award of Arms -- John Elys [from Caid]
-    11/09/1991 A   Golden Trident (Unknown Branch) -- John Elys [Barony of Calafia, Caid]
+    11/09/1991 A   Golden Trident (Calafia) -- John Elys
     05/02/1998 A   Manche -- John Elys
     01/22/2000 A   Seahorse (Ostgardr) -- John Elys
     11/22/2003 ACL Master of the Laurel -- John Elys
@@ -39120,9 +39105,9 @@ Alpha List {
   
   == John fitzArnulf de Lithia [registered] ==
     11/01/1980 A   Award of Arms -- John fitzArnulf de Lithia [Meridies?]
-    01/25/1986 A   Crown's Gratitude (Unknown Branch) -- John fitzArnulf de Lithia [from Trimaris]
+    01/25/1986 A   Crown's Gratitude (Trimaris) -- John fitzArnulf de Lithia
     04/08/1989 A   Wyvern's Scale (Wyvernwood) -- John fitzArnulf de Lithia
-    09/03/1994 A   Argent Palm (Unknown Branch) -- John fitzArnulf de Lithia [from Trimaris]
+    09/03/1994 A   Argent Palm (Trimaris) -- John fitzArnulf de Lithia
   
   == John of Brook-Lynne ==
     09/26/1971 A   Silver Crescent -- John of Brook-Lynne
@@ -39387,11 +39372,8 @@ Alpha List {
     05/02/1992 A   Tygers Cub -- Joshua Stewart
     04/08/2000 AC  Award of Arms -- Joshua Stewart
   
-  == Joshua ibn Eleazar ha-Shalib ==
+  == Joshua ibn Eleazar ha-Shalib [registered] ==
     SEE: John Elys
-  
-  == Joshua ibn Eleazar ha-ShalibseeJohn Elys [registered] ==
-  
   
   == Joshua of Allendorf [registered] ==
     01/06/1990 A   Millstone (Stonemarche) -- Joshua of Allendorf
@@ -39485,7 +39467,7 @@ Alpha List {
   == Judith the Confused ==
     ??/??/-1 A   Horse (Bhakail) -- Judith the Confused
     09/28/2002 AC  Award of Arms -- Judith the Confused
-    12/06/2003 A   Salamander's Tear (Unknown Branch) -- Judith the Confused [from Bhakail]
+    12/06/2003 A   Salamander's Tear (Bhakail) -- Judith the Confused
     09/29/2007 AC  Silver Crescent -- Judith the Confused
     07/18/2009 AC  Grant of Arms -- Judith the Confused
     07/18/2009 AC  Court Baroness -- Judith the Confused
@@ -39727,7 +39709,7 @@ Alpha List {
   
   == Justinian Timagenes [registered] ==
     11/04/1989 A   Award of Arms -- Justinian Timagenes [from Atenveldt]
-    09/29/1990 A   Solar Phoenix (Unknown Branch) -- Justinian Timagenes [from Atenveldt]
+    09/29/1990 A   Solar Phoenix (Atenveldt) -- Justinian Timagenes [from Atenveldt]
     01/02/1999 A   Fleur de Soleil (Atenveldt) -- Justinian Timagenes
     08/14/1999 A   Grant of Arms -- Justinian Timagenes [from Atenveldt]
     08/14/1999 A   Defender of the White Scarf -- Justinian Timagenes [from Atenveldt]
@@ -47490,7 +47472,7 @@ Alpha List {
     02/02/1985 A   Trident Keype (Unknown Branch) -- Rachel Kathleen Cundiff [Darkwater, Trimaris]
     02/02/1985 A   Award of Arms -- Rachel Kathleen Cundiff [from Meridies]
     02/02/1985 A   Meridian Cross (Unknown Branch) -- Rachel Kathleen Cundiff
-    09/12/1987 A   Argent Palm (Unknown Branch) -- Rachel Kathleen Cundiff [from Trimaris]
+    09/12/1987 A   Argent Palm (Trimaris) -- Rachel Kathleen Cundiff
     05/12/1990 A   Acorn's Glade (Unknown Branch) -- Rachel Kathleen Cundiff [Darkwater, Trimaris]
     03/09/1991 A   Mistress of the Laurel -- Rachel Kathleen Cundiff [from Trimaris]
   
@@ -50403,10 +50385,10 @@ Alpha List {
   
   == Shannon inghean Bhriain uí Dhuilleáin [registered] ==
     01/15/2005 A   Award of Arms -- Shannon inghean Bhriain uí Dhuilleáin [from Caid]
-    09/23/2006 A   Blasted Oak (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
+    09/23/2006 A   Blasted Oak (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [from Lochmere]
     09/23/2006 A   Opal (Atlantia) -- Shannon inghean Bhriain uí Dhuilleáin
-    08/07/2007 A   Baronial award of Excellence (Bright Hills) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
-    08/07/2007 A   Eagle's Feather (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Lochmere, Atlantia]
+    08/07/2007 A   Baronial award of Excellence (Bright Hills) -- Shannon inghean Bhriain uí Dhuilleáin [from Lochmere]
+    08/07/2007 A   Eagle's Feather (Lochmere) -- Shannon inghean Bhriain uí Dhuilleáin
     01/19/2008 A   Princess's Riband (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Oertha, West]
     06/28/2008 A   Silver Bough (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Eskalya, West]
     09/21/2008 A   Wandering Wolves of Oertha (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Oertha, West]
@@ -51056,8 +51038,8 @@ Alpha List {
   
   == Sophia Karaszkiewicza [registered] ==
     AKA: Teofilia Karaszkiewicz
-    05/26/2001 A   King's Award of Excellence (Unknown Branch) -- Sophia Karaszkiewicza [from Atlantia]
-    01/12/2002 A   Eagle's Feather (Unknown Branch) -- Sophia Karaszkiewicza [Lochmere, Atlantia]
+    05/26/2001 A   King's Award of Excellence (Atlantia) -- Sophia Karaszkiewicza
+    01/12/2002 A   Eagle's Feather (Lochmere) -- Sophia Karaszkiewicza
     01/12/2002 A   Award of Arms -- Sophia Karaszkiewicza [from Atlantia]
   
   == Sophia Magdalena of Mataria [registered] ==
@@ -51216,7 +51198,7 @@ Alpha List {
     08/??/1995 A   Tygers Combattant -- Steffan von Dresden
     08/13/1998   L Chivalry -- Steffan von Dresden
     08/13/1998 A   Knight -- Steffan von Dresden
-    10/11/2003 A   King's Award of Excellence (Unknown Branch) -- Steffan von Dresden [from Atlantia]
+    10/11/2003 A   King's Award of Excellence (Atlantia) -- Steffan von Dresden
   
   == Steingrim Fafnirsson ==
     06/11/2005 AC  Award of Arms -- Steingrim Fafnirsson
@@ -55091,7 +55073,7 @@ Alpha List {
   
   == Zhelana Tomaslavista ==
     09/25/2010 AC  Award of Arms -- Zhelana Tomaslavista
-    08/09/2011 A   Salamander's Tear (Unknown Branch) -- Zhelana Tomaslavista [from Bhakail]
+    08/09/2011 A   Salamander's Tear (Bhakail) -- Zhelana Tomaslavista
   
   == Zinoviia Mikulina ==
     AKA: Duchess Mina
@@ -55349,78 +55331,9 @@ Alpha List {
 
 ERROR LOG:
 
-Jahroon Thorgimsdottler - Alphabetical
-{
-  Unparsed line: *
-}
-
-Jana von Drachenklaue - Alphabetical
-{
-  Adding unknown award "Lady of the Garnet"
-}
-
-Jean Xavier Boullier - Alphabetical
-{
-  Unparsed line: ? Silvanus Doke (An Dubhaigeainn)
-}
-
-Jean-Oste de Murat - Alphabetical
-{
-  Unparsed line: )
-}
-
-Jeanne Jonstone - Alphabetical
-{
-  Adding unknown award "Hour Glass"
-}
-
-Jehan du Lac - Alphabetical
-{
-  Unparsed line: ??/??/????? Companion of the Daystar (Carolingia)
-}
-
-Jehan Yves de Chateau Thierry - Alphabetical
-{
-  Adding unknown award "King's Award of Excellence"
-  Adding unknown award "Silent Trumpet"
-  Adding unknown award "Eagle's Feather"
-}
-
 John the Bear - Alphabetical
 {
   Adding unknown award "Silver Bell"
-}
-
-John Bor Ox - Alphabetical
-{
-  Adding unknown award "Legion of Courtesy"
-}
-
-John Elys - Alphabetical
-{
-  Adding unknown award "Serpent's Flame"
-  Adding unknown award "Golden Trident"
-}
-
-John fitzArnulf de Lithia - Alphabetical
-{
-  Adding unknown award "Crown's Gratitude"
-  Adding unknown award "Argent Palm"
-}
-
-Joshua Blackwolf - Alphabetical
-{
-  Unparsed line: ,
-}
-
-Judith the Confused - Alphabetical
-{
-  Adding unknown award "Salamander's Tear"
-}
-
-Justinian Timagenes - Alphabetical
-{
-  Adding unknown award "Solar Phoenix"
 }
 
 Kai de Ravenglas - Alphabetical

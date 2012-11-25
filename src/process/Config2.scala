@@ -176,7 +176,8 @@ object Config2 {
               "Harlequin",
               Award("Master of Horse", "Horse"),
               "Salamander",
-              "Bhakail Order of Fence"
+              "Bhakail Order of Fence",
+              "Salamander's Tear"
             )),
             
             Barony("Bridge", synonyms = Seq("the Bridge"), awards = Seq(
@@ -284,6 +285,7 @@ object Config2 {
         Kingdom("AEthelmearc", 
           awards = Seq(
             "Cornelian",
+            Award("Garnet", "Lady of the Garnet"),
             "Golden Alce",
             "Golden Stirrup",
             "Keystone",
@@ -383,6 +385,10 @@ object Config2 {
           ),
           
           children = Seq(
+            Barony("Atenveldt", awards = Seq(
+              "Solar Phoenix"
+            )),
+            
             Principality("Sun", awards = Seq(
               "Solar Heart"
             ))
@@ -397,13 +403,18 @@ object Config2 {
             "Fountain",
             "Opal",
             "Krakken",
-            "Shark's Tooth"
+            "Shark's Tooth",
+            "King's Award of Excellence"
           ),
           
           children = Seq(
             Barony("Black Diamond", awards = Seq(
               "Polished Mirror",
               "Silver Chalice"
+            )),
+            
+            Barony("Bordermarch", awards = Seq(
+              "Silent Trumpet"
             )),
             
             Barony("Bright Hills", awards = Seq(
@@ -416,6 +427,10 @@ object Config2 {
             Barony("Caer Mear", awards = Seq(
               "La Brise de Mer",
               "Pharos"
+            )),
+            
+            Barony("Lochmere", awards = Seq(
+              "Eagle's Feather"
             )),
             
             //  Note that Myrkwode was dissolved into Atlantia
@@ -444,10 +459,16 @@ object Config2 {
             Award("Dolphin", "Dolphin of Caid"),
             "Harp Argent of Caid",
             "Crossed Swords",
-            "Lux Caidis"
+            "Lux Caidis",
+            "Legion of Courtesy"
           ),
         
           children = Seq(
+            Barony("Calafia", awards = Seq(
+              "Golden Trident",
+              "Serpent's Flame"
+            )),
+            
             Barony("Starkhafn", awards = Seq(
               "Flame"
             ))
@@ -598,8 +619,10 @@ object Config2 {
           awards = Seq(
             "Argent Estoile",
             "Argent Morningstar",
+            "Argent Palm",
             "Argent Scales",
             "Bards Laureate",
+            "Crown's Gratitude",
             "Emerald Seas",
             "Healer's Lamp",
             "Herald's Tressure",
