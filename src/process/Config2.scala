@@ -257,7 +257,7 @@ object Config2 {
               Award("Sable Compass", "Sable Compuss"),
               "Sable Gauntlet",
               "Sable Martlet",
-              "Silver Compass",
+              Award("Silver Compass", "Silver Compuss"),
               "Silver Gauntlet",
               "Silver Martlet",
               "Silver Cattail"
@@ -316,13 +316,20 @@ object Config2 {
         Kingdom("Ansteorra", awards = Seq(
           Award("Compass Rose", "CRA", "ACR"),
           "Iris of Merit",
-          "Queen's Glove of Ansteorra",
+          Award("Queen's Glove", "Queen's Glove of Ansteorra"),
           "Sable Comet",
           "Sable Crane",
           "Sable Falcon",
           "Sable Thistle",
           "Star of Merit"
-        )),
+        ),
+        
+          children = Seq(
+            Barony("Bonwicke", awards = Seq(
+              Award("Western Cross of Bonwicke", "OWCB")
+            ))
+          )
+        ),
         
         Kingdom("An Tir", 
           awards = Seq(
@@ -404,7 +411,8 @@ object Config2 {
             "Opal",
             "Krakken",
             "Shark's Tooth",
-            "King's Award of Excellence"
+            "King's Award of Excellence",
+            "Undine"
           ),
           
           children = Seq(
@@ -457,7 +465,7 @@ object Config2 {
           awards = Seq(
             "Corde de Guerre of Caid",
             Award("Dolphin", "Dolphin of Caid"),
-            "Harp Argent of Caid",
+            Award("Harp Argent", "Harp Argent of Caid"),
             "Crossed Swords",
             "Lux Caidis",
             "Legion of Courtesy"
@@ -471,6 +479,11 @@ object Config2 {
             
             Barony("Starkhafn", awards = Seq(
               "Flame"
+            )),
+            
+            Barony("Western Seas", awards = Seq(
+              "Baronial Label",
+              "Sable Clarion"
             ))
           )
         
@@ -548,6 +561,8 @@ object Config2 {
           ),
           
           children = Seq(
+            Barony("Andelcrag"),
+            
             Barony("Middle Marches", awards = Seq(
               "Watchful Tower"
             )),

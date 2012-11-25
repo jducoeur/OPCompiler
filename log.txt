@@ -14956,7 +14956,6 @@ Alphabetical {
   Kai O'Kai {
   }
   Kai de Ravenglas {
-    ERROR: Adding unknown award "Undine"
   }
   Kaia Shantarra {
   }
@@ -15009,7 +15008,6 @@ Alphabetical {
   Karin Jacobsdottir {
   }
   Karl Aerdigwidder von Zauberberg (“Fum”) {
-    ERROR: Adding unknown award "Baron of Andelcrag"
   }
   Karl Erikson {
   }
@@ -15166,9 +15164,8 @@ Alphabetical {
   Kathryn Morgan {
   }
   Katri Carillon of Devereaux {
-    ERROR: Unparsed line: )
   }
-  Katerina de la Bere (also known as Katrina de Mer {
+  Katerina de la Bere (also known as Katrina de Mer) {
   }
   Katrina MacAulish {
   }
@@ -15207,10 +15204,6 @@ Alphabetical {
   Kay Fontayne {
   }
   Kay Leigh Drake {
-    ERROR: Adding unknown award "Thistle"
-    ERROR: Adding unknown award "Crane"
-    ERROR: Adding unknown award "Queen's Glove"
-    ERROR: Adding unknown award "OWCB"
   }
   Kayla {
   }
@@ -15221,7 +15214,8 @@ Alphabetical {
   Kaylyn mac Pharláin {
   }
   Kazdoya Ruslander {
-    ERROR: Unparsed line: Kazimierz of Carolingia
+  }
+  Kazimierz of Carolingia {
   }
   Kazuki of Settmour Swamp {
   }
@@ -15250,7 +15244,6 @@ Alphabetical {
   Kein MacEwan {
   }
   Keiran Bren Of Bannockburn {
-    ERROR: Adding unknown award "Defender of the Whie Oak"
   }
   Keja Ruvni {
   }
@@ -15331,12 +15324,8 @@ Alphabetical {
   Kevin Tremayne {
   }
   Khavi bint Rozakii ("Khatife") {
-    ERROR: Adding unknown award "Silver Compuss"
   }
   Khioniya Nikolaevna Ryseva {
-    ERROR: Adding unknown award "Harp Argent"
-    ERROR: Adding unknown award "Baronial Label"
-    ERROR: Adding unknown award "Sable Clarion"
   }
   Kiaya of Stonemarche {
   }
@@ -39775,7 +39764,7 @@ Alpha List {
     08/19/1990 A   Knight -- Kai de Ravenglas
     06/06/1992 A   Sigil of AEthelmearc (AEthelmearc) -- Kai de Ravenglas
     10/09/1993 A   Count -- Kai de Ravenglas
-    09/09/1995 A   Undine (Unknown Branch) -- Kai de Ravenglas [from Atlantia]
+    09/09/1995 A   Undine (Atlantia) -- Kai de Ravenglas
     08/13/1997 A   Augmentation of Arms -- Kai de Ravenglas [from Atlantia]
   
   == Kaia Shantarra ==
@@ -39903,7 +39892,7 @@ Alpha List {
     02/19/1977 A   Court Baron -- Karl Aerdigwidder von Zauberberg (“Fum”) [from Middle]
     08/21/1982 A   Knight -- Karl Aerdigwidder von Zauberberg (“Fum”) [from Middle]
     10/08/1988 A   Purple Fret (Middle) -- Karl Aerdigwidder von Zauberberg (“Fum”) [Mid.]
-    02/17/1990 A   Baron of Andelcrag (Unknown Branch) -- Karl Aerdigwidder von Zauberberg (“Fum”) [Middle) (retired]
+    02/17/1990 A   Baron of Andelcrag (Middle) -- Karl Aerdigwidder von Zauberberg (“Fum”) [Middle) (retired]
     02/08/1992 A   Dragon's Heart (Middle) -- Karl Aerdigwidder von Zauberberg (“Fum”) [Mid.]
     02/12/1994 A   Master of the Pelican -- Karl Aerdigwidder von Zauberberg (“Fum”) [from Middle]
     02/10/1996 A   Willow (Middle) -- Karl Aerdigwidder von Zauberberg (“Fum”) [Mid.]
@@ -40084,9 +40073,9 @@ Alpha List {
     10/03/2009 A   Queen's Honor of Distinction -- Katerina de la Bere [Gabriella II]
     04/10/2010 AC  Queen's Honor of Distinction -- Katerina de la Bere [Brenwen II]
   
-  == Katerina de la Bere (also known as Katrina de Mer [registered] ==
-    11/23/2002 A   Award of Arms -- Katerina de la Bere (also known as Katrina de Mer
-    03/29/2008 A   Queen's Courtesy -- Katerina de la Bere (also known as Katrina de Mer
+  == Katerina de la Bere (also known as Katrina de Mer) [registered] ==
+    11/23/2002 A   Award of Arms -- Katerina de la Bere (also known as Katrina de Mer)
+    03/29/2008 A   Queen's Courtesy -- Katerina de la Bere (also known as Katrina de Mer)
   
   == Katerina de la Mer ==
     10/03/2009  C  Queen's Honor of Distinction -- Katerina de la Mer
@@ -40498,16 +40487,16 @@ Alpha List {
   == Kay Leigh Drake [registered] ==
     07/15/1996 A   Award of Arms -- Kay Leigh Drake [from Ansteorra]
     08/03/1996 A   Queen's Rapier -- Kay Leigh Drake [from Ansteorra]
-    12/27/1996 A   OWCB (Unknown Branch) -- Kay Leigh Drake [from Ansteorra]
+    12/27/1996 A   OWCB (Bonwicke) -- Kay Leigh Drake [from Ansteorra]
     01/11/1997 A   Court Baroness -- Kay Leigh Drake [from Ansteorra]
     01/11/1997 A   Grant of Arms -- Kay Leigh Drake [from Ansteorra]
-    04/24/1997 A   Thistle (Unknown Branch) -- Kay Leigh Drake [from Ansteorra]
-    08/14/1998 A   Crane (Unknown Branch) -- Kay Leigh Drake [from Ansteorra]
+    04/24/1997 A   Sable Thistle (Ansteorra) -- Kay Leigh Drake
+    08/14/1998 A   Sable Crane (Ansteorra) -- Kay Leigh Drake
     08/07/1999 A   White Scarf -- Kay Leigh Drake [from Ansteorra]
     07/22/2000 A   Lady of the Rose -- Kay Leigh Drake [from Ansteorra]
     07/22/2000 A   Countess -- Kay Leigh Drake [from Ansteorra]
     09/22/2001 A   Star of Merit (Ansteorra) -- Kay Leigh Drake
-    01/05/2002 A   Queen's Glove (Unknown Branch) -- Kay Leigh Drake [Larissa, Ansteorra]
+    01/05/2002 A   Queen's Glove (Ansteorra) -- Kay Leigh Drake [Larissa, Ansteorra]
     03/16/2002 A   Iris of Merit (Ansteorra) -- Kay Leigh Drake
     10/26/2002 A   Golden Lyre -- Kay Leigh Drake
     08/13/2003 ACL Mistress of the Laurel -- Kay Leigh Drake
@@ -40535,7 +40524,9 @@ Alpha List {
   
   == Kazdoya Ruslander [registered] ==
     08/14/1991 A   Award of Arms -- Kazdoya Ruslander
-    05/12/2012 A   Award of Arms -- Kazdoya Ruslander
+  
+  == Kazimierz of Carolingia ==
+    05/12/2012 A   Award of Arms -- Kazimierz of Carolingia
   
   == Kazuki of Settmour Swamp ==
     05/29/2005 A   Ivory Tower (Settmour Swamp) -- Kazuki of Settmour Swamp
@@ -40581,7 +40572,7 @@ Alpha List {
     08/12/1987 A   Award of Arms -- Kein MacEwan
   
   == Keiran Bren Of Bannockburn ==
-    09/26/2009 A   Defender of the Whie Oak (Unknown Branch) -- Keiran Bren Of Bannockburn [from Beyond the Mountain]
+    09/26/2009 A   Defender of the White Oak (Beyond the Mountain) -- Keiran Bren Of Bannockburn
   
   == Keja Ruvni ==
     10/22/1994 A   Award of Arms -- Keja Ruvni
@@ -40804,13 +40795,13 @@ Alpha List {
     10/01/2011 A   Queen's Honor of Distinction -- Khavi bint Rozakii ("Khatife")
     10/01/2011 A   Court Barony -- Khavi bint Rozakii ("Khatife")
     10/01/2011 A   Grant of Arms -- Khavi bint Rozakii ("Khatife")
-    03/17/2012 A   Silver Compuss (Unknown Branch) -- Khavi bint Rozakii ("Khatife") [from Iron Bog]
+    03/17/2012 A   Silver Compuss (Iron Bog) -- Khavi bint Rozakii ("Khatife")
   
   == Khioniya Nikolaevna Ryseva [registered] ==
     09/13/1997 A   Award of Arms -- Khioniya Nikolaevna Ryseva
-    08/31/2002 A   Harp Argent (Unknown Branch) -- Khioniya Nikolaevna Ryseva [from Caid]
-    01/04/2003 A   Sable Clarion (Unknown Branch) -- Khioniya Nikolaevna Ryseva [Western Seas, Caid]
-    11/06/2004 A   Baronial Label (Unknown Branch) -- Khioniya Nikolaevna Ryseva [Palatine Baroness) (Western Seas, Caid]
+    08/31/2002 A   Harp Argent (Caid) -- Khioniya Nikolaevna Ryseva
+    01/04/2003 A   Sable Clarion (Western Seas) -- Khioniya Nikolaevna Ryseva
+    11/06/2004 A   Baronial Label (Western Seas) -- Khioniya Nikolaevna Ryseva [Palatine Baroness) (Western Seas, Caid]
     04/14/2007 A   Queen's Honor of Distinction -- Khioniya Nikolaevna Ryseva [Jana IV]
     07/14/2007 AC  Manche -- Khioniya Nikolaevna Ryseva
     04/12/2008 A   Queen's Cypher -- Khioniya Nikolaevna Ryseva [Gabriella]
@@ -49016,7 +49007,7 @@ Alpha List {
     01/13/1990 A   Dolphin (Caid) -- Rouland Carre
     03/10/1990 A   Illuminated Tower (Unknown Branch) -- Rouland Carre [Dreiburgen]
     06/02/1990 A   Signum Regina (Unknown Branch) -- Rouland Carre [from Caid]
-    10/27/1990 A   Harp Argent (Unknown Branch) -- Rouland Carre [from Caid]
+    10/27/1990 A   Harp Argent (Caid) -- Rouland Carre
     10/31/1992 A   Honneur de la Chanson (Unknown Branch) -- Rouland Carre [from Caid]
   
   == Rowan Cloteworthy ==
@@ -50217,7 +50208,7 @@ Alpha List {
     09/07/1996 A   Master of the Pelican -- Seosamh Tadhg an Crúca O'Maille
     08/13/1997 A   Tygers Combattant -- Seosamh Tadhg an Crúca O'Maille
     04/03/1999 A   Daystar (Carolingia) -- Seosamh Tadhg an Crúca O'Maille
-    05/18/2002 A   Baronial Label (Unknown Branch) -- Seosamh Tadhg an Crúca O'Maille [Palatine Baron) (Western Seas, Caid]
+    05/18/2002 A   Baronial Label (Western Seas) -- Seosamh Tadhg an Crúca O'Maille [Palatine Baron) (Western Seas, Caid]
     05/28/2005 A   Gauntlet (Unknown Branch) -- Seosamh Tadhg an Crúca O'Maille [from Caid]
     09/27/2008 A   Knight -- Seosamh Tadhg an Crúca O'Maille
   
@@ -55334,51 +55325,6 @@ ERROR LOG:
 John the Bear - Alphabetical
 {
   Adding unknown award "Silver Bell"
-}
-
-Kai de Ravenglas - Alphabetical
-{
-  Adding unknown award "Undine"
-}
-
-Karl Aerdigwidder von Zauberberg (“Fum”) - Alphabetical
-{
-  Adding unknown award "Baron of Andelcrag"
-}
-
-Katri Carillon of Devereaux - Alphabetical
-{
-  Unparsed line: )
-}
-
-Kay Leigh Drake - Alphabetical
-{
-  Adding unknown award "Thistle"
-  Adding unknown award "Crane"
-  Adding unknown award "Queen's Glove"
-  Adding unknown award "OWCB"
-}
-
-Kazdoya Ruslander - Alphabetical
-{
-  Unparsed line: Kazimierz of Carolingia
-}
-
-Keiran Bren Of Bannockburn - Alphabetical
-{
-  Adding unknown award "Defender of the Whie Oak"
-}
-
-Khavi bint Rozakii ("Khatife") - Alphabetical
-{
-  Adding unknown award "Silver Compuss"
-}
-
-Khioniya Nikolaevna Ryseva - Alphabetical
-{
-  Adding unknown award "Harp Argent"
-  Adding unknown award "Baronial Label"
-  Adding unknown award "Sable Clarion"
 }
 
 Prec_l.xhtml - Alphabetical
