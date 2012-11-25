@@ -105,7 +105,8 @@ class Barony(val name:String) extends Branch {
   def awardForGender(nameVariant:String, gender:Gender, term:String):Award = {
     val primaryName = AwardName(term + " " + nameVariant, gender)
     val synNames = Seq(AwardName(term + " of " + nameVariant, gender),
-    				   AwardName("Founding " + term + " " + nameVariant, gender))
+    				   AwardName("Founding " + term + " " + nameVariant, gender),
+    				   AwardName("Founding " + term + " of " + nameVariant, gender))
     Award(parent, primaryName, false, synNames)
   }
   // Do the Canadian Baronies have French titles instead? If so, I may need to

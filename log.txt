@@ -13007,7 +13007,6 @@ Alphabetical {
   Gabriel of Nordenhil {
   }
   Gabriella de Bas Serra {
-    ERROR: Adding unknown award "order of the Holly"
   }
   Gabriella Maddelena Pisano {
   }
@@ -13120,7 +13119,6 @@ Alphabetical {
   Gavin of Brockton {
   }
   Gavin Kilkenny of Kilcarren {
-    ERROR: Adding unknown award "Sigillum Coronae"
   }
   Gavin MacAuley, called Camran {
   }
@@ -13132,8 +13130,7 @@ Alphabetical {
   }
   Gavriel (of Northern Outpost) {
   }
-  Gawyn O'Clery - {
-    ERROR: Adding unknown award "- Award of Arms"
+  Gawyn O'Clery {
   }
   Gaylen Faye {
   }
@@ -13176,11 +13173,8 @@ Alphabetical {
   Genevieve of Stonemarche {
   }
   Genevra d'Angouleme {
-    ERROR: Adding unknown award "Baroness's Sliver Ring"
-    ERROR: Adding unknown award "Conpanion of the Sable Compass"
   }
   Genja Thorsson Vikingsson {
-    ERROR: Unparsed line: ,
   }
   Gennevote du Lac {
   }
@@ -13201,8 +13195,6 @@ Alphabetical {
   Geoffrey Featherstonehaugh {
   }
   Geoffrey Fitz Galen {
-    ERROR: Adding unknown award "Hourglass"
-    ERROR: Adding unknown award "Queen' Champion of Horse"
   }
   Geoffrey Gryphon {
   }
@@ -13241,13 +13233,10 @@ Alphabetical {
   Gerhard der Rote von Ulm {
   }
   Gerhardt of Oakenwode {
-    ERROR: Bad date part: 0?
   }
   Gericke der Keger {
   }
   Gershom ibn Zabara {
-    ERROR: Adding unknown award "Harp Argent of Caid"
-    ERROR: Adding unknown award "Dolphin of Caid"
   }
   Gerta of An Dubhaigeainn {
   }
@@ -13268,7 +13257,6 @@ Alphabetical {
   Giancarlo de San Cataldo {
   }
   Gianetta Lucia Allegretta {
-    ERROR: Unparsed line: ? Silvanus Doke (An Dubhaigeainn)
   }
   Gianotta dalla Fiora {
   }
@@ -13309,7 +13297,6 @@ Alphabetical {
   Gilliad ben Seldom {
   }
   Gilliam Blackhorn {
-    ERROR: Adding unknown award "Silver Guard"
   }
   Gillian de l'Eau Clair {
   }
@@ -13400,7 +13387,6 @@ Alphabetical {
   Godfrey de Lisieux {
   }
   Godfroy de Falaise {
-    ERROR: Adding unknown award "Founding Baron of Havre des Glaces"
   }
   Godieva Eclipea Blackhert du Mer {
   }
@@ -13413,7 +13399,8 @@ Alphabetical {
   Godric Fitzcount {
   }
   Godric of Hamtun {
-    ERROR: Unparsed line: Godrick White Wolf
+  }
+  Godrick White Wolf {
   }
   Godwyn Penkerris o Wythial {
   }
@@ -13438,7 +13425,6 @@ Alphabetical {
   Gottfried von Neuremburg {
   }
   Goulhran MacGowan {
-    ERROR: Adding unknown award "Rose des Glaces"
   }
   Govyan Gowan {
   }
@@ -13513,7 +13499,6 @@ Alphabetical {
   Griffin Bel-Arden {
   }
   Griffin of Iron Bog {
-    ERROR: Adding unknown award "Iron Punk"
   }
   Griffin the Red {
   }
@@ -13522,14 +13507,12 @@ Alphabetical {
   Griffith Allt y Genlli {
   }
   Griffith Davion {
-    ERROR: Adding unknown award "King's Rapier Champuion"
   }
   Griffyn Cleisiog ap Madoc {
   }
   Grigorii Andreyvich {
   }
   Grim the Skald {
-    ERROR: Adding unknown award "Feather"
   }
   Grimlaf of Regnesfolke {
   }
@@ -13656,7 +13639,6 @@ Alphabetical {
   Guthering of Broken Bridges {
   }
   Guthfrith Yrlingsson {
-    ERROR: Adding unknown award "Silver Helm"
   }
   Guy Cheveux de Guise {
   }
@@ -13665,21 +13647,6 @@ Alphabetical {
   Guy of Glastonbury Concordia {
   }
   Guy Lestrange {
-    ERROR: Adding unknown award "Tempest"
-    ERROR: Adding unknown award "Krakken"
-    ERROR: Adding unknown award "Shark's Tooth"
-    ERROR: Adding unknown award "Sable Falcon"
-    ERROR: Adding unknown award "Baronial Gallant"
-    ERROR: Adding unknown award "Leaping Dolphin"
-    ERROR: Adding unknown award "Tempest Tossed Traveller"
-    ERROR: Adding unknown award "Gules"
-    ERROR: Adding unknown award "Coronet's Appreciation"
-    ERROR: Adding unknown award "Ginger Flower"
-    ERROR: Adding unknown award "Sea Griffon"
-    ERROR: Adding unknown award "Burdened Bouget"
-    ERROR: Adding unknown award "Empty Shell"
-    ERROR: Adding unknown award "Argent"
-    ERROR: Adding unknown award "Ponte di Ferro"
   }
   Guy Lourance {
   }
@@ -13897,7 +13864,6 @@ Alphabetical {
   Hasdrubal {
   }
   Hassan abdul Raschid al-Turki {
-    ERROR: Adding unknown award "Silvanus Doke"
   }
   Haus von Drachenklaue {
   }
@@ -34588,7 +34554,7 @@ Alpha List {
     02/??/2000 A   Yale (Dragonship Haven) -- Gabriella de Bas Serra
     04/21/2007 A   Award of Arms -- Gabriella de Bas Serra
     06/02/2007 A   White Oak (Beyond the Mountain) -- Gabriella de Bas Serra
-    11/03/2007 A   order of the Holly (Unknown Branch) -- Gabriella de Bas Serra
+    11/03/2007 A   Holly (Beyond the Mountain) -- Gabriella de Bas Serra
     04/12/2008 A   Burdened Tyger -- Gabriella de Bas Serra
     04/10/2010 AC  Silver Crescent -- Gabriella de Bas Serra
   
@@ -34899,7 +34865,7 @@ Alpha List {
     05/04/1991 A   Manche -- Gavin Kilkenny of Kilcarren
     01/02/1993 A L Master of the Pelican -- Gavin Kilkenny of Kilcarren
     04/03/1993 A   Burdened Tyger -- Gavin Kilkenny of Kilcarren
-    01/29/1994 A   Sigillum Coronae (Unknown Branch) -- Gavin Kilkenny of Kilcarren [from Drachenwald]
+    01/29/1994 A   Sigillum Coronae (Drachenwald) -- Gavin Kilkenny of Kilcarren
     06/14/2008 AC  Queen's Honor of Distinction -- Gavin Kilkenny of Kilcarren [Brenwen]
   
   == Gavin MacAuley, called Camran ==
@@ -34927,13 +34893,9 @@ Alpha List {
     11/06/1999 AC  Award of Arms -- Gavriel (of Northern Outpost)
   
   == Gawyn O'Clery ==
+    AKA: was Gura duga'ar Gardur
     AKA: Gura duga'ar Gardur -
-  
-  
-  == Gawyn O'Clery - ==
-    AKA: Gura duga'ar Gardur
-    07/27/2002 A   - Award of Arms (Unknown Branch) -- Gawyn O'Clery -
-    07/27/2002  C  Award of Arms -- Gura duga'ar Gardur
+    07/27/2002 A   Award of Arms -- Gawyn O'Clery
   
   == Gaylen Faye ==
     06/18/1988 A   Award of Arms -- Gaylen Faye
@@ -35029,8 +34991,8 @@ Alpha List {
     05/05/2007 A   Award of Arms -- Genevra d'Angouleme
     06/02/2007 A   Sable Martlet (Iron Bog) -- Genevra d'Angouleme
     09/26/2009 AC  Burdened Tyger -- Genevra d'Angouleme
-    08/07/2011 A   Baroness's Sliver Ring (Unknown Branch) -- Genevra d'Angouleme [from Iron Bog]
-    01/21/2012 A   Conpanion of the Sable Compass (Unknown Branch) -- Genevra d'Angouleme [from Iron Bog]
+    08/07/2011 A   Baroness's Silver Ring (Iron Bog) -- Genevra d'Angouleme
+    01/21/2012 A   Sable Compass (Iron Bog) -- Genevra d'Angouleme
   
   == Genivieve de Montfort ==
     04/21/2001  C  Award of Arms -- Genivieve de Montfort
@@ -35073,9 +35035,9 @@ Alpha List {
     02/23/1991 A   Manche -- Geoffrey Fitz Galen
     08/19/1993 A   Tygers Combattant -- Geoffrey Fitz Galen
     08/22/1993 A   Knight -- Geoffrey Fitz Galen
-    03/07/1998 A   Hourglass (Unknown Branch) -- Geoffrey Fitz Galen [from Bergental]
+    03/07/1998 A   Hourglass (Bergental) -- Geoffrey Fitz Galen
     12/05/1998 A   Master of the Laurel -- Geoffrey Fitz Galen
-    07/02/2011 A   Queen' Champion of Horse (Unknown Branch) -- Geoffrey Fitz Galen
+    07/02/2011 A   Queen's Champion of Horse -- Geoffrey Fitz Galen
   
   == Geoffrey FitzGalen ==
     08/22/1993   L Chivalry -- Geoffrey FitzGalen
@@ -35213,10 +35175,6 @@ Alpha List {
   == Gerhard der Rote von Ulm [registered] ==
     10/12/2002 A   Award of Arms -- Gerhard der Rote von Ulm
   
-  ERROR: Bad date part: 0?
-  ERROR: Bad date part: 0?
-  ERROR: Bad date part: 0?
-  ERROR: Bad date part: 0?
   == Gerhardt of Oakenwode ==
     05/23/1998 A   Award of Arms -- Gerhardt of Oakenwode
     01/15/2000 AC  Manche -- Gerhardt of Oakenwode
@@ -35234,8 +35192,8 @@ Alpha List {
   
   == Gershom ibn Zabara [registered] ==
     04/04/1981 A   Award of Arms -- Gershom ibn Zabara
-    05/12/1984 A   Harp Argent of Caid (Unknown Branch) -- Gershom ibn Zabara
-    03/29/1986 A   Dolphin of Caid (Unknown Branch) -- Gershom ibn Zabara
+    05/12/1984 A   Harp Argent of Caid (Caid) -- Gershom ibn Zabara
+    03/29/1986 A   Dolphin of Caid (Caid) -- Gershom ibn Zabara
   
   == Gerta of An Dubhaigeainn ==
     08/17/2005 AC  Award of Arms -- Gerta of An Dubhaigeainn
@@ -35289,6 +35247,7 @@ Alpha List {
     AKA: Seadach Dubhailceach
     AKA: Siobhan Forbeis of Lonachan
     AKA: Siobhan Lisuadh Forbes of Kernathy Green
+    ??/??/-1 A   Silvanus Doke (An Dubhaigeainn) -- Gianetta Lucia Allegretta
     01/21/1989 A   Award of Arms -- Gianetta Lucia Allegretta
     01/13/2001 A   Manche -- Gianetta Lucia Allegretta
     01/26/2002 A   Baroness of An Dubhaigeainn -- Gianetta Lucia Allegretta
@@ -35387,7 +35346,7 @@ Alpha List {
     03/27/1982 A   Award of Arms -- Gilliad ben Seldom
   
   == Gilliam Blackhorn [registered] ==
-    05/22/1993 A   Silver Guard (Unknown Branch) -- Gilliam Blackhorn
+    05/22/1993 A   Silver Guard (Drachenwald) -- Gilliam Blackhorn
   
   == Gillian Holroyd MacLachlan of House d’Avignon ==
     07/24/1999 A   Award of Arms -- Gillian Holroyd MacLachlan of House d’Avignon
@@ -35589,7 +35548,7 @@ Alpha List {
     05/08/1999 A   Silver Crescent -- Godfroy de Falaise
     03/25/2000 A   Burdened Tyger -- Godfroy de Falaise
     03/25/2000 A   Grant of Arms -- Godfroy de Falaise
-    03/25/2000 A   Founding Baron of Havre des Glaces (Unknown Branch) -- Godfroy de Falaise
+    03/25/2000 A   Founding Baron of Havre des Glaces (Tir Mara) -- Godfroy de Falaise
     07/17/2004 A   Court Baron -- Godfroy de Falaise
     07/11/2009 ACL Master of the Pelican -- Godfroy de Falaise
   
@@ -35622,10 +35581,12 @@ Alpha List {
     07/14/2007 AC  Sagittarius -- Godric of Hamtun
     10/01/2011 AC  King's Cypher -- Godric of Hamtun [Lucan VIII]
     07/14/2012 A   Pelican -- Godric of Hamtun
-    09/22/2012 A   Award of Arms -- Godric of Hamtun
   
   == Godric og Hamtun ==
     07/17/2004  C  Award of Arms -- Godric og Hamtun
+  
+  == Godrick White Wolf ==
+    09/22/2012 A   Award of Arms -- Godrick White Wolf
   
   == Godwyn Penkerris o Wythial [registered] ==
     05/27/1984 A   Award of Arms -- Godwyn Penkerris o Wythial
@@ -35670,7 +35631,7 @@ Alpha List {
     07/18/1998 A   Award of Arms -- Goulhran MacGowan
     ??/??/2001 A   Chiffre du Baron (Havre des Glaces) -- Goulhran MacGowan
     ??/??/2005 A   Order du Lys d'argent (Havre des Glaces) -- Goulhran MacGowan
-    11/19/2005 A   Rose des Glaces (Unknown Branch) -- Goulhran MacGowan [from Havre des Glaces]
+    11/19/2005 A   Rose des Glaces (Havre des Glaces) -- Goulhran MacGowan
     10/14/2006 AC  Silver Crescent -- Goulhran MacGowan
   
   == Govyan Gowan ==
@@ -35812,7 +35773,7 @@ Alpha List {
   
   == Gregorio del Falco [registered] ==
     03/06/1993 A   Principality Company of Sojourners (Drachenwald) -- Gregorio del Falco
-    03/06/1993 A   Silver Guard (Unknown Branch) -- Gregorio del Falco
+    03/06/1993 A   Silver Guard (Drachenwald) -- Gregorio del Falco
   
   == Gregorio di Sicilia ==
     02/22/2003  C  Queen's Courtesy -- Gregorio di Sicilia
@@ -35860,7 +35821,7 @@ Alpha List {
     06/04/1994 A   Award of Arms -- Griffin Bel-Arden
   
   == Griffin of Iron Bog ==
-    08/04/2007 A   Iron Punk (Unknown Branch) -- Griffin of Iron Bog [from Iron Bog]
+    08/04/2007 A   Iron Punk (Iron Bog) -- Griffin of Iron Bog
   
   == Griffin the Red ==
     08/11/2011 A   Award of Arms -- Griffin the Red
@@ -35879,8 +35840,7 @@ Alpha List {
     09/27/2008 AC  Silver Rapier -- Griffith Davion
     02/27/2010 AC  Burdened Tyger -- Griffith Davion
     09/25/2010 AC  Golden Rapier -- Griffith Davion
-    01/22/2011 A   King's Rapier Champuion (Unknown Branch) -- Griffith Davion
-    01/22/2011  C  King's Rapier Champion -- Griffith Davion
+    01/22/2011 AC  King's Rapier Champion -- Griffith Davion
     05/22/2011 A   Flame of Bhakail (Bhakail) -- Griffith Davion
     09/08/2011 A   Horse (Bhakail) -- Griffith Davion
   
@@ -35913,7 +35873,7 @@ Alpha List {
     11/06/2004 AC  Award of Arms -- Grim the Skald
     03/12/2005 AC  Troubadour -- Grim the Skald
     07/01/2006 AC  Manche -- Grim the Skald
-    12/06/2006 A   Feather (Unknown Branch) -- Grim the Skald [from Concordia of the Snows]
+    12/06/2006 A   Feather (Concordia of the Snows) -- Grim the Skald
     07/05/2008 ACL Master of the Laurel -- Grim the Skald
     09/25/2010 AC  Queen's Cypher -- Grim the Skald [Marguerite]
   
@@ -36208,7 +36168,7 @@ Alpha List {
     04/11/2009 A   Award of Arms -- Gunvar in hausakljuft
   
   == Gura duga'ar Gardur ==
-    SEE: Gawyn O'Clery -
+    07/27/2002  C  Award of Arms -- Gura duga'ar Gardur
   
   == Gura duga'ar Gardur - ==
     SEE: Gawyn O'Clery
@@ -36234,7 +36194,7 @@ Alpha List {
   
   == Guthfrith Yrlingsson [registered] ==
     05/13/1995 A   Award of Arms -- Guthfrith Yrlingsson [from Lochac]
-    08/22/1998 A   Silver Helm (Unknown Branch) -- Guthfrith Yrlingsson [from Lochac]
+    08/22/1998 A   Silver Helm (Lochac) -- Guthfrith Yrlingsson
     05/01/2004 A   Queen's Honor of Distinction -- Guthfrith Yrlingsson [Geneviere]
     11/26/2005 A   Queen's Courtesy -- Guthfrith Yrlingsson
     11/29/2008 A   Iceberg (Ruantallan) -- Guthfrith Yrlingsson
@@ -36261,33 +36221,31 @@ Alpha List {
     03/18/2006  C  Award of Arms -- Guy Lawrence of House Three Skulls
   
   == Guy Lestrange [registered] ==
-    08/01/1994 A   Tempest (Unknown Branch) -- Guy Lestrange [Windmasters' Hill, Atlantia]
+    08/01/1994 A   Tempest (Windmaster's Hill) -- Guy Lestrange [Windmasters' Hill, Atlantia]
     09/09/1995 A   Award of Arms -- Guy Lestrange [from Atlantia]
-    04/01/1996 A   Krakken (Unknown Branch) -- Guy Lestrange [from Atlantia]
+    04/01/1996 A   Krakken (Atlantia) -- Guy Lestrange
     08/13/1997 A   Augmentation of Arms -- Guy Lestrange [from Atlantia]
     05/01/1999 A   Award of Arms -- Guy Lestrange [from Middle]
-    08/16/1999 A   Shark's Tooth (Unknown Branch) -- Guy Lestrange [from Atlantia]
+    08/16/1999 A   Shark's Tooth (Atlantia) -- Guy Lestrange
     11/20/1999 A   Grant of Arms -- Guy Lestrange [from Meridies]
-    05/13/2000 A   Sable Falcon (Unknown Branch) -- Guy Lestrange [from Ansteorra]
+    05/13/2000 A   Sable Falcon (Ansteorra) -- Guy Lestrange
     08/17/2001 A   Knight -- Guy Lestrange [from Ansteorra]
     08/24/2002 A   Court Baron -- Guy Lestrange [from Ansteorra]
-    10/31/2002 A   Baronial Gallant (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2002 A   Baronial Gallant (Far West) -- Guy Lestrange
     03/14/2003 A   Queen's Rapier -- Guy Lestrange [from Ansteorra]
-    05/31/2003 A   Leaping Dolphin (Unknown Branch) -- Guy Lestrange [from Far West]
+    05/31/2003 A   Leaping Dolphin (Far West) -- Guy Lestrange
     08/24/2004 A   Defender of the West (West) -- Guy Lestrange
-    10/31/2004 A   Ginger Flower (Unknown Branch) -- Guy Lestrange [from Far West]
-    10/31/2004 A   Coronet's Appreciation (Unknown Branch) -- Guy Lestrange [from Far West]
-    10/31/2004 A   Gules (Unknown Branch) -- Guy Lestrange [from Far West]
-    10/31/2004 A   Tempest Tossed Traveller (Unknown Branch) -- Guy Lestrange [from Far West]
-    07/31/2005 A   Sea Griffon (Unknown Branch) -- Guy Lestrange [from Far West]
-    07/31/2005 A   Coronet's Appreciation (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2004 A   Ginger Flower (Far West) -- Guy Lestrange
+    10/31/2004 A   Coronet's Appreciation (Far West) -- Guy Lestrange
+    10/31/2004 A   Tempest Tossed Traveller Gules (Far West) -- Guy Lestrange
+    07/31/2005 A   Sea Griffon (Far West) -- Guy Lestrange
+    07/31/2005 A   Coronet's Appreciation (Far West) -- Guy Lestrange
     08/15/2005 A   Master of the Pelican -- Guy Lestrange [from West]
-    10/31/2005 A   Argent (Unknown Branch) -- Guy Lestrange [from Far West]
-    10/31/2005 A   Tempest Tossed Traveller (Unknown Branch) -- Guy Lestrange [from Far West]
+    10/31/2005 A   Tempest Tossed Traveller Argent (Far West) -- Guy Lestrange
     10/31/2005 A   Attic Helm (Far West) -- Guy Lestrange
-    10/31/2005 A   Empty Shell (Unknown Branch) -- Guy Lestrange [from Far West]
-    10/31/2005 A   Burdened Bouget (Unknown Branch) -- Guy Lestrange [from Far West]
-    08/09/2007 A   Ponte di Ferro (Unknown Branch) -- Guy Lestrange [Ponte Alto, Atlantia]
+    10/31/2005 A   Empty Shell (Far West) -- Guy Lestrange
+    10/31/2005 A   Burdened Bouget (Far West) -- Guy Lestrange
+    08/09/2007 A   Ponte di Ferro (Ponto Alto) -- Guy Lestrange [Ponte Alto, Atlantia]
     11/17/2007 A   Queen's Courtesy -- Guy Lestrange [from Atlantia]
   
   == Guy Lourance [registered] ==
@@ -36821,7 +36779,7 @@ Alpha List {
   == Hassan abdul Raschid al-Turki [registered] ==
     09/13/1997 A   Award of Arms -- Hassan abdul Raschid al-Turki
     11/10/2007 A   Grant of Arms -- Hassan abdul Raschid al-Turki
-    05/16/2009 A   Silvanus Doke (Unknown Branch) -- Hassan abdul Raschid al-Turki [from An Dubhaigeainn]
+    05/16/2009 A   Silvanus Doke (An Dubhaigeainn) -- Hassan abdul Raschid al-Turki
   
   == Haus von Drachenklaue ==
     01/11/1992 A   Sigil of AEthelmearc (AEthelmearc) -- Haus von Drachenklaue
@@ -38476,7 +38434,7 @@ Alpha List {
     SEE: Abu Mohammed Hassan
   
   == Jean Louis of Bergental ==
-    05/28/2011 A   Hourglass (Unknown Branch) -- Jean Louis of Bergental [from Bergental]
+    05/28/2011 A   Hourglass (Bergental) -- Jean Louis of Bergental
   
   == Jean Nora cu Corrick ==
     09/24/1994 A   Award of Arms -- Jean Nora cu Corrick
@@ -46605,7 +46563,7 @@ Alpha List {
     12/31/1985 A   Sable Blade (Unknown Branch) -- Otto the Obscure [from Atlantia]
     10/18/1986 A   Sea Stag (Atlantia) -- Otto the Obscure
     12/31/1986 A   Fettered Crane (Unknown Branch) -- Otto the Obscure [from Black Diamond]
-    05/01/1988 A   Shark's Tooth (Unknown Branch) -- Otto the Obscure [from Atlantia]
+    05/01/1988 A   Shark's Tooth (Atlantia) -- Otto the Obscure
     08/20/1988 A   Golden Dolphin (Atlantia) -- Otto the Obscure
     09/10/1988 A   Court Baron -- Otto the Obscure [from Atlantia]
     09/10/1988 A   Grant of Arms -- Otto the Obscure [from Atlantia]
@@ -49525,7 +49483,7 @@ Alpha List {
     06/19/2010 AC  Award of Arms -- Sabina de Pont de Renard
   
   == Sabina of Concordia ==
-    12/11/1999 A   Feather (Unknown Branch) -- Sabina of Concordia [from Concordia of the Snows]
+    12/11/1999 A   Feather (Concordia of the Snows) -- Sabina of Concordia
     05/26/2001 A   Award of Arms -- Sabina of Concordia
   
   == Sabina of Stonemarche ==
@@ -50220,12 +50178,12 @@ Alpha List {
     10/05/1991 A   Queen's Cypher -- Sedalia MacNare [Katherine]
     04/04/1992 A L Mistress of the Laurel -- Sedalia MacNare
     08/19/1993 A   Augmentation of Arms -- Sedalia MacNare
-    01/29/1994 A   Sigillum Coronae (Unknown Branch) -- Sedalia MacNare [from Drachenwald]
+    01/29/1994 A   Sigillum Coronae (Drachenwald) -- Sedalia MacNare
     09/26/1998 A   Burdened Tyger -- Sedalia MacNare
     02/21/2009 A   Baroness's Silver Ring (Iron Bog) -- Sedalia MacNare
   
   == Segnat ingen Dhonnchada [registered] ==
-    ??/??/-1 A   Empty Shell (Unknown Branch) -- Segnat ingen Dhonnchada [from Far West]
+    ??/??/-1 A   Empty Shell (Far West) -- Segnat ingen Dhonnchada
     ??/??/-1 A   Bearer of the Burdoned Bouchet (Unknown Branch) -- Segnat ingen Dhonnchada [from Far West]
     07/13/2002 A   Award of Arms -- Segnat ingen Dhonnchada [from Outlands]
   
@@ -51548,7 +51506,7 @@ Alpha List {
     04/12/2003 AC  Queen's Cypher -- Suzanne Neuber de Londres [Isabella II]
     09/27/2008 AC  Queen's Cypher -- Suzanne Neuber de Londres [Brenwen]
     09/27/2008 AC  King's Cypher -- Suzanne Neuber de Londres [Konrad]
-    03/21/2009 A   Silvanus Doke (Unknown Branch) -- Suzanne Neuber de Londres [from An Dubhaigeainn]
+    03/21/2009 A   Silvanus Doke (An Dubhaigeainn) -- Suzanne Neuber de Londres
     08/06/2009 ACL Mistress of the Pelican -- Suzanne Neuber de Londres
     04/10/2010 AC  Queen's Cypher -- Suzanne Neuber de Londres [Brenwen II]
     08/09/2012 A   Silver Feather (An Dubhaigeainn) -- Suzanne Neuber de Londres
@@ -53176,7 +53134,7 @@ Alpha List {
     03/26/2011  C  Award of Arms -- Tuathflaith ingen ui Chlerigh
   
   == Tucker of Iron Bog ==
-    08/04/2007 A   Iron Punk (Unknown Branch) -- Tucker of Iron Bog [from Iron Bog]
+    08/04/2007 A   Iron Punk (Iron Bog) -- Tucker of Iron Bog
   
   == Tuner ==
     03/27/1982 A   Award of Arms -- Tuner
@@ -53623,7 +53581,7 @@ Alpha List {
     03/08/1986 A   Iris of Merit (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
     03/08/1987 A   Knight -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
     07/25/1987 A   Lion of Ansteorra (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron")
-    07/01/1989 A   Sable Falcon (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
+    07/01/1989 A   Sable Falcon (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
     08/18/1990 A   Court Baron -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
   
   == Valery Eugenia Fitzgerald [registered] ==
@@ -55276,6 +55234,9 @@ Alpha List {
   == von Wettin ==
     SEE: Sabine Berard
   
+  == was Gura duga'ar Gardur ==
+    SEE: Gawyn O'Clery
+  
   == wyn Morgan o Aberystwyth [registered] ==
     SEE: Brangwayna Morgan
   
@@ -55402,113 +55363,6 @@ Alpha List {
 
 ERROR LOG:
 
-Gabriella de Bas Serra - Alphabetical
-{
-  Adding unknown award "order of the Holly"
-}
-
-Gavin Kilkenny of Kilcarren - Alphabetical
-{
-  Adding unknown award "Sigillum Coronae"
-}
-
-Gawyn O'Clery - - Alphabetical
-{
-  Adding unknown award "- Award of Arms"
-}
-
-Genevra d'Angouleme - Alphabetical
-{
-  Adding unknown award "Baroness's Sliver Ring"
-  Adding unknown award "Conpanion of the Sable Compass"
-}
-
-Genja Thorsson Vikingsson - Alphabetical
-{
-  Unparsed line: ,
-}
-
-Geoffrey Fitz Galen - Alphabetical
-{
-  Adding unknown award "Hourglass"
-  Adding unknown award "Queen' Champion of Horse"
-}
-
-Gerhardt of Oakenwode - Alphabetical
-{
-  Bad date part: 0?
-}
-
-Gershom ibn Zabara - Alphabetical
-{
-  Adding unknown award "Harp Argent of Caid"
-  Adding unknown award "Dolphin of Caid"
-}
-
-Gianetta Lucia Allegretta - Alphabetical
-{
-  Unparsed line: ? Silvanus Doke (An Dubhaigeainn)
-}
-
-Gilliam Blackhorn - Alphabetical
-{
-  Adding unknown award "Silver Guard"
-}
-
-Godfroy de Falaise - Alphabetical
-{
-  Adding unknown award "Founding Baron of Havre des Glaces"
-}
-
-Godric of Hamtun - Alphabetical
-{
-  Unparsed line: Godrick White Wolf
-}
-
-Goulhran MacGowan - Alphabetical
-{
-  Adding unknown award "Rose des Glaces"
-}
-
-Griffin of Iron Bog - Alphabetical
-{
-  Adding unknown award "Iron Punk"
-}
-
-Griffith Davion - Alphabetical
-{
-  Adding unknown award "King's Rapier Champuion"
-}
-
-Grim the Skald - Alphabetical
-{
-  Adding unknown award "Feather"
-}
-
-Guthfrith Yrlingsson - Alphabetical
-{
-  Adding unknown award "Silver Helm"
-}
-
-Guy Lestrange - Alphabetical
-{
-  Adding unknown award "Tempest"
-  Adding unknown award "Krakken"
-  Adding unknown award "Shark's Tooth"
-  Adding unknown award "Sable Falcon"
-  Adding unknown award "Baronial Gallant"
-  Adding unknown award "Leaping Dolphin"
-  Adding unknown award "Tempest Tossed Traveller"
-  Adding unknown award "Gules"
-  Adding unknown award "Coronet's Appreciation"
-  Adding unknown award "Ginger Flower"
-  Adding unknown award "Sea Griffon"
-  Adding unknown award "Burdened Bouget"
-  Adding unknown award "Empty Shell"
-  Adding unknown award "Argent"
-  Adding unknown award "Ponte di Ferro"
-}
-
 Haldane Jensdottir de Baliol - Alphabetical
 {
   Adding unknown award "Sable Thistle"
@@ -55526,11 +55380,6 @@ Harkin Mactiernan - Alphabetical
 Harold von Auerbach - Alphabetical
 {
   Adding unknown award "Keeper of the Flames"
-}
-
-Hassan abdul Raschid al-Turki - Alphabetical
-{
-  Adding unknown award "Silvanus Doke"
 }
 
 Haus von Halsstern - Alphabetical
@@ -56422,10 +56271,6 @@ Alpha List
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx
-  Bad date part: 0?
-  Bad date part: 0?
-  Bad date part: 0?
-  Bad date part: 0?
   Bad date part: xx
   Bad date part: xx
   Bad date part: xxxx

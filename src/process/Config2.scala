@@ -166,7 +166,7 @@ object Config2 {
             )),
             
             Barony("Beyond the Mountain", synonyms = Seq("BBM"), awards = Seq(
-              "Holly",
+              Award("Holly", "Order of the Holly"),
               Award("Sun and Soil", "Sun & Soil"),
               Award("White Oak", "Defender of the White Oak")
             )),
@@ -199,7 +199,8 @@ object Config2 {
               "Sapphire",
               "Snow Hare",
               "Ram's Horn",
-              "Silver Snowflake"
+              "Silver Snowflake",
+              "Feather"
             )),
             
             Barony("Settmour Swamp", synonyms = Seq("Swamp"), awards = Seq(
@@ -227,12 +228,15 @@ object Config2 {
               "Millstone"
             )),
             
-            Barony("Bergental"),
+            Barony("Bergental", awards = Seq(
+              "Hourglass"
+            )),
             
             Barony("An Dubhaigeainn", awards = Seq(
               "Drake's Spur",
               "Roasted Duck",
-              "Silver Feather"
+              "Silver Feather",
+              "Silvanus Doke"
             )),
             
             Barony("Smoking Rocks", awards = Seq(
@@ -245,6 +249,7 @@ object Config2 {
             Barony("Iron Bog", awards = Seq(
               "Baroness's Silver Ring",
               "Duck",
+              "Iron Punk",
               Award("Sable Compass", "Sable Compuss"),
               "Sable Gauntlet",
               "Sable Martlet",
@@ -266,7 +271,7 @@ object Config2 {
                 Award("Order du Lys d'argent", "Ordre du Lys d'Argent"),
                 "Ordre du Meritum Martialis",
                 "Order de Mai",
-                "Ordre de la Rose des Glaces"
+                Award("Rose des Glaces", "Ordre de la Rose des Glaces")
               )),
             
               Barony("L'Ile du Dragon Dormant")            
@@ -304,7 +309,8 @@ object Config2 {
         ),
         
         Kingdom("Ansteorra", awards = Seq(
-          "Queen's Glove of Ansteorra"
+          "Queen's Glove of Ansteorra",
+          "Sable Falcon"
         )),
         
         Kingdom("An Tir", 
@@ -380,7 +386,9 @@ object Config2 {
             "Pearl",
             "Sea Stag",
             "Fountain",
-            "Opal"
+            "Opal",
+            "Krakken",
+            "Shark's Tooth"
           ),
           
           children = Seq(
@@ -406,12 +414,17 @@ object Config2 {
               "Windblown Leaf"
             )),
             
+            Barony("Ponto Alto", awards = Seq(
+              "Ponte di Ferro"
+            )),
+            
             Barony("Stierbach", awards = Seq(
               "St. Roche"
             )),
             
             Barony("Windmaster's Hill", awards = Seq(
-              "St Nicholas"
+              "St Nicholas",
+              "Tempest"
             ))
           )
         ),
@@ -419,7 +432,8 @@ object Config2 {
         Kingdom("Caid", 
           awards = Seq(
             "Corde de Guerre of Caid",
-            "Dolphin"
+            Award("Dolphin", "Dolphin of Caid"),
+            "Harp Argent of Caid"
           ),
         
           children = Seq(
@@ -462,7 +476,9 @@ object Config2 {
             "Lady of the Edelweiss",
             "Lindquistrings",
             "Prince's Companions of Albion",
-            "Panache"
+            "Panache",
+            "Sigillum Coronae",
+            "Silver Guard"
           )
         ),
         
@@ -477,7 +493,9 @@ object Config2 {
         
         Kingdom("Gleann Abhann"),
         
-        Kingdom("Lochac"),
+        Kingdom("Lochac", awards = Seq(
+          "Silver Helm"
+        )),
         
         Kingdom("Meridies"),
         
@@ -609,7 +627,16 @@ object Config2 {
             )),
             
             Barony("Far West", awards = Seq(
-              "Attic Helm"
+              "Attic Helm",
+              "Baronial Gallant",
+              "Leaping Dolphin",
+              "Tempest Tossed Traveller Gules",
+              "Tempest Tossed Traveller Argent",
+              "Coronet's Appreciation",
+              "Ginger Flower",
+              "Sea Griffon",
+              "Burdened Bouget",
+              "Empty Shell"
             )),
             
             Principality("Mists", awards = Seq(
