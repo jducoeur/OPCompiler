@@ -15969,7 +15969,6 @@ Alphabetical {
   Macken of Mordshoard {
   }
   MacSeamus o'Eamonn {
-    ERROR: Adding unknown award "Barnoness's Silver Ring"
   }
   Macsen Felinfoel {
   }
@@ -16000,7 +15999,6 @@ Alphabetical {
   Maegwyn the Profane {
   }
   Mael Eoin MacEochidh {
-    ERROR: Unparsed line: 12/03/012 Companion of the Silver Crescent
   }
   Maeldune von Drachenzahne {
   }
@@ -16027,7 +16025,6 @@ Alphabetical {
   Mafety Magas {
   }
   Magdalena del Acqs {
-    ERROR: Unparsed line: Frms
   }
   Magdalena Gdanska {
   }
@@ -16064,7 +16061,6 @@ Alphabetical {
   Magnus Morte {
   }
   Marcus Atheniou {
-    ERROR: Adding unknown award "Salmanders Tear"
   }
   Marcus of Bergental {
   }
@@ -16111,7 +16107,6 @@ Alphabetical {
   Mairéad of Dairbhre {
   }
   Mairghread Ghearr - aka Mairghread of Carillion {
-    ERROR: Unparsed line: 0121/2012 Companion of the Silver Crescent
   }
   Mairghread MacCuinnegain {
   }
@@ -16152,8 +16147,6 @@ Alphabetical {
   Maliusha Kralika Zhera {
   }
   Malkin Grey {
-    ERROR: Adding unknown award "Troubadors"
-    ERROR: Unparsed line: ??/??/?? Companion of the Salamander (Bhakail)
   }
   Malkyn of Glenhaven {
   }
@@ -16204,7 +16197,6 @@ Alphabetical {
   Marcus Atheniou {
   }
   Marcus Blackaert {
-    ERROR: Adding unknown award "Admiral of the Armines"
   }
   Marcus del Cancello Rosso (Marcus Redgate) {
   }
@@ -16223,7 +16215,6 @@ Alphabetical {
   Mared Caradwen ap Penllyn {
   }
   Marek O'Brien {
-    ERROR: Adding unknown award "Order Meriti Martialis"
   }
   Marelaine Caerlerist {
   }
@@ -16284,7 +16275,6 @@ Alphabetical {
   Marguerite de Fougère {
   }
   Marguerite ingen Lachlainn (aka Meggie inghean Lachlainn) {
-    ERROR: Adding unknown award "Queen's order of Distenction"
   }
   Marguerite de Saint Nazaire {
   }
@@ -16317,12 +16307,10 @@ Alphabetical {
   Maria von Truix {
   }
   Marian of Edwinstowe, called Old Marian {
-    ERROR: Unparsed line: (resigned)
   }
   Marian O'Liam {
   }
   Marion Quyn {
-    ERROR: Adding unknown award "Tourbadour"
   }
   Marian Rose {
   }
@@ -16371,7 +16359,6 @@ Alphabetical {
   Marion of Preston {
   }
   Marion of York {
-    ERROR: Unparsed line: Marion Quyn
   }
   Mariot de Berwic {
   }
@@ -16494,9 +16481,8 @@ Alphabetical {
   Mathilda von Lindenwald {
   }
   Mathilde Eschenbach {
-    ERROR: Unparsed line: see
   }
-  Mathurin Kerbouchard Ragi Bjarnylr "Ragi warm bear" {
+  Mathurin Kerbouchard {
   }
   Matilda of Carolingia {
   }
@@ -16691,10 +16677,8 @@ Alphabetical {
   Merewyn Harding {
   }
   Merewyn MacQuarrie {
-    ERROR: Unparsed line: (
-    ERROR: Unparsed line: )
   }
-  Mergriet van Wijenhorst was:de la Voye {
+  Mergriet van Wijenhorst {
   }
   Meriadoc Annoeth of the Towers Fells {
   }
@@ -16713,15 +16697,10 @@ Alphabetical {
   Metal Smiths' Guild {
   }
   Meuris of Antioch {
-    ERROR: Unparsed line: rh
   }
-  Mevanou Arianod {
+  Mevanou Arianrhod {
   }
   Mhairi Brewbane {
-    ERROR: Unparsed line: 11
-    ERROR: Unparsed line: /2010 Award of Arms
-  }
-  /13 {
   }
   Mhairi nic Coll {
   }
@@ -16776,7 +16755,6 @@ Alphabetical {
   Michaela of Clann O'Choda {
   }
   Michaela ní Duibhne Uí Bhardáin {
-    ERROR: Adding unknown award "Meridian Cross"
   }
   Michaela Hrelgarsdottir {
   }
@@ -16799,9 +16777,6 @@ Alphabetical {
   Micheal von Lubeck {
   }
   Micheil, Younger of An Alltan {
-    ERROR: Adding unknown award "Companion"
-    ERROR: Adding unknown award "Oerthan Grace"
-    ERROR: Adding unknown award "Companion Estoile"
   }
   Michel l'Espiegle {
   }
@@ -17030,7 +17005,6 @@ Alphabetical {
   Morgoth the Suicidal {
   }
   Mori Matsunomae {
-    ERROR: Adding unknown award "Silver Crocus"
   }
   Mori Nagahide {
   }
@@ -17129,7 +17103,6 @@ Alphabetical {
   Myndroh Hibernius {
   }
   Myrddin o'r Afon {
-    ERROR: Unparsed line: 12.08/1990 Companion of the White Oak (BBM)
   }
   Myrddin ap Elspeth {
   }
@@ -20954,9 +20927,6 @@ Alpha List {
   
   == (Baroness) Moira ==
     05/04/2002  C  Queen's Honor of Distinction -- (Baroness) Moira
-  
-  == /13 ==
-    08/06/2011 A   Troubadour -- /13
   
   == 02/14/2009 Companion of the Burdened Tyger ==
   
@@ -42581,7 +42551,7 @@ Alpha List {
   == MacSeamus o'Eamonn ==
     08/19/1993 A   Award of Arms -- MacSeamus o'Eamonn
     08/13/2006 A   Sable Martlet (Iron Bog) -- MacSeamus o'Eamonn
-    08/07/2011 A   Barnoness's Silver Ring (Unknown Branch) -- MacSeamus o'Eamonn [from Iron Bog]
+    08/07/2011 A   Baroness's Silver Ring (Iron Bog) -- MacSeamus o'Eamonn
     09/07/2011 A   Sable Martlet (Iron Bog) -- MacSeamus o'Eamonn
   
   == Macha MacArthur ==
@@ -42666,6 +42636,7 @@ Alpha List {
     08/04/2008 A   Seadog (Ostgardr) -- Mael Eoin MacEochidh
     09/25/2010 A   King's Esteem of Merit -- Mael Eoin MacEochidh
     09/08/2011 A   Horse (Bhakail) -- Mael Eoin MacEochidh
+    12/03/2012 A   Silver Crescent -- Mael Eoin MacEochidh
   
   == Mael Eoin mac Echuid ==
     09/25/2010  C  King's Esteem of Merit -- Mael Eoin mac Echuid
@@ -42899,6 +42870,7 @@ Alpha List {
     ??/??/-1 A   Horse's Head (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
     05/09/2009 A   Award of Arms -- Mairghread Ghearr - aka Mairghread of Carillion
     08/??/2009 A   Sable Bell (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
+    01/21/2012 A   Silver Crescent -- Mairghread Ghearr - aka Mairghread of Carillion
     04/21/2012 A   Light of Carillion (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
   
   == Mairghread MacCuinnegain ==
@@ -42988,8 +42960,9 @@ Alpha List {
     03/22/2003 AC  Award of Arms -- Maliusha Kralika Zhera
   
   == Malkin Grey [registered] ==
+    ??/??/-1 A   Salamander (Bhakail) -- Malkin Grey
     04/01/1978 A   Award of Arms -- Malkin Grey
-    01/05/1980 A   Troubadors (Unknown Branch) -- Malkin Grey
+    01/05/1980 A   Troubadors -- Malkin Grey
     10/09/1982 A   Golden Dolphin (Atlantia) -- Malkin Grey
     01/08/1983 A   Pearl (Atlantia) -- Malkin Grey
     12/03/1983 A   Grant of Arms -- Malkin Grey
@@ -43109,7 +43082,7 @@ Alpha List {
     AKA: Corwyn of Gleann nam Feorag Dhuibhe
     10/09/2004 A   Award of Arms -- Marcus Atheniou
     12/15/2007 A   Horse (Bhakail) -- Marcus Atheniou
-    02/11/2012 A   Salmanders Tear (Unknown Branch) -- Marcus Atheniou [from Bhakail]
+    02/11/2012 A   Salamander's Tear (Bhakail) -- Marcus Atheniou
   
   == Marcus Blackaert [registered] ==
     10/28/2000 A   Award of Arms -- Marcus Blackaert
@@ -43117,7 +43090,7 @@ Alpha List {
     01/29/2011 AC  Tygers Combattant -- Marcus Blackaert
     04/02/2011 A   Queen's Cypher -- Marcus Blackaert [Aikaterine II]
     10/08/2011  C  (Outgoing Queen's Queen's Champion of Arms (Unknown Branch) -- Marcus Blackaert)
-    05/05/2012 A   Admiral of the Armines (Unknown Branch) -- Marcus Blackaert
+    05/05/2012 A   Admiral of the Armies -- Marcus Blackaert
     07/14/2012 A L Chivalry -- Marcus Blackaert
   
   == Marcus Blackeart ==
@@ -43204,7 +43177,7 @@ Alpha List {
     ??/??/2005 A   Chiffre du Baron (Havre des Glaces) -- Marek O'Brien
     11/26/2005 AC  Award of Arms -- Marek O'Brien
     07/14/2007 AC  Tygers Combattant -- Marek O'Brien
-    ??/??/2008 A   Order Meriti Martialis (Unknown Branch) -- Marek O'Brien [from Havre des Glaces]
+    ??/??/2008 A   Order Meriti Martialis (Havre des Glaces) -- Marek O'Brien
   
   == Marelaine Caerlerist ==
     02/09/1985 A   Sable Bell (Carillion) -- Marelaine Caerlerist
@@ -43370,7 +43343,7 @@ Alpha List {
     10/31/2009  C  Princess -- Meggie inghean Lachlainn
   
   == Marguerite ingen Lachlainn (aka Meggie inghean Lachlainn) ==
-    08/17/2001 A   Queen's order of Distenction (Unknown Branch) -- Marguerite ingen Lachlainn (aka Meggie inghean Lachlainn) [Olivia]
+    08/17/2001 A   Queen's Honor of Distinction -- Marguerite ingen Lachlainn (aka Meggie inghean Lachlainn) [Olivia]
     10/27/2001 A   Award of Arms -- Marguerite ingen Lachlainn (aka Meggie inghean Lachlainn)
     07/14/2007 A   Queen's Courtesy -- Marguerite ingen Lachlainn (aka Meggie inghean Lachlainn)
     09/29/2007 A   Queen's Cypher -- Marguerite ingen Lachlainn (aka Meggie inghean Lachlainn) [Aikaterine]
@@ -43610,10 +43583,9 @@ Alpha List {
   
   
   == Marion Quyn ==
-    01/07/2012 A   Tourbadour (Unknown Branch) -- Marion Quyn
-    01/07/2012  C  Troubadour -- Marion Quyn
     01/07/2012  C  Queen's Bardic Champion -- Marion Quyn [In Coming]
     01/07/2012 AC  Award of Arms -- Marion Quyn
+    01/07/2012 AC  Troubadour -- Marion Quyn
   
   == Marion del Okes [registered] ==
     AKA: Marion of Oaken Glen
@@ -43653,7 +43625,6 @@ Alpha List {
     10/31/1998 A   Seadog (Ostgardr) -- Marion of York
     04/12/2008 AC  Queen's Courtesy -- Marion of York
     09/11/2010 AC  Grant of Arms -- Marion of York
-    01/07/2011 A   Award of Arms -- Marion of York
   
   == Marion of the Oaken Glen ==
     09/11/2004  C  Queen's Courtesy -- Marion of the Oaken Glen
@@ -43940,10 +43911,7 @@ Alpha List {
     05/15/2004  C  Manche -- Mathilde of Nordskogen
   
   == Mathurin Kerbouchard ==
-    01/15/2000  C  Award of Arms -- Mathurin Kerbouchard
-  
-  == Mathurin Kerbouchard Ragi Bjarnylr "Ragi warm bear" ==
-  
+    SEE: Ragi Bjarnylr "Ragi warm bear"
   
   == Matilda of Carolingia ==
     02/03/2001 AC  Award of Arms -- Matilda of Carolingia
@@ -44453,12 +44421,10 @@ Alpha List {
     11/27/2004  C  Manche -- Mergriet de la Voye
   
   == Mergriet van Wijenhorst ==
-    09/27/2008  C  Burdened Tyger -- Mergriet van Wijenhorst
-  
-  == Mergriet van Wijenhorst was:de la Voye ==
-    11/30/2002 A   Award of Arms -- Mergriet van Wijenhorst was:de la Voye
-    11/27/2004 A   Manche -- Mergriet van Wijenhorst was:de la Voye
-    09/27/2008 A   Burdened Tyger -- Mergriet van Wijenhorst was:de la Voye
+    AKA: de la Voye
+    11/30/2002 A   Award of Arms -- Mergriet van Wijenhorst
+    11/27/2004 A   Manche -- Mergriet van Wijenhorst
+    09/27/2008 AC  Burdened Tyger -- Mergriet van Wijenhorst
   
   == Meriadoc Annoeth of the Towers Fells [registered] ==
     02/17/1990 A   Award of Arms -- Meriadoc Annoeth of the Towers Fells
@@ -44517,15 +44483,12 @@ Alpha List {
   == Meuris of Antioch [registered] ==
     08/??/1996 A   Award of Arms -- Meuris of Antioch
   
-  == Mevanou Arianod ==
-    12/11/2004 A   Award of Arms -- Mevanou Arianod
-  
   == Mevanou Arianrhod ==
-    12/11/2004  C  Award of Arms -- Mevanou Arianrhod
+    12/11/2004 AC  Award of Arms -- Mevanou Arianrhod
   
   == Mhairi Brewbane ==
-    11/13/2010  C  Award of Arms -- Mhairi Brewbane
-    08/06/2011  C  Troubadour -- Mhairi Brewbane
+    11/13/2010 AC  Award of Arms -- Mhairi Brewbane
+    08/06/2011 AC  Troubadour -- Mhairi Brewbane
   
   == Mhairi nic Coll ==
     01/16/1999 A   Award of Arms -- Mhairi nic Coll
@@ -44649,7 +44612,7 @@ Alpha List {
   
   == Michaela ní Duibhne Uí Bhardáin [registered] ==
     09/13/1986 A   Award of Arms -- Michaela ní Duibhne Uí Bhardáin [from Meridies]
-    10/22/1988 A   Meridian Cross (Unknown Branch) -- Michaela ní Duibhne Uí Bhardáin [from Meridies]
+    10/22/1988 A   Meridian Cross (Meridies) -- Michaela ní Duibhne Uí Bhardáin
   
   == Michaela of Clann O'Choda ==
     06/21/2003 AC  Award of Arms -- Michaela of Clann O'Choda
@@ -44707,11 +44670,10 @@ Alpha List {
     03/26/2011 AC  Award of Arms -- Micheal von Lubeck
   
   == Micheil, Younger of An Alltan [registered] ==
-    12/27/1980 A   Companion Estoile (Unknown Branch) -- Micheil, Younger of An Alltan [from West]
+    12/27/1980 A   Estoile (Winter's Gate) -- Micheil, Younger of An Alltan [from West]
     05/30/1981 A   Leaf of Merit (West) -- Micheil, Younger of An Alltan
     09/13/1981 A   Award of Arms -- Micheil, Younger of An Alltan [from West]
-    01/24/1982 A   Oerthan Grace (Unknown Branch) -- Micheil, Younger of An Alltan
-    01/24/1982 A   Companion (Unknown Branch) -- Micheil, Younger of An Alltan
+    01/24/1982 A   Oerthan Grace (Oertha) -- Micheil, Younger of An Alltan
   
   == Michel Almond de Champagne ==
     04/06/2002  C  Court Baroness -- Michel Almond de Champagne
@@ -45297,7 +45259,7 @@ Alpha List {
   
   == Mori Matsunomae ==
     11/05/2005 A   Award of Arms -- Mori Matsunomae
-    02/18/2006 A   Silver Crocus (Unknown Branch) -- Mori Matsunomae [from Black Diamond]
+    02/18/2006 A   Silver Crocus (Black Diamond) -- Mori Matsunomae
     02/18/2006 A   Opal (Atlantia) -- Mori Matsunomae
     08/18/2006 A   Silver Chalice (Black Diamond) -- Mori Matsunomae
   
@@ -45565,6 +45527,7 @@ Alpha List {
   
   == Myrddin o'r Afon [registered] ==
     07/23/1989 A   Award of Arms -- Myrddin o'r Afon
+    12/08/1990 A   White Oak (Beyond the Mountain) -- Myrddin o'r Afon
     10/05/1996 A   Queen's Courtesy -- Myrddin o'r Afon
     09/27/1997 A   King's Cypher -- Myrddin o'r Afon [Hanse]
     01/23/1999 A   Silver Crescent -- Myrddin o'r Afon
@@ -47437,7 +47400,7 @@ Alpha List {
   == Rachel Kathleen Cundiff [registered] ==
     02/02/1985 A   Trident Keype (Unknown Branch) -- Rachel Kathleen Cundiff [Darkwater, Trimaris]
     02/02/1985 A   Award of Arms -- Rachel Kathleen Cundiff [from Meridies]
-    02/02/1985 A   Meridian Cross (Unknown Branch) -- Rachel Kathleen Cundiff
+    02/02/1985 A   Meridian Cross (Meridies) -- Rachel Kathleen Cundiff
     09/12/1987 A   Argent Palm (Trimaris) -- Rachel Kathleen Cundiff
     05/12/1990 A   Acorn's Glade (Unknown Branch) -- Rachel Kathleen Cundiff [Darkwater, Trimaris]
     03/09/1991 A   Mistress of the Laurel -- Rachel Kathleen Cundiff [from Trimaris]
@@ -47568,7 +47531,8 @@ Alpha List {
     10/08/2011  C  Silver Crescent -- Raghnil of Sawley
   
   == Ragi Bjarnylr "Ragi warm bear" ==
-    01/15/2000 A   Award of Arms -- Ragi Bjarnylr "Ragi warm bear"
+    AKA: Mathurin Kerbouchard
+    01/15/2000 AC  Award of Arms -- Mathurin Kerbouchard
   
   == Ragnar Arason of Vinland [registered] ==
     08/16/1990 A   Award of Arms -- Ragnar Arason of Vinland
@@ -50355,9 +50319,9 @@ Alpha List {
     09/23/2006 A   Opal (Atlantia) -- Shannon inghean Bhriain uí Dhuilleáin
     08/07/2007 A   Baronial award of Excellence (Bright Hills) -- Shannon inghean Bhriain uí Dhuilleáin [from Lochmere]
     08/07/2007 A   Eagle's Feather (Lochmere) -- Shannon inghean Bhriain uí Dhuilleáin
-    01/19/2008 A   Princess's Riband (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Oertha, West]
+    01/19/2008 A   Princess's Riband (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [from Oertha]
     06/28/2008 A   Silver Bough (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Eskalya, West]
-    09/21/2008 A   Wandering Wolves of Oertha (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Oertha, West]
+    09/21/2008 A   Wandering Wolves of Oertha (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [from Oertha]
   
   == Shannon nic Angus ==
     05/05/2012 A   Tygers Cub -- Shannon nic Angus
@@ -55131,6 +55095,9 @@ Alpha List {
   == called Althea de Grimm ==
     SEE: Violeante de Rojas
   
+  == de la Voye ==
+    SEE: Mergriet van Wijenhorst
+  
   == du Vrai Coeur ==
     SEE: Erec le Clair
   
@@ -55293,111 +55260,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-MacSeamus o'Eamonn - Alphabetical
-{
-  Adding unknown award "Barnoness's Silver Ring"
-}
-
-Mael Eoin MacEochidh - Alphabetical
-{
-  Unparsed line: 12/03/012 Companion of the Silver Crescent
-}
-
-Magdalena del Acqs - Alphabetical
-{
-  Unparsed line: Frms
-}
-
-Marcus Atheniou - Alphabetical
-{
-  Adding unknown award "Salmanders Tear"
-}
-
-Mairghread Ghearr - aka Mairghread of Carillion - Alphabetical
-{
-  Unparsed line: 0121/2012 Companion of the Silver Crescent
-}
-
-Malkin Grey - Alphabetical
-{
-  Adding unknown award "Troubadors"
-  Unparsed line: ??/??/?? Companion of the Salamander (Bhakail)
-}
-
-Marcus Blackaert - Alphabetical
-{
-  Adding unknown award "Admiral of the Armines"
-}
-
-Marek O'Brien - Alphabetical
-{
-  Adding unknown award "Order Meriti Martialis"
-}
-
-Marguerite ingen Lachlainn (aka Meggie inghean Lachlainn) - Alphabetical
-{
-  Adding unknown award "Queen's order of Distenction"
-}
-
-Marian of Edwinstowe, called Old Marian - Alphabetical
-{
-  Unparsed line: (resigned)
-}
-
-Marion Quyn - Alphabetical
-{
-  Adding unknown award "Tourbadour"
-}
-
-Marion of York - Alphabetical
-{
-  Unparsed line: Marion Quyn
-}
-
-Mathilde Eschenbach - Alphabetical
-{
-  Unparsed line: see
-}
-
-Merewyn MacQuarrie - Alphabetical
-{
-  Unparsed line: (
-  Unparsed line: )
-}
-
-Meuris of Antioch - Alphabetical
-{
-  Unparsed line: rh
-}
-
-Mhairi Brewbane - Alphabetical
-{
-  Unparsed line: 11
-  Unparsed line: /2010 Award of Arms
-}
-
-Michaela ní Duibhne Uí Bhardáin - Alphabetical
-{
-  Adding unknown award "Meridian Cross"
-}
-
-Micheil, Younger of An Alltan - Alphabetical
-{
-  Adding unknown award "Companion"
-  Adding unknown award "Oerthan Grace"
-  Adding unknown award "Companion Estoile"
-}
-
-Mori Matsunomae - Alphabetical
-{
-  Adding unknown award "Silver Crocus"
-}
-
-Myrddin o'r Afon - Alphabetical
-{
-  Unparsed line: 12.08/1990 Companion of the White Oak (BBM)
-}
 
 Nick of Endewearde - Alphabetical
 {

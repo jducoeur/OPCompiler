@@ -123,7 +123,7 @@ object Config2 {
             Award("King's Order of Excellence", "King's Excellence"),
             Award("Silver Rapier"),
             Award("Terpsichore", "Trepsichore"),
-            Award("Troubadour", "Troubadours"),
+            Award("Troubadour", "Troubadours", "Troubadors"),
             Award("Tygers Cub", "Tyger Cub"),
             
             // Orders of High Merit
@@ -274,7 +274,7 @@ object Config2 {
                 Award("Ordre du Pèlerin", "Ordre du Pelerin"),
                 "Chiffre du Baron",
                 Award("Order du Lys d'argent", "Ordre du Lys d'Argent"),
-                Award("Ordre du Meritum Martialis", "Ordo Meriti Martialis"),
+                Award("Ordre du Meritum Martialis", "Ordo Meriti Martialis", "Order Meriti Martialis"),
                 Award("Ordre de Mai", "Order de Mai"),
                 Award("Rose des Glaces", "Ordre de la Rose des Glaces")
               )),
@@ -422,7 +422,8 @@ object Config2 {
           children = Seq(
             Barony("Black Diamond", awards = Seq(
               "Polished Mirror",
-              "Silver Chalice"
+              "Silver Chalice",
+              "Silver Crocus"
             )),
             
             Barony("Bordermarch", awards = Seq(
@@ -553,7 +554,9 @@ object Config2 {
           "Silver Helm"
         )),
         
-        Kingdom("Meridies"),
+        Kingdom("Meridies", awards = Seq(
+          "Meridian Cross"
+        )),
         
         Kingdom("Middle",
           awards = Seq(
@@ -715,7 +718,19 @@ object Config2 {
               "Corolla Nebularum",
               "Princess's Grace",
               "Rose Leaf"
-            ))
+            )),
+            
+            Principality("Oertha", 
+              awards = Seq(
+                Award("Oerthan Order of Grace", "Oerthan Grace")
+              ),
+              
+              children = Seq(
+                Barony("Winter's Gate", awards = Seq(
+                  Award("Estoille", "Estoile")
+                ))
+              )
+            )
           )
         )
     ))
