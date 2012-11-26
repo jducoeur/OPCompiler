@@ -14697,7 +14697,6 @@ Alphabetical {
   John of Ruantallan {
   }
   John the Bear {
-    ERROR: Adding unknown award "Silver Bell"
   }
   John Bor Ox {
   }
@@ -15488,7 +15487,6 @@ Alphabetical {
   Kyttle the Lazy {
   }
   Prec_l.xhtml {
-    ERROR: Unparsed line: *
   }
   Labhruinn MacMhicheil {
   }
@@ -15545,10 +15543,6 @@ Alphabetical {
   Laura Serafina {
   }
   Laure Aleire de Laon {
-    ERROR: Adding unknown award "Desert Flower"
-    ERROR: Adding unknown award "Argent Hart"
-    ERROR: Adding unknown award "Popular Company of Sojourners"
-    ERROR: Adding unknown award "Dragon's Blood"
   }
   Laurel of Devon {
   }
@@ -15591,8 +15585,6 @@ Alphabetical {
   Leah Anne of Belmont {
   }
   Leah di Estera {
-    ERROR: Unparsed line: 07/19/1986
-    ERROR: Unparsed line: Companion of the White Oakl (BBM)
   }
   Leah Hundemann {
   }
@@ -15625,7 +15617,8 @@ Alphabetical {
   Lena of the Lock {
   }
   Lena Solway {
-    ERROR: Unparsed line: Leo Finnason
+  }
+  Leo Finnason {
   }
   Leo Winthrop of the Torn Surcoat {
   }
@@ -15642,8 +15635,6 @@ Alphabetical {
   Leofwin Collinson {
   }
   Leon the Navigator {
-    ERROR: Adding unknown award "Sun"
-    ERROR: Adding unknown award "Siol"
   }
   Leonard One Leg {
   }
@@ -15678,12 +15669,8 @@ Alphabetical {
   Leya sher Kimmer {
   }
   Leyli of Carolignia {
-    ERROR: Unparsed line: Companion of the White Oak (BBM)
   }
-  Lhubrinn {
-    ERROR: Unparsed line: Companion of the White Oak (BBM)
-  }
-  hikeal {
+  Lhubrinn MacMhikeal {
   }
   Li Kung Lo {
   }
@@ -15784,10 +15771,8 @@ Alphabetical {
   Llewelyn ap Goddodin {
   }
   Llewellyn ab Olwyn {
-    ERROR: Adding unknown award "Tygers Combantant"
   }
   Llewyllen ap Rhys {
-    ERROR: Adding unknown award "Silver Sea-Lion - Premiere Recipient -"
   }
   Llywelyn Chwith {
   }
@@ -15818,8 +15803,6 @@ Alphabetical {
   Lorenzo Dragone della Grotta {
   }
   Lorenzo il Confuso {
-    ERROR: Adding unknown award "Yew Bow"
-    ERROR: Adding unknown award "Mountain Hawk"
   }
   Lorenzo Gorla {
   }
@@ -15870,12 +15853,10 @@ Alphabetical {
   Luc de Montnoir {
   }
   Lucan von Drachenklaue {
-    ERROR: Adding unknown award "Queen's Award of Courtesy"
   }
   Lucas Blackbowe {
   }
   Lucas Beekaert {
-    ERROR: Adding unknown award "Dilver Cattail"
   }
   Lucas von Dhum {
   }
@@ -15900,13 +15881,6 @@ Alphabetical {
   Lucinda de la Tambor {
   }
   Lucius Aurelius Varus {
-    ERROR: Adding unknown award "Thorbjorn's Hammer"
-    ERROR: Adding unknown award "Wolf's Tooth"
-    ERROR: Adding unknown award "Ord of the Peregrine"
-    ERROR: Adding unknown award "Chalice's Crystal"
-    ERROR: Adding unknown award "Golden Chalice"
-    ERROR: Adding unknown award "Warriors of the Chalice"
-    ERROR: Adding unknown award "OPC"
   }
   Lucius Cassius Pilumnus Scipio {
   }
@@ -15919,7 +15893,6 @@ Alphabetical {
   Lucrezia Malatesta {
   }
   Ludwig von Eisenburg {
-    ERROR: Adding unknown award "Ordre de Mai"
   }
   Luetfried Ansbach {
   }
@@ -15976,7 +15949,6 @@ Alphabetical {
   Lysandra of Morgandy Hill {
   }
   Lysel Von Heidelberg {
-    ERROR: Adding unknown award "Copanion of the Chime"
   }
   Lysken die Waeyer {
   }
@@ -18192,6 +18164,7 @@ Alphabetical {
   Richard Magnusson {
   }
   Richard the Poor of Ely {
+    ERROR: Adding unknown award "Sun"
     ERROR: Adding unknown award "Sail"
   }
   Richard of Ravensglenn, the Juggler {
@@ -39136,7 +39109,6 @@ Alpha List {
     02/23/2002 A   Seahorse (Ostgardr) -- John the Bear
     12/21/2002 AC  Queen's Honor of Distinction -- John the Bear [Isabella II]
     04/12/2008 AC  Grant of Arms -- John the Bear
-    11/12/2011 A   Silver Bell (Unknown Branch) -- John the Bear
     11/12/2011 AC  Silver Crescent -- John the Bear
   
   == John the Pell ==
@@ -41301,7 +41273,7 @@ Alpha List {
   == Kyttle the Lazy ==
     04/02/2005 A   Award of Arms -- Kyttle the Lazy
   
-  == Labhruinn MacMhicheil ==
+  == Labhruinn MacMhicheil [registered] ==
     06/03/2006 AC  Silver Crescent -- Labhruinn MacMhicheil
   
   == Lachlan Mac an Toisich of Benchar [registered] ==
@@ -41470,11 +41442,11 @@ Alpha List {
     09/28/1991 A   Award of Arms -- Laura of the Haven
   
   == Laure Aleire de Laon [registered] ==
-    04/17/1999 A   Popular Company of Sojourners (Unknown Branch) -- Laure Aleire de Laon [from Drachenwald]
+    04/17/1999 A   Popular Company of Sojourners (Drachenwald) -- Laure Aleire de Laon
     08/22/1999 A   Award of Arms -- Laure Aleire de Laon [from Drachenwald]
-    10/07/2000 A   Dragon's Blood (Unknown Branch) -- Laure Aleire de Laon [from Dragonsspine]
-    10/07/2000 A   Argent Hart (Unknown Branch) -- Laure Aleire de Laon [from Outlands]
-    06/30/2001 A   Desert Flower (Unknown Branch) -- Laure Aleire de Laon [from Outlands]
+    10/07/2000 A   Dragon's Blood (Dragonsspine) -- Laure Aleire de Laon
+    10/07/2000 A   Argent Hart (Outlands) -- Laure Aleire de Laon
+    06/30/2001 A   Desert Flower (Atenveldt) -- Laure Aleire de Laon [from Outlands]
     06/30/2001 A   Grant of Arms -- Laure Aleire de Laon [from Outlands]
     03/23/2002 A   Queen's Cypher -- Laure Aleire de Laon [Cainnleach, Outlands]
     08/03/2003 A   Court Baroness -- Laure Aleire de Laon [from Outlands]
@@ -41587,6 +41559,7 @@ Alpha List {
     09/29/2007  C  Award of Arms -- Leah Hunndemann
   
   == Leah di Estera ==
+    07/19/1986 A   White Oak (Beyond the Mountain) -- Leah di Estera
     10/12/1996   L Laurel -- Leah di Estera
   
   == Leandra Plumieg [registered] ==
@@ -41645,10 +41618,12 @@ Alpha List {
   
   == Lena Solway [registered] ==
     03/05/1994 A   Award of Arms -- Lena Solway
-    10/08/2012 A   Tygers Cub -- Lena Solway
   
   == Lena of the Lock ==
     07/10/2010 AC  Award of Arms -- Lena of the Lock
+  
+  == Leo Finnason ==
+    10/08/2012 A   Tygers Cub -- Leo Finnason
   
   == Leo Winthrop of the Torn Surcoat [registered] ==
     06/03/2006 A   White Oak (Beyond the Mountain) -- Leo Winthrop of the Torn Surcoat
@@ -41684,8 +41659,7 @@ Alpha List {
   == Leon the Navigator ==
     02/12/2000 AC  Award of Arms -- Leon the Navigator
     08/11/2010 AC  Silver Crescent -- Leon the Navigator
-    08/27/2011 A   Siol (Unknown Branch) -- Leon the Navigator [from Beyond the Mountain]
-    08/27/2011 A   Sun (Unknown Branch) -- Leon the Navigator [from Beyond the Mountain]
+    08/27/2011 A   Sun and Soil (Beyond the Mountain) -- Leon the Navigator
   
   == Leonard One Leg ==
     09/30/2006 AC  Award of Arms -- Leonard One Leg
@@ -41756,8 +41730,9 @@ Alpha List {
   == Leyli of Carolignia ==
     05/12/2012 A   Award of Arms -- Leyli of Carolignia
   
-  == Lhubrinn ==
-  
+  == Lhubrinn MacMhikeal ==
+    ??/??/-1 A   White Oak (Beyond the Mountain) -- Lhubrinn MacMhikeal
+    04/05/1997 A   Award of Arms -- Lhubrinn MacMhikeal
   
   == Li Kung Lo [registered] ==
     12/13/1986 A   Award of Arms -- Li Kung Lo
@@ -42031,7 +42006,7 @@ Alpha List {
   
   == Llewellyn ab Olwyn ==
     10/09/2010  C  Prince's Champion of Rattan -- Llewellyn ab Olwyn
-    11/26/2011 A   Tygers Combantant (Unknown Branch) -- Llewellyn ab Olwyn
+    11/26/2011 A   Tygers Combatant -- Llewellyn ab Olwyn
   
   == Llewellyn of Lyndhaven ==
     05/17/2003 AC  Award of Arms -- Llewellyn of Lyndhaven
@@ -42046,7 +42021,7 @@ Alpha List {
   
   == Llewyllen ap Rhys ==
     07/23/2005 AC  Award of Arms -- Llewyllen ap Rhys
-    12/03/2011 A   Silver Sea-Lion - Premiere Recipient - (Unknown Branch) -- Llewyllen ap Rhys [from Ostgardr]
+    12/03/2011 A   Silver Sea-Lion (Ostgardr) -- Llewyllen ap Rhys [Ostgardr - Premiere Recipient]
   
   == Llywelyn Chwith [registered] ==
     05/31/1997 A   Award of Arms -- Llywelyn Chwith
@@ -42121,10 +42096,10 @@ Alpha List {
     12/13/1997 A   Award of Arms -- Lorenzo della Rocca
   
   == Lorenzo il Confuso [registered] ==
-    06/21/1997 A   Yew Bow (Unknown Branch) -- Lorenzo il Confuso [from Atlantia]
+    06/21/1997 A   Yew Bow (Atlantia) -- Lorenzo il Confuso
     06/21/1997 A   Award of Arms -- Lorenzo il Confuso [from Atlantia]
     03/20/1999 A   Sea Stag (Atlantia) -- Lorenzo il Confuso
-    08/19/1999 A   Mountain Hawk (Unknown Branch) -- Lorenzo il Confuso [Highland Foorde, Atlantia]
+    08/19/1999 A   Mountain Hawk (Highland Foorde) -- Lorenzo il Confuso
     06/03/2000  C  Queen's Archery Champion -- Lorenzo il Confuso
     09/30/2000 A   Sagittarius -- Lorenzo il Confuso
   
@@ -42218,7 +42193,7 @@ Alpha List {
     04/03/1993 A L Count -- Lucan von Drachenklaue
     10/01/1994 A L Duke -- Lucan von Drachenklaue
     03/04/1995 A   King's Excellence -- Lucan von Drachenklaue
-    05/27/1995 A   Queen's Award of Courtesy (Unknown Branch) -- Lucan von Drachenklaue [from Atlantia]
+    05/27/1995 A   Queen's Award of Courtesy (Atlantia) -- Lucan von Drachenklaue
     12/02/1995 A   Pillar (Bridge) -- Lucan von Drachenklaue
     09/27/1997 A   King's Cypher -- Lucan von Drachenklaue [Hanse]
     04/04/1998 A   Queen's Cypher -- Lucan von Drachenklaue [Caitlin]
@@ -42248,7 +42223,7 @@ Alpha List {
     10/13/2012 A   King's Cypher -- Lucan von Drachenklaue [Kenrick]
   
   == Lucas Beekaert ==
-    09/29/2012 A   Dilver Cattail (Unknown Branch) -- Lucas Beekaert [from Iron Bog]
+    09/29/2012 A   Silver Cattail (Iron Bog) -- Lucas Beekaert
   
   == Lucas Blackbowe ==
     04/01/2000 AC  Award of Arms -- Lucas Blackbowe
@@ -42329,17 +42304,17 @@ Alpha List {
   == Lucius Aurelius Varus ==
     01/11/1986 A   Award of Arms -- Lucius Aurelius Varus [from Middle]
     11/28/1987 A   Purple Fret (Middle) -- Lucius Aurelius Varus
-    11/25/1989 A   Chalice's Crystal (Unknown Branch) -- Lucius Aurelius Varus
-    01/05/1991 A   Golden Chalice (Unknown Branch) -- Lucius Aurelius Varus
-    01/23/1993 A   Warriors of the Chalice (Unknown Branch) -- Lucius Aurelius Varus
-    08/15/1995 A   Wolf's Tooth (Unknown Branch) -- Lucius Aurelius Varus [Princip. of Ealdormere]
-    08/14/1996 A   Wolf's Tooth (Unknown Branch) -- Lucius Aurelius Varus [Princip. of Ealdormere]
+    11/25/1989 A   Chalice's Crystal (Rising Waters) -- Lucius Aurelius Varus
+    01/05/1991 A   Golden Chalice (Rising Waters) -- Lucius Aurelius Varus
+    01/23/1993 A   Warriors of the Chalice (Rising Waters) -- Lucius Aurelius Varus
+    08/15/1995 A   Wolf's Tooth (Ealdormere) -- Lucius Aurelius Varus [Princip. of Ealdormere]
+    08/14/1996 A   Wolf's Tooth (Ealdormere) -- Lucius Aurelius Varus [Princip. of Ealdormere]
     08/17/1996 A   Red Company (Middle) -- Lucius Aurelius Varus
-    06/29/1997 A   Ord of the Peregrine (Unknown Branch) -- Lucius Aurelius Varus [Princip. of Ealdormere]
+    06/29/1997 A   Peregrine (Ealdormere) -- Lucius Aurelius Varus [Princip. of Ealdormere]
     08/14/1997 A   Dragon's Tooth (Middle) -- Lucius Aurelius Varus
-    05/30/1998 A   OPC (Unknown Branch) -- Lucius Aurelius Varus
+    05/30/1998 A   OPC (Rising Waters) -- Lucius Aurelius Varus
     08/19/1999 A   Grant of Arms -- Lucius Aurelius Varus [from Ealdormere]
-    08/19/1999 A   Thorbjorn's Hammer (Unknown Branch) -- Lucius Aurelius Varus [from Ealdormere]
+    08/19/1999 A   Thorbjorn's Hammer (Ealdormere) -- Lucius Aurelius Varus
     11/03/2001 AC  Tygers Combattant -- Lucius Aurelius Varus
     01/29/2005 A   Knight -- Lucius Aurelius Varus
     01/29/2005  CL Chivalry -- Lucius Aurelius Varus [Knight]
@@ -42378,7 +42353,7 @@ Alpha List {
     05/08/1999 A   Award of Arms -- Ludwig von Eisenburg
     ??/??/2001 A   Chiffre du Baron (Havre des Glaces) -- Ludwig von Eisenburg
     02/09/2002 A   Manche -- Ludwig von Eisenburg
-    10/26/2002 A   Ordre de Mai (Unknown Branch) -- Ludwig von Eisenburg [from Havre des Glaces]
+    10/26/2002 A   Ordre de Mai (Havre des Glaces) -- Ludwig von Eisenburg
     11/13/2004 A   Ordre du Meritum Martialis (Havre des Glaces) -- Ludwig von Eisenburg
     01/20/2007 ACL Master of the Laurel -- Ludwig von Eisenburg
     ??/??/2008 A   Order du Lys d'argent (Havre des Glaces) -- Ludwig von Eisenburg
@@ -42590,7 +42565,7 @@ Alpha List {
     10/10/1981 A   Award of Arms -- Lysandra of Morgandy Hill
   
   == Lysel Von Heidelberg ==
-    10/20/2012 A   Copanion of the Chime (Unknown Branch) -- Lysel Von Heidelberg [from Carillion]
+    10/20/2012 A   Chime (Carillion) -- Lysel Von Heidelberg
   
   == Lysken die Waeyer ==
     04/11/2009 AC  Award of Arms -- Lysken die Waeyer
@@ -42880,7 +42855,7 @@ Alpha List {
     ??/??/2006 A   Chiffre du Baron (Havre des Glaces) -- Maire inghean ui Mheardha (also known as Meara of Havre des Glaces AKA Maera)
     01/20/2007 A   Terpsichore -- Maire inghean ui Mheardha (also known as Meara of Havre des Glaces AKA Maera)
     ??/??/2008 A   Order du Lys d'argent (Havre des Glaces) -- Maire inghean ui Mheardha (also known as Meara of Havre des Glaces AKA Maera)
-    03/26/2011 A   Ordre de Mai (Unknown Branch) -- Maire inghean ui Mheardha (also known as Meara of Havre des Glaces AKA Maera) [from Havre des Glaces]
+    03/26/2011 A   Ordre de Mai (Havre des Glaces) -- Maire inghean ui Mheardha (also known as Meara of Havre des Glaces AKA Maera)
     06/09/2012 A   Chiffre du Baron (Havre des Glaces) -- Maire inghean ui Mheardha (also known as Meara of Havre des Glaces AKA Maera)
   
   == Maire ni Sheaghdha [registered] ==
@@ -45520,7 +45495,7 @@ Alpha List {
   == Murron McHaley ==
     03/25/2000 AC  Award of Arms -- Murron McHaley
     07/20/2002 AC  Golden Lyre -- Murron McHaley
-    10/26/2002 A   Ordre de Mai (Unknown Branch) -- Murron McHaley [from Havre des Glaces]
+    10/26/2002 A   Ordre de Mai (Havre des Glaces) -- Murron McHaley
     03/22/2003 AC  Golden Lyre -- Murron McHaley
   
   == Murshida bint Saffiya al Andalusi ==
@@ -46529,7 +46504,7 @@ Alpha List {
     01/01/1989 A   Silver Chalice (Black Diamond) -- Otto the Obscure
     10/01/1994 A   Knight -- Otto the Obscure [from Outlands]
     11/09/1996 A   Stag's Heart (Outlands) -- Otto the Obscure
-    05/03/1997 A   Argent Hart (Unknown Branch) -- Otto the Obscure [from Outlands]
+    05/03/1997 A   Argent Hart (Outlands) -- Otto the Obscure
   
   == Otto von Mergenthal [registered] ==
     06/13/1992 A   Award of Arms -- Otto von Mergenthal
@@ -47903,7 +47878,7 @@ Alpha List {
     05/25/1986 A   Award of Arms -- Rebecca of Lancaster [from Atenveldt]
     05/26/1986 A   Leaping Stag (Unknown Branch) -- Rebecca of Lancaster [Pr. of Outlands]
     11/21/1987 A   Russian Thistle (Unknown Branch) -- Rebecca of Lancaster [Al-Barran, Outlands]
-    12/19/1987 A   Argent Hart (Unknown Branch) -- Rebecca of Lancaster [from Outlands]
+    12/19/1987 A   Argent Hart (Outlands) -- Rebecca of Lancaster
     04/02/1994 A   Trefoil (Outlands) -- Rebecca of Lancaster
     04/20/1996 A L Mistress of the Laurel -- Rebecca of Lancaster
     11/22/1997 A   Scorpion of al-Barran (al-Barran) -- Rebecca of Lancaster [Al-Barran, Outlands]
@@ -49504,14 +49479,14 @@ Alpha List {
   == Saerlaith ingen Cinneide ==
     AKA: Clodagh inghen Cinneide
     01/21/1989 A   Award of Arms -- Saerlaith ingen Cinneide [from Middle]
-    11/25/1989 A   Chalice's Crystal (Unknown Branch) -- Saerlaith ingen Cinneide
+    11/25/1989 A   Chalice's Crystal (Rising Waters) -- Saerlaith ingen Cinneide
     06/16/1990 A   Willow (Middle) -- Saerlaith ingen Cinneide
     05/22/1993 A   Purple Fret (Middle) -- Saerlaith ingen Cinneide
     06/20/1993 A   Spider (Unknown Branch) -- Saerlaith ingen Cinneide
     08/13/1998 A   Golden Otter (Unknown Branch) -- Saerlaith ingen Cinneide [Prin. of Ealdormere]
     06/18/1999 A   Orion (Ealdormere) -- Saerlaith ingen Cinneide
     11/20/1999 A   Baroness' Favour (Unknown Branch) -- Saerlaith ingen Cinneide
-    05/27/2000 A   Golden Chalice (Unknown Branch) -- Saerlaith ingen Cinneide
+    05/27/2000 A   Golden Chalice (Rising Waters) -- Saerlaith ingen Cinneide
     02/01/2003 A   Manche -- Saerlaith ingen Cinneide
     04/14/2007 A   Queen's Honor of Distinction -- Saerlaith ingen Cinneide [Jana IV]
     04/17/2010 AC  Silver Crescent -- Saerlaith ingen Cinneide
@@ -50335,7 +50310,7 @@ Alpha List {
     ??/??/2001 A   Chiffre du Baron (Havre des Glaces) -- Shadia bint Barro
     07/20/2002 AC  Award of Arms -- Shadia bint Barro
     07/20/2002 AC  Terpsichore -- Shadia bint Barro
-    ??/??/2010 A   Ordre de Mai (Unknown Branch) -- Shadia bint Barro [from Havre des Glaces]
+    ??/??/2010 A   Ordre de Mai (Havre des Glaces) -- Shadia bint Barro
     09/18/2010 A   Grant of Arms -- Shadia bint Barro
     03/05/2011 A   Seamstress to the Crown -- Shadia bint Barro [Gryffith II and Aikaterine II]
     03/05/2011 A   Maunche -- Shadia bint Barro
@@ -51398,7 +51373,7 @@ Alpha List {
   
   == Susan the Midwife [registered] ==
     08/16/1986 A   Award of Arms -- Susan the Midwife [from Outlands]
-    11/14/1987 A   Dragon's Blood (Unknown Branch) -- Susan the Midwife [from Dragonsspine]
+    11/14/1987 A   Dragon's Blood (Dragonsspine) -- Susan the Midwife
     01/02/1988 A   Stag's Heart (Outlands) -- Susan the Midwife
     12/16/1989 A   Russian Thistle (Unknown Branch) -- Susan the Midwife [Al-Barran, Outlands]
     04/11/1992 A   Scorpion (Unknown Branch) -- Susan the Midwife [Al-Barran, Outlands]
@@ -52340,7 +52315,7 @@ Alpha List {
     ??/??/2000 A   Ordre du Lys d'Argent (Havre des Glaces) -- Thibeau de Montfort
     06/10/2000 A   Ordre de la Rose de Glaces (Unknown Branch) -- Thibeau de Montfort [from Havre des Glaces]
     03/31/2001 A   Burdened Tyger -- Thibeau de Montfort
-    04/06/2001 A   Ordre de Mai (Unknown Branch) -- Thibeau de Montfort [from Havre des Glaces]
+    04/06/2001 A   Ordre de Mai (Havre des Glaces) -- Thibeau de Montfort
     05/04/2002 AC  Maunche -- Thibeau de Montfort
     03/05/2005 ACL Master of the Laurel -- Thibeau de Montfort
   
@@ -53162,7 +53137,7 @@ Alpha List {
   == Tyrum Volundsson ==
     AKA: Thrym Volund
     07/23/1994 A   Award of Arms -- Tyrum Volundsson [from Drachenwald]
-    04/20/1996 A   Popular Company of Sojourners (Unknown Branch) -- Tyrum Volundsson [from Drachenwald]
+    04/20/1996 A   Popular Company of Sojourners (Drachenwald) -- Tyrum Volundsson
     08/13/2006 A   Baroness's Silver Ring (Iron Bog) -- Tyrum Volundsson
     11/11/2006 A   Silver Gauntlet (Iron Bog) -- Tyrum Volundsson
   
@@ -53387,7 +53362,7 @@ Alpha List {
     03/25/2000 AC  Award of Arms -- Ursion de Gui
     ??/??/2001 A   Chiffre du Baron (Havre des Glaces) -- Ursion de Gui
     03/22/2003 AC  Golden Lyre -- Ursion de Gui
-    06/07/2003 A   Ordre de Mai (Unknown Branch) -- Ursion de Gui [from Havre des Glaces]
+    06/07/2003 A   Ordre de Mai (Havre des Glaces) -- Ursion de Gui
     03/05/2005 AC  Manche -- Ursion de Gui
     10/03/2009 AC  Burdened Tyger -- Ursion de Gui
     06/19/2010 AC  Silver Crescent -- Ursion de Gui
@@ -55084,7 +55059,7 @@ Alpha List {
     05/11/2002 A   Queen's Cypher -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [Cainnleach, Outlands]
     09/21/2003 A   Augmentation of Arms -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [from Outlands]
     01/28/2006 A   Scales of Dragonsspine (Dragonsspine) -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina)
-    06/16/2007 A   Dragon's Blood (Unknown Branch) -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina) [from Dragonsspine]
+    06/16/2007 A   Dragon's Blood (Dragonsspine) -- Zinoviia Mikulina doch' Korabel'nikova zhena (called Mina)
   
   == Zipporah Qirah ==
     07/05/2008 AC  Award of Arms -- Zipporah Qirah
@@ -55170,9 +55145,6 @@ Alpha List {
     11/21/1998 A   Court Baroness -- eLeri of Nefyn (Leri)
     10/28/2000 A   Manche -- eLeri of Nefyn (Leri)
     10/13/2012 A   Kingdom Augmentation of Arms -- eLeri of Nefyn (Leri)
-  
-  == hikeal ==
-    04/05/1997 A   Award of Arms -- hikeal
   
   == ni Kinnon ==
     SEE: Caoilfhionn inghean Fhaolain
@@ -55321,98 +55293,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-John the Bear - Alphabetical
-{
-  Adding unknown award "Silver Bell"
-}
-
-Prec_l.xhtml - Alphabetical
-{
-  Unparsed line: *
-}
-
-Laure Aleire de Laon - Alphabetical
-{
-  Adding unknown award "Desert Flower"
-  Adding unknown award "Argent Hart"
-  Adding unknown award "Popular Company of Sojourners"
-  Adding unknown award "Dragon's Blood"
-}
-
-Leah di Estera - Alphabetical
-{
-  Unparsed line: 07/19/1986
-  Unparsed line: Companion of the White Oakl (BBM)
-}
-
-Lena Solway - Alphabetical
-{
-  Unparsed line: Leo Finnason
-}
-
-Leon the Navigator - Alphabetical
-{
-  Adding unknown award "Sun"
-  Adding unknown award "Siol"
-}
-
-Leyli of Carolignia - Alphabetical
-{
-  Unparsed line: Companion of the White Oak (BBM)
-}
-
-Lhubrinn - Alphabetical
-{
-  Unparsed line: Companion of the White Oak (BBM)
-}
-
-Llewellyn ab Olwyn - Alphabetical
-{
-  Adding unknown award "Tygers Combantant"
-}
-
-Llewyllen ap Rhys - Alphabetical
-{
-  Adding unknown award "Silver Sea-Lion - Premiere Recipient -"
-}
-
-Lorenzo il Confuso - Alphabetical
-{
-  Adding unknown award "Yew Bow"
-  Adding unknown award "Mountain Hawk"
-}
-
-Lucan von Drachenklaue - Alphabetical
-{
-  Adding unknown award "Queen's Award of Courtesy"
-}
-
-Lucas Beekaert - Alphabetical
-{
-  Adding unknown award "Dilver Cattail"
-}
-
-Lucius Aurelius Varus - Alphabetical
-{
-  Adding unknown award "Thorbjorn's Hammer"
-  Adding unknown award "Wolf's Tooth"
-  Adding unknown award "Ord of the Peregrine"
-  Adding unknown award "Chalice's Crystal"
-  Adding unknown award "Golden Chalice"
-  Adding unknown award "Warriors of the Chalice"
-  Adding unknown award "OPC"
-}
-
-Ludwig von Eisenburg - Alphabetical
-{
-  Adding unknown award "Ordre de Mai"
-}
-
-Lysel Von Heidelberg - Alphabetical
-{
-  Adding unknown award "Copanion of the Chime"
-}
 
 MacSeamus o'Eamonn - Alphabetical
 {
@@ -55661,6 +55541,7 @@ Richard del Hauke - Alphabetical
 
 Richard the Poor of Ely - Alphabetical
 {
+  Adding unknown award "Sun"
   Adding unknown award "Sail"
 }
 

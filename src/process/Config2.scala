@@ -155,7 +155,8 @@ object Config2 {
               Award("Seadog", "Sea Dog"),
               "Seahorse",
               "Augmented Seahorse",
-              "Sea Star"
+              "Sea Star",
+              "Silver Sea-Lion"
             )),
             
             Barony("Carolingia", awards = Seq(
@@ -274,7 +275,7 @@ object Config2 {
                 "Chiffre du Baron",
                 Award("Order du Lys d'argent", "Ordre du Lys d'Argent"),
                 Award("Ordre du Meritum Martialis", "Ordo Meriti Martialis"),
-                "Order de Mai",
+                Award("Ordre de Mai", "Order de Mai"),
                 Award("Rose des Glaces", "Ordre de la Rose des Glaces")
               )),
             
@@ -381,6 +382,7 @@ object Config2 {
         
         Kingdom("Atenveldt",
           awards = Seq(
+            "Desert Flower",
             "Fleur de Soleil",
             "Light of Atenveldt",
             "Lion of Atenveldt",
@@ -412,7 +414,9 @@ object Config2 {
             "Krakken",
             "Shark's Tooth",
             "King's Award of Excellence",
-            "Undine"
+            "Queen's Award of Courtesy",
+            "Undine",
+            "Yew Bow"
           ),
           
           children = Seq(
@@ -435,6 +439,10 @@ object Config2 {
             Barony("Caer Mear", awards = Seq(
               "La Brise de Mer",
               "Pharos"
+            )),
+            
+            Barony("Highland Foorde", awards = Seq(
+              "Mountain Hawk"
             )),
             
             Barony("Lochmere", awards = Seq(
@@ -514,7 +522,7 @@ object Config2 {
         
         Kingdom("Drachenwald",
           awards = Seq(
-            "Principality Company of Sojourners",
+            Award("Popular Company of Sojourners", "Principality Company of Sojourners"),
             Award("Princess's Order of Courtesy", "Princess's Courtesy"),
             "Dragons Pride",
             "Dragons Tear",
@@ -532,7 +540,10 @@ object Config2 {
             "Bee",
             "OHS",
             "Award of Tangwystyl's Favor",
-            "Orion"
+            "Orion",
+            "Thorbjorn's Hammer",
+            "Wolf's Tooth",
+            Award("St. Crispin", "Peregrine")
           )
         ),
         
@@ -571,6 +582,13 @@ object Config2 {
               "White Wolf"
             )),
             
+            Barony("Rising Waters", awards = Seq(
+              "Chalice's Crystal",
+              "Golden Chalice",
+              Award("Award of Protectors of the Chalice", "OPC"),
+              "Warriors of the Chalice"
+            )),
+            
             Barony("Tree-Girt-Sea")
           )
         ),
@@ -592,6 +610,7 @@ object Config2 {
         
         Kingdom("Outlands",
           awards = Seq(
+            "Argent Hart",
             "Flower",
             "Golden Reflection",
             "Stag",
@@ -613,6 +632,7 @@ object Config2 {
             )),
             
             Barony("Dragonsspine", awards = Seq(
+              "Dragon's Blood",
               "Scales of Dragonsspine"
             )),
             
