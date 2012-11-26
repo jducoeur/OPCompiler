@@ -395,11 +395,19 @@ object Config2 {
           
           children = Seq(
             Barony("Atenveldt", awards = Seq(
+              "Palm of Barony Atenveldt",
               "Solar Phoenix"
             )),
             
             Principality("Sun", awards = Seq(
+              "Esprit de Soleil",
               "Solar Heart"
+            )),
+            
+            Barony("Sun Dragon", awards = Seq(
+              "Dragon's Scale",
+              "Honor of SunDragon",
+              "Rainbows Gold"
             ))
           )
         ),
@@ -527,7 +535,7 @@ object Config2 {
             Award("Princess's Order of Courtesy", "Princess's Courtesy"),
             "Dragons Pride",
             "Dragons Tear",
-            "Lady of the Edelweiss",
+            Award("Lady of the Edelweiss", "Lady of the Marguerite"),
             "Lindquistrings",
             "Prince's Companions of Albion",
             "Panache",

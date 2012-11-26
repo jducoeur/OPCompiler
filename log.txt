@@ -17217,7 +17217,6 @@ Alphabetical {
   Nichole of Concordia {
   }
   Nick of Endewearde {
-    ERROR: Unparsed line: 10/8/2012 Tyger's Cub
   }
   Nick the Good {
   }
@@ -17244,10 +17243,8 @@ Alphabetical {
   Nicolette von Zweiberge {
   }
   Nige of the Cleftlands {
-    ERROR: Adding unknown award "Lady of the Marguerite"
   }
   Nigel of Castle West (Westcastle) {
-    ERROR: Adding unknown award "Barone of Iron Bog"
   }
   Nigell Tarragon {
   }
@@ -17272,11 +17269,6 @@ Alphabetical {
   Niniae of Witch’s Oak {
   }
   Ninian Ende {
-    ERROR: Adding unknown award "Esprit de Soleil"
-    ERROR: Adding unknown award "Palm of Barony Atenveldt"
-    ERROR: Adding unknown award "Honor of SunDragon"
-    ERROR: Adding unknown award "Dragon's Scale"
-    ERROR: Adding unknown award "Rainbows Gold"
   }
   Ninion Verminsson Veassllurd {
   }
@@ -45850,7 +45842,7 @@ Alpha List {
     05/30/1999 A   Snow Hare (Concordia of the Snows) -- Nichole of Concordia
   
   == Nick of Endewearde ==
-  
+    10/08/2012 A   Tygers Cub -- Nick of Endewearde
   
   == Nick of Nordenhal ==
     09/24/2005 AC  Award of Arms -- Nick of Nordenhal
@@ -45910,7 +45902,7 @@ Alpha List {
     02/19/1977 A   Award of Arms -- Nige of the Cleftlands [from Middle]
     06/06/1981 A L Viscountess -- Nige of the Cleftlands
     10/14/1981 A   Terpsichore -- Nige of the Cleftlands
-    08/20/1982 A   Lady of the Marguerite (Unknown Branch) -- Nige of the Cleftlands
+    08/20/1982 A   Lady of the Marguerite (Drachenwald) -- Nige of the Cleftlands
     10/24/1982 A   Lindquistrings (Drachenwald) -- Nige of the Cleftlands
     10/05/1985 A L Mistress of the Pelican -- Nige of the Cleftlands
   
@@ -45937,7 +45929,7 @@ Alpha List {
     08/16/2006 A   Silver Crescent -- Nigel of Castle West (Westcastle)
     08/04/2007 A   Silver Cattail (Iron Bog) -- Nigel of Castle West (Westcastle)
     02/21/2009 A   Grant of Arms -- Nigel of Castle West (Westcastle)
-    02/21/2009 A   Barone of Iron Bog (Unknown Branch) -- Nigel of Castle West (Westcastle)
+    02/21/2009 A   Baron of Iron Bog -- Nigel of Castle West (Westcastle)
   
   == Nigell Tarragon [registered] ==
     09/30/2006 A   Award of Arms -- Nigell Tarragon
@@ -45983,11 +45975,11 @@ Alpha List {
   
   == Ninian Ende [registered] ==
     11/03/1990 A   Award of Arms -- Ninian Ende [from Atenveldt]
-    01/18/1992 A   Palm of Barony Atenveldt (Unknown Branch) -- Ninian Ende [from Atenveldt]
-    01/16/1993 A   Esprit de Soleil (Unknown Branch) -- Ninian Ende [Princip. of the Sun, Atenveldt]
-    04/22/1995 A   Dragon's Scale (Unknown Branch) -- Ninian Ende [Barony of Sun Dragon, Aten.]
-    10/28/1995 A   Honor of SunDragon (Unknown Branch) -- Ninian Ende [Barony of Sun Dragon, Aten.]
-    11/11/1995 A   Rainbows Gold (Unknown Branch) -- Ninian Ende [Barony of Sun Dragon, Aten.]
+    01/18/1992 A   Palm of Barony Atenveldt (Atenveldt) -- Ninian Ende [from Atenveldt]
+    01/16/1993 A   Esprit de Soleil (Sun) -- Ninian Ende [Princip. of the Sun, Atenveldt]
+    04/22/1995 A   Dragon's Scale (Sun Dragon) -- Ninian Ende
+    10/28/1995 A   Honor of SunDragon (Sun Dragon) -- Ninian Ende
+    11/11/1995 A   Rainbows Gold (Sun Dragon) -- Ninian Ende
     11/11/1995 A   Fleur de Soleil (Atenveldt) -- Ninian Ende
     11/05/1999 A   Queen's Cypher -- Ninian Ende [from Atenveldt]
     11/09/2002 AC  Golden Lyre -- Ninian Ende
@@ -54729,7 +54721,7 @@ Alpha List {
   == Yngvar Grimstormer ==
     11/28/1992 A   Award of Arms -- Yngvar Grimstormer
     01/04/2009 A   Award of Arms -- Yngvar Grimstormer [Ateneldt]
-    08/16/2009 A   The Honor of Sun Dragon (Unknown Branch) -- Yngvar Grimstormer [Barony of Sun Dragon, Atenveldt]
+    08/16/2009 A   The Honor of Sun Dragon (Unknown Branch) -- Yngvar Grimstormer [from Sun Dragon]
   
   == Yngvar the Dismal ==
     12/01/1990   L Viscount -- Yngvar the Dismal [from AEthelmearc]
@@ -55260,30 +55252,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-Nick of Endewearde - Alphabetical
-{
-  Unparsed line: 10/8/2012 Tyger's Cub
-}
-
-Nige of the Cleftlands - Alphabetical
-{
-  Adding unknown award "Lady of the Marguerite"
-}
-
-Nigel of Castle West (Westcastle) - Alphabetical
-{
-  Adding unknown award "Barone of Iron Bog"
-}
-
-Ninian Ende - Alphabetical
-{
-  Adding unknown award "Esprit de Soleil"
-  Adding unknown award "Palm of Barony Atenveldt"
-  Adding unknown award "Honor of SunDragon"
-  Adding unknown award "Dragon's Scale"
-  Adding unknown award "Rainbows Gold"
-}
 
 Oglesby Armstrong Smythe - Alphabetical
 {
