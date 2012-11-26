@@ -20039,7 +20039,6 @@ Alphabetical {
   Ulfr Stinson {
   }
   Ulfr Steinsson {
-    ERROR: Adding unknown award "08/07/2008 Queen's Honor of Distinction"
   }
   Ulfr Thorfinnsson {
   }
@@ -20124,7 +20123,6 @@ Alphabetical {
   Valdaric of Esdraelon {
   }
   Valdimarr Thorbane {
-    ERROR: Adding unknown award "Valdimarr Thorbane"
   }
   Valdis of Gotland {
   }
@@ -20145,24 +20143,12 @@ Alphabetical {
   Valerin of Ayer {
   }
   Valerius Fidelis Camerinus ("Cameron") {
-    ERROR: Adding unknown award "King's Gauntlet"
-    ERROR: Adding unknown award "Lion of Ansteorra"
   }
   Valery Eugenia Fitzgerald {
   }
   Valgard Northern {
   }
   Valgard Stonecleaver {
-    ERROR: Adding unknown award "Jarl"
-    ERROR: Adding unknown award "Wreath of Chivalry"
-    ERROR: Adding unknown award "Muckin' Great Clubbe"
-    ERROR: Adding unknown award "Golden Branch"
-    ERROR: Adding unknown award "Princess' Favor"
-    ERROR: Adding unknown award "Lord Defender of Cynagua"
-    ERROR: Adding unknown award "Black Swan"
-    ERROR: Adding unknown award "Cynaguan Guard"
-    ERROR: Adding unknown award "King's Huscarls"
-    ERROR: Adding unknown award "Sea-Lion"
   }
   Valgeirr of the Mountain Freehold {
   }
@@ -20183,7 +20169,6 @@ Alphabetical {
   Varakii Varenko Vlkavich {
   }
   Vardak Mirceavitch Basarabov of Iloi {
-    ERROR: Adding unknown award "Court Count"
   }
   Vargas of Mactores Romae {
   }
@@ -20234,7 +20219,6 @@ Alphabetical {
   Vidar the Greater {
   }
   Viennet de la Mer {
-    ERROR: Unparsed line: 01.29/2011 Order of the Laurel
   }
   Vigolfr Agnarsson {
   }
@@ -20259,7 +20243,6 @@ Alphabetical {
   Violet Coleson {
   }
   Violet Grey {
-    ERROR: Adding unknown award "Chime (Carillion)\"
   }
   Violetta di Montepulciano {
   }
@@ -20312,7 +20295,6 @@ Alphabetical {
   Walter de Montagne {
   }
   Walter de Witte {
-    ERROR: Adding unknown award "Gilded Reed"
   }
   Wanda von Halsstern {
   }
@@ -20417,7 +20399,6 @@ Alphabetical {
   William Keith FitzGaranhir {
   }
   William FitzBubba {
-    ERROR: Adding unknown award "Heart of the Sable Storm"
   }
   William FitzGerald (“Widefarer”) {
   }
@@ -20612,7 +20593,6 @@ Alphabetical {
   Yasmine de Conti-Mercia de Cordoba {
   }
   Yasmine bint Rasheed {
-    ERROR: Adding unknown award "Silver Crecent"
   }
   Yasuko {
   }
@@ -20627,8 +20607,6 @@ Alphabetical {
   Yesugai ibn Akbar ibn Murad {
   }
   Yesunge Altan {
-    ERROR: Adding unknown award "Leather Mallet"
-    ERROR: Adding unknown award "Torse"
   }
   Yezdigurd Houzyafal Olad Ezdicang {
   }
@@ -20637,7 +20615,6 @@ Alphabetical {
   Ygor Rotislav {
   }
   Ygraine of Kellswood {
-    ERROR: Unparsed line: 0929/2012 Queen's Honor of Distintion
   }
   Ygraine de Llannfairre {
   }
@@ -20648,8 +20625,8 @@ Alphabetical {
   Yitzhak ibn Yoshua {
   }
   Yngvar Grimstormer {
-    ERROR: Unparsed line: Yngvarr Ottosson
-    ERROR: Adding unknown award "The Honor of Sun Dragon"
+  }
+  Yngvarr Ottosson {
   }
   Ynyr ap Rhys Mefusen {
   }
@@ -20660,10 +20637,6 @@ Alphabetical {
   Yorgon of Lion’s End {
   }
   Yosef Alaric {
-    ERROR: Adding unknown award "Tempered Steel"
-    ERROR: Adding unknown award "Sheriff of the Smoking Rocks"
-    ERROR: Adding unknown award "Dwarven Hammer"
-    ERROR: Adding unknown award "Battered Wrench"
   }
   Yosef ben Lazar {
   }
@@ -23743,12 +23716,6 @@ Alpha List {
     AKA: Anna Tuomaantytär von Urwald
     08/08/1991 A   Award of Arms -- Anna of Aarnimetsä
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Anna of Carillion ==
     ??/??/-1 A   Fish (Carillion) -- Anna of Carillion
     02/21/2009 AC  Award of Arms -- Anna of Carillion
@@ -25551,18 +25518,6 @@ Alpha List {
     10/09/1993 A   Master at Arms -- Beowulf Wyrmcleaw tha Meerstapa
     03/22/1997 A   Court Baron -- Beowulf Wyrmcleaw tha Meerstapa
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Berach MacTavish ==
     ??/??/-1 A   Fish (Carillion) -- Berach MacTavish
     04/26/2003 AC  Grant of Arms -- Berach MacTavish
@@ -26454,21 +26409,6 @@ Alpha List {
   == Brinwen the Fair ==
     10/01/2011  C  Burdened Tyger -- Brinwen the Fair
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Brinwen the Fair (Brenwen) [registered] ==
     ??/??/-1 A   Fish (Carillion) -- Brinwen the Fair (Brenwen)
     11/18/2000 A   Award of Arms -- Brinwen the Fair (Brenwen)
@@ -29143,15 +29083,6 @@ Alpha List {
   == Cooks Guild of Owl's Reste ==
     ??/??/-1 AC  Burdened Tyger -- Cooks Guild of Owl's Reste [backlog]
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Corcoran mac Diarmaid ==
     ??/??/-1 A   Fish (Carillion) -- Corcoran mac Diarmaid
     09/06/2008 A   Chime (Carillion) -- Corcoran mac Diarmaid
@@ -36423,9 +36354,6 @@ Alpha List {
   == Hanibal Ramirez de Jesus ==
     07/25/1998 A   Award of Arms -- Hanibal Ramirez de Jesus
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Hanna of Carillion ==
     ??/??/-1 A   Fish (Carillion) -- Hanna of Carillion
   
@@ -37324,12 +37252,6 @@ Alpha List {
     AKA: Critter
   
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Ingvar Thorsteinsson (“Critter”) [registered] ==
     ??/??/-1 A   Fish (Carillion) -- Ingvar Thorsteinsson (“Critter”)
     09/20/1998 A   Award of Arms -- Ingvar Thorsteinsson (“Critter”)
@@ -38469,24 +38391,6 @@ Alpha List {
   == Jehannine de Bordeu ==
     SEE: Jehannine de Flandres
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Jehannine de Flandres [registered] ==
     AKA: Jehannine de Bordeu
     ??/??/-1 A   Horse's Head (Carillion) -- Jehannine de Flandres
@@ -39339,12 +39243,6 @@ Alpha List {
   == Julia mal Gardee ==
     10/05/1985 A   Award of Arms -- Julia mal Gardee
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Julia of Carillion ==
     ??/??/-1 A   Fish (Carillion) -- Julia of Carillion
     09/26/2009 AC  Queen's Honor of Distinction -- Julia of Carillion [Gabriella II]
@@ -40022,12 +39920,6 @@ Alpha List {
     10/03/2009 A   Queen's Cypher -- Katherine Barr of Cumberland [Gabriella II]
     08/07/2011 A   Silver Compass (Iron Bog) -- Katherine Barr of Cumberland
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
   == Katherine Flannery ==
     05/11/1991 A   Award of Arms -- Katherine Flannery
     ??/??/1993 A   Sable Bell (Carillion) -- Katherine Flannery
@@ -41738,18 +41630,6 @@ Alpha List {
     04/02/2011 AC  Grant of Arms -- Lillian Stanhope
     04/02/2011 AC  Court Barony -- Lillian Stanhope
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Lillian atte Valeye [registered] ==
     ??/??/-1 A   Fish (Carillion) -- Lillian atte Valeye
     10/12/2002 A   Sable Bell (Carillion) -- Lillian atte Valeye
@@ -42318,15 +42198,6 @@ Alpha List {
   == Luncanne DiGiovanni ==
     09/14/2002  C  Award of Arms -- Luncanne DiGiovanni
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Luned Gwyn [registered] ==
     ??/??/-1 A   Fish (Carillion) -- Luned Gwyn
     09/??/2008 A   Sable Bell (Carillion) -- Luned Gwyn
@@ -42375,16 +42246,6 @@ Alpha List {
   == Lydushka of Northpass ==
     09/07/1991 A   Award of Arms -- Lydushka of Northpass
   
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
-  ERROR: Bad date part: 19??
   == Lyle FitzWilliam [registered] ==
     AKA: Damon de la Main
     ??/??/-1 A   Sable Bear (Bergental) -- Lyle FitzWilliam
@@ -42596,12 +42457,6 @@ Alpha List {
   == Magdalena Kurriene des Todes Fahlien ==
     07/19/2008 AC  Award of Arms -- Magdalena Kurriene des Todes Fahlien
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Magdalena Landtfahrerin called the ungrateful Child - AKA Magdelena die Zugvogelerin ==
     ??/??/-1 A   Fish (Carillion) -- Magdalena Landtfahrerin called the ungrateful Child - AKA Magdelena die Zugvogelerin
     09/12/2009 A   Award of Arms -- Magdalena Landtfahrerin called the ungrateful Child - AKA Magdelena die Zugvogelerin
@@ -42739,30 +42594,6 @@ Alpha List {
   == Mairghread ==
     01/14/2012  C  Silver Crescent -- Mairghread
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Mairghread Ghearr - aka Mairghread of Carillion ==
     ??/??/-1 A   Fish (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
     ??/??/-1 A   Horse's Head (Carillion) -- Mairghread Ghearr - aka Mairghread of Carillion
@@ -43271,18 +43102,6 @@ Alpha List {
   == Marhalt of Aranmor ==
     11/05/2011 AC  Award of Arms -- Marhalt of Aranmor
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Mari Anna deLacey (called "Blackheart" [registered] ==
     AKA: Marianna Blackheart de Lacey
     ??/??/-1 A   Fish (Carillion) -- Mari Anna deLacey (called "Blackheart"
@@ -45884,7 +45703,7 @@ Alpha List {
     01/18/1992 A   Palm of Barony Atenveldt (Atenveldt) -- Ninian Ende [from Atenveldt]
     01/16/1993 A   Esprit de Soleil (Sun) -- Ninian Ende [Princip. of the Sun, Atenveldt]
     04/22/1995 A   Dragon's Scale (Sun Dragon) -- Ninian Ende
-    10/28/1995 A   Honor of SunDragon (Sun Dragon) -- Ninian Ende
+    10/28/1995 A   Honor of Sun Dragon (Sun Dragon) -- Ninian Ende
     11/11/1995 A   Rainbows Gold (Sun Dragon) -- Ninian Ende
     11/11/1995 A   Fleur de Soleil (Atenveldt) -- Ninian Ende
     11/05/1999 A   Queen's Cypher -- Ninian Ende [from Atenveldt]
@@ -46504,15 +46323,6 @@ Alpha List {
     06/04/2011  C  (Writ for Laurel (Unknown Branch) -- Pagan Graeme)
     08/10/2011 ACL Laurel -- Pagan Graeme
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Pagan Mahon [registered] ==
     ??/??/-1 A   Fish (Carillion) -- Pagan Mahon
     10/09/1982 A   Award of Arms -- Pagan Mahon
@@ -47019,21 +46829,6 @@ Alpha List {
   == Phillip Reed the Facetious ==
     01/17/2009  C  Sagittarius -- Phillip Reed the Facetious
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Phillip Reed, called the Facetious [registered] ==
     ??/??/-1 A   Fish (Carillion) -- Phillip Reed, called the Facetious
     06/03/2000 A   Award of Arms -- Phillip Reed, called the Facetious
@@ -47094,18 +46889,6 @@ Alpha List {
     09/10/1994 A   White Oak (Beyond the Mountain) -- Phoebe ni Tighearnaigh
     03/04/1995 A   Award of Arms -- Phoebe ni Tighearnaigh
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Piccanina de Monte - aka Piccanina the Incongruent (called Peach) ==
     ??/??/-1 A   Fish (Carillion) -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
     02/04/1995 A   Award of Arms -- Piccanina de Monte - aka Piccanina the Incongruent (called Peach)
@@ -47373,30 +47156,6 @@ Alpha List {
   == Rafael de Ayala de Santiago ==
     07/09/2011 AC  Award of Arms -- Rafael de Ayala de Santiago
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Raffaella Mascolo [registered] ==
     ??/??/-1 A   Fish (Carillion) -- Raffaella Mascolo
     ??/??/-1 A   Horse's Head (Carillion) -- Raffaella Mascolo
@@ -48325,8 +48084,6 @@ Alpha List {
     09/25/2010 A   Silver Crescent -- Robert Toxophilus of Werchsope
     07/14/2012 A   Sagittarius -- Robert Toxophilus of Werchsope
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
   == Robert Tristan ==
     08/??/2011 A   Queen's Courtesy -- Robert Tristan [Alantia]
     10/01/2011 A   Award of Arms -- Robert Tristan
@@ -49144,21 +48901,6 @@ Alpha List {
     09/28/1991 A   Award of Arms -- Rupert Maxwell
     11/26/1994 A   Silver Crescent -- Rupert Maxwell
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Rupert the Unbalanced [registered] ==
     ??/??/-1 A   Horse's Head (Carillion) -- Rupert the Unbalanced
     08/16/2000 AC  Award of Arms -- Rupert the Unbalanced
@@ -49388,21 +49130,6 @@ Alpha List {
   == Safia al-Khansa ==
     01/27/2001  C  Award of Arms -- Safia al-Khansa
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Safia al-Khansaa ==
     ??/??/-1 A   Fish (Carillion) -- Safia al-Khansaa
     01/27/2001 A   Award of Arms -- Safia al-Khansaa
@@ -53143,8 +52870,7 @@ Alpha List {
   == Ulfr Steinsson ==
     07/03/2010  C  Queen's Courtesy -- Ulfr Steinsson
     07/03/2010  C  Award of Arms -- Ulfr Steinsson [backlog]
-    09/25/2010 A   08/07/2008 Queen's Honor of Distinction (Unknown Branch) -- Ulfr Steinsson [Marguerite]
-    09/25/2010  C  Queen's Honor of Distinction -- Ulfr Steinsson
+    09/25/2010 AC  Queen's Honor of Distinction -- Ulfr Steinsson [Marguerite]
   
   == Ulfr Stinson ==
     05/23/2009 AC  Award of Arms -- Ulfr Stinson
@@ -53329,8 +53055,7 @@ Alpha List {
   == Valdimarr Thorbane ==
     07/05/2008 AC  Award of Arms -- Valdimarr Thorbane
     03/27/2010 AC  Grant of Arms -- Valdimarr Thorbane
-    10/08/2011 A   Valdimarr Thorbane (Unknown Branch) -- Valdimarr Thorbane
-    10/08/2011  C  Maunche -- Valdimarr Thorbane
+    10/08/2011 AC  Maunche -- Valdimarr Thorbane
   
   == Valdis of Gotland ==
     09/30/2000 AC  Manche -- Valdis of Gotland
@@ -53385,11 +53110,11 @@ Alpha List {
   
   == Valerius Fidelis Camerinus ("Cameron") [registered] ==
     04/14/1984 A   Award of Arms -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
-    04/14/1984 A   King's Gauntlet (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
+    04/14/1984 A   King's Gauntlet (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
     10/12/1985 A   Sable Thistle (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
     03/08/1986 A   Iris of Merit (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
     03/08/1987 A   Knight -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
-    07/25/1987 A   Lion of Ansteorra (Unknown Branch) -- Valerius Fidelis Camerinus ("Cameron")
+    07/25/1987 A   Lion of Ansteorra (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
     07/01/1989 A   Sable Falcon (Ansteorra) -- Valerius Fidelis Camerinus ("Cameron")
     08/18/1990 A   Court Baron -- Valerius Fidelis Camerinus ("Cameron") [from Ansteorra]
   
@@ -53407,31 +53132,31 @@ Alpha List {
   == Valgard Stonecleaver [registered] ==
     03/21/1981 A   Award of Arms -- Valgard Stonecleaver [from West]
     ??/??/1983 A   Queen's Guard -- Valgard Stonecleaver [Lachlin, West]
-    07/16/1983 A   Cynaguan Guard (Unknown Branch) -- Valgard Stonecleaver
-    08/20/1983 A   King's Huscarls (Unknown Branch) -- Valgard Stonecleaver [from West]
-    01/28/1984 A   Cynaguan Guard (Unknown Branch) -- Valgard Stonecleaver
+    07/16/1983 A   Cynaguan Guard (Cynagua) -- Valgard Stonecleaver
+    08/20/1983 A   King's Huscarls (West) -- Valgard Stonecleaver
+    01/28/1984 A   Cynaguan Guard (Cynagua) -- Valgard Stonecleaver
     05/05/1985 A   Pied d'Argent (West) -- Valgard Stonecleaver
-    11/02/1985 A   Black Swan (Unknown Branch) -- Valgard Stonecleaver [from Cynagua]
+    11/02/1985 A   Black Swan (Cynagua) -- Valgard Stonecleaver
     12/14/1985 A   Leaf of Merit (West) -- Valgard Stonecleaver
     01/04/1986 A   Queen's Guard -- Valgard Stonecleaver [Verena, West]
-    11/01/1986 A   Lord Defender of Cynagua (Unknown Branch) -- Valgard Stonecleaver
+    11/01/1986 A   Lord Defender of Cynagua (Cynagua) -- Valgard Stonecleaver
     05/02/1987 A   Rose Leaf (Mists) -- Valgard Stonecleaver [from West]
     07/04/1987 A   Valor (West) -- Valgard Stonecleaver
     04/30/1988 A   Queen's Cypher -- Valgard Stonecleaver [Anastacia, West]
     06/24/1989 A   Queen's Guard -- Valgard Stonecleaver [Sophie, West]
-    06/23/1990 A   Wreath of Chivalry (Unknown Branch) -- Valgard Stonecleaver [from West]
+    06/23/1990 A   Wreath of Chivalry (West) -- Valgard Stonecleaver
     07/07/1990 A   Knight -- Valgard Stonecleaver [from West]
-    11/17/1990 A   Golden Branch (Unknown Branch) -- Valgard Stonecleaver [from Mists]
-    05/04/1991 A   Muckin' Great Clubbe (Unknown Branch) -- Valgard Stonecleaver [from West]
-    05/18/1991 A   Princess' Favor (Unknown Branch) -- Valgard Stonecleaver [Megan, Mists]
+    11/17/1990 A   Golden Branch (Mists) -- Valgard Stonecleaver
+    05/04/1991 A   Muckin' Great Clubbe (West) -- Valgard Stonecleaver
+    05/18/1991 A   Princess' Favor (Mists) -- Valgard Stonecleaver [Megan, Mists]
     05/18/1991 A   Viscount -- Valgard Stonecleaver [from Mists]
     06/22/1991 A   Commendabilis (West) -- Valgard Stonecleaver
-    08/27/1994 A   Jarl (Unknown Branch) -- Valgard Stonecleaver [from West]
+    08/27/1994 A   Jarl -- Valgard Stonecleaver [from West]
     08/23/1997 A   Knight Bannerette (West) -- Valgard Stonecleaver
     06/23/1998 A   Queen's Guard -- Valgard Stonecleaver [Verena, West]
     08/17/2000 A   Defender of the West (West) -- Valgard Stonecleaver
     09/24/2005 AC  Queen's Courtesy -- Valgard Stonecleaver
-    02/12/2012 A   Sea-Lion (Unknown Branch) -- Valgard Stonecleaver [Ostgard]
+    02/12/2012 A   Sea-lion (Ostgardr) -- Valgard Stonecleaver
   
   == Valgeir of Mountain Freehold ==
     09/28/2002  C  Queen's Honor of Distinction -- Valgeir of Mountain Freehold
@@ -53478,7 +53203,7 @@ Alpha List {
   
   == Vardak Mirceavitch Basarabov of Iloi [registered] ==
     07/12/1970 A   Grant of Arms -- Vardak Mirceavitch Basarabov of Iloi
-    07/12/1970 A   Court Count (Unknown Branch) -- Vardak Mirceavitch Basarabov of Iloi
+    07/12/1970 A   Court Count -- Vardak Mirceavitch Basarabov of Iloi
   
   == Vargas of Mactores Romae ==
     07/03/2010 AC  Award of Arms -- Vargas of Mactores Romae
@@ -53606,7 +53331,7 @@ Alpha List {
     04/10/2010 AC  Queen's Courtesy -- Viennet de la Mer
     04/10/2010 AC  Queen's Cypher -- Viennet de la Mer [Brenwen II]
     01/29/2011  C  Patent of Arms -- Viennet de la Mer
-    01/29/2011  C  Laurel -- Viennet de la Mer
+    01/29/2011 AC  Laurel -- Viennet de la Mer
   
   == Vigolf Agnarsson ==
     10/02/2004  C  Award of Arms -- Vigolf Agnarsson
@@ -53665,35 +53390,11 @@ Alpha List {
     09/26/2009 AC  Queen's Honor of Distinction -- Violet Coleson [Gabriella II]
     09/25/2010 AC  Silver Crescent -- Violet Coleson
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Violet Grey ==
     ??/??/-1 A   Fish (Carillion) -- Violet Grey
     ??/??/-1 A   Horse's Head (Carillion) -- Violet Grey
     01/07/2011 A   Award of Arms -- Violet Grey
-    05/01/2011 A   Chime (Carillion)\ (Unknown Branch) -- Violet Grey
+    05/01/2011 A   Chime (Carillion) -- Violet Grey
     01/07/2012  C  Award of Arms -- Violet Grey
   
   == Violetta di Montepulciano ==
@@ -53807,7 +53508,7 @@ Alpha List {
     10/09/1976 A   Award of Arms -- Walter de Montagne
   
   == Walter de Witte [registered] ==
-    ??/??/-1 A   Gilded Reed (Unknown Branch) -- Walter de Witte [from Middle]
+    ??/??/-1 A   Gilded Reed (Middle Marches) -- Walter de Witte [from Middle]
     05/08/1982 A   Award of Arms -- Walter de Witte [from Middle]
     10/15/1983 A   Willow (Middle) -- Walter de Witte
     10/15/1988 A   Manche -- Walter de Witte
@@ -53845,15 +53546,6 @@ Alpha List {
   == Webbe ==
     04/30/2011 A   Maunche -- Webbe
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Webbe aka Amelia bint Wojciech ==
     ??/??/-1 A   Fish (Carillion) -- Webbe aka Amelia bint Wojciech
     09/21/2008 A   Award of Arms -- Webbe aka Amelia bint Wojciech
@@ -53991,7 +53683,7 @@ Alpha List {
   
   == William FitzBubba [registered] ==
     10/10/1992 A   Award of Arms -- William FitzBubba [from Ansteorra]
-    05/14/1994 A   Heart of the Sable Storm (Unknown Branch) -- William FitzBubba [Namron, Ansteorra]
+    05/14/1994 A   Heart of the Sable Storm (Namron) -- William FitzBubba
     02/24/1996 A   Sable Crane (Ansteorra) -- William FitzBubba
     10/12/1996 A   Star of Merit (Ansteorra) -- William FitzBubba
     10/12/1996 A   Grant of Arms -- William FitzBubba [from Ansteorra]
@@ -54529,7 +54221,7 @@ Alpha List {
   == Yasmine bint Rasheed ==
     06/24/2000 AC  Award of Arms -- Yasmine bint Rasheed
     04/19/2003 AC  Burdened Tyger -- Yasmine bint Rasheed
-    11/08/2003 A   Silver Crecent (Unknown Branch) -- Yasmine bint Rasheed
+    11/08/2003 A   Silver Crescent -- Yasmine bint Rasheed
     04/03/2004 A   Queen's Cypher -- Yasmine bint Rasheed [Luna IV]
   
   == Yasmine bint Rashid ==
@@ -54569,8 +54261,8 @@ Alpha List {
   == Yesunge Altan [registered] ==
     12/15/1997 A   Award of Arms -- Yesunge Altan [from Calontir]
     05/16/1998 A   Iren Fyrd (Calontir) -- Yesunge Altan
-    05/15/1999 A   Torse (Unknown Branch) -- Yesunge Altan [from Calontir]
-    12/15/1999 A   Leather Mallet (Unknown Branch) -- Yesunge Altan [Barony of Forgotten Sea, Calontir]
+    05/15/1999 A   Torse (Calontir) -- Yesunge Altan
+    12/15/1999 A   Leather Mallet (Calontir) -- Yesunge Altan [Barony of Forgotten Sea, Calontir]
     03/??/2000 A   Green Cord (Vatavia) -- Yesunge Altan
     06/15/2000 A   Iren Hirth (Calontir) -- Yesunge Altan
     05/01/2004 A   Silver Crescent -- Yesunge Altan
@@ -54612,6 +54304,7 @@ Alpha List {
     04/12/2003 AC  Golden Lyre -- Ygraine of Kellswood
     04/02/2005 AC  Queen's Cypher -- Ygraine of Kellswood [Svava]
     11/05/2011 AC  Court Barony -- Ygraine of Kellswood
+    09/29/2012 A   Queen's Honor of Distinction -- Ygraine of Kellswood
   
   == Ygraine of Preston [registered] ==
     04/24/1988 A   Award of Arms -- Ygraine of Preston
@@ -54639,12 +54332,14 @@ Alpha List {
   
   == Yngvar Grimstormer ==
     11/28/1992 A   Award of Arms -- Yngvar Grimstormer
-    01/04/2009 A   Award of Arms -- Yngvar Grimstormer [Ateneldt]
-    08/16/2009 A   The Honor of Sun Dragon (Unknown Branch) -- Yngvar Grimstormer [from Sun Dragon]
   
   == Yngvar the Dismal ==
     12/01/1990   L Viscount -- Yngvar the Dismal [from AEthelmearc]
     11/23/1996   L Chivalry -- Yngvar the Dismal
+  
+  == Yngvarr Ottosson ==
+    01/04/2009 A   Award of Arms -- Yngvarr Ottosson [Ateneldt]
+    08/16/2009 A   Honor of Sun Dragon (Sun Dragon) -- Yngvarr Ottosson
   
   == Ynyr ap Rhys Mefusen [registered] ==
     09/15/1990 A   Award of Arms -- Ynyr ap Rhys Mefusen
@@ -54665,11 +54360,11 @@ Alpha List {
   
   == Yosef Alaric [registered] ==
     11/01/1975 A   Award of Arms -- Yosef Alaric
-    07/10/1976 A   Sheriff of the Smoking Rocks (Unknown Branch) -- Yosef Alaric
+    07/10/1976 A   Sheriff of the Smoking Rocks (Smoking Rocks) -- Yosef Alaric
     01/14/1978 A   Court Baron -- Yosef Alaric [from Meridies]
-    02/25/1978 A   Battered Wrench (Unknown Branch) -- Yosef Alaric [Hammerhold, Mer]
-    10/05/1979 A   Dwarven Hammer (Unknown Branch) -- Yosef Alaric [from Meridies]
-    10/05/1979 A   Tempered Steel (Unknown Branch) -- Yosef Alaric [from Meridies]
+    02/25/1978 A   Battered Wrench (Hammerhold) -- Yosef Alaric
+    10/05/1979 A   Dwarven Hammer (Hammerhold) -- Yosef Alaric [from Meridies]
+    10/05/1979 A   Tempered Steel (Hammerhold) -- Yosef Alaric [from Meridies]
     12/12/1981 A   Troubadour -- Yosef Alaric
     08/20/1983 A L Master of the Pelican -- Yosef Alaric
     12/02/1984 A   Freedom of the Bridge (Bridge) -- Yosef Alaric
@@ -54946,18 +54641,6 @@ Alpha List {
   == Zoe Anastasia ==
     07/26/2003  C  Award of Arms -- Zoe Anastasia
   
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xx
-  ERROR: Bad date part: xxxx
   == Zoe Anastasia of Carillion ==
     ??/??/-1 A   Fish (Carillion) -- Zoe Anastasia of Carillion
     07/26/2003 A   Award of Arms -- Zoe Anastasia of Carillion
@@ -55175,381 +54858,3 @@ Alpha List {
 
 ERROR LOG:
 
-Ulfr Steinsson - Alphabetical
-{
-  Adding unknown award "08/07/2008 Queen's Honor of Distinction"
-}
-
-Valdimarr Thorbane - Alphabetical
-{
-  Adding unknown award "Valdimarr Thorbane"
-}
-
-Valerius Fidelis Camerinus ("Cameron") - Alphabetical
-{
-  Adding unknown award "King's Gauntlet"
-  Adding unknown award "Lion of Ansteorra"
-}
-
-Valgard Stonecleaver - Alphabetical
-{
-  Adding unknown award "Jarl"
-  Adding unknown award "Wreath of Chivalry"
-  Adding unknown award "Muckin' Great Clubbe"
-  Adding unknown award "Golden Branch"
-  Adding unknown award "Princess' Favor"
-  Adding unknown award "Lord Defender of Cynagua"
-  Adding unknown award "Black Swan"
-  Adding unknown award "Cynaguan Guard"
-  Adding unknown award "King's Huscarls"
-  Adding unknown award "Sea-Lion"
-}
-
-Vardak Mirceavitch Basarabov of Iloi - Alphabetical
-{
-  Adding unknown award "Court Count"
-}
-
-Viennet de la Mer - Alphabetical
-{
-  Unparsed line: 01.29/2011 Order of the Laurel
-}
-
-Violet Grey - Alphabetical
-{
-  Adding unknown award "Chime (Carillion)\"
-}
-
-Walter de Witte - Alphabetical
-{
-  Adding unknown award "Gilded Reed"
-}
-
-William FitzBubba - Alphabetical
-{
-  Adding unknown award "Heart of the Sable Storm"
-}
-
-Yasmine bint Rasheed - Alphabetical
-{
-  Adding unknown award "Silver Crecent"
-}
-
-Yesunge Altan - Alphabetical
-{
-  Adding unknown award "Leather Mallet"
-  Adding unknown award "Torse"
-}
-
-Ygraine of Kellswood - Alphabetical
-{
-  Unparsed line: 0929/2012 Queen's Honor of Distintion
-}
-
-Yngvar Grimstormer - Alphabetical
-{
-  Unparsed line: Yngvarr Ottosson
-  Adding unknown award "The Honor of Sun Dragon"
-}
-
-Yosef Alaric - Alphabetical
-{
-  Adding unknown award "Tempered Steel"
-  Adding unknown award "Sheriff of the Smoking Rocks"
-  Adding unknown award "Dwarven Hammer"
-  Adding unknown award "Battered Wrench"
-}
-
-Alpha List
-{
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: 19??
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx
-  Bad date part: xx
-  Bad date part: xx
-  Bad date part: xxxx

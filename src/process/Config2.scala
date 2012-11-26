@@ -55,8 +55,13 @@ object Config2 {
           )),
           Award("Rose", synonyms = Seq(AwardName("Lady of the Rose", Female))),
           
+          // Yes, there exists exactly one Court Count:
+          Award("Court Count"),
+          
           Award("Viscount", gender = Male, synonyms = Seq(AwardName("Viscountess", Female))),
-          Award("Count", gender = Male, synonyms = Seq(AwardName("Countess", Female))),
+          Award("Count", gender = Male, synonyms = Seq(
+            AwardName("Countess", Female),
+            AwardName("Jarl", Male))),
           Award("Duke", gender = Male, synonyms = Seq(AwardName("Duchess", Female)))
       )
       // Each of these is a Seq[AwardInfo], so they don't fit neatly into the above list
@@ -156,7 +161,7 @@ object Config2 {
               "Seahorse",
               "Augmented Seahorse",
               "Sea Star",
-              "Silver Sea-Lion"
+              Award("Silver Sea-Lion", "Sea-lion")
             )),
             
             Barony("Carolingia", awards = Seq(
@@ -249,7 +254,8 @@ object Config2 {
                 "Leviathan",
                 "Quadrant",
                 "Rock",
-                "Lodestone"
+                "Lodestone",
+                "Sheriff of the Smoking Rocks"
             )),
             
             Barony("Iron Bog", awards = Seq(
@@ -320,6 +326,8 @@ object Config2 {
           Award("Compass Rose", "CRA", "ACR"),
           "Iris of Merit",
           Award("Queen's Glove", "Queen's Glove of Ansteorra"),
+          "King's Gauntlet",
+          "Lion of Ansteorra",
           "Sable Comet",
           "Sable Crane",
           "Sable Falcon",
@@ -340,6 +348,10 @@ object Config2 {
               "Azure Keystone",
               "Eastern Tower",
               "Portcullis"
+            )),
+            
+            Barony("Namron", awards = Seq(
+              "Heart of the Sable Storm"
             )),
             
             Barony("Steppes", awards = Seq(
@@ -425,7 +437,7 @@ object Config2 {
             
             Barony("Sun Dragon", awards = Seq(
               "Dragon's Scale",
-              "Honor of SunDragon",
+              "Honor of Sun Dragon",
               "Rainbows Gold"
             ))
           )
@@ -543,7 +555,9 @@ object Config2 {
             Award("Golden Calon Swan", "Swan"),
             "Iren Fera",
             "Iren Fyrd",
-            "Iren Hirth"
+            "Iren Hirth",
+            "Leather Mallet",
+            "Torse"
           ),
           
           children = Seq(
@@ -607,9 +621,19 @@ object Config2 {
           "Silver Helm"
         )),
         
-        Kingdom("Meridies", awards = Seq(
-          "Meridian Cross"
-        )),
+        Kingdom("Meridies", 
+          awards = Seq(
+            "Meridian Cross"
+          ),
+        
+          children = Seq(
+            Barony("Hammerhold", awards = Seq(
+              "Battered Wrench",
+              "Dwarven Hammer",
+              "Tempered Steel"
+            ))
+          )
+        ),
         
         Kingdom("Middle",
           awards = Seq(
@@ -634,6 +658,7 @@ object Config2 {
             Barony("Andelcrag"),
             
             Barony("Middle Marches", awards = Seq(
+              "Gilded Reed",
               "Watchful Tower"
             )),
             
@@ -750,22 +775,28 @@ object Config2 {
           awards = Seq(
             "Commendabilis",
             "Defender of the West",
+            "King's Huscarls",
             "Knight Bannerette",
             "Leaf of Merit",
+            "Muckin' Great Clubbe",
             "Old Battered Helm",
             "Pied d'Argent",
             "Queen's Grace",
             "Silver Mantle",
             "Silver Molet",
             "Valor",
-            "Wooden Spoon"
+            "Wooden Spoon",
+            "Wreath of Chivalry"
           ),
           
           children = Seq(
             Principality("Cynagua", awards = Seq(
+              "Black Swan",
+              "Cynaguan Guard",
               "Friendly Castle",
               "Hearthstone",
               "La Courtesia",
+              "Lord Defender of Cynagua",
               "Princess's Token",
               "Ruxton"
             )),
@@ -786,6 +817,8 @@ object Config2 {
             Principality("Mists", awards = Seq(
               "Corolla Muralis",
               Award("Corolla Nebularum", "Corolla"),
+              "Golden Branch",
+              "Princess' Favor",
               "Princess's Grace",
               "Rose Leaf"
             )),
