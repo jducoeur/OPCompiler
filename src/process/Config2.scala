@@ -123,7 +123,7 @@ object Config2 {
             Award("King's Order of Excellence", "King's Excellence"),
             Award("Silver Rapier"),
             Award("Terpsichore", "Trepsichore"),
-            Award("Troubadour", "Troubadours", "Troubadors"),
+            Award("Troubadour", "Troubadours", "Troubadors", "Troubador"),
             Award("Tygers Cub", "Tyger Cub"),
             
             // Orders of High Merit
@@ -191,7 +191,7 @@ object Config2 {
               "Hawk's Bell",
               "Keel",
               "Oar",
-              Award("St. Martin", "Company of St. Martin"),
+              Award("St. Martin", "Company of St. Martin", "St Martin"),
               "Worshipful Company of Artificers"
             )),
             
@@ -221,12 +221,13 @@ object Config2 {
               "Sable Bell",
               "Light of Carillion",
               "Horse's Head",
-              "Shrouded Bell"
+              "Shrouded Bell",
+              "Unbalanced"
             )),
             
             Barony("Stonemarche", awards = Seq(
               Award("Furison", "Fusion"),
-              "Lamp of Apollo",
+              Award("Lamp of Apollo", "Keeper of the Lamp"),
               "Millstone",
               "Keeper of the Flames"
             )),
@@ -271,10 +272,10 @@ object Config2 {
 	          )),
             
               Barony("Havre des Glaces", synonyms = Seq("Havre de Glaces", "Havres des Glaces"), awards = Seq(
-                Award("Ordre du Pèlerin", "Ordre du Pelerin"),
-                "Chiffre du Baron",
-                Award("Order du Lys d'argent", "Ordre du Lys d'Argent"),
-                Award("Ordre du Meritum Martialis", "Ordo Meriti Martialis", "Order Meriti Martialis"),
+                Award("Pèlerin", "Ordre du Pèlerin", "Ordre du Pelerin"),
+                Award("Chiffre du Baron", "Order Chiffre du Baron"),
+                Award("Lys d'Argent", "Order du Lys d'argent", "Ordre du Lys d'Argent", "Order de Lys d'Argent"),
+                Award("Meriti Martialis", "Ordre du Meritum Martialis", "Ordo Meriti Martialis", "Order Meriti Martialis"),
                 Award("Ordre de Mai", "Order de Mai"),
                 Award("Rose des Glaces", "Ordre de la Rose des Glaces")
               )),
@@ -328,6 +329,21 @@ object Config2 {
           children = Seq(
             Barony("Bonwicke", awards = Seq(
               Award("Western Cross of Bonwicke", "OWCB")
+            )),
+            
+            Barony("Bryn Gwlad", awards = Seq(
+              "Halberd"
+            )),
+            
+            Barony("Elfsea", awards = Seq(
+              "Azure Keystone",
+              "Eastern Tower",
+              "Portcullis"
+            )),
+            
+            Barony("Steppes", awards = Seq(
+              "Acorn",
+              "Oak"
             ))
           )
         ),
@@ -474,6 +490,7 @@ object Config2 {
             )),
             
             Barony("Windmaster's Hill", awards = Seq(
+              "Boreas",
               "St Nicholas",
               "Tempest"
             ))
@@ -486,14 +503,21 @@ object Config2 {
             Award("Dolphin", "Dolphin of Caid"),
             Award("Harp Argent", "Harp Argent of Caid"),
             "Crossed Swords",
+            "Honneur de la Chanson",
             "Lux Caidis",
-            "Legion of Courtesy"
+            "Legion of Courtesy",
+            "Signum Regina"
           ),
         
           children = Seq(
             Barony("Calafia", awards = Seq(
               "Golden Trident",
               "Serpent's Flame"
+            )),
+            
+            Barony("Dreiburgen", awards = Seq(
+              "Illuminated Tower",
+              "Tower"
             )),
             
             Barony("Starkhafn", awards = Seq(
@@ -573,7 +597,9 @@ object Config2 {
             "Doe's Grace",
             "Dragon's Barb",
             "Dragon's Heart",
+            "Dragon's Teeth",
             "Dragon's Tooth",
+            "Evergreen",
             "Gaping Wound",
             "Gold Mace",
             "Purple Fret",
@@ -603,13 +629,18 @@ object Config2 {
               "Warriors of the Chalice"
             )),
             
+            Barony("Rivenstar", awards = Seq(
+              "Rivenstar"
+            )),
+            
             Barony("Tree-Girt-Sea")
           )
         ),
         
         Kingdom("Northshield",
           awards = Seq(
-            "Aegis"
+            "Aegis",
+            "Northshield Cross"
           ),
           
           children = Seq(
@@ -617,7 +648,8 @@ object Config2 {
               "Baronial Broom",
               "Baton Gules",
               "Heavy Cross",
-              "Honor of the Heliotrope"
+              Award("Heliotrope", "Honor of the Heliotrope"),
+              "Rouge Bend"
             ))
           )
         ),
@@ -627,6 +659,7 @@ object Config2 {
             "Argent Hart",
             "Flower",
             "Golden Reflection",
+            "Leaping Stag",
             "Stag",
             "Stag's Blood",
             "Stag's Heart",
@@ -636,7 +669,7 @@ object Config2 {
           
           children = Seq(
             Barony("al-Barran", awards = Seq(
-              "Russian Thistle of al-Barran",
+              Award("Russian Thistle", "Russian Thistle of al-Barran"),
               "Scorpion of al-Barran"
             )),
             
@@ -680,6 +713,11 @@ object Config2 {
           ),
           
           children = Seq(
+            Barony("Darkwater", awards = Seq(
+              "Acorn's Glade",
+              "Trident Keype"
+            )),
+            
             Barony("Wyvernwood", awards = Seq(
               "Wyvern's Claw",
               "Wyvern's Scale"
@@ -726,7 +764,7 @@ object Config2 {
             
             Principality("Mists", awards = Seq(
               "Corolla Muralis",
-              "Corolla Nebularum",
+              Award("Corolla Nebularum", "Corolla"),
               "Princess's Grace",
               "Rose Leaf"
             )),
