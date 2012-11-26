@@ -17331,10 +17331,8 @@ Alphabetical {
   Ogedei Becinjab {
   }
   Oglesby Armstrong Smythe {
-    ERROR: Unparsed line: (
-    ERROR: Unparsed line: )
   }
-  Ohashi KatsutoshinowIheronimus Brückner {
+  Ohashi Katsutoshi (now Iheronimus Brückner) {
   }
   Oksana Goncharova {
   }
@@ -17399,7 +17397,6 @@ Alphabetical {
   Orzel of Dragonship Haven {
   }
   Oscad de Segovia {
-    ERROR: Adding unknown award "Gold Mace"
   }
   Ose Silverhair {
   }
@@ -17436,8 +17433,6 @@ Alphabetical {
   Otto Mueller {
   }
   Otto the Obscure {
-    ERROR: Adding unknown award "Sable Blade"
-    ERROR: Adding unknown award "Fettered Crane"
   }
   Otto von Mergenthal {
   }
@@ -46105,18 +46100,18 @@ Alpha List {
     10/05/1996   L Laurel -- Ohashi Katsutoshi
     01/05/2002  C  Sagittarius -- Ohashi Katsutoshi
   
-  == Ohashi KatsutoshinowIheronimus Brückner [registered] ==
-    05/02/1992 A   Award of Arms -- Ohashi KatsutoshinowIheronimus Brückner
-    08/17/1994 A   Manche -- Ohashi KatsutoshinowIheronimus Brückner
-    10/05/1996 A   Master of the Laurel -- Ohashi KatsutoshinowIheronimus Brückner
-    11/02/1996 A   Moon (Carolingia) -- Ohashi KatsutoshinowIheronimus Brückner
-    01/25/1997 A   Daystar (Carolingia) -- Ohashi KatsutoshinowIheronimus Brückner
-    07/11/1998 A   Silver Crescent -- Ohashi KatsutoshinowIheronimus Brückner
-    09/12/1998 A   Master of the Pelican -- Ohashi KatsutoshinowIheronimus Brückner
-    06/27/1999 A   Perseus (Carolingia) -- Ohashi KatsutoshinowIheronimus Brückner
-    09/29/2001 A   Court Baron -- Ohashi KatsutoshinowIheronimus Brückner
-    01/05/2002 A   Sagittarius -- Ohashi KatsutoshinowIheronimus Brückner
-    09/25/2010 A   King's Esteem of Merit -- Ohashi KatsutoshinowIheronimus Brückner
+  == Ohashi Katsutoshi (now Iheronimus Brückner) [registered] ==
+    05/02/1992 A   Award of Arms -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    08/17/1994 A   Manche -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    10/05/1996 A   Master of the Laurel -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    11/02/1996 A   Moon (Carolingia) -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    01/25/1997 A   Daystar (Carolingia) -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    07/11/1998 A   Silver Crescent -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    09/12/1998 A   Master of the Pelican -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    06/27/1999 A   Perseus (Carolingia) -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    09/29/2001 A   Court Baron -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    01/05/2002 A   Sagittarius -- Ohashi Katsutoshi (now Iheronimus Brückner)
+    09/25/2010 A   King's Esteem of Merit -- Ohashi Katsutoshi (now Iheronimus Brückner)
   
   == Oksana Goncharova [registered] ==
     11/23/1996 A   Award of Arms -- Oksana Goncharova
@@ -46324,7 +46319,7 @@ Alpha List {
     08/14/1997 A   Dragon's Tooth (Middle) -- Oscad de Segovia
     04/15/2000 A   Sapphire (Concordia of the Snows) -- Oscad de Segovia [from Middle]
     04/13/2002 A   Doe's Grace (Middle) -- Oscad de Segovia
-    08/16/2002 A   Gold Mace (Unknown Branch) -- Oscad de Segovia [from Middle]
+    08/16/2002 A   Gold Mace (Middle) -- Oscad de Segovia
     08/16/2002 A   Grant of Arms -- Oscad de Segovia [from Middle]
     03/19/2004 A   Dragon's Tooth (Middle) -- Oscad de Segovia
     05/15/2004 A   Royal Vanguard (Middle) -- Oscad de Segovia
@@ -46449,9 +46444,9 @@ Alpha List {
   == Otto the Obscure [registered] ==
     ??/??/-1 A   Baron of Black Diamond (Atlantia) -- Otto the Obscure
     10/20/1984 A   Award of Arms -- Otto the Obscure [from Atlantia]
-    12/31/1985 A   Sable Blade (Unknown Branch) -- Otto the Obscure [from Atlantia]
+    12/31/1985 A   Sable Blade (Atlantia) -- Otto the Obscure
     10/18/1986 A   Sea Stag (Atlantia) -- Otto the Obscure
-    12/31/1986 A   Fettered Crane (Unknown Branch) -- Otto the Obscure [from Black Diamond]
+    12/31/1986 A   Fettered Crane (Black Diamond) -- Otto the Obscure
     05/01/1988 A   Shark's Tooth (Atlantia) -- Otto the Obscure
     08/20/1988 A   Golden Dolphin (Atlantia) -- Otto the Obscure
     09/10/1988 A   Court Baron -- Otto the Obscure [from Atlantia]
@@ -55252,23 +55247,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-Oglesby Armstrong Smythe - Alphabetical
-{
-  Unparsed line: (
-  Unparsed line: )
-}
-
-Oscad de Segovia - Alphabetical
-{
-  Adding unknown award "Gold Mace"
-}
-
-Otto the Obscure - Alphabetical
-{
-  Adding unknown award "Sable Blade"
-  Adding unknown award "Fettered Crane"
-}
 
 Pamelina of Avon - Alphabetical
 {

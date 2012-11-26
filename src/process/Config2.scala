@@ -420,6 +420,7 @@ object Config2 {
             "Fountain",
             "Opal",
             "Krakken",
+            "Sable Blade",
             "Shark's Tooth",
             "King's Award of Excellence",
             "Queen's Award of Courtesy",
@@ -429,6 +430,7 @@ object Config2 {
           
           children = Seq(
             Barony("Black Diamond", awards = Seq(
+              "Fettered Crane",
               "Polished Mirror",
               "Silver Chalice",
               "Silver Crocus"
@@ -573,6 +575,7 @@ object Config2 {
             "Dragon's Heart",
             "Dragon's Tooth",
             "Gaping Wound",
+            "Gold Mace",
             "Purple Fret",
             "Purple Fretty",
             "Queen's Favor",
