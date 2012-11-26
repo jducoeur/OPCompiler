@@ -19485,7 +19485,6 @@ Alphabetical {
   Tanczos Ilona {
   }
   Tanczos Istvan {
-    ERROR: Adding unknown award "Cross of Lochac"
   }
   Tanna-Kormakr Makansson {
   }
@@ -19514,7 +19513,8 @@ Alphabetical {
   Tarazed of Ruantallan {
   }
   Tarian Veassllurd {
-    ERROR: Unparsed line: Tarius Britannicus
+  }
+  Tarius Britannicus {
   }
   Tarrah {
   }
@@ -19659,7 +19659,6 @@ Alphabetical {
   Theresa Martil {
   }
   Thibeau de Montfort {
-    ERROR: Adding unknown award "Ordre de la Rose de Glaces"
   }
   Thierry de Malicorne {
   }
@@ -19670,7 +19669,6 @@ Alphabetical {
   Thomas Alexander of Hastings {
   }
   Thomas de Castellan {
-    ERROR: Adding unknown award "order of Fence of Bhakail"
   }
   Thomas delbroc {
   }
@@ -19727,7 +19725,8 @@ Alphabetical {
   Thorfinn inn Einaugi {
   }
   Thorfinn Jarlsson {
-    ERROR: Unparsed line: Thorlaeifr hvitzkegg
+  }
+  Thorlaeifr hvitzkegg {
   }
   Thorgar the Smith {
   }
@@ -19796,7 +19795,6 @@ Alphabetical {
   Tibicen Blackmane {
   }
   Tibor of Rock Valley {
-    ERROR: Adding unknown award "Iren Fera"
   }
   Tiecia O'Scanlan {
   }
@@ -19819,8 +19817,8 @@ Alphabetical {
   Timo Schuzzilwenst {
   }
   Timothy of Arindale {
-    ERROR: Adding unknown award "Vanguard of Honor"
-    ERROR: Unparsed line: Timothy the Insignificant
+  }
+  Timothy the Insignificant {
   }
   Timothy MacIntyre {
   }
@@ -19853,14 +19851,12 @@ Alphabetical {
   Toi Poisson de Mortagne {
   }
   Toki Redbeard {
-    ERROR: Adding unknown award "Snowflake"
   }
   Tokigata Tajima {
   }
   Tola knytir {
   }
   Tomas an Bhogha o Neil {
-    ERROR: Unparsed line: 2010 Award of Arms
   }
   Tomas MacLaren {
   }
@@ -19901,7 +19897,6 @@ Alphabetical {
   Torrin the Wanderer (Torrin O'Cuin, the Wonderer) {
   }
   Torvald Sigurdsson {
-    ERROR: Adding unknown award "Companion fo the Silver Crescent"
   }
   Torwulf Waldemarsson of Krak {
   }
@@ -19922,7 +19917,6 @@ Alphabetical {
   Trentus Nubianus {
   }
   Terya Min Teanga {
-    ERROR: Unparsed line: 5/28/2011 Order of the Sable Bear (Bergental)
   }
   Triffin of Ty Llanberis {
   }
@@ -19963,7 +19957,6 @@ Alphabetical {
   Tuathal mac Catcheirn (called “Fweolan”) {
   }
   Tuathflaith ingen ui Chlerigh {
-    ERROR: Unparsed line: 03;/26/2011 Award of Arms
   }
   The Tuchux {
   }
@@ -32248,7 +32241,7 @@ Alpha List {
     09/02/2001 A   White Cord (Vatavia) -- Elizabeth Darnley
     11/30/2002 A   Terpsichore -- Elizabeth Darnley
     05/01/2004 AC  Silver Crescent -- Elizabeth Darnley
-    02/18/2005 A   Iren Fyrd (Calontir) -- Elizabeth Darnley
+    02/18/2005 A   Iren Fera (Calontir) -- Elizabeth Darnley
     04/01/2006 A   Burdened Tyger -- Elizabeth Darnley
     04/26/2008 AC  Queen's Honor of Distinction -- Elizabeth Darnley [Brenwen]
     11/26/2011  C  Seamstress to the Crown -- Elizabeth Darnley
@@ -51769,7 +51762,7 @@ Alpha List {
     01/11/2003  C  Queen's Courtesy -- Tanczos Istvan
     08/08/2007 AC  Manche -- Tanczos Istvan
     08/07/2008 ACL Master of the Pelican -- Tanczos Istvan
-    04/02/2010 A   Cross of Lochac (Unknown Branch) -- Tanczos Istvan [(Lochac]
+    04/02/2010 A   Cross of Lochac (Lochac) -- Tanczos Istvan [(Lochac]
   
   == Tanna-Kormakr Makansson [registered] ==
     AKA: Cormac the Teeth
@@ -51828,10 +51821,9 @@ Alpha List {
   
   == Tarian Veassllurd ==
     06/22/1991 A   Award of Arms -- Tarian Veassllurd
-    03/05/2011 A   Silver Rapier -- Tarian Veassllurd
   
   == Tarius Britannicus ==
-    03/05/2011  C  Silver Rapier -- Tarius Britannicus
+    03/05/2011 AC  Silver Rapier -- Tarius Britannicus
   
   == Tarrah ==
     07/03/1988 A   Award of Arms -- Tarrah
@@ -52044,7 +52036,7 @@ Alpha List {
     09/24/2005 AC  Award of Arms -- Terry the Black
   
   == Terya Min Teanga ==
-  
+    05/28/2011 A   Sable Bear (Bergental) -- Terya Min Teanga
   
   == Tescotickle flint Aterrimus ==
     04/14/2007 A   Queen's Honor of Distinction -- Tescotickle flint Aterrimus [Jana IV]
@@ -52194,7 +52186,7 @@ Alpha List {
   == Thibeau de Montfort ==
     05/08/1999 A   Award of Arms -- Thibeau de Montfort
     ??/??/2000 A   Ordre du Lys d'Argent (Havre des Glaces) -- Thibeau de Montfort
-    06/10/2000 A   Ordre de la Rose de Glaces (Unknown Branch) -- Thibeau de Montfort [from Havre des Glaces]
+    06/10/2000 A   Ordre de la Rose de Glaces (Havre des Glaces) -- Thibeau de Montfort
     03/31/2001 A   Burdened Tyger -- Thibeau de Montfort
     04/06/2001 A   Ordre de Mai (Havre des Glaces) -- Thibeau de Montfort
     05/04/2002 AC  Maunche -- Thibeau de Montfort
@@ -52252,7 +52244,7 @@ Alpha List {
   
   == Thomas de Castellan [registered] ==
     08/16/1992 A   Award of Arms -- Thomas de Castellan
-    12/05/1992 A   order of Fence of Bhakail (Unknown Branch) -- Thomas de Castellan
+    12/05/1992 A   Fence of Bhakail (Bhakail) -- Thomas de Castellan
     10/01/1994 A   Golden Rapier -- Thomas de Castellan
     08/19/1995 A   Silver Crescent -- Thomas de Castellan
     01/16/1999 A L Master of the Pelican -- Thomas de Castellan
@@ -52332,7 +52324,6 @@ Alpha List {
   
   == Thorfinn Jarlsson [registered] ==
     10/09/1993 A   Award of Arms -- Thorfinn Jarlsson
-    03/24/2012 A   King's Cypher -- Thorfinn Jarlsson [Gregor III]
   
   == Thorfinn inn Einaugi [registered] ==
     04/20/1996 A   Award of Arms -- Thorfinn inn Einaugi
@@ -52391,7 +52382,7 @@ Alpha List {
     03/24/2012  C  Taylor to the Crown -- Thorlaeifr hvitskegg
   
   == Thorlaeifr hvitzkegg ==
-    03/24/2012  C  King's Cypher -- Thorlaeifr hvitzkegg
+    03/24/2012 AC  King's Cypher -- Thorlaeifr hvitzkegg [Gregor III]
   
   == Thorlakr Meinaettr ==
     04/19/2008 AC  Award of Arms -- Thorlakr Meinaettr
@@ -52528,7 +52519,7 @@ Alpha List {
     10/30/1993 A   Silver Crescent -- Tibor of Rock Valley
     10/05/1996 A   Court Baron -- Tibor of Rock Valley
     10/05/1996 A   Grant of Arms -- Tibor of Rock Valley
-    08/20/1999 A   Iren Fera (Unknown Branch) -- Tibor of Rock Valley [from Calontir]
+    08/20/1999 A   Iren Fera (Calontir) -- Tibor of Rock Valley
     07/20/2002 ACL Master of the Pelican -- Tibor of Rock Valley
   
   == Tiecia O'Scanlan [registered] ==
@@ -52579,7 +52570,7 @@ Alpha List {
     07/08/1989 A   Sea Stag (Atlantia) -- Timothy of Arindale
     08/18/1990   L Chivalry -- Timothy of Arindale [from Atlantia]
     08/18/1990 A   Knight -- Timothy of Arindale [from Atlantia]
-    02/09/1991 A   Vanguard of Honor (Unknown Branch) -- Timothy of Arindale [from Caid]
+    02/09/1991 A   Vanguard of Honor (Caid) -- Timothy of Arindale
     11/07/1992 A L Count -- Timothy of Arindale
     08/19/1995 A   Dragon's Heart (Middle) -- Timothy of Arindale
     09/30/1995 A L Duke -- Timothy of Arindale
@@ -52589,13 +52580,15 @@ Alpha List {
     08/15/2002 AC  Tygers Combattant -- Timothy of Arindale
     03/29/2003 A   Silver Tower (Settmour Swamp) -- Timothy of Arindale
     05/01/2004  C  Shield of Chivalry -- Timothy of Arindale
-    03/17/2012 A   Sable Martlet (Iron Bog) -- Timothy of Arindale
   
   == Timothy of Owl's Rest ==
     04/27/2002  C  Tygers Cub -- Timothy of Owl's Rest
   
   == Timothy of Owl's Reste ==
     04/27/2002 A   Tygers Cub -- Timothy of Owl's Reste
+  
+  == Timothy the Insignificant ==
+    03/17/2012 A   Sable Martlet (Iron Bog) -- Timothy the Insignificant
   
   == Tina of An Dubhaigeainn ==
     01/08/2000 AC  Tygers Cub -- Tina of An Dubhaigeainn
@@ -52658,8 +52651,8 @@ Alpha List {
   
   == Toki Redbeard [registered] ==
     AKA: Garth Fairchild
-    ??/??/-1 A   Snowflake (Unknown Branch) -- Toki Redbeard [from Concordia of the Snows]
     11/14/1981 A   Award of Arms -- Toki Redbeard
+    02/15/2003 A   Friends (Concordia of the Snows) -- Toki Redbeard
     05/24/2003 A   Troubadours -- Toki Redbeard
     12/11/2004  C  King's Bard -- Toki Redbeard
     03/12/2005 AC  Manche -- Toki Redbeard
@@ -52697,6 +52690,7 @@ Alpha List {
   
   == Tomas an Bhogha o Neil [registered] ==
     AKA: T'Mas na Ui Naill na Boghdoireacht
+    ??/??/2010 A   Award of Arms -- Tomas an Bhogha o Neil
     07/02/2011 AC  Queen's Courtesy -- T'Mas na Ui Naill na Boghdoireacht [Jana V]
   
   == Tomasso Valeriano ==
@@ -52800,7 +52794,7 @@ Alpha List {
     10/03/1992 A   Master of Arms -- Torvald Sigurdsson
     03/11/2000 AC  King's Excellence -- Torvald Sigurdsson
     09/25/2010 AC  King's Cypher -- Torvald Sigurdsson [Edward]
-    03/25/2011 A   Companion fo the Silver Crescent (Unknown Branch) -- Torvald Sigurdsson
+    03/25/2011 A   Silver Crescent -- Torvald Sigurdsson
   
   == Torwulf Waldemarsson of Krak ==
     05/22/1993 A   Award of Arms -- Torwulf Waldemarsson of Krak
@@ -52946,7 +52940,7 @@ Alpha List {
     11/08/1997 A   Award of Arms -- Tuathal mac Catcheirn (called “Fweolan”)
   
   == Tuathflaith ingen ui Chlerigh ==
-    03/26/2011  C  Award of Arms -- Tuathflaith ingen ui Chlerigh
+    03/26/2011 AC  Award of Arms -- Tuathflaith ingen ui Chlerigh
   
   == Tucker of Iron Bog ==
     08/04/2007 A   Iron Punk (Iron Bog) -- Tucker of Iron Bog
@@ -55180,67 +55174,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-Tanczos Istvan - Alphabetical
-{
-  Adding unknown award "Cross of Lochac"
-}
-
-Tarian Veassllurd - Alphabetical
-{
-  Unparsed line: Tarius Britannicus
-}
-
-Thibeau de Montfort - Alphabetical
-{
-  Adding unknown award "Ordre de la Rose de Glaces"
-}
-
-Thomas de Castellan - Alphabetical
-{
-  Adding unknown award "order of Fence of Bhakail"
-}
-
-Thorfinn Jarlsson - Alphabetical
-{
-  Unparsed line: Thorlaeifr hvitzkegg
-}
-
-Tibor of Rock Valley - Alphabetical
-{
-  Adding unknown award "Iren Fera"
-}
-
-Timothy of Arindale - Alphabetical
-{
-  Adding unknown award "Vanguard of Honor"
-  Unparsed line: Timothy the Insignificant
-}
-
-Toki Redbeard - Alphabetical
-{
-  Adding unknown award "Snowflake"
-}
-
-Tomas an Bhogha o Neil - Alphabetical
-{
-  Unparsed line: 2010 Award of Arms
-}
-
-Torvald Sigurdsson - Alphabetical
-{
-  Adding unknown award "Companion fo the Silver Crescent"
-}
-
-Terya Min Teanga - Alphabetical
-{
-  Unparsed line: 5/28/2011 Order of the Sable Bear (Bergental)
-}
-
-Tuathflaith ingen ui Chlerigh - Alphabetical
-{
-  Unparsed line: 03;/26/2011 Award of Arms
-}
 
 Ulfr Steinsson - Alphabetical
 {

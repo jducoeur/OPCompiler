@@ -177,7 +177,7 @@ object Config2 {
               "Harlequin",
               Award("Master of Horse", "Horse"),
               "Salamander",
-              "Bhakail Order of Fence",
+              Award("Bhakail Order of Fence", "Fence of Bhakail"),
               "Salamander's Tear"
             )),
             
@@ -277,7 +277,7 @@ object Config2 {
                 Award("Lys d'Argent", "Order du Lys d'argent", "Ordre du Lys d'Argent", "Order de Lys d'Argent"),
                 Award("Meriti Martialis", "Ordre du Meritum Martialis", "Ordo Meriti Martialis", "Order Meriti Martialis"),
                 Award("Ordre de Mai", "Order de Mai"),
-                Award("Rose des Glaces", "Ordre de la Rose des Glaces")
+                Award("Rose des Glaces", "Ordre de la Rose des Glaces", "Ordre de la Rose de Glaces")
               )),
             
               Barony("L'Ile du Dragon Dormant")            
@@ -511,7 +511,8 @@ object Config2 {
             "Honneur de la Chanson",
             "Lux Caidis",
             "Legion of Courtesy",
-            "Signum Regina"
+            "Signum Regina",
+            "Vanguard of Honor"
           ),
         
           children = Seq(
@@ -540,6 +541,7 @@ object Config2 {
         Kingdom("Calontir",
           awards = Seq(
             Award("Golden Calon Swan", "Swan"),
+            "Iren Fera",
             "Iren Fyrd",
             "Iren Hirth"
           ),
@@ -601,6 +603,7 @@ object Config2 {
         )),
         
         Kingdom("Lochac", awards = Seq(
+          "Cross of Lochac",
           "Silver Helm"
         )),
         
