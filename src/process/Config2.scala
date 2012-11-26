@@ -302,7 +302,8 @@ object Config2 {
               "Silver Comet",
               "Iron Comet",
               "Red Comet",
-              "Blue Comet"
+              "Blue Comet",
+              "Peacock"
             )),
             
             Barony("Delftwood", awards = Seq(
@@ -350,6 +351,7 @@ object Config2 {
         
         Kingdom("An Tir", 
           awards = Seq(
+            "Forget-Me-Not",
             "Golden Unicorn",
             Award("Goutte de Sang", "Goute de Sang"),
             "Jambe de Lion"
@@ -406,7 +408,8 @@ object Config2 {
             "Queen's Grace of Atenveldt",
             "Beacon of the Desert",
             "Thegn",
-            "Hawk's Lure"
+            "Hawk's Lure",
+            "Radiant Rose"
           ),
           
           children = Seq(
@@ -473,6 +476,7 @@ object Config2 {
             )),
             
             Barony("Lochmere", awards = Seq(
+              "Blasted Oak",
               "Eagle's Feather"
             )),
             
@@ -503,6 +507,7 @@ object Config2 {
             Award("Dolphin", "Dolphin of Caid"),
             Award("Harp Argent", "Harp Argent of Caid"),
             "Crossed Swords",
+            "Gauntlet",
             "Honneur de la Chanson",
             "Lux Caidis",
             "Legion of Courtesy",
@@ -562,7 +567,7 @@ object Config2 {
             "Dragons Pride",
             "Dragons Tear",
             Award("Lady of the Edelweiss", "Lady of the Marguerite"),
-            "Lindquistrings",
+            Award("Lindquistrings", "Companion des Lindquistrings"),
             "Prince's Companions of Albion",
             "Panache",
             "Sigillum Coronae",
@@ -578,11 +583,22 @@ object Config2 {
             "Orion",
             "Thorbjorn's Hammer",
             "Wolf's Tooth",
-            Award("St. Crispin", "Peregrine")
+            Award("St. Crispin", "Peregrine"),
+            "Golden Otter",
+            "Wain"
+          ),
+          
+          children = Seq(
+            Barony("Skraeling Althing", awards = Seq(
+              "Hare Salient"
+            ))
           )
         ),
         
-        Kingdom("Gleann Abhann"),
+        Kingdom("Gleann Abhann", awards = Seq(
+          "Marble Chalice",
+          "Onyx Chalice"
+        )),
         
         Kingdom("Lochac", awards = Seq(
           "Silver Helm"
@@ -623,9 +639,11 @@ object Config2 {
             )),
             
             Barony("Rising Waters", awards = Seq(
+              "Baroness' Favour",
               "Chalice's Crystal",
               "Golden Chalice",
               Award("Award of Protectors of the Chalice", "OPC"),
+              "Spider",
               "Warriors of the Chalice"
             )),
             
@@ -670,7 +688,7 @@ object Config2 {
           children = Seq(
             Barony("al-Barran", awards = Seq(
               Award("Russian Thistle", "Russian Thistle of al-Barran"),
-              "Scorpion of al-Barran"
+              Award("Scorpion", "Scorpion of al-Barran")
             )),
             
             Barony("Caerthe", awards = Seq(
@@ -758,7 +776,7 @@ object Config2 {
               "Coronet's Appreciation",
               "Ginger Flower",
               "Sea Griffon",
-              "Burdened Bouget",
+              Award("Burdened Bouget", "Bearer of the Burdoned Bouchet"),
               "Empty Shell"
             )),
             
@@ -771,10 +789,16 @@ object Config2 {
             
             Principality("Oertha", 
               awards = Seq(
-                Award("Oerthan Order of Grace", "Oerthan Grace")
+                Award("Oerthan Order of Grace", "Oerthan Grace"),
+                "Princess's Riband",
+                Award("Wandering Wolves", "Wandering Wolves of Oertha")
               ),
               
               children = Seq(
+                Barony("Eskalya", awards = Seq(
+                  "Silver Bough"
+                )),
+                  
                 Barony("Winter's Gate", awards = Seq(
                   Award("Estoille", "Estoile")
                 ))

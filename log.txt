@@ -18533,7 +18533,6 @@ Alphabetical {
   Sabine Berard {
   }
   Sabine de Kerbriant {
-    ERROR: Adding unknown award "Comanion of the Maunche"
   }
   Sabrina MacHail {
   }
@@ -18548,9 +18547,6 @@ Alphabetical {
   Sadyra of Egypt {
   }
   Saerlaith ingen Cinneide {
-    ERROR: Adding unknown award "Golden Otter"
-    ERROR: Adding unknown award "Spider"
-    ERROR: Adding unknown award "Baroness' Favour"
   }
   Safia al-Khansaa {
   }
@@ -18567,7 +18563,6 @@ Alphabetical {
   Saikhan fn {
   }
   Sakurai Kenjiro Takamori {
-    ERROR: Adding unknown award "Award of Awms"
   }
   Sakurai no Kesame called Kei {
   }
@@ -18658,17 +18653,12 @@ Alphabetical {
   Saraid O’Saideahain {
   }
   Sárán mac Imair {
-    ERROR: Adding unknown award "Onyx Chalice"
-    ERROR: Adding unknown award "Forget-Me-Not"
-    ERROR: Adding unknown award "Marble Chalice"
   }
   Sarant the Myopic {
   }
   Sarolta Hunyadi {
   }
   Sarra Elisabeth Graeham of Birnham {
-    ERROR: Adding unknown award "Wain"
-    ERROR: Adding unknown award "Hare Salient"
   }
   Sarra Fina MacDonald {
   }
@@ -18705,7 +18695,6 @@ Alphabetical {
   Seamus Conal {
   }
   Seamus Donn {
-    ERROR: Adding unknown award "Companion des Lindquistrings"
   }
   Seamus Dubhghlas MacSeamus {
   }
@@ -18732,7 +18721,6 @@ Alphabetical {
   Sean MacPherson {
   }
   Sean O Choda {
-    ERROR: Adding unknown award "Sun ans Soil"
   }
   Sean of Caer Cinniuint {
   }
@@ -18769,7 +18757,6 @@ Alphabetical {
   Seán Ó Móráin {
   }
   Seán Ó Súilleabháin Beirre {
-    ERROR: Adding unknown award "Award of Arms arillion"
   }
   Sean of Carillon {
   }
@@ -18802,10 +18789,8 @@ Alphabetical {
   Sebastien de la Main Gauche {
   }
   Sedalia MacNare {
-    ERROR: Adding unknown award "Peacock"
   }
   Segnat ingen Dhonnchada {
-    ERROR: Adding unknown award "Bearer of the Burdoned Bouchet"
   }
   Seigrit Elsa von Zagrafen {
   }
@@ -18832,7 +18817,6 @@ Alphabetical {
   Seosamh Ó Chóda {
   }
   Seosamh Tadhg an Crúca O'Maille {
-    ERROR: Adding unknown award "Gauntlet"
   }
   Sepharah Dryden {
   }
@@ -18871,7 +18855,8 @@ Alphabetical {
   Sfandra Dmitrieva iz Chernigova {
   }
   Shadia bint Barro {
-    ERROR: Unparsed line: Shadiyah al-Zahra
+  }
+  Shadiyah al-Zahra {
   }
   Shaitan of the Tuchux {
   }
@@ -18884,10 +18869,6 @@ Alphabetical {
   Shann O’Niall {
   }
   Shannon inghean Bhriain uí Dhuilleáin {
-    ERROR: Adding unknown award "Blasted Oak"
-    ERROR: Adding unknown award "Princess's Riband"
-    ERROR: Adding unknown award "Silver Bough"
-    ERROR: Adding unknown award "Wandering Wolves of Oertha"
   }
   Sibán Gallowglass (called Shannon) {
   }
@@ -19000,12 +18981,12 @@ Alphabetical {
   Sigurd Danski {
   }
   Sigurd the Hunter {
-    ERROR: Unparsed line: 10/25/20007 Companion of the Bronze Tower (Settmour Swamp)
   }
   Sigurdr Berserk {
   }
   Sigurgh Sheafing {
-    ERROR: Unparsed line: Siguror VigurHafn
+  }
+  Siguror VigurHafn {
   }
   Sigurthr Vigahamarr het Saurfotr {
   }
@@ -19058,9 +19039,8 @@ Alphabetical {
   Siobhan inghean ui Dhonnabhain {
   }
   Siobhan Forbeis of Lonachan {
-    ERROR: Unparsed line: -
   }
-  Siobhan Gordonsee Siubhan Wallace {
+  Siobhan Gordon - {
   }
   Siobhan Lisuadh Forbes of Kernathy Green {
   }
@@ -19077,8 +19057,6 @@ Alphabetical {
   Siobhan Sutherland {
   }
   Siobhan Ysbrand O'Choda {
-    ERROR: Adding unknown award "Cmpanion of the Sun"
-    ERROR: Adding unknown award "Soil"
   }
   Siofra Crea of Regnesfolke {
   }
@@ -19095,7 +19073,6 @@ Alphabetical {
   Sioned of Fenmere {
   }
   Siphai Fa'el Nammer {
-    ERROR: Adding unknown award "Silver Guantlet"
   }
   Sirenus Corlutte Ruhamme {
   }
@@ -19146,7 +19123,6 @@ Alphabetical {
   Sol la Cantor {
   }
   Solak Vaslovic {
-    ERROR: Unparsed line: ??/??/?? Companion of the Salamander (Bhakail)
   }
   Solange de Luneville {
   }
@@ -19191,7 +19167,6 @@ Alphabetical {
   Sorcha O hAodha {
   }
   Sorcha of Stonegrave {
-    ERROR: Unparsed line: ? Silvanus Doke (An Dubhaigeainn)
   }
   Sorcha of House O'Niall {
   }
@@ -19208,7 +19183,6 @@ Alphabetical {
   Sorsha an Mara cu {
   }
   Spurius Genucia Rutilus {
-    ERROR: Adding unknown award "Award of Arms\"
   }
   Spvrivs Ivliva Flavivs {
   }
@@ -19327,9 +19301,6 @@ Alphabetical {
   Susan MacGregor {
   }
   Susan the Midwife {
-    ERROR: Adding unknown award "Argent Heart"
-    ERROR: Adding unknown award "Radiant Rose"
-    ERROR: Adding unknown award "Scorpion"
   }
   Susana del Lago {
   }
@@ -49357,8 +49328,7 @@ Alpha List {
     09/29/2007 A   Silver Crescent -- Sabine de Kerbriant
     06/28/2008 A   Grant of Arms -- Sabine de Kerbriant
     06/28/2008 AC  Baroness of Bhakail -- Sabine de Kerbriant
-    06/25/2011 A   Comanion of the Maunche (Unknown Branch) -- Sabine de Kerbriant
-    06/25/2011  C  Maunche -- Sabine de Kerbriant
+    06/25/2011 AC  Maunche -- Sabine de Kerbriant
     08/10/2011  C  Mauche -- Sabine de Kerbriant [backlog]
   
   == SabineKerbriant de Lanvaux ==
@@ -49396,10 +49366,10 @@ Alpha List {
     11/25/1989 A   Chalice's Crystal (Rising Waters) -- Saerlaith ingen Cinneide
     06/16/1990 A   Willow (Middle) -- Saerlaith ingen Cinneide
     05/22/1993 A   Purple Fret (Middle) -- Saerlaith ingen Cinneide
-    06/20/1993 A   Spider (Unknown Branch) -- Saerlaith ingen Cinneide
-    08/13/1998 A   Golden Otter (Unknown Branch) -- Saerlaith ingen Cinneide [Prin. of Ealdormere]
+    06/20/1993 A   Spider (Rising Waters) -- Saerlaith ingen Cinneide
+    08/13/1998 A   Golden Otter (Ealdormere) -- Saerlaith ingen Cinneide [Prin. of Ealdormere]
     06/18/1999 A   Orion (Ealdormere) -- Saerlaith ingen Cinneide
-    11/20/1999 A   Baroness' Favour (Unknown Branch) -- Saerlaith ingen Cinneide
+    11/20/1999 A   Baroness' Favour (Rising Waters) -- Saerlaith ingen Cinneide
     05/27/2000 A   Golden Chalice (Rising Waters) -- Saerlaith ingen Cinneide
     02/01/2003 A   Manche -- Saerlaith ingen Cinneide
     04/14/2007 A   Queen's Honor of Distinction -- Saerlaith ingen Cinneide [Jana IV]
@@ -49484,7 +49454,7 @@ Alpha List {
     07/09/2011 A   Silver Martlet (Iron Bog) -- Saikhan fn
   
   == Sakurai Kenjiro Takamori ==
-    12/16/2006 A   Award of Awms (Unknown Branch) -- Sakurai Kenjiro Takamori
+    12/16/2006 A   Award of Arms -- Sakurai Kenjiro Takamori
   
   == Sakurai no Kesame called Kei ==
     09/22/2012 A   Award of Arms -- Sakurai no Kesame called Kei
@@ -49696,11 +49666,11 @@ Alpha List {
     05/13/1989 A   Purple Fret (Middle) -- Sarra Elisabeth Graeham of Birnham
     04/07/1990 A   Grant of Arms -- Sarra Elisabeth Graeham of Birnham [from Middle]
     04/07/1990 A   Dragon's Heart (Middle) -- Sarra Elisabeth Graeham of Birnham
-    04/21/1990 A   Hare Salient (Unknown Branch) -- Sarra Elisabeth Graeham of Birnham [from Ealdormere]
-    08/17/1990 A   Golden Otter (Unknown Branch) -- Sarra Elisabeth Graeham of Birnham [Pr. of Ealdormere]
+    04/21/1990 A   Hare Salient (Skraeling Althing) -- Sarra Elisabeth Graeham of Birnham [from Ealdormere]
+    08/17/1990 A   Golden Otter (Ealdormere) -- Sarra Elisabeth Graeham of Birnham [Pr. of Ealdormere]
     08/17/1991 A   Mistress of the Laurel -- Sarra Elisabeth Graeham of Birnham [from Middle]
     03/26/1998 A   Willow (Middle) -- Sarra Elisabeth Graeham of Birnham
-    11/08/2003 A   Wain (Unknown Branch) -- Sarra Elisabeth Graeham of Birnham [from Ealdormere]
+    11/08/2003 A   Wain (Ealdormere) -- Sarra Elisabeth Graeham of Birnham
     02/12/2005 A   Mistress of the Pelican -- Sarra Elisabeth Graeham of Birnham [from Ealdormere]
     11/12/2005 A   Queen's Favor (Middle) -- Sarra Elisabeth Graeham of Birnham [from Ealdormere]
     08/29/2009 A   Court Baroness -- Sarra Elisabeth Graeham of Birnham
@@ -49787,7 +49757,7 @@ Alpha List {
   
   == Seamus Donn [registered] ==
     01/04/1992 A   Award of Arms -- Seamus Donn [from Drachenwald]
-    12/18/1993 A   Companion des Lindquistrings (Unknown Branch) -- Seamus Donn [from Drachenwald]
+    12/18/1993 A   Companion des Lindquistrings (Drachenwald) -- Seamus Donn
     02/??/1997 A   Master of the Pelican -- Seamus Donn [from Drachenwald]
   
   == Seamus Dubhghlas MacSeamus ==
@@ -49873,7 +49843,7 @@ Alpha List {
   
   == Sean O Choda ==
     05/12/1984 A   Award of Arms -- Sean O Choda
-    06/28/1986 A   Sun ans Soil (Unknown Branch) -- Sean O Choda [from Beyond the Mountain]
+    06/28/1986 A   Sun and Soil (Beyond the Mountain) -- Sean O Choda
   
   == Sean O'Ceallaigh Ui Maine ==
     01/31/2009 AC  Award of Arms -- Sean O'Ceallaigh Ui Maine
@@ -50010,7 +49980,7 @@ Alpha List {
     05/01/1988 A   Daystar (Carolingia) -- Sebastien de la Main Gauche
   
   == Sedalia MacNare [registered] ==
-    10/27/1979 A   Peacock (Unknown Branch) -- Sedalia MacNare [from BMDL]
+    10/27/1979 A   Peacock (BMDL) -- Sedalia MacNare
     10/18/1980 A   Burdened Tyger -- Sedalia MacNare
     01/03/1981 A   Silver Crescent -- Sedalia MacNare
     01/14/1981 A   Gold Comet (BMDL) -- Sedalia MacNare
@@ -50032,7 +50002,7 @@ Alpha List {
   
   == Segnat ingen Dhonnchada [registered] ==
     ??/??/-1 A   Empty Shell (Far West) -- Segnat ingen Dhonnchada
-    ??/??/-1 A   Bearer of the Burdoned Bouchet (Unknown Branch) -- Segnat ingen Dhonnchada [from Far West]
+    ??/??/-1 A   Bearer of the Burdoned Bouchet (Far West) -- Segnat ingen Dhonnchada
     07/13/2002 A   Award of Arms -- Segnat ingen Dhonnchada [from Outlands]
   
   == Seigrit Elsa von Zagrafen ==
@@ -50098,7 +50068,7 @@ Alpha List {
     08/13/1997 A   Tygers Combattant -- Seosamh Tadhg an Crúca O'Maille
     04/03/1999 A   Daystar (Carolingia) -- Seosamh Tadhg an Crúca O'Maille
     05/18/2002 A   Baronial Label (Western Seas) -- Seosamh Tadhg an Crúca O'Maille [Palatine Baron) (Western Seas, Caid]
-    05/28/2005 A   Gauntlet (Unknown Branch) -- Seosamh Tadhg an Crúca O'Maille [from Caid]
+    05/28/2005 A   Gauntlet (Caid) -- Seosamh Tadhg an Crúca O'Maille
     09/27/2008 A   Knight -- Seosamh Tadhg an Crúca O'Maille
   
   == Seosamh mac Donald an Cruca O'Maille ==
@@ -50205,7 +50175,7 @@ Alpha List {
     06/05/1993 A   Award of Arms -- Seán Ó Móráin
   
   == Seán Ó Súilleabháin Beirre [registered] ==
-    07/26/2003 A   Award of Arms arillion (Unknown Branch) -- Seán Ó Súilleabháin Beirre
+    07/26/2003 A   Award of Arms -- Seán Ó Súilleabháin Beirre
   
   == Sfandra Dmitieva iz Chernigova ==
     04/02/2011  C  Patent of Arms -- Sfandra Dmitieva iz Chernigova
@@ -50221,17 +50191,15 @@ Alpha List {
     09/22/2012 A   Seamstress to the Crown -- Sfandra Dmitrieva iz Chernigova
   
   == Shadia bint Barro ==
-    ??/??/2001 A   Chiffre du Baron (Havre des Glaces) -- Shadia bint Barro
     07/20/2002 AC  Award of Arms -- Shadia bint Barro
     07/20/2002 AC  Terpsichore -- Shadia bint Barro
-    ??/??/2010 A   Ordre de Mai (Havre des Glaces) -- Shadia bint Barro
-    09/18/2010 A   Grant of Arms -- Shadia bint Barro
-    03/05/2011 A   Seamstress to the Crown -- Shadia bint Barro [Gryffith II and Aikaterine II]
-    03/05/2011 A   Maunche -- Shadia bint Barro
   
   == Shadiyah al-Zahra ==
-    03/05/2011  C  Maunche -- Shadiyah al-Zahra
-    03/05/2011  C  Seamstress to the Crown -- Shadiyah al-Zahra
+    ??/??/2001 A   Chiffre du Baron (Havre des Glaces) -- Shadiyah al-Zahra
+    ??/??/2010 A   Ordre de Mai (Havre des Glaces) -- Shadiyah al-Zahra
+    09/18/2010 A   Grant of Arms -- Shadiyah al-Zahra
+    03/05/2011 AC  Maunche -- Shadiyah al-Zahra
+    03/05/2011 AC  Seamstress to the Crown -- Shadiyah al-Zahra [Gryffith II and Aikaterine II]
   
   == Shadiyah al-Zahra' (fka Shadia bint Barro ==
     09/18/2010  C  Grant of Arms -- Shadiyah al-Zahra' (fka Shadia bint Barro
@@ -50265,13 +50233,13 @@ Alpha List {
   
   == Shannon inghean Bhriain uí Dhuilleáin [registered] ==
     01/15/2005 A   Award of Arms -- Shannon inghean Bhriain uí Dhuilleáin [from Caid]
-    09/23/2006 A   Blasted Oak (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [from Lochmere]
+    09/23/2006 A   Blasted Oak (Lochmere) -- Shannon inghean Bhriain uí Dhuilleáin
     09/23/2006 A   Opal (Atlantia) -- Shannon inghean Bhriain uí Dhuilleáin
     08/07/2007 A   Baronial award of Excellence (Bright Hills) -- Shannon inghean Bhriain uí Dhuilleáin [from Lochmere]
     08/07/2007 A   Eagle's Feather (Lochmere) -- Shannon inghean Bhriain uí Dhuilleáin
-    01/19/2008 A   Princess's Riband (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [from Oertha]
-    06/28/2008 A   Silver Bough (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [Eskalya, West]
-    09/21/2008 A   Wandering Wolves of Oertha (Unknown Branch) -- Shannon inghean Bhriain uí Dhuilleáin [from Oertha]
+    01/19/2008 A   Princess's Riband (Oertha) -- Shannon inghean Bhriain uí Dhuilleáin
+    06/28/2008 A   Silver Bough (Eskalya) -- Shannon inghean Bhriain uí Dhuilleáin
+    09/21/2008 A   Wandering Wolves of Oertha (Oertha) -- Shannon inghean Bhriain uí Dhuilleáin
   
   == Shannon nic Angus ==
     05/05/2012 A   Tygers Cub -- Shannon nic Angus
@@ -50509,19 +50477,17 @@ Alpha List {
     06/20/2009 AC  Award of Arms -- Sigurd Danski
   
   == Sigurd the Hunter ==
-  
+    10/25/2007 A   Bronze Tower (Settmour Swamp) -- Sigurd the Hunter
   
   == Sigurdr Berserk ==
     04/02/2011 AC  Award of Arms -- Sigurdr Berserk
   
   == Sigurgh Sheafing ==
     08/18/1999 A   Award of Arms -- Sigurgh Sheafing
-    10/01/2011 A   Court Barony -- Sigurgh Sheafing
-    10/01/2011 A   Grant of Arms -- Sigurgh Sheafing
   
   == Siguror VigurHafn ==
-    10/01/2011  C  Grant of Arms -- Siguror VigurHafn
-    10/01/2011  C  Court Barony -- Siguror VigurHafn
+    10/01/2011 AC  Grant of Arms -- Siguror VigurHafn
+    10/01/2011 AC  Court Barony -- Siguror VigurHafn
   
   == Sigurthr Vigahamarr het Saurfotr ==
     02/01/2003 AC  Tygers Combattant -- Sigurthr Vigahamarr het Saurfotr
@@ -50637,8 +50603,8 @@ Alpha List {
   == Siobhan Forbeis of Lonachan [registered] ==
     SEE: Gianetta Lucia Allegretta
   
-  == Siobhan Gordonsee Siubhan Wallace ==
-  
+  == Siobhan Gordon - ==
+    SEE: Siubhan Wallace
   
   == Siobhan Inghen Chon Mhara [registered] ==
     AKA: Siobhan MacConmara
@@ -50681,8 +50647,7 @@ Alpha List {
   == Siobhan Ysbrand O'Choda ==
     02/05/1989 A   Yale (Dragonship Haven) -- Siobhan Ysbrand O'Choda
     06/24/1989 A   Award of Arms -- Siobhan Ysbrand O'Choda
-    07/08/1998 A   Soil (Unknown Branch) -- Siobhan Ysbrand O'Choda [from Beyond the Mountain]
-    07/08/1998 A   Cmpanion of the Sun (Unknown Branch) -- Siobhan Ysbrand O'Choda [from Beyond the Mountain]
+    07/08/1998 A   Sun and Soil (Beyond the Mountain) -- Siobhan Ysbrand O'Choda
   
   == Siobhan inghean Cormaic ==
     06/20/2009 AC  Award of Arms -- Siobhan inghean Cormaic
@@ -50727,7 +50692,7 @@ Alpha List {
     11/15/2003 AC  Award of Arms -- Sioned of Fenmere
   
   == Siphai Fa'el Nammer ==
-    03/17/2012 A   Silver Guantlet (Unknown Branch) -- Siphai Fa'el Nammer [Irn Bog]
+    03/17/2012 A   Silver Gauntlet (Iron Bog) -- Siphai Fa'el Nammer
   
   == Sir Cameron ==
     SEE: Valerius Fidelis Camerinus
@@ -50771,6 +50736,7 @@ Alpha List {
     05/22/2011 A   Harlequin (Bhakail) -- Sitpadeshu
   
   == Siubhan Wallace ==
+    AKA: Siobhan Gordon -
     12/05/1981 A   Award of Arms -- Siubhan Wallace
     01/22/2011 AC  Silver Crescent -- Siubhan Wallace
     04/07/2012 AC  Grant of Arms -- Siubhan Wallace
@@ -50858,6 +50824,7 @@ Alpha List {
     09/25/2010  C  Maunche -- Sol la Cantor - aka Esmeralda la Sabia
   
   == Solak Vaslovic ==
+    ??/??/-1 A   Salamander (Bhakail) -- Solak Vaslovic
     03/20/1982 A   Award of Arms -- Solak Vaslovic
   
   == Solange de Luneville ==
@@ -50967,6 +50934,7 @@ Alpha List {
     10/14/2000 AC  Award of Arms -- Sorcha of Mountain Freehold
   
   == Sorcha of Stonegrave [registered] ==
+    ??/??/-1 A   Silvanus Doke (An Dubhaigeainn) -- Sorcha of Stonegrave
     02/22/2003 A   Award of Arms -- Sorcha of Stonegrave
     04/12/2008 AC  Queen's Courtesy -- Sorcha of Stonegrave
     01/07/2012 AC  Silver Crescent -- Sorcha of Stonegrave
@@ -50988,8 +50956,7 @@ Alpha List {
     09/13/1997 A   Award of Arms -- Sorsha an Mara cu
   
   == Spurius Genucia Rutilus ==
-    08/29/2009 A   Award of Arms\ (Unknown Branch) -- Spurius Genucia Rutilus
-    08/29/2009  C  Award of Arms -- Spurius Genucia Rutilus
+    08/29/2009 AC  Award of Arms -- Spurius Genucia Rutilus
     10/09/2010 A   Princess's Rattan Champion -- Spurius Genucia Rutilus
   
   == Spurius Genucius Rutilus ==
@@ -51290,14 +51257,14 @@ Alpha List {
     11/14/1987 A   Dragon's Blood (Dragonsspine) -- Susan the Midwife
     01/02/1988 A   Stag's Heart (Outlands) -- Susan the Midwife
     12/16/1989 A   Russian Thistle (al-Barran) -- Susan the Midwife [Al-Barran, Outlands]
-    04/11/1992 A   Scorpion (Unknown Branch) -- Susan the Midwife [Al-Barran, Outlands]
+    04/11/1992 A   Scorpion (al-Barran) -- Susan the Midwife [Al-Barran, Outlands]
     04/11/1992 A   Baroness of al-Barran (Outlands) -- Susan the Midwife
     05/23/1992 A   Grant of Arms -- Susan the Midwife [from Outlands]
-    05/30/1993 A   Radiant Rose (Unknown Branch) -- Susan the Midwife [from Atenveldt]
+    05/30/1993 A   Radiant Rose (Atenveldt) -- Susan the Midwife
     07/24/1993 A L Mistress of the Pelican -- Susan the Midwife
     11/06/1993 A   Cordon Royale (Irel) -- Susan the Midwife [Leif II, Outlands]
     11/05/1994 A   Queen's Cypher -- Susan the Midwife [Aziza II, Outlands]
-    12/16/1995 A   Argent Heart (Unknown Branch) -- Susan the Midwife [from Outlands]
+    12/16/1995 A   Argent Hart (Outlands) -- Susan the Midwife
     05/25/1997 A   Court Baroness -- Susan the Midwife [from Outlands]
   
   == Susana Marie of Palermo [registered] ==
@@ -51557,9 +51524,9 @@ Alpha List {
   
   == Sárán mac Imair ==
     09/29/1990 A   Award of Arms -- Sárán mac Imair [from Meridies]
-    08/27/2005 A   Marble Chalice (Unknown Branch) -- Sárán mac Imair [from Gleann Abhann]
-    11/05/2005 A   Forget-Me-Not (Unknown Branch) -- Sárán mac Imair [from An Tir]
-    01/28/2006 A   Onyx Chalice (Unknown Branch) -- Sárán mac Imair [from Gleann Abhann]
+    08/27/2005 A   Marble Chalice (Gleann Abhann) -- Sárán mac Imair
+    11/05/2005 A   Forget-Me-Not (An Tir) -- Sárán mac Imair
+    01/28/2006 A   Onyx Chalice (Gleann Abhann) -- Sárán mac Imair
     05/20/2006 A   Grant of Arms -- Sárán mac Imair [from Gleann Abhann]
   
   == Séadach Dubháilceach [registered] ==
@@ -55213,127 +55180,6 @@ Alpha List {
 }
 
 ERROR LOG:
-
-Sabine de Kerbriant - Alphabetical
-{
-  Adding unknown award "Comanion of the Maunche"
-}
-
-Saerlaith ingen Cinneide - Alphabetical
-{
-  Adding unknown award "Golden Otter"
-  Adding unknown award "Spider"
-  Adding unknown award "Baroness' Favour"
-}
-
-Sakurai Kenjiro Takamori - Alphabetical
-{
-  Adding unknown award "Award of Awms"
-}
-
-Sárán mac Imair - Alphabetical
-{
-  Adding unknown award "Onyx Chalice"
-  Adding unknown award "Forget-Me-Not"
-  Adding unknown award "Marble Chalice"
-}
-
-Sarra Elisabeth Graeham of Birnham - Alphabetical
-{
-  Adding unknown award "Wain"
-  Adding unknown award "Hare Salient"
-}
-
-Seamus Donn - Alphabetical
-{
-  Adding unknown award "Companion des Lindquistrings"
-}
-
-Sean O Choda - Alphabetical
-{
-  Adding unknown award "Sun ans Soil"
-}
-
-Seán Ó Súilleabháin Beirre - Alphabetical
-{
-  Adding unknown award "Award of Arms arillion"
-}
-
-Sedalia MacNare - Alphabetical
-{
-  Adding unknown award "Peacock"
-}
-
-Segnat ingen Dhonnchada - Alphabetical
-{
-  Adding unknown award "Bearer of the Burdoned Bouchet"
-}
-
-Seosamh Tadhg an Crúca O'Maille - Alphabetical
-{
-  Adding unknown award "Gauntlet"
-}
-
-Shadia bint Barro - Alphabetical
-{
-  Unparsed line: Shadiyah al-Zahra
-}
-
-Shannon inghean Bhriain uí Dhuilleáin - Alphabetical
-{
-  Adding unknown award "Blasted Oak"
-  Adding unknown award "Princess's Riband"
-  Adding unknown award "Silver Bough"
-  Adding unknown award "Wandering Wolves of Oertha"
-}
-
-Sigurd the Hunter - Alphabetical
-{
-  Unparsed line: 10/25/20007 Companion of the Bronze Tower (Settmour Swamp)
-}
-
-Sigurgh Sheafing - Alphabetical
-{
-  Unparsed line: Siguror VigurHafn
-}
-
-Siobhan Forbeis of Lonachan - Alphabetical
-{
-  Unparsed line: -
-}
-
-Siobhan Ysbrand O'Choda - Alphabetical
-{
-  Adding unknown award "Cmpanion of the Sun"
-  Adding unknown award "Soil"
-}
-
-Siphai Fa'el Nammer - Alphabetical
-{
-  Adding unknown award "Silver Guantlet"
-}
-
-Solak Vaslovic - Alphabetical
-{
-  Unparsed line: ??/??/?? Companion of the Salamander (Bhakail)
-}
-
-Sorcha of Stonegrave - Alphabetical
-{
-  Unparsed line: ? Silvanus Doke (An Dubhaigeainn)
-}
-
-Spurius Genucia Rutilus - Alphabetical
-{
-  Adding unknown award "Award of Arms\"
-}
-
-Susan the Midwife - Alphabetical
-{
-  Adding unknown award "Argent Heart"
-  Adding unknown award "Radiant Rose"
-  Adding unknown award "Scorpion"
-}
 
 Tanczos Istvan - Alphabetical
 {
