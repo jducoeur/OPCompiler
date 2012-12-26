@@ -8,7 +8,7 @@ I am currently assuming that the input files are all properly-formatted XHTML. T
 originals, of course, are nothing of the sort, so they need to be run through
 TagSoup first, with a command along the lines of:
 
-java -jar ..\..\tagsoup-1.2.1.jar --files --nobogons *.html
+java -jar ..\..\..\tagsoup-1.2.1.jar --files --nobogons *.html
 
 
 Note that, in the data\awards folder, we assume that each file matches the name of

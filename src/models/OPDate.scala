@@ -82,7 +82,7 @@ trait OPDate extends Ordered[OPDate] {
 	if (isValid)
 	  (if (month == Month.Unknown) "??" else padDateNum(month.id)) + "/" + 
 	  (if (day == OPDate.Unknown) "??" else padDateNum(day)) + "/" + 
-	  year.toString
+	  (if (year == OPDate.Unknown) "????" else year.toString)
 	else
 	  "Unknown Date"
   }

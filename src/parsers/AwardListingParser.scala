@@ -19,6 +19,7 @@ class AwardListingParser extends OPFileParser {
       val rec = Recognition(persona, award.award, award.name, date = Some(date), 
           inList=true, comment=comment, where=branchOpt)
       persona.addAward(rec)
+      Log.info(rec)
     } catch {
       case _:MatchError => Log.info(line)
     }
