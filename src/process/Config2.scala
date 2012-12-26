@@ -124,7 +124,7 @@ object Config2 {
             Award("Burdened Tyger", "Brudened Tyger", "Budened Tyger", "Burden Tyger"),
             Award("Gawain", "Gawan"),
             Award("Golden Mantle"),
-            Award("Queen's Order of Courtesy", "Queen's Courtesy"),
+            Award("Queen's Order of Courtesy", "Queen's Courtesy", "QOC"),
             Award("King's Order of Excellence", "King's Excellence", "KOE"),
             Award("Silver Rapier"),
             Award("Terpsichore", "Trepsichore"),

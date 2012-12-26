@@ -7,7 +7,7 @@ import process.{Log, StringUtils}
 
 class AwardListingParser extends OPFileParser {
   
-  val awardLineRegex = """^(..?/../....) (.*)$""".r
+  val awardLineRegex = """^§?\*?(..?/../....) (.*)$""".r
   def processLine(line:String, award:AwardAs) = {
     try {
       val awardLineRegex(dateStr, content) = line
