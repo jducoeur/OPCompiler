@@ -193,7 +193,7 @@ object Config2 {
             
             Barony("Dragonship Haven", awards = Seq(
               "Yale",
-              "Hawk's Bell",
+              Award("Hawk's Bell", "Hawks Bell"),
               "Keel",
               "Oar",
               Award("St. Martin", "Company of St. Martin", "St Martin"),
@@ -205,7 +205,7 @@ object Config2 {
               "Pine",
               "Sapphire",
               "Snow Hare",
-              "Ram's Horn",
+              Award("Ram's Horn", "Rams Horn"),
               "Silver Snowflake",
               "Feather"
             )),
@@ -244,7 +244,7 @@ object Config2 {
             )),
             
             Barony("An Dubhaigeainn", awards = Seq(
-              "Drake's Spur",
+              Award("Drake's Spur", "Drakes Spur"),
               "Roasted Duck",
               "Silver Feather",
               "Silvanus Doke"
@@ -259,7 +259,7 @@ object Config2 {
             )),
             
             Barony("Iron Bog", awards = Seq(
-              "Baroness's Silver Ring",
+              Award("Baroness's Silver Ring", "Baroness Silver Ring"),
               "Duck",
               "Iron Punk",
               Award("Sable Compass", "Sable Compuss"),
