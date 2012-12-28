@@ -31460,7 +31460,7 @@ Award Listings {
     INFO:  10/01/1988   L Moon (Carolingia) -- Davide Michelotto
     INFO:  07/15/1989   L Moon (Carolingia) -- Frydherich Eisenkopf
     INFO:  07/15/1989   L Moon (Carolingia) -- Geoffrey Matthias
-    INFO:  11/14/1989   L Moon (Carolingia) -- Justin du Coeur
+    INFO:  11/04/1989   L Moon (Carolingia) -- Justin du Coeur
     INFO:  02/17/1990   L Moon (Carolingia) -- Michael of York
     INFO:  04/27/1991   L Moon (Carolingia) -- Catrin o’r Rhyd For
     INFO:  04/27/1991   L Moon (Carolingia) -- Ygraine of Kellswood
@@ -60449,8 +60449,7 @@ Alpha List {
   
   == Justin du Coeur [registered] ==
     04/15/1989 A L Award of Arms -- Justin du Coeur
-    11/04/1989 A   Moon (Carolingia) -- Justin du Coeur
-    11/14/1989   L Moon (Carolingia) -- Justin du Coeur
+    11/04/1989 A L Moon (Carolingia) -- Justin du Coeur
     02/17/1990 A L Terpsichore -- Justin du Coeur
     03/02/1991 A L Freedom of the Bridge (Bridge) -- Justin du Coeur
     10/05/1991 A L Silver Crescent -- Justin du Coeur
