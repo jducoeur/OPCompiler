@@ -11309,6 +11309,77 @@ Court Reports {
       
     }
   }
+  Hasdrubal1.xhtml {
+    Coronation, Rhydderich Hael, Apr. 24, 1982 {
+      == Coronation, Rhydderich Hael == (April 24, 1982)
+        04/24/1982  C  Earl -- Aelfwine Dunedain
+        04/24/1982  C  Countess -- Arastorm the Golden
+        04/24/1982  C  Award of Arms -- Morgan MacLeod of Dunvegan
+        04/24/1982  C  Award of Arms -- Meghan MacIan of Loch Awe
+        04/24/1982  C  Award of Arms -- Raven of the Black Tower
+      
+    }
+    Crown Tourney, Myrkewoode, May 8, 1982 {
+      == Crown Tourney, Myrkewoode == (May 8, 1982)
+        05/08/1982  C  Baron Bhakail -- Elric of Erehwon
+        05/08/1982  C  Manche -- Geoffrey d’Ayr
+        05/08/1982  C  Princess' Courtesy (Drachenwald) -- Cinhil MacAran [given in the name of HSH Drachenwald]
+      
+    }
+    In Concordia, May 30, 1982 {
+      == In Concordia == (May 30, 1982)
+        05/30/1982  C  King's Rattan Champion -- Barak Elandris Hanno
+        05/30/1982  C  Queen's Rattan Champion -- Evan Aethelwald
+      
+    }
+    In Endless Hills, Jun. 26, 1982 {
+      == In Endless Hills == (June 26, 1982)
+        06/26/1982  C  Award of Arms -- Adela de Shea
+      
+    }
+    In Drachenwald, Jun. 26, 1982 {
+      == In Drachenwald == (June 26, 1982)
+        06/26/1982  C  Court Baron -- Charles of the Marches
+      
+    }
+    In Bhakail, Jul. 3, 1982 {
+      == In Bhakail == (July 3, 1982)
+        07/03/1982  C  Award of Arms -- Manfred von Halstern
+        07/03/1982  C  Award of Arms -- Magnus Bloodax
+        07/03/1982  C  Award of Arms -- Alycia Genevieve
+        07/03/1982  C  Silver Crescent -- Cinhil MacAran
+        07/03/1982  C  Silver Crescent -- Lys d’Arras
+      
+    }
+    Pennsic, Aug. 21, 1982 {
+      == Pennsic == (August 21, 1982)
+        08/21/1982  C  Master of the Pelican -- Bertram of Bearington
+        08/21/1982  C  Mistress of the Pelican -- Eromene Aspasia of Constantinople
+        08/21/1982  C  Master of the Laurel -- James O’Neill
+        08/21/1982  C  Baron Delftwood (AEthelmearc) -- Andre-Louis de Vincent
+        08/21/1982  C  Baroness Delftwood (AEthelmearc) -- Anastasia Vanessara iz Chernigova
+        08/21/1982  C  Silver Crescent -- Michaele del Vaga
+        08/21/1982  C  Silver Crescent -- Alisoun MacCoul of Elphane
+        08/21/1982  C  Baroness of the Court -- Sedalia MacNare
+        08/21/1982  C  Grant of Arms -- Sedalia MacNare
+      
+    }
+    On the field, Pennsic, Aug. 22, 1982 {
+      == On the field, Pennsic == (August 22, 1982)
+        08/22/1982  C  Knight -- Atai Yoshina
+        08/22/1982  C  Knight -- David Morgan of Claiomh Morgan
+        08/22/1982  C  Knight -- Raim y Hynnddyl
+      
+    }
+    Last Court, Coronation, Oct. 2, 1982 {
+      == Last Court, Coronation == (October 2, 1982)
+        10/02/1982  C  Award of Arms -- Elizabeth Elandris of Blackwood
+        10/02/1982  C  Burdened Tyger -- Raven of the Black Tower
+        10/02/1982  C  Queen's Cypher -- Elric of Erehwon
+        10/02/1982  C  Queen's Cypher -- Arianna of Wynthrope
+      
+    }
+  }
   Hasdrubal2.xhtml {
     First Court, Rhydderich Hael, Apr. 14, 1984 {
       == First Court, Rhydderich Hael == (April 14, 1984)
@@ -43917,7 +43988,7 @@ Alpha List {
     09/14/2002  C  Queen's Courtesy -- Adela Krynn
   
   == Adela de Shea [registered] ==
-    06/26/1982 A L Award of Arms -- Adela de Shea
+    06/26/1982 ACL Award of Arms -- Adela de Shea
     06/30/1984 ACL Silver Crescent -- Adela de Shea
   
   == Adela de Warren [registered] ==
@@ -44255,6 +44326,9 @@ Alpha List {
     07/05/1980 A L Manche -- Aelfwine Denedom
     04/24/1982 A L Count -- Aelfwine Denedom
     01/04/1986 ACL Silver Crescent -- Aelfwine Denedom
+  
+  == Aelfwine Dunedain ==
+    04/24/1982  C  Earl -- Aelfwine Dunedain
   
   == Aelfwine Lee of Whitby ==
     07/10/1993   L AOA -- Aelfwine Lee of Whitby
@@ -46280,7 +46354,7 @@ Alpha List {
   
   == Alisoun MacCoul of Elphane ==
     02/25/1978   L AOA -- Alisoun MacCoul of Elphane [Merides]
-    08/21/1982   L Silver Crescent -- Alisoun MacCoul of Elphane
+    08/21/1982  CL Silver Crescent -- Alisoun MacCoul of Elphane
     11/27/1982  CL Terpsichore -- Alisoun MacCoul of Elphane
     01/15/1983  CL Court Baroness -- Alisoun MacCoul of Elphane
     01/15/1983  CL Grant of Arms -- Alisoun MacCoul of Elphane
@@ -46602,6 +46676,9 @@ Alpha List {
   
   == Alyce de Montmurdy ==
     SEE: Alice de Montmedy
+  
+  == Alycia Genevieve ==
+    07/03/1982  C  Award of Arms -- Alycia Genevieve
   
   == Alycia Genevive of Amrenth ==
     07/03/1982   L AOA -- Alycia Genevive of Amrenth
@@ -47082,6 +47159,7 @@ Alpha List {
   == Anastasia Vanessara iz Chernigova ==
     03/20/1982   L AOA -- Anastasia Vanessara iz Chernigova
     08/21/1982   L Grant of Arms -- Anastasia Vanessara iz Chernigova
+    08/21/1982  C  Baroness Delftwood (AEthelmearc) -- Anastasia Vanessara iz Chernigova
     10/29/1983  CL Silver Crescent -- Anastasia Vanessara iz Chernigova
   
   == Anastasia Veassellurd ==
@@ -47211,6 +47289,9 @@ Alpha List {
   
   == Andre of Twin Keeps ==
     06/13/1992 A L Award of Arms -- Andre of Twin Keeps
+  
+  == Andre-Louis de Vincent ==
+    08/21/1982  C  Baron Delftwood (AEthelmearc) -- Andre-Louis de Vincent
   
   == Andrea Caitlin MacIntyre [registered] ==
     09/22/1987 A   Sable Bell (Carillion) -- Andrea Caitlin MacIntyre
@@ -48654,7 +48735,7 @@ Alpha List {
     04/01/1978 A L Silver Crescent -- Arastorm the Golden
     07/05/1980 A L Manche -- Arastorm the Golden
     07/26/1980 A L Court Baroness -- Arastorm the Golden
-    04/24/1982 A L Countess -- Arastorm the Golden
+    04/24/1982 ACL Countess -- Arastorm the Golden
     10/03/1987 A L Millstone (Stonemarche) -- Arastorm the Golden
     08/08/2012 A   Patent of Arms -- Arastorm the Golden
     08/08/2012 A L Rose -- Arastorm the Golden
@@ -48877,6 +48958,7 @@ Alpha List {
   
   == Arianna of Wynthrope ==
     06/16/1979   L AOA -- Arianna of Wynthrope
+    10/02/1982  C  Queen's Cypher -- Arianna of Wynthrope
     03/19/1983  CL Silver Crescent -- Arianna of Wynthrope
     01/07/1984  C  Grant of Arms -- Arianna of Wynthrope
     10/20/1984  C  Queen's Cypher -- Arianna of Wynthrope
@@ -49608,6 +49690,7 @@ Alpha List {
   == Atai Yoshina ==
     04/19/1980   L Tygers Combattant -- Atai Yoshina
     08/22/1982   L Chivalry -- Atai Yoshina
+    08/22/1982  C  Knight -- Atai Yoshina
     01/06/1990   L Viscount -- Atai Yoshina [from Drachenwald]
     03/24/1990  CL Queen's Courtesy -- Atai Yoshina
   
@@ -50302,6 +50385,7 @@ Alpha List {
   
   == Barak Elandris Hanno ==
     11/07/1981   L AOA -- Barak Elandris Hanno
+    05/30/1982  C  King's Rattan Champion -- Barak Elandris Hanno
     03/19/1983  C  Tygers Combattant -- Barak Elandris Hanno
     05/??/1983  C  King's Rattan Champion -- Barak Elandris Hanno
     04/20/1985  C  Patent of Arms -- Barak Elandris Hanno
@@ -50827,7 +50911,7 @@ Alpha List {
     10/28/1978 A L Award of Arms -- Bertram of Bearington
     08/15/1981 A   Dragon's Heart (Middle) -- Bertram of Bearington
     09/25/1981 A   Silver Comet (BMDL) -- Bertram of Bearington
-    08/21/1982 A L Master of the Pelican -- Bertram of Bearington
+    08/21/1982 ACL Master of the Pelican -- Bertram of Bearington
     10/02/1982 ACL Troubadour -- Bertram of Bearington
     ??/??/1985 A   Iron Comet (BMDL) -- Bertram of Bearington
     10/29/1989 A   Lonely Tower (Lonely Tower) -- Bertram of Bearington
@@ -54640,6 +54724,9 @@ Alpha List {
   == Charles of the Dark Forest ==
     11/14/1981   L AOA -- Charles of the Dark Forest
   
+  == Charles of the Marches ==
+    06/26/1982  C  Court Baron -- Charles of the Marches
+  
   == Charles the Acquisitioner ==
     05/20/1995   L AOA -- Charles the Acquisitioner
   
@@ -55292,8 +55379,8 @@ Alpha List {
   
   == Cinhil MacAran [registered] ==
     06/07/1980 A L Award of Arms -- Cinhil MacAran
-    05/08/1982 A   Princess's Courtesy (Drachenwald) -- Cinhil MacAran
-    07/03/1982 A L Silver Crescent -- Cinhil MacAran
+    05/08/1982 AC  Princess' Courtesy (Drachenwald) -- Cinhil MacAran [given in the name of HSH Drachenwald]
+    07/03/1982 ACL Silver Crescent -- Cinhil MacAran
     10/02/1982 ACL Court Baron -- Cinhil MacAran
     09/08/1984 ACL Queen's Courtesy -- Cinhil MacAran
   
@@ -57407,6 +57494,9 @@ Alpha List {
   == David Morgan of Clai Morgan ==
     01/02/1982   L Viscount -- David Morgan of Clai Morgan [from Drachenwald]
     08/22/1982   L Chivalry -- David Morgan of Clai Morgan
+  
+  == David Morgan of Claiomh Morgan ==
+    08/22/1982  C  Knight -- David Morgan of Claiomh Morgan
   
   == David Morteyne ==
     07/17/2004 ACL Award of Arms -- David Morteyne
@@ -60775,6 +60865,9 @@ Alpha List {
   == Elizabeth Donnegal ==
     06/15/2002 ACL Award of Arms -- Elizabeth Donnegal
   
+  == Elizabeth Elandris of Blackwood ==
+    10/02/1982  C  Award of Arms -- Elizabeth Elandris of Blackwood
+  
   == Elizabeth Eleanore Lovell ==
     07/01/2006  C  Queen's Courtesy -- Elizabeth Eleanore Lovell
     08/16/2006  C  Manche -- Elizabeth Eleanore Lovell
@@ -61146,8 +61239,8 @@ Alpha List {
     10/18/1980 A L Queen's Courtesy -- Elric of Erehwon
     05/30/1981 A L Silver Crescent -- Elric of Erehwon
     02/15/1982 A L Master of the Laurel -- Elric of Erehwon
-    05/08/1982 A   Baron Bhakail -- Elric of Erehwon [retired]
-    10/02/1982 A   Queen's Cypher -- Elric of Erehwon [Kunegunda]
+    05/08/1982 AC  Baron Bhakail -- Elric of Erehwon [retired]
+    10/02/1982 AC  Queen's Cypher -- Elric of Erehwon [Kunegunda]
     ??/??/1999 A   Salamander (Bhakail) -- Elric of Erehwon
   
   == Elric von Ostenbridge ==
@@ -62115,7 +62208,7 @@ Alpha List {
     05/05/1979 A L Award of Arms -- Eromene Aspasia of Constantinople
     08/15/1981 A   Dragon's Heart (Middle) -- Eromene Aspasia of Constantinople
     09/25/1981 A   Gold Comet (BMDL) -- Eromene Aspasia of Constantinople
-    08/21/1982 A L Mistress of the Pelican -- Eromene Aspasia of Constantinople
+    08/21/1982 ACL Mistress of the Pelican -- Eromene Aspasia of Constantinople
     10/29/1989 A   Lonely Tower (Lonely Tower) -- Eromene Aspasia of Constantinople
     09/14/1991 A   Keystone (AEthelmearc) -- Eromene Aspasia of Constantinople
   
@@ -62442,6 +62535,7 @@ Alpha List {
     04/16/1988 A   Queen's Courtesy -- Evan Aethalwald
   
   == Evan Aethelwald ==
+    05/30/1982  C  Queen's Rattan Champion -- Evan Aethelwald
     04/16/1988   L QOC -- Evan Aethelwald
   
   == Evan Athalwald ==
@@ -64714,6 +64808,7 @@ Alpha List {
     12/07/1996  CL Award of Arms -- Geoffrey de Wygand
   
   == Geoffrey d’Ayr ==
+    05/08/1982  C  Manche -- Geoffrey d’Ayr
     01/07/1984  C  Master of the Laurel -- Geoffrey d’Ayr
     04/16/1988  C  Court Baron -- Geoffrey d’Ayr
   
@@ -69263,6 +69358,7 @@ Alpha List {
     07/08/1989   L Pelican -- James O'Neill
   
   == James O’Neill ==
+    08/21/1982  C  Master of the Laurel -- James O’Neill
     10/10/1987  C  Silver Crescent -- James O’Neill
     07/08/1989  C  Master of the Pelican -- James O’Neill
   
@@ -75467,6 +75563,7 @@ Alpha List {
   
   == Lys d’Arras ==
     10/06/1979   L Terpsichore -- Lys d’Arras
+    07/03/1982  C  Silver Crescent -- Lys d’Arras
   
   == Lysander Varingon ==
     08/12/1992 A   Award of Arms -- Lysander Varingon
@@ -75842,6 +75939,7 @@ Alpha List {
     03/16/1985  C  Knight -- Magnus Blodaxe
   
   == Magnus Bloodax ==
+    07/03/1982  C  Award of Arms -- Magnus Bloodax
     08/15/1987  C  Crossed Swords (Caid) -- Magnus Bloodax
     01/21/1989  C  Silver Crescent -- Magnus Bloodax
   
@@ -76216,6 +76314,7 @@ Alpha List {
     11/05/2005  CL Valiant Tyger -- Manfred von Halsstern
   
   == Manfred von Halstern ==
+    07/03/1982  C  Award of Arms -- Manfred von Halstern
     12/04/1982  C  Tygers Combattant -- Manfred von Halstern
     01/??/1983  C  Queen's Courtesy -- Manfred von Halstern
     04/23/1983  C  Queen's Cypher -- Manfred von Halstern
@@ -77958,7 +78057,7 @@ Alpha List {
     08/12/1992 A   Silver Crescent -- Meghan Fitzgerald
   
   == Meghan MacIan of Loch Awe [registered] ==
-    04/24/1982 A L Award of Arms -- Meghan MacIan of Loch Awe
+    04/24/1982 ACL Award of Arms -- Meghan MacIan of Loch Awe
     01/15/1983 ACL Burdened Tyger -- Meghan MacIan of Loch Awe [autocrats for Crown Tourney]
     02/28/1987   L Maunche -- Meghan MacIan of Loch Awe
     02/28/1987 ACL Silver Crescent -- Meghan MacIan of Loch Awe [erroneously listed as AOA in May Pikestaff, corrected in June issue]
@@ -78577,7 +78676,7 @@ Alpha List {
     05/09/1981   L Terpsichore -- Michaele del Vaga
     04/24/1982   L Grant of Arms -- Michaele del Vaga
     04/24/1982   L Court Barony -- Michaele del Vaga
-    08/21/1982   L Silver Crescent -- Michaele del Vaga
+    08/21/1982  CL Silver Crescent -- Michaele del Vaga
     01/14/1984  CL Mistress of the Pelican -- Michaele del Vaga
     10/05/1985  C  Queen's Cypher -- Michaele del Vaga
     09/12/1992  CL Manche -- Michaele del Vaga
@@ -79388,6 +79487,7 @@ Alpha List {
     04/11/1987  C  Mistress of the Pelican -- Morgan MacLeod of Dunnvegan
   
   == Morgan MacLeod of Dunvegan ==
+    04/24/1982  C  Award of Arms -- Morgan MacLeod of Dunvegan
     01/??/1983  C  Burdened Tyger -- Morgan MacLeod of Dunvegan [autocrats for Crown Tourney]
     10/08/1983  C  Grant of Arms -- Morgan MacLeod of Dunvegan
     10/08/1983  C  Court Baroness -- Morgan MacLeod of Dunvegan
@@ -82845,6 +82945,7 @@ Alpha List {
     07/12/1980   L Maunche -- Raim y Hynnddyl
     01/02/1982   L Troubadour -- Raim y Hynnddyl
     08/22/1982   L Chivalry -- Raim y Hynnddyl
+    08/22/1982  C  Knight -- Raim y Hynnddyl
     01/08/1983   L Viscount -- Raim y Hynnddyl [from Drachenwald]
   
   == Raimar of Ferndale ==
@@ -83152,6 +83253,10 @@ Alpha List {
   
   == Raven of Skye ==
     11/25/2000 ACL Award of Arms -- Raven of Skye
+  
+  == Raven of the Black Tower ==
+    04/24/1982  C  Award of Arms -- Raven of the Black Tower
+    10/02/1982  C  Burdened Tyger -- Raven of the Black Tower
   
   == Ravenild Frogenhall [registered] ==
     07/24/2004 ACL Award of Arms -- Ravenild Frogenhall
@@ -86511,8 +86616,8 @@ Alpha List {
     10/18/1980 A L Burdened Tyger -- Sedalia MacNare
     01/03/1981 A L Silver Crescent -- Sedalia MacNare
     01/14/1981 A   Gold Comet (BMDL) -- Sedalia MacNare
-    08/21/1982 A   Court Baroness -- Sedalia MacNare
-    08/21/1982 A L Grant of Arms -- Sedalia MacNare
+    08/21/1982 AC  Baroness of the Court -- Sedalia MacNare
+    08/21/1982 ACL Grant of Arms -- Sedalia MacNare
     04/14/1984  C  Patent of Arms -- Sedalia MacNare
     04/14/1984 ACL Countess -- Sedalia MacNare
     04/14/1984 ACL Lady of the Rose -- Sedalia MacNare

@@ -585,7 +585,7 @@ object Config2 {
         Kingdom("Drachenwald",
           awards = Seq(
             Award("Popular Company of Sojourners", "Principality Company of Sojourners"),
-            Award("Princess's Order of Courtesy", "Princess's Courtesy"),
+            Award("Princess's Order of Courtesy", "Princess's Courtesy", "Princess' Courtesy"),
             "Dragons Pride",
             "Dragons Tear",
             Award("Lady of the Edelweiss", "Lady of the Marguerite"),
