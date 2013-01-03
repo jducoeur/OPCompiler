@@ -35,7 +35,8 @@ class CurrentCourtReportParser extends CourtReportParser {
           // Give up, and assume it's Rattan:
           parsedAwardName.replace("Champion", "Rattan Champion")
       } else
-        parsedAwardName
+        // Give up, and assume it's Rattan:
+        parsedAwardName.replace("Champion", "Rattan Champion")
     } else
       parsedAwardName
     
