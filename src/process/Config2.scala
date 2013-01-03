@@ -100,7 +100,7 @@ object Config2 {
             Award("Confirmation of Gentility"),
             
             // Closed Orders
-            Award("Guardsman"),
+            Award("Guardsman", "Kingdom Order of Fence", "Kingdom Fence", "Fence"),
             Award("Fatima"),
             Award("Pheon"),
             
