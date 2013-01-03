@@ -245,7 +245,7 @@ object Config2 {
               "Fountain of Bergental"
             )),
             
-            Barony("An Dubhaigeainn", awards = Seq(
+            Barony("An Dubhaigeainn", synonyms = Seq("An Dubhaingeainn"), awards = Seq(
               Award("Drake's Spur", "Drakes Spur"),
               "Roasted Duck",
               "Silver Feather",
@@ -318,6 +318,8 @@ object Config2 {
             Barony("Delftwood", awards = Seq(
               "Windmill"
             )),
+            
+            Barony("Rhydderich Hael"),
             
             Barony("Thescorre", awards = Seq(
               "Raven's Feather"
