@@ -8,6 +8,32 @@ object Month extends Enumeration {
   type Month = Value
   
   val Unknown, January, February, March, April, May, June, July, August, September, October, November, December = Value
+  
+  val byName = Map(
+    ("January" -> January),
+    ("Jan" -> January),
+    ("February" -> February),
+    ("Feb" -> February),
+    ("March" -> March),
+    ("Mar" -> March),
+    ("April" -> April),
+    ("Apr" -> April),
+    ("May" -> May),
+    ("June" -> June),
+    ("Jun" -> June),
+    ("July" -> July),
+    ("Jul" -> July),
+    ("August" -> August),
+    ("Aug" -> August),
+    ("September" -> September),
+    ("Sept" -> September),
+    ("October" -> October),
+    ("Oct" -> October),
+    ("November" -> November),
+    ("Nov" -> November),
+    ("December" -> December),
+    ("Dec" -> December)
+  )
 }
 
 import Month._
@@ -95,9 +121,11 @@ abstract class OPDateFromString(val fromStr:String) extends OPDate {
 
 // This version parses the modern court-report format, eg, "February 22, 1998"
 class OPCourtDate(f:String) extends OPDateFromString(f) {
-	val dateMatch:Option[Regex.Match] = OPDate.dateRegex.findFirstMatchIn(fromStr)
+	val dateMatch:Option[Regex.Match] = {
+	  OPDate.dateRegex.findFirstMatchIn(fromStr) orElse OPDate.abbrevRegex.findFirstMatchIn(fromStr)
+	}
 	
-	def month = getField("month", Month.withName(_), Month.Unknown)
+	def month = getField("month", Month.byName(_), Month.Unknown)
 	def day = getField("day", _.toInt, OPDate.Unknown)
 	def year = getField("year", _.toInt, OPDate.Unknown)
 }
@@ -157,6 +185,7 @@ class InvalidOPDate extends OPDate {
 
 object OPDate {
 	val dateRegex:Regex = new Regex("""(January|February|March|April|May|June|July|August|September|October|November|December) (\d\d?)(th|st)?, (\d\d\d\d)""", "month", "day", "suffix", "year")
+	val abbrevRegex:Regex = new Regex("""(Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept|Sep|Oct|Nov|Dec)\.? (\d\d?)(th|st)?, (\d\d\d\d)""", "month", "day", "suffix", "year")
 	val shortRegex:Regex = new Regex("""(..?)/(..?)/(..\S\S)""", "month", "day", "year")
 	val shorterRegex:Regex = new Regex("""(..?)/(..?)/(..)""", "month", "day", "year")
 	val Unknown = -1

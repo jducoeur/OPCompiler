@@ -14,8 +14,8 @@ class CurrentCourtReportParser extends CourtReportParser {
   def processRow(itemRow:Node, court:Court, index:Int):Seq[Recognition] = {
     val cells = itemRow \ "td" toList
     val awardCell :: nameCell :: dummy = cells
-    val awardName = awardCell.text.trim
-    val personaName = nameCell.text.trim
+    val awardName = StringUtils.scrub(awardCell.text)
+    val personaName = StringUtils.scrub(nameCell.text)
     val persona = Persona.find(personaName)
     val (parsedAwardName, comment) = ParseUtils.extractComment(awardName)
     
@@ -47,6 +47,33 @@ class CurrentCourtReportParser extends CourtReportParser {
   import scala.util.matching.Regex;
   val stripDash:Regex = """,?\s*-?\s*$""".r
   
+  def processGuts(caption:String, businessNodes:NodeSeq) = {
+    // ... remove basic junk...
+    val scrubbedCaption = process.StringUtils.scrub(caption)
+    Log.pushContext(scrubbedCaption)
+    // ... separate it into date and event name...
+    var courtDate:OPDateFromString = new OPCourtDate(scrubbedCaption)
+    if (!courtDate.isValid)
+      courtDate = new OPShortDate(scrubbedCaption)
+    if (!courtDate.isValid)
+      Log.error("Can't find a date in " + scrubbedCaption)
+    val courtTitleMessy = courtDate.prefix.toString
+    // ... strip out the separators between event name and date...
+    val tryStrip:Option[Regex.Match] = stripDash.findFirstMatchIn(courtTitleMessy)
+    val courtTitle =
+      if (tryStrip.nonEmpty)
+        tryStrip.get.before.toString
+      else
+        courtTitleMessy
+    // ... and now we're finally ready to start building the court:
+    val court = new Court(courtTitle, courtDate)
+    var index = 0;
+    val start:Seq[Recognition] = Seq.empty
+    court.business = businessNodes.foldLeft(start)((vec, businessRow) => vec ++: processRow(businessRow, court, vec.size))
+    Log.print(court.toString)
+    Log.popContext    
+  }
+  
   def processTable(tableNode:Node) = {
     val rows = tableNode \\ "tr"
     // Split the rows into the ones with a colspan of 2 -- the caption -- and the rest, which
@@ -71,31 +98,7 @@ class CurrentCourtReportParser extends CourtReportParser {
           if (captionDivs.length > 0) captionDivs.head.text.trim else ""
         }
       }
-    // ... remove basic junk...
-    val scrubbedCaption = process.StringUtils.scrub(caption)
-    Log.pushContext(scrubbedCaption)
-    // ... separate it into date and event name...
-    var courtDate:OPDateFromString = new OPCourtDate(scrubbedCaption)
-    if (!courtDate.isValid)
-      courtDate = new OPShortDate(scrubbedCaption)
-    if (!courtDate.isValid)
-      Log.error("Can't find a date in " + scrubbedCaption)
-    val courtTitleMessy = courtDate.prefix.toString
-    // ... strip out the separators between event name and date...
-    val tryStrip:Option[Regex.Match] = stripDash.findFirstMatchIn(courtTitleMessy)
-    val courtTitle =
-      if (tryStrip.nonEmpty)
-        tryStrip.get.before.toString
-      else
-        courtTitleMessy
-    // ... and now we're finally ready to start building the court:
-    val court = new Court(courtTitle, courtDate)
-    var index = 0;
-    val start:Seq[Recognition] = Seq.empty
-    court.business = businessNodes.foldLeft(start)((vec, businessRow) => vec ++: processRow(businessRow, court, vec.size))
-    Log.print(court.toString)
-    Log.popContext
-    court
+    processGuts(caption, businessNodes)
   }
   
   def processFile(fileNode:Elem, name:String) = {
@@ -105,6 +108,26 @@ class CurrentCourtReportParser extends CourtReportParser {
   }
 }
 object CurrentCourtReportParser extends CurrentCourtReportParser {}
+
+
+/**
+ * This deals with the "old" style of Court Report, originally maintained in Word. These are
+ * similar to the current style, but the captions are simply paragraphs preceding the tables,
+ * which makes parsing a tad trickier.
+ */
+trait WordCourtReportParser extends CurrentCourtReportParser {
+  override def processFile(fileNode:Elem, name:String) = {
+    val bodyNode = fileNode \\ "body" head
+    val wordSection = bodyNode \\ "div" head
+    val elements = wordSection.child filter (_.isInstanceOf[Elem])
+    // This pairs up each node with the one before it
+    val pairs = elements.tail.zip(elements)
+    val tablePairs = pairs filter (_._1.label == "table")
+    
+    tablePairs.foreach(pair => processGuts(pair._2.text.trim, pair._1 \\ "tr"))
+  }
+}
+object WordCourtReportParser extends WordCourtReportParser {}
 
 
 /**

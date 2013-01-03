@@ -70,7 +70,7 @@ object Config2 {
       ++ Champion("Arts and Sciences", "A&S", "Arts & Sciences")
       ++ Champion("Bardic", "Bard")
       ++ Champion("Horse", "Equestrian")
-      ++ Champion("Rapier", "Fence"),
+      ++ Champion("Rapier", "Fence", "Fencing"),
         
       // Kingdoms
       children = Seq(

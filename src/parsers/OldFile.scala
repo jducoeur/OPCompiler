@@ -27,7 +27,8 @@ object FilesToProcess {
   val alphas = makeFiles("\\alpha", FileType.Alpha, AlphaParser)
   val courtReports = 
     makeFiles("\\chrono", FileType.CourtReport, CurrentCourtReportParser) ++: 
-    makeFiles("\\chrono\\oneTable", FileType.CourtReport,OneTableCourtReportParser)
+    makeFiles("\\chrono\\oneTable", FileType.CourtReport, OneTableCourtReportParser) ++:
+    makeFiles("\\chrono\\word", FileType.CourtReport, WordCourtReportParser)
   val awards = makeFiles("\\awards", FileType.AwardListing, AwardListingParser)
   
   def processOneType(files:Seq[OldFile], title:String) = {

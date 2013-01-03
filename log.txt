@@ -9520,6 +9520,283 @@ Court Reports {
       
     }
   }
+  Lucan3.xhtml {
+    Coronation, Quintavia, Oct. 5, 1996 {
+      == Coronation, Quintavia == (October 5, 1996)
+        10/05/1996  C  Countess -- Morgen DuVal
+        10/05/1996  C  Count -- Bjorn Karlsson
+        10/05/1996  C  Lady of the Rose -- Morgen DuVal
+        10/05/1996  C  Award of Arms -- Idhounea Tearlachsdottir
+        10/05/1996  C  Court Baroness -- Irene le Noir
+        10/05/1996  C  Grant of Arms -- Irene le Noir
+        10/05/1996  C  Award of Arms -- Tadhg an Sinneach
+        10/05/1996  C  Award of Arms -- Heinrich MacKinnon
+        10/05/1996  C  Silver Crescent -- Reynards des Montaignes
+        10/05/1996  C  Award of Arms -- Emrys y Cynnid
+        10/05/1996  C  Tygers Combattant -- Evan Hardrada
+        10/05/1996  C  Queen's Courtesy -- William Blackwing
+        10/05/1996  C  Queen's Courtesy -- Ulrich von der Insel
+        10/05/1996  C  Queen's Honor of Distinction -- Gillian of the Greenwoods
+        10/05/1996  C  Queen's Honor of Distinction -- Michel Almond de Champagne
+        10/05/1996  C  Queen's Honor of Distinction -- Clothilde von der Insel
+      
+    }
+    Pointless War, Atlantia, Oct. 12, 1996 {
+      == Pointless War, Atlantia == (October 12, 1996)
+        10/12/1996  C  Queen's Courtesy -- Edwyn Beerslayer
+        10/12/1996  C  Mistress of the Laurel -- Leah di Estera
+        10/12/1996  C  Knight -- Edmund Dracateur
+      
+    }
+    Queen’s Birthday, Bridge, Oct. 20, 1996 {
+      == Queen’s Birthday, Bridge == (October 20, 1996)
+        10/20/1996  C  Award of Arms -- Catriona nic Pharlain
+        10/20/1996  C  Award of Arms -- Ian Raven of Tadcaster
+        10/20/1996  C  Award of Arms -- Annys Wolf of Wharram Percy
+        10/20/1996  C  Troubadour -- I Sebastiani Commedia dell’Arte Troupe
+        10/20/1996  C  Queen's Courtesy -- Geoffrey de Wygand
+      
+    }
+    Crown Tourney, Rusted Woodlands, Oct. 26, 1996 {
+      == Crown Tourney, Rusted Woodlands == (October 26, 1996)
+        10/26/1996  C  Crown Prince -- Hanse von Drachenklaue
+        10/26/1996  C  Crown Princess -- Moruadh of An Tir Caillte
+        10/26/1996  C  Award of Arms -- Branwen of House Raven’s Moon
+        10/26/1996  C  Award of Arms -- Thomas of Northpass
+        10/26/1996  C  Award of Arms -- Denaya Treeslayer
+        10/26/1996  C  Award of Arms -- Gabrielle Verde
+        10/26/1996  C  Award of Arms -- Zachary Wolfhunter
+        10/26/1996  C  Award of Arms -- Anabel Ravaya de Guzman
+        10/26/1996  C  Shield of Chivalry -- Hanse von Drachenklaue
+      
+    }
+    Legends of Chivalry, Canton of the Towers, Nov. 2, 1996 {
+      == Legends of Chivalry, Canton of the Towers == (November 2, 1996)
+        11/02/1996  C  Burdened Tyger -- Dante de Felice
+        11/02/1996  C  Burdened Tyger -- Marietta Angelica de Felice Antonio
+        11/02/1996  C  Burdened Tyger -- Dughall MacAran
+        11/02/1996  C  Award of Arms -- Dughall MacAran
+        11/02/1996  C  Award of Arms -- William Atwood
+        11/02/1996  C  Award of Arms -- Larissa of Swanmere
+        11/02/1996  C  Award of Arms -- Dov ben Walter
+        11/02/1996  C  Award of Arms -- Ealhswith of Evesham
+        11/02/1996  C  Award of Arms -- Simon Kenrick
+        11/02/1996  C  Award of Arms -- Angus Scrymgeour
+        11/02/1996  C  Award of Arms -- Logan McTavish
+        11/02/1996  C  Silver Crescent -- Steffan Skywatcher
+        11/02/1996  C  Silver Crescent -- Susanna del Lago
+        11/02/1996  C  Mistress of the Laurel -- Dante de Felice
+      
+    }
+    Simplefare, Fennbrycg, Nov. 2, 1996 {
+      == Simplefare, Fennbrycg == (November 2, 1996)
+        11/02/1996  C  Award of Arms -- Beileag Urquhart
+        11/02/1996  C  Award of Arms -- Roger de Guillaume
+        11/02/1996  C  Manche -- Ragnarr Two-Axe of the Reeking Swamp
+      
+    }
+    Hundred Minutes War, Nov. 23, 1996 {
+      == Hundred Minutes War == (November 23, 1996)
+        11/23/1996  C  Queen's Honor of Distinction -- Connor MacLiam
+        11/23/1996  C  Award of Arms -- Domnail MacFhiondara
+        11/23/1996  C  Award of Arms -- Oksana Goncharova
+        11/23/1996  C  Award of Arms -- Haraldr Bassi
+        11/23/1996  C  Award of Arms -- Caterina Giaoccini called Kasia One-Sleeve
+        11/23/1996  C  Manche -- Phynian ap Llewellen
+        11/23/1996  C  Manche -- Loriwynn the Harper
+        11/23/1996  C  Manche -- Joseph van der Cullen
+        11/23/1996  C  Queen's Courtesy -- Seanan an Chasur
+        11/23/1996  C  Knight -- Yngvar the Dismal
+      
+    }
+    East Kingdom University, Ruantallan, Nov. 30, 1996 {
+      == East Kingdom University, Ruantallan == (November 30, 1996)
+        11/30/1996  C  Award of Arms -- Felicity Blindshooter of Wolfsgate
+        11/30/1996  C  Award of Arms -- Sylvan Elkinson
+        11/30/1996  C  Award of Arms -- Elspeth of the Mayfair
+        11/30/1996  C  Queen's Courtesy -- Elspeth of the Mayfair
+        11/30/1996  C  Queen's Honor of Distinction -- Harold von Auerbach
+        11/30/1996  C  Manche -- Elkin du Vere
+        11/30/1996  C  Manche -- Adriana of Aberstwyth
+        11/30/1996  C  Troubadour -- Anastassia Wakefield of Coventry
+        11/30/1996  C  Award of Arms -- Armand d l’Abacus
+        11/30/1996  C  Award of Arms -- Adele de Leon
+        11/30/1996  C  Award of Arms -- Elisabeth Darnsley
+        11/30/1996  C  Award of Arms -- Eleyne of Locarron
+        11/30/1996  C  Queen's Courtesy -- Lyanna of Kernough
+        11/30/1996  C  Court Baron -- Harold von Auerbach
+        11/30/1996  C  Court Baroness -- Aine Callaghan
+        11/30/1996  C  Grant of Arms -- Aine Callaghan
+      
+    }
+    Bridge Birthday, Bridge, Dec. 7, 1996 {
+      == Bridge Birthday, Bridge == (December 7, 1996)
+        12/07/1996  C  Award of Arms -- Brianna of Bywater
+        12/07/1996  C  Award of Arms -- Geoffrey de Wygand
+        12/07/1996  C  Award of Arms -- Rowan Elfhame
+        12/07/1996  C  Award of Arms -- Moruadh of An Tir Caillte
+        12/07/1996  C  Court Baron -- Sarant the Myopic
+        12/07/1996  C  Grant of Arms -- Sarant the Myopic
+      
+    }
+    Italian Renaissance Yule, Bhakail, Dec. 14, 1996 {
+      == Italian Renaissance Yule, Bhakail == (December 14, 1996)
+        12/14/1996  C  Award of Arms -- Adrian de Cadiz
+        12/14/1996  C  Award of Arms -- Ragnar of the Silver Lake
+        12/14/1996  C  Award of Arms -- Beorn O’Dea
+        12/14/1996  C  Troubadour -- Christovau Vasquez
+        12/14/1996  C  Troubadour -- Allessandro dell’Abaco
+        12/14/1996  C  Troubadour -- Lucrezia Franceschina Andreini
+        12/14/1996  C  Terpsichore -- Philadelphia Brown
+        12/14/1996  C  Terpsichore -- Mathilde Eschenbach
+      
+    }
+    East Kingdom Twelfth Night, Jan. 4, 1997 {
+      == East Kingdom Twelfth Night == (January 4, 1997)
+        01/04/1997  C  Manche -- Lucrezia Francheschina Andreini
+        01/04/1997  C  King's Excellence -- Isabella of York
+        01/04/1997  C  Mistress of the Pelican -- Johanna Dudley
+        01/04/1997  C  Master of the Pelican -- Aquel of Darkstead Wood
+        01/04/1997  C  Master of Arms -- Robin Wallace
+        01/04/1997  C  Augmentation of Arms -- Feral von Halstern [the right to the epithet “Kingmaker”]
+      
+    }
+    East Kingdom University, Carolingia, Jan. 25, 1997 {
+      == East Kingdom University, Carolingia == (January 25, 1997)
+        01/25/1997  C  Award of Arms -- Bess of Winter Hill
+        01/25/1997  C  Award of Arms -- John Irongut
+        01/25/1997  C  Queen's Courtesy -- Kale Harlansson of Gotland
+        01/25/1997  C  Queen's Honor of Distinction -- Caryl de Trecesson
+        01/25/1997  C  Award of Arms -- Cormac Longstrider
+        01/25/1997  C  Award of Arms -- Rosalynd ate Rhylle
+        01/25/1997  C  Award of Arms -- Thomas the Unnamed
+        01/25/1997  C  Award of Arms -- Umm Salamagulina-na ibnat asuman-dukht Al Basrai yyatun Mah huly
+        01/25/1997  C  Award of Arms -- Robur de Roestoc
+        01/25/1997  C  Award of Arms -- Bevin of Forest Reach
+        01/25/1997  C  Troubadour -- Pamelina of Avon
+        01/25/1997  C  Troubadour -- Harald Longfellow
+        01/25/1997  C  Troubadour -- Yelizaveta Medvedeva
+      
+    }
+    Market Day at Birka, Stonemarche, Feb. 1, 1997 {
+      == Market Day at Birka, Stonemarche == (February 1, 1997)
+        02/01/1997  C  Award of Arms -- Xavier Ramiriz
+        02/01/1997  C  Award of Arms -- Sunniva Ormstung
+        02/01/1997  C  Award of Arms -- Sabina Portinari
+        02/01/1997  C  Award of Arms -- Bridget MacPhie
+        02/01/1997  C  Award of Arms -- Yitzhak iben Yoshua
+        02/01/1997  C  Terpsichore -- Dugal McCafferty
+        02/01/1997  C  Terpsichore -- Coenric of Scarborough Marsh
+        02/01/1997  C  Award of Arms -- Lalage de Peregraine
+        02/01/1997  C  Award of Arms -- Anthony Reese
+        02/01/1997  C  Award of Arms -- Ceri of Caerfrybdin
+        02/01/1997  C  Award of Arms -- Catherine Peacock
+        02/01/1997  C  Award of Arms -- Tristan Macdonald
+        02/01/1997  C  King's Excellence -- Claus of Burzee
+        02/01/1997  C  Silver Crescent -- Ian Gunn
+        02/01/1997  C  Silver Crescent -- Amethysta of Kensington
+        02/01/1997  C  Silver Crescent -- Brita Mairi Svensdottir
+        02/01/1997  C  Mistress of the Laurel -- Margarey Culano de Tracey
+        02/01/1997  C  Master of the Pelican -- Krakken Gnashbone
+      
+    }
+    Black Rose Ball, Bridge, Feb. 15, 1997 {
+      == Black Rose Ball, Bridge == (February 15, 1997)
+        02/15/1997  C  Award of Arms -- Genevieve d’Anjou
+      
+    }
+    Queen’s Feast, Debatable Lands, Feb. 22, 1997 {
+      == Queen’s Feast, Debatable Lands == (February 22, 1997)
+        02/22/1997  C  Manche -- Dani of the Seven Wells
+        02/22/1997  C  Manche -- Tofi Kerjalfsen
+        02/22/1997  C  Manche -- Genevieve de Caulde Font
+        02/22/1997  C  Award of Arms -- Cecily of Auria Ripea
+        02/22/1997  C  Award of Arms -- Ceridwen of Cour d’Or
+        02/22/1997  C  Terpsichore -- Christopher Troweslagh
+        02/22/1997  C  Terpsichore -- Filip of the Marche
+        02/22/1997  C  Award of Arms -- Elisabeth Borden
+        02/22/1997  C  Award of Arms -- Alaycia Trelease
+        02/22/1997  C  Troubadour -- Caitlin the Patient
+        02/22/1997  C  Troubadour -- Edmundo de Monreal
+        02/22/1997  C  Troubadour -- Donan the Solitary
+        02/22/1997  C  Award of Arms -- Kieran MacRae
+        02/22/1997  C  Award of Arms -- Michael Alwright
+        02/22/1997  C  Queen's Courtesy -- Will Langdon of Greymorne
+        02/22/1997  C  Queen's Courtesy -- Ardis Bluemantle
+        02/22/1997  C  Queen's Courtesy -- Rurik Longsword
+        02/22/1997  C  Queen's Honor of Distinction -- Johan von Traubenberg
+        02/22/1997  C  Queen's Honor of Distinction -- Arianna of Wynthrope
+        02/22/1997  C  Master of the Laurel -- Fidelco de Rochefort
+      
+    }
+    King’s and Queen’s Fencing Champions, Carillion, Mar. 1, 1997 {
+      == King’s and Queen’s Fencing Champions, Carillion == (March 1, 1997)
+        03/01/1997  C  Award of Arms -- Ailean Longship
+        03/01/1997  C  Silver Crescent -- Ruslan Novgorodcev
+        03/01/1997  C  Award of Arms -- Dulcia Sabine
+        03/01/1997  C  Award of Arms -- Duncan Macleod [backlog]
+        03/01/1997  C  Award of Arms -- Krey Macleod [backlog]
+        03/01/1997  C  Award of Arms -- Theresa
+        03/01/1997  C  Award of Arms -- Orlando Sforza
+        03/01/1997  C  Golden Rapier -- Armand de la Poor
+        03/01/1997  C  King's Fencing Champion -- Enrique di Valencia
+        03/01/1997  C  Queen's Fencing Champion -- Brock Jarlsson
+      
+    }
+    Crystal Snowflake Ball, Concordia of the Snows, Mar. 8, 1997 {
+      == Crystal Snowflake Ball, Concordia of the Snows == (March 8, 1997)
+        03/08/1997  C  Award of Arms -- Kyran O’Connelly
+        03/08/1997  C  Award of Arms -- Ruteger Lutz
+        03/08/1997  C  Award of Arms -- Katherine Montclair
+        03/08/1997  C  Award of Arms -- Kassandra Lundgarten
+        03/08/1997  C  Troubadour -- Faoiltigearna Muirinn ni Artain
+        03/08/1997  C  Award of Arms -- Eleazar the Zealot
+        03/08/1997  C  Award of Arms -- Olivia de la Paz
+        03/08/1997  C  Queen's Courtesy -- Eleri of Nefyn
+      
+    }
+    Gulf Wars, Mar. 15, 1997 {
+      == Gulf Wars == (March 15, 1997)
+        03/15/1997  C  Queen's Honor of Distinction -- Celestine di Chatham
+      
+    }
+    Royal Bardic Championships, An Dubhaigeainn, Mar. 22, 1997 {
+      == Royal Bardic Championships, An Dubhaigeainn == (March 22, 1997)
+        03/22/1997  C  Award of Arms -- Cecelia von dem Morgenroete
+        03/22/1997  C  Sagittarius -- Geoffrey St. Albans of Eastwood
+        03/22/1997  C  Silver Crescent -- Mikhail Reubenovic Kopacewski
+        03/22/1997  C  Court Baron -- Beowulf tha Meerstapa
+        03/22/1997  C  King's Bard -- Ruaraidh an Cu
+        03/22/1997  C  Queen's Bard -- Denkwert Maccabee Bathory
+        03/22/1997  C  Mistress of the Laurel -- Anastassja Diaz de Leon
+      
+    }
+    Last Court, Coronation, Bergental, Apr. 5, 1997 {
+      == Last Court, Coronation, Bergental == (April 5, 1997)
+        04/05/1997  C  Award of Arms -- Jocelyn Tarr
+        04/05/1997  C  Award of Arms -- Ulf Ulson
+        04/05/1997  C  Award of Arms -- Meadhbh ni Loingsigh
+        04/05/1997  C  Award of Arms -- Derek von Schwartzwald
+        04/05/1997  C  King's Excellence -- Rhys of Harlech
+        04/05/1997  C  King's Excellence -- Aria de Chatillon
+        04/05/1997  C  Queen's Honor of Distinction -- Aveline Keyes
+        04/05/1997  C  Queen's Honor of Distinction -- A’isha bint Jamil
+        04/05/1997  C  Queen's Honor of Distinction -- Caitlin Davies
+        04/05/1997  C  Queen's Honor of Distinction -- Susanna del Lago
+        04/05/1997  C  Grant of Arms -- Susanna del Lago
+        04/05/1997  C  Troubadour -- Pompinea Beatrice Andreini
+        04/05/1997  C  Queen's Courtesy -- Alaric Wolfgang von Melinthin und Drachenklaue
+        04/05/1997  C  Queen's Cypher -- Caitlin O hAodha
+        04/05/1997  C  Queen's Cypher -- Rowan Elfham
+        04/05/1997  C  Queen's Cypher -- Brianna of Bywater
+        04/05/1997  C  Queen's Cypher -- Azelin Cola of Wishford
+        04/05/1997  C  Queen's Cypher -- Jana von Drachenklaue and Steffan ap Kennydd
+        04/05/1997  C  Manche -- Cenwulf Bearwes
+        04/05/1997  C  Mistress of the Pelican -- Caitlin O hAodha
+        04/05/1997  C  Mistress of the Pelican -- Jessa d’Avondale
+      
+    }
+  }
 }
 Alphabetical {
   Prec_a.xhtml {
@@ -37230,7 +37507,8 @@ Alpha List {
     09/24/1994 A   Queen's Courtesy -- Achilles son Asia
     10/01/1994 A   Queen's Cypher -- Achilles son Asia [Jana]
     09/30/1995 A   Master at Arms -- Achilles son Asia
-    10/26/1996   L Shield of Chivalry -- Hanse von Drachenklaue
+    10/26/1996  C  Crown Prince -- Hanse von Drachenklaue
+    10/26/1996  CL Shield of Chivalry -- Hanse von Drachenklaue
     09/27/1997 ACL Count -- Hanse von Drachenklaue
     09/25/1999 ACL Duke -- Hanse von Drachenklaue
     10/28/2000  C  Prince -- Hanse von Drachenklaue
@@ -37343,6 +37621,9 @@ Alpha List {
     06/05/2002 A L Daystar (Carolingia) -- Adele Mallory
     02/08/2003 ACL Queen's Courtesy -- Adele Mallory
   
+  == Adele de Leon ==
+    11/30/1996  C  Award of Arms -- Adele de Leon
+  
   == Adele de Lyon ==
     11/26/2005  CL Manche -- Adele de Lyon
   
@@ -37433,7 +37714,7 @@ Alpha List {
     09/16/1989 A   Principality Company of Sojourners (Drachenwald) -- Adrian Meddylgar
   
   == Adrian de Cadiz ==
-    12/14/1996   L AOA -- Adrian de Cadiz
+    12/14/1996  CL Award of Arms -- Adrian de Cadiz
   
   == Adrian of Saint Clair [registered] ==
     08/12/1987 A   Raven's Feather (Thescorre) -- Adrian of Saint Clair
@@ -37446,7 +37727,7 @@ Alpha List {
     07/29/1995 A L Award of Arms -- Adriana Calabrese
   
   == Adriana of Aberstwyth ==
-    11/30/1996   L Maunche -- Adriana of Aberstwyth
+    11/30/1996  CL Manche -- Adriana of Aberstwyth
   
   == Adrianna MacLaren MacKinnon ==
     03/15/2002 ACL Award of Arms -- Adrianna MacLaren MacKinnon
@@ -38014,6 +38295,9 @@ Alpha List {
     07/14/2012 A   Queen's Honor of Distinction -- Aildreda de Tamworthe, called Dreda
   
   
+  == Ailean Longship ==
+    03/01/1997  C  Award of Arms -- Ailean Longship
+  
   == Ailean Mac an Daraich [registered] ==
     06/01/1991 A   White Oak (Beyond the Mountain) -- Ailean Mac an Daraich
     06/13/1992 A   Award of Arms -- Ailean Mac an Daraich
@@ -38094,8 +38378,8 @@ Alpha List {
     05/02/1987 A L Award of Arms -- Aine Callaghan
     09/29/1990 A L Millstone (Stonemarche) -- Aine Callaghan
     09/17/1994 A L Manche -- Aine Callaghan
-    11/30/1996 A L Court Baroness -- Aine Callaghan
-    11/30/1996 A L Grant of Arms -- Aine Callaghan
+    11/30/1996 ACL Court Baroness -- Aine Callaghan
+    11/30/1996 ACL Grant of Arms -- Aine Callaghan
     02/05/2000 ACL Silver Crescent -- Aine Callaghan
     02/02/2002 ACL Mistress of the Pelican -- Aine Callaghan
     02/01/2003 ACL Burdened Tyger -- Aine Callaghan
@@ -38384,6 +38668,9 @@ Alpha List {
     02/19/2000   L Chivalry -- Alaric Sartiano von Drachenklaue [from Caid]
     11/17/2001   L Count -- Alaric Sartiano von Drachenklaue [from Caid]
   
+  == Alaric Wolfgang von Melinthin und Drachenklaue ==
+    04/05/1997  C  Queen's Courtesy -- Alaric Wolfgang von Melinthin und Drachenklaue
+  
   == Alaric Wolfgang von Menlinthin und Drachenklaue ==
     04/05/1997   L QOC -- Alaric Wolfgang von Menlinthin und Drachenklaue
   
@@ -38510,7 +38797,7 @@ Alpha List {
     05/26/2007 ACL Award of Arms -- Alaxander Maclochloinn
   
   == Alaycia Trelease ==
-    02/22/1997   L AOA -- Alaycia Trelease
+    02/22/1997  CL Award of Arms -- Alaycia Trelease
   
   
   
@@ -39566,6 +39853,9 @@ Alpha List {
   
   
   
+  == Allessandro dell’Abaco ==
+    12/14/1996  C  Troubadour -- Allessandro dell’Abaco
+  
   == Allezabet ==
     03/29/2003   L Troubadour -- Allezabet [of Settmour Swamp]
   
@@ -39989,7 +40279,7 @@ Alpha List {
   == Amethysta of Kensington [registered] ==
     01/19/1991 A L Award of Arms -- Amethysta of Kensington
     06/21/1992 A L Millstone (Stonemarche) -- Amethysta of Kensington
-    02/01/1997 A L Silver Crescent -- Amethysta of Kensington
+    02/01/1997 ACL Silver Crescent -- Amethysta of Kensington
   
   == Amhranai of Smithwick ==
     01/29/2005 ACL Award of Arms -- Amhranai of Smithwick
@@ -40103,7 +40393,7 @@ Alpha List {
     01/15/1983 A   Award of Arms -- Ana-Theresa Rosala y Marcos
   
   == Anabel Ravaya de Guzman ==
-    10/26/1996   L AOA -- Anabel Ravaya de Guzman
+    10/26/1996  CL Award of Arms -- Anabel Ravaya de Guzman
   
   == Ananda Rhiannon ==
     05/09/1987 A L Award of Arms -- Ananda Rhiannon
@@ -40206,7 +40496,10 @@ Alpha List {
     04/14/2007 ACL Award of Arms -- Anastasiia Temnoloshadshaya
   
   == Anastassia Wakefield of Coventry ==
-    11/30/1996 A L Troubadour -- Anastassia Wakefield of Coventry
+    11/30/1996 ACL Troubadour -- Anastassia Wakefield of Coventry
+  
+  == Anastassja Diaz de Leon ==
+    03/22/1997  C  Mistress of the Laurel -- Anastassja Diaz de Leon
   
   == Anastassja Diaz de Léon ==
     03/22/1997   L Laurel -- Anastassja Diaz de Léon
@@ -40752,7 +41045,7 @@ Alpha List {
   
   
   == Angus Scrymgeour ==
-    11/02/1996   L AOA -- Angus Scrymgeour
+    11/02/1996  CL Award of Arms -- Angus Scrymgeour
   
   == Angus Scrymgeoure [registered] ==
     11/02/1996 A   Award of Arms -- Angus Scrymgeoure
@@ -41198,7 +41491,7 @@ Alpha List {
     06/23/2012   L Court Barony -- Annys Wolf of Wharam Percy
   
   == Annys Wolf of Wharram Percy [registered] ==
-    10/20/1996 A L Award of Arms -- Annys Wolf of Wharram Percy
+    10/20/1996 ACL Award of Arms -- Annys Wolf of Wharram Percy
     08/09/2011 A   Flame of Bhakail (Bhakail) -- Annys Wolf of Wharram Percy
     06/16/2012 A   Flame of Bhakail (Bhakail) -- Annys Wolf of Wharram Percy
     06/23/2012 A   Court Barony -- Annys Wolf of Wharram Percy
@@ -41245,7 +41538,7 @@ Alpha List {
     01/31/2004  CL Award of Arms -- Anthony Martin of Sheffield
   
   == Anthony Reese [registered] ==
-    02/01/1997 A L Award of Arms -- Anthony Reese
+    02/01/1997 ACL Award of Arms -- Anthony Reese
   
   == Antoine de Bayonne ==
     10/12/1996   L AOA -- Antoine de Bayonne
@@ -41510,6 +41803,7 @@ Alpha List {
   
   == Aquel of Darkstead Wood ==
     07/21/1990   L Maunche -- Aquel of Darkstead Wood
+    01/04/1997  C  Master of the Pelican -- Aquel of Darkstead Wood
   
   == Aquel of Darksted Wood [registered] ==
     02/09/1980 A L Award of Arms -- Aquel of Darksted Wood
@@ -41668,7 +41962,7 @@ Alpha List {
   == Ardis Bluemantle ==
     03/27/1982   L AOA -- Ardis Bluemantle
     04/14/1984   L Maunche -- Ardis Bluemantle
-    02/22/1997   L QOC -- Ardis Bluemantle
+    02/22/1997  CL Queen's Courtesy -- Ardis Bluemantle
   
   == Arelinda Poincelin [registered] ==
     AKA: Aurelien Tolbarry
@@ -41685,6 +41979,9 @@ Alpha List {
   
   == Ari de Lyon ==
     07/26/1997 ACL Award of Arms -- Ari de Lyon
+  
+  == Aria de Chatillon ==
+    04/05/1997  C  King's Excellence -- Aria de Chatillon
   
   == Aria de Châtillon ==
     02/25/1989   L AOA -- Aria de Châtillon [from Atlantia]
@@ -41792,6 +42089,7 @@ Alpha List {
     10/05/1985   L Pelican -- Arianna of Wynthrope
     03/15/1986   L Troubadour -- Arianna of Wynthrope
     08/17/1991   L Laurel -- Arianna of Wynthrope
+    02/22/1997  C  Queen's Honor of Distinction -- Arianna of Wynthrope
   
   == Arianna of l'Isle du Dragon Dormant ==
     05/23/1998  C  Award of Arms -- Arianna of l'Isle du Dragon Dormant
@@ -41989,6 +42287,9 @@ Alpha List {
   == Armand Vozon du Angoumois ==
     09/15/1979   L AOA -- Armand Vozon du Angoumois
   
+  == Armand d l’Abacus ==
+    11/30/1996  C  Award of Arms -- Armand d l’Abacus
+  
   == Armand d'Ezukadi ==
     04/25/1998  C  Award of Arms -- Armand d'Ezukadi
   
@@ -42000,7 +42301,7 @@ Alpha List {
   
   == Armand de la Poor ==
     07/10/1993 A L Award of Arms -- Armand de la Poor
-    03/01/1997 A L Golden Rapier -- Armand de la Poor
+    03/01/1997 ACL Golden Rapier -- Armand de la Poor
   
   == Armand de l’Abacus ==
     11/30/1996 A L Award of Arms -- Armand de l’Abacus
@@ -42736,6 +43037,9 @@ Alpha List {
     11/07/1992   L AOA -- Avelina Percival
     04/30/1995   L Daystar (Carolingia) -- Avelina Percival
   
+  == Aveline Keyes ==
+    04/05/1997  C  Queen's Honor of Distinction -- Aveline Keyes
+  
   == Aveline d' Amiens ==
     11/26/2011 A   Award of Arms -- Aveline d' Amiens
   
@@ -42864,6 +43168,7 @@ Alpha List {
     AKA: Ralph the Carter
     09/24/1994   L AOA -- Azelin Cola of Wishford
     12/07/1996   L Pillar (Bridge) -- Azelin Cola of Wishford
+    04/05/1997  C  Queen's Cypher -- Azelin Cola of Wishford
     04/05/1997  C  Queen's Courtesy -- Azelin Cola of Wishford
     12/08/2001   L Silver Crescent -- Ralph the Carter
     08/15/2005   L Troubadour -- Ralph the Carter [Azelin Cola of Wishford]
@@ -42894,6 +43199,7 @@ Alpha List {
   
   == A’isha bint Jamil ==
     07/20/1996   L Silver Crescent -- A’isha bint Jamil
+    04/05/1997  C  Queen's Honor of Distinction -- A’isha bint Jamil
     08/13/1997   L Grant of Arms -- A’isha bint Jamil
     08/13/1997   L Court Barony -- A’isha bint Jamil
   
@@ -43385,7 +43691,7 @@ Alpha List {
     08/18/2005 ACL Award of Arms -- Beorn Ironhand
   
   == Beorn O’Dea ==
-    12/14/1996 A L Award of Arms -- Beorn O’Dea
+    12/14/1996 ACL Award of Arms -- Beorn O’Dea
   
   == Beornwulf the Beligerent ==
     05/22/1993   L AOA -- Beornwulf the Beligerent
@@ -43399,6 +43705,9 @@ Alpha List {
     10/09/1993   L Chivalry -- Beowulf Wyrmcleaw tha Meerstapa
     10/09/1993 A   Master at Arms -- Beowulf Wyrmcleaw tha Meerstapa
     03/22/1997 A L Court Baron -- Beowulf Wyrmcleaw tha Meerstapa
+  
+  == Beowulf tha Meerstapa ==
+    03/22/1997  C  Court Baron -- Beowulf tha Meerstapa
   
   == Berach MacTavish ==
     ??/??/1999 A   Fish (Carillion) -- Berach MacTavish
@@ -43601,7 +43910,7 @@ Alpha List {
     11/20/1976   L Viscount -- Bevin Fraser of Stirling [from Caid]
   
   == Bevin of Forest Reach ==
-    01/25/1997 A L Award of Arms -- Bevin of Forest Reach
+    01/25/1997 ACL Award of Arms -- Bevin of Forest Reach
   
   == Beyeta Robakovna ==
     07/22/1978   L AOA -- Beyeta Robakovna
@@ -43704,7 +44013,7 @@ Alpha List {
     05/11/1991   L Perseus (Carolingia) -- Bjorn Karlsson
     04/30/1994 A L Master of the Pelican -- Bjorn Karlsson
     01/28/1995 A L Tygers Combattant -- Bjorn Karlsson
-    10/05/1996 A L Count -- Bjorn Karlsson
+    10/05/1996 ACL Count -- Bjorn Karlsson
   
   == Bjorn Korpklo ==
     01/06/1990   L AOA -- Bjorn Korpklo
@@ -44079,6 +44388,7 @@ Alpha List {
   
   == Branwen of House Raven’s Moon ==
     09/21/1996 A L Award of Arms -- Branwen of House Raven’s Moon
+    10/26/1996  C  Award of Arms -- Branwen of House Raven’s Moon
     05/02/1998 A   Troubadour -- Branwen of House Raven’s Moon
   
   == Branwyn Mwrheyd [registered] ==
@@ -44423,6 +44733,9 @@ Alpha List {
     11/10/1990 A L Award of Arms -- Bridget Greywolf of Kayell
     11/26/1994 A L Troubadour -- Bridget Greywolf of Kayell
   
+  == Bridget MacPhie ==
+    02/01/1997  C  Award of Arms -- Bridget MacPhie
+  
   == Bridget McPhie [registered] ==
     02/01/1997 A L Award of Arms -- Bridget McPhie
   
@@ -44648,7 +44961,7 @@ Alpha List {
     07/21/1990 A L Award of Arms -- Brita Mairi Svensdottir
     08/12/1992 A   Golden Rapier -- Brita Mairi Svensdottir
     10/05/1996 A   King's Cypher -- Brita Mairi Svensdottir [Bjorn]
-    02/01/1997 A L Silver Crescent -- Brita Mairi Svensdottir
+    02/01/1997 ACL Silver Crescent -- Brita Mairi Svensdottir
     09/11/1999 ACL Mistress of the Pelican -- Brita Mairi Svensdottir
     02/04/2012 ACL Queen's Courtesy -- Brita Mairi Svensdottir
   
@@ -44707,6 +45020,9 @@ Alpha List {
   
   == Brochfael the Anglespurian ==
     04/11/2009  C  Burdened Tyger -- Brochfael the Anglespurian
+  
+  == Brock Jarlsson ==
+    03/01/1997  C  Queen's Fencing Champion -- Brock Jarlsson
   
   == Broddr Tryggrsson ==
     AKA: Tristan of Thunder Mountain -
@@ -45365,7 +45681,7 @@ Alpha List {
     01/25/1992 A L Silver Crescent -- Caitlin Davies
     01/15/1994 A L Mistress of the Pelican -- Caitlin Davies
     10/05/1996 A   Queen's Cypher -- Caitlin Davies [Morgen]
-    04/05/1997 A   Queen's Honor of Distinction -- Caitlin Davies [Elspeth]
+    04/05/1997 AC  Queen's Honor of Distinction -- Caitlin Davies [Elspeth]
     09/12/1998 ACL Court Baroness -- Caitlin Davies
     12/04/2004 A L Moon (Carolingia) -- Caitlin Davies
     01/08/2005 ACL (Kingdom) Augmentation of Arms -- Caitlin Davies
@@ -45410,6 +45726,8 @@ Alpha List {
     02/27/1993   L Court Barony -- Caitlin O hAodha
     06/04/1994   L Silver Crescent -- Caitlin O hAodha
     10/01/1994   L Burdened Tyger -- Caitlin O hAodha
+    04/05/1997  C  Mistress of the Pelican -- Caitlin O hAodha
+    04/05/1997  C  Queen's Cypher -- Caitlin O hAodha
     04/04/1998  CL Countess -- Caitlin O hAodha
     04/04/1998  CL Lady of the Rose -- Caitlin O hAodha
     07/21/2001  C  Queen's Honor of Distinction -- Caitlin O hAodha
@@ -45456,6 +45774,9 @@ Alpha List {
   
   == Caitlin of Carolingia ==
     12/10/1983 A L Award of Arms -- Caitlin of Carolingia
+  
+  == Caitlin the Patient ==
+    02/22/1997  C  Troubadour -- Caitlin the Patient
   
   == Caitlin Ó hAodha [registered] ==
     09/10/1983 A   Award of Arms -- Caitlin Ó hAodha
@@ -45873,7 +46194,7 @@ Alpha List {
     10/14/1978   L Moon (Carolingia) -- Caryl de Trecesson
     01/05/1983 A L Manche -- Caryl de Trecesson
     02/21/1987 A L Daystar (Carolingia) -- Caryl de Trecesson
-    01/25/1997 A   Queen's Honor of Distinction -- Caryl de Trecesson
+    01/25/1997 AC  Queen's Honor of Distinction -- Caryl de Trecesson
     07/20/2002 ACL Silver Crescent -- Caryl de Trecesson
     02/08/2003  CL Golden Lyre -- Caryl de Trecesson [dessert board]
     12/11/2004 ACL Mistress of the Laurel -- Caryl de Trecesson
@@ -46114,6 +46435,9 @@ Alpha List {
   == Caterina Giaoccini ==
     11/23/1996   L AOA -- Caterina Giaoccini [Kasia One-sleeve]
   
+  == Caterina Giaoccini called Kasia One-Sleeve ==
+    11/23/1996  C  Award of Arms -- Caterina Giaoccini called Kasia One-Sleeve
+  
   == Caterina Gioacchini ==
     01/13/2001  CL Manche -- Caterina Gioacchini
   
@@ -46205,7 +46529,7 @@ Alpha List {
     12/05/1981   L AOA -- Catherine Montague the Muse
   
   == Catherine Peacock [registered] ==
-    02/01/1997 A   Award of Arms -- Catherine Peacock
+    02/01/1997 AC  Award of Arms -- Catherine Peacock
     09/05/1999 A L Millstone (Stonemarche) -- Catherine Peacock
     04/01/2000 ACL Burdened Tyger -- Catherine Peacock
     02/02/2002 ACL Burdened Tyger -- Catherine Peacock
@@ -46414,7 +46738,7 @@ Alpha List {
     08/19/1993   L Laurel -- Catriona nic Duibh
   
   == Catriona nic Pharlain [registered] ==
-    10/20/1996 A L Award of Arms -- Catriona nic Pharlain
+    10/20/1996 ACL Award of Arms -- Catriona nic Pharlain
   
   == Catriona of Downpatrick [registered] ==
     09/07/1996 A L Award of Arms -- Catriona of Downpatrick
@@ -46478,6 +46802,9 @@ Alpha List {
   == Cecelia of Bhakail ==
     01/11/2003 AC  Award of Arms -- Cecelia of Bhakail
   
+  == Cecelia von dem Morgenroete ==
+    03/22/1997  C  Award of Arms -- Cecelia von dem Morgenroete
+  
   == Cecelia von dem Morgenrote ==
     03/22/1997 A L Award of Arms -- Cecelia von dem Morgenrote
   
@@ -46507,7 +46834,7 @@ Alpha List {
     12/28/1991   L AOA -- Cecilia of Northpass
   
   == Cecily of Auria Ripea ==
-    02/22/1997   L AOA -- Cecily of Auria Ripea
+    02/22/1997  CL Award of Arms -- Cecily of Auria Ripea
   
   == Cecily of Middleham ==
     10/28/1978 A L Award of Arms -- Cecily of Middleham
@@ -46619,6 +46946,9 @@ Alpha List {
   == Celestina Pompeii Arcadia ==
     03/25/2006 ACL Award of Arms -- Celestina Pompeii Arcadia
   
+  == Celestine di Chatham ==
+    03/15/1997  C  Queen's Honor of Distinction -- Celestine di Chatham
+  
   == Celia ==
     07/26/2003   L AOA -- Celia [of Eisental]
   
@@ -46728,7 +47058,7 @@ Alpha List {
     08/16/1990 A L Silver Crescent -- Cenwulf Bearwes
     05/18/1991 A L Burdened Tyger -- Cenwulf Bearwes
     04/11/1992 A L Court Baron -- Cenwulf Bearwes
-    04/05/1997 A L Manche -- Cenwulf Bearwes
+    04/05/1997 ACL Manche -- Cenwulf Bearwes
     04/08/2000 AC  Queen's Cypher -- Cenwulf Bearwes [Marieke II]
     04/08/2000 ACL Grant of Arms -- Cenwulf Bearwes
     02/02/2002 ACL Master of the Pelican -- Cenwulf Bearwes
@@ -46781,6 +47111,9 @@ Alpha List {
   == Ceri of Caaerfrybdin ==
     02/01/1997 A L Award of Arms -- Ceri of Caaerfrybdin
   
+  == Ceri of Caerfrybdin ==
+    02/01/1997  C  Award of Arms -- Ceri of Caerfrybdin
+  
   == Ceridewn ferch Rhys Michael ==
     10/26/1985   L AOA -- Ceridewn ferch Rhys Michael
   
@@ -46801,7 +47134,7 @@ Alpha List {
     01/04/1992   L AOA -- Ceridwen ferch Gurfydd
   
   == Ceridwen of Cour d’Or ==
-    02/22/1997   L AOA -- Ceridwen of Cour d’Or
+    02/22/1997  CL Award of Arms -- Ceridwen of Cour d’Or
   
   == Ceridwen of Erewthon ==
     09/10/1988   L AOA -- Ceridwen of Erewthon
@@ -47319,7 +47652,7 @@ Alpha List {
     04/18/1987   L AOA -- Christopher Troweselagh [from Middle]
   
   == Christopher Troweslagh ==
-    02/22/1997   L Terpsichore -- Christopher Troweslagh
+    02/22/1997  CL Terpsichore -- Christopher Troweslagh
   
   == Christopher Trowesleagh ==
     05/20/1995   L AOA -- Christopher Trowesleagh
@@ -47385,7 +47718,7 @@ Alpha List {
     10/01/2011 AC  Seamstress to the Crown -- Annabella di Cherubino
   
   == Christovau Vasquez ==
-    12/14/1996   L Troubadour -- Christovau Vasquez
+    12/14/1996  CL Troubadour -- Christovau Vasquez
   
   == Chritopher Micheal ==
     08/19/1995   L Tygers Cub -- Chritopher Micheal
@@ -47621,7 +47954,7 @@ Alpha List {
   
   == Claus of Burzee [registered] ==
     06/23/1990 A   Award of Arms -- Claus of Burzee
-    02/01/1997 A L King's Excellence -- Claus of Burzee
+    02/01/1997 ACL King's Excellence -- Claus of Burzee
     01/23/1999 ACL Manche -- Claus of Burzee
     06/14/2003 ACL Court Baron -- Claus of Burzee
   
@@ -47648,6 +47981,7 @@ Alpha List {
   
   == Clothilde von der Insel ==
     04/09/1994   L Pillar (Bridge) -- Clothilde von der Insel
+    10/05/1996  C  Queen's Honor of Distinction -- Clothilde von der Insel
     02/28/1998   L Grant of Arms -- Clothilde von der Insel
     02/28/1998  CL Court Baroness -- Clothilde von der Insel
     04/04/1998  C  Queen's Cypher -- Clothilde von der Insel
@@ -47704,7 +48038,7 @@ Alpha List {
   == Coenric of Scarborough Marsh [registered] ==
     07/27/1991 A L Award of Arms -- Coenric of Scarborough Marsh
     12/14/1996 A L Millstone (Stonemarche) -- Coenric of Scarborough Marsh
-    02/01/1997 A L Terpsichore -- Coenric of Scarborough Marsh
+    02/01/1997 ACL Terpsichore -- Coenric of Scarborough Marsh
     02/05/2000 ACL Silver Crescent -- Coenric of Scarborough Marsh
     02/02/2002 ACL Sagittarius -- Coenric of Scarborough Marsh
   
@@ -47999,6 +48333,9 @@ Alpha List {
   
   == Connor MacKay ==
     04/11/2009 ACL Award of Arms -- Connor MacKay
+  
+  == Connor MacLiam ==
+    11/23/1996  C  Queen's Honor of Distinction -- Connor MacLiam
   
   == Connor MacRaibert ==
     11/27/1999  CL Silver Crescent -- Connor MacRaibert
@@ -48300,7 +48637,7 @@ Alpha List {
   
   == Cormac Longstrider [registered] ==
     04/23/1994 A L Tygers Cub -- Cormac Longstrider
-    01/25/1997 A L Award of Arms -- Cormac Longstrider
+    01/25/1997 ACL Award of Arms -- Cormac Longstrider
     07/17/1999 A L Millstone (Stonemarche) -- Cormac Longstrider
   
   == Cormac MacEammon na Connemara ==
@@ -49165,7 +49502,7 @@ Alpha List {
   == Dani of the Seven Wells ==
     07/16/1988   L AOA -- Dani of the Seven Wells
     04/01/1989   L Terpsichore -- Dani of the Seven Wells
-    02/22/1997   L Maunche -- Dani of the Seven Wells
+    02/22/1997  CL Manche -- Dani of the Seven Wells
   
   == Danica of Stonemarch ==
     08/11/2011  C  Award of Arms -- Danica of Stonemarch
@@ -49242,8 +49579,8 @@ Alpha List {
     02/27/1993 A L Daystar (Carolingia) -- Dante de Felice
     02/05/1994 A L Moon (Carolingia) -- Dante de Felice
     08/17/1996 A L Manche -- Dante de Felice
-    11/02/1996 A L Burdened Tyger -- Dante de Felice
-    11/02/1996 A L Mistress of the Laurel -- Dante de Felice
+    11/02/1996 ACL Burdened Tyger -- Dante de Felice
+    11/02/1996 ACL Mistress of the Laurel -- Dante de Felice
   
   == Dante of Mountain Freehold ==
     05/29/1999 ACL Award of Arms -- Dante of Mountain Freehold
@@ -49724,13 +50061,16 @@ Alpha List {
     08/17/1994   L Maunche -- Den Hornblower
   
   == Denaya Treeslayer ==
-    10/26/1996 A L Award of Arms -- Denaya Treeslayer
+    10/26/1996 ACL Award of Arms -- Denaya Treeslayer
   
   == Denewulf Ringmaker ==
     10/08/1994   L AOA -- Denewulf Ringmaker
   
   == Denis de Courcey of the Kells [registered] ==
     10/16/1982 A L Troubadour -- Denis de Courcey of the Kells
+  
+  == Denkwert Maccabee Bathory ==
+    03/22/1997  C  Queen's Bard -- Denkwert Maccabee Bathory
   
   == Denys the Decadent ==
     09/16/1989   L AOA -- Denys the Decadent
@@ -49785,6 +50125,9 @@ Alpha List {
   == Derek vom Schwartzwald [registered] ==
     04/05/1997 A L Award of Arms -- Derek vom Schwartzwald
     05/02/1998 ACL Tygers Combattant -- Derek vom Schwartzwald
+  
+  == Derek von Schwartzwald ==
+    04/05/1997  C  Award of Arms -- Derek von Schwartzwald
   
   == Derfel Mallory ==
     05/04/2002  CL Silver Crescent -- Derfel Mallory
@@ -50250,7 +50593,7 @@ Alpha List {
     10/06/2007 ACL Grant of Arms -- Dominus of Rome
   
   == Domnail MacFhiondara ==
-    11/23/1996   L AOA -- Domnail MacFhiondara
+    11/23/1996  CL Award of Arms -- Domnail MacFhiondara
   
   == Domnall MacDaniell [registered] ==
     01/26/1991 A   Award of Arms -- Domnall MacDaniell
@@ -50358,6 +50701,9 @@ Alpha List {
   == Donall Gallivin [registered] ==
     02/05/1994 A   Award of Arms -- Donall Gallivin
     12/03/2012 A   Silver Crescent -- Donall Gallivin
+  
+  == Donan the Solitary ==
+    02/22/1997  C  Troubadour -- Donan the Solitary
   
   == Donavan Hynndyll ==
     10/14/1978 A L Tygers Cub -- Donavan Hynndyll
@@ -50568,7 +50914,7 @@ Alpha List {
     03/10/2001 ACL Award of Arms -- Douglas the Indecisive
   
   == Dov ben Walter ==
-    11/02/1996 A L Award of Arms -- Dov ben Walter
+    11/02/1996 ACL Award of Arms -- Dov ben Walter
   
   == Dracho of Elibeth ==
     01/29/1994   L AOA -- Dracho of Elibeth
@@ -50699,7 +51045,7 @@ Alpha List {
     10/03/2009 ACL Award of Arms -- Dugal MacDugal
   
   == Dugal McCafferty ==
-    02/01/1997   L Terpsichore -- Dugal McCafferty
+    02/01/1997  CL Terpsichore -- Dugal McCafferty
   
   == Dugald of Wolf’s End ==
     12/10/1994 A L Award of Arms -- Dugald of Wolf’s End
@@ -50750,13 +51096,14 @@ Alpha List {
   == Dughall MacAran [registered] ==
     02/17/1990 A   Award of Arms -- Dughall MacAran
     07/06/1991 A   Daystar (Carolingia) -- Dughall MacAran
-    11/02/1996 A L Burdened Tyger -- Dughall MacAran
+    11/02/1996  C  Award of Arms -- Dughall MacAran
+    11/02/1996 ACL Burdened Tyger -- Dughall MacAran
   
   == Duke Inman, of Ansteorra ==
     07/06/1996   L QOC -- Duke Inman, of Ansteorra
   
   == Dulcia Sabine [registered] ==
-    03/01/1997 A L Award of Arms -- Dulcia Sabine
+    03/01/1997 ACL Award of Arms -- Dulcia Sabine
   
   == Dulcinea from the Moor [registered] ==
     03/27/1993 A   Award of Arms -- Dulcinea from the Moor
@@ -50846,7 +51193,7 @@ Alpha List {
     09/27/1997  C  Award of Arms -- Duncan MacKinnon
   
   == Duncan Macleod ==
-    03/01/1997 A L Award of Arms -- Duncan Macleod
+    03/01/1997 ACL Award of Arms -- Duncan Macleod [backlog]
   
   == Duncan McFarland ==
     07/09/2010 ACL Award of Arms -- Duncan McFarland
@@ -51125,7 +51472,7 @@ Alpha List {
     03/16/1985   L Laurel -- Ealasaid nic Phearsoinn
   
   == Ealhswith of Evesham [registered] ==
-    11/02/1996 A L Award of Arms -- Ealhswith of Evesham
+    11/02/1996 ACL Award of Arms -- Ealhswith of Evesham
   
   == Eamonn ==
     04/01/1989   L AOA -- Eamonn
@@ -51239,6 +51586,9 @@ Alpha List {
   == Edmond d'Everaux ==
     07/18/2009 A L Award of Arms -- Edmond d'Everaux
   
+  == Edmund Dracateur ==
+    10/12/1996  C  Knight -- Edmund Dracateur
+  
   == Edmund Dracatorr ==
     01/08/1994   L Tygers Combattant -- Edmund Dracatorr
     09/09/1995   L Viscount -- Edmund Dracatorr [from AEthelmearc]
@@ -51295,6 +51645,9 @@ Alpha List {
   == Edmundo da Monreale ==
     08/13/1995   L AOA -- Edmundo da Monreale
     02/22/1997   L Troubadour -- Edmundo da Monreale
+  
+  == Edmundo de Monreal ==
+    02/22/1997  C  Troubadour -- Edmundo de Monreal
   
   == Edouard Chartier [registered] ==
     07/10/1993 A L Award of Arms -- Edouard Chartier
@@ -51484,7 +51837,7 @@ Alpha List {
   
   == Edwyn Beerslayer ==
     11/07/1987   L White Oak (Beyond the Mountain) -- Edwyn Beerslayer
-    10/12/1996   L QOC -- Edwyn Beerslayer
+    10/12/1996  CL Queen's Courtesy -- Edwyn Beerslayer
   
   == Efa Gath fach, called Parsley [registered] ==
     09/30/1995 A   Award of Arms -- Efa Gath fach, called Parsley
@@ -52084,6 +52437,9 @@ Alpha List {
   == Eleazar ha-Levi ==
     03/09/1996   L Maunche -- Eleazar ha-Levi
   
+  == Eleazar the Zealot ==
+    03/08/1997  C  Award of Arms -- Eleazar the Zealot
+  
   == Elektra Leonidas ==
     07/25/1987   L AOA -- Elektra Leonidas
   
@@ -52175,7 +52531,7 @@ Alpha List {
     11/05/1988   L AOA -- Eleri of Nefyn
     01/08/1994   L Silver Crescent -- Eleri of Nefyn
     04/09/1994   L Burdened Tyger -- Eleri of Nefyn
-    03/08/1997   L QOC -- Eleri of Nefyn
+    03/08/1997  CL Queen's Courtesy -- Eleri of Nefyn
     08/12/1998  CL Mistress of the Pelican -- Eleri of Nefyn
     11/21/1998  CL Court Baroness -- Eleri of Nefyn
     10/28/2000  CL Manche -- Eleri of Nefyn
@@ -52191,6 +52547,9 @@ Alpha List {
   
   == Eleyne de Combourg ==
     10/14/2000  C  Award of Arms -- Eleyne de Combourg
+  
+  == Eleyne of Locarron ==
+    11/30/1996  C  Award of Arms -- Eleyne of Locarron
   
   == Elfrida Perigrynna ==
     04/19/1980   L Fatima -- Elfrida Perigrynna
@@ -52283,7 +52642,7 @@ Alpha List {
     07/29/1990   L Iceberg (Ruantallan) -- Elisabeth 'Verily' Idelwine
   
   == Elisabeth Borden ==
-    02/22/1997 A L Award of Arms -- Elisabeth Borden
+    02/22/1997 ACL Award of Arms -- Elisabeth Borden
     12/07/2002 A L Pillar of the Bridge (Bridge) -- Elisabeth Borden
     10/02/2004 ACL Silver Crescent -- Elisabeth Borden
     04/14/2007 A   Queen's Honor of Distinction -- Elisabeth Borden [Jana IV]
@@ -52297,7 +52656,7 @@ Alpha List {
     11/30/2002  C  Terpsichore -- Elisabeth Darnley
   
   == Elisabeth Darnsley ==
-    11/30/1996   L AOA -- Elisabeth Darnsley
+    11/30/1996  CL Award of Arms -- Elisabeth Darnsley
   
   == Elisabeth Greenleaf ==
     08/14/2002 ACL Manche -- Elisabeth Greenleaf
@@ -52687,7 +53046,7 @@ Alpha List {
     11/30/1996 A   Manche -- Elkin de Verre
   
   == Elkin du Vere ==
-    11/30/1996   L Maunche -- Elkin du Vere
+    11/30/1996  CL Manche -- Elkin du Vere
   
   == Ella Kieransdottir ==
     09/24/2005 ACL Tygers Cub -- Ella Kieransdottir
@@ -52914,8 +53273,8 @@ Alpha List {
     04/27/1991 A L Award of Arms -- Elspeth of Puttenham
   
   == Elspeth of the Mayfair ==
-    11/30/1996 A L Award of Arms -- Elspeth of the Mayfair
-    11/30/1996 A L Queen's Courtesy -- Elspeth of the Mayfair
+    11/30/1996 ACL Award of Arms -- Elspeth of the Mayfair
+    11/30/1996 ACL Queen's Courtesy -- Elspeth of the Mayfair
   
   == Elspeth of the Red Tresses ==
     05/10/1986   L AOA -- Elspeth of the Red Tresses
@@ -53167,6 +53526,9 @@ Alpha List {
     03/27/1982 A   Award of Arms -- Emrys y Crwydryn
     07/12/1986 A   Pillar of the Bridge (Bridge) -- Emrys y Crwydryn
   
+  == Emrys y Cynnid ==
+    10/05/1996  C  Award of Arms -- Emrys y Cynnid
+  
   == Emrys y Cynydd [registered] ==
     10/05/1996 A L Award of Arms -- Emrys y Cynydd
     01/23/1999 ACL Sagittarius -- Emrys y Cynydd
@@ -53222,6 +53584,9 @@ Alpha List {
   == Enrique de Valencia [registered] ==
     01/28/1995 A L Award of Arms -- Enrique de Valencia
     08/12/1998 ACL Golden Rapier -- Enrique de Valencia
+  
+  == Enrique di Valencia ==
+    03/01/1997  C  King's Fencing Champion -- Enrique di Valencia
   
   == Enzo Fishmonger ==
     06/16/2007 ACL Award of Arms -- Enzo Fishmonger
@@ -54021,7 +54386,7 @@ Alpha List {
   == Evan Hardrada [registered] ==
     03/04/1995 A L Freedom of the Bridge (Bridge) -- Evan Hardrada
     04/20/1996 A L Award of Arms -- Evan Hardrada
-    10/05/1996 A L Tygers Combattant -- Evan Hardrada
+    10/05/1996 ACL Tygers Combattant -- Evan Hardrada
   
   == Evan Killmister ==
     12/04/1993   L AOA -- Evan Killmister
@@ -54165,7 +54530,7 @@ Alpha List {
     07/04/1998  CL Manche -- Faoiltigearna Muirin ni Artain
   
   == Faoiltigearna Muirinn ni Artain ==
-    03/08/1997   L Troubadour -- Faoiltigearna Muirinn ni Artain
+    03/08/1997  CL Troubadour -- Faoiltigearna Muirinn ni Artain
     01/30/1999   L Grant of Arms -- Faoiltigearna Muirinn ni Artain
   
   == Faoiltigearna Muirinn ni Artain ui Niall ==
@@ -54318,7 +54683,7 @@ Alpha List {
     01/29/1994   L AOA -- Feliciano Grimaldi
   
   == Felicity Blindshooter of Wolfsgate ==
-    11/30/1996 A L Award of Arms -- Felicity Blindshooter of Wolfsgate
+    11/30/1996 ACL Award of Arms -- Felicity Blindshooter of Wolfsgate
   
   == Felicity of Heronter ==
     08/13/1995   L AOA -- Felicity of Heronter
@@ -54364,7 +54729,7 @@ Alpha List {
     01/10/1987   L Court Barony -- Feral von Halstern
     08/18/1990   L Pelican -- Feral von Halstern
     12/19/1992   L Troubadour -- Feral von Halstern
-    01/04/1997   L Kingdom Augmentation -- Feral von Halstern
+    01/04/1997  CL Augmentation of Arms -- Feral von Halstern [the right to the epithet “Kingmaker”]
     09/28/2002  C  King's Cypher -- Feral von Halstern
     09/27/2003  CL Royal Augmentation of Arms -- Feral von Halstern
     09/24/2005  CL Foreign Tyger -- Feral von Halstern
@@ -54507,7 +54872,7 @@ Alpha List {
     07/07/1990   L AOA -- Fianna of Clare
   
   == Fidelco de Rochefort ==
-    02/22/1997   L Laurel -- Fidelco de Rochefort
+    02/22/1997  CL Master of the Laurel -- Fidelco de Rochefort
   
   == Fideleco De Rochforte ==
     07/19/1986 A   White Oak (Beyond the Mountain) -- Fideleco De Rochforte
@@ -54531,7 +54896,7 @@ Alpha List {
     08/13/1995   L AOA -- Fiipka of Cour d’Or
   
   == Filip of the Marche ==
-    02/22/1997   L Terpsichore -- Filip of the Marche
+    02/22/1997  CL Terpsichore -- Filip of the Marche
   
   == Fina Cae ingean Madadain ==
     03/31/2001   L Grant of Arms -- Fina Cae ingean Madadain
@@ -55358,6 +55723,9 @@ Alpha List {
   == Gabrielle Santiago de Villaquemada ==
     05/02/1998  C  Award of Arms -- Gabrielle Santiago de Villaquemada
   
+  == Gabrielle Verde ==
+    10/26/1996  C  Award of Arms -- Gabrielle Verde
+  
   == Gabrielle an Ruadh ==
     05/28/2006   L Bronze Tower (Settmour Swamp) -- Gabrielle an Ruadh
   
@@ -55868,7 +56236,7 @@ Alpha List {
     07/24/1999 ACL Award of Arms -- Genevieve de Bordeaux
   
   == Genevieve de Caulde Font ==
-    02/22/1997   L Maunche -- Genevieve de Caulde Font
+    02/22/1997  CL Manche -- Genevieve de Caulde Font
   
   == Genevieve de Cauldfont [registered] ==
     02/22/1997 A   Manche -- Genevieve de Cauldfont
@@ -55908,7 +56276,7 @@ Alpha List {
     07/09/1994 A L Tygers Cub -- Genevieve d’Anjou
     09/10/1994 A   White Oak (Beyond the Mountain) -- Genevieve d’Anjou
     12/09/1995 A   White Oak (Beyond the Mountain) -- Genevieve d’Anjou
-    02/15/1997 A L Award of Arms -- Genevieve d’Anjou
+    02/15/1997 ACL Award of Arms -- Genevieve d’Anjou
     06/13/1998 A   Queen's Courtesy -- Genevieve d’Anjou
   
   == Genevieve of Stonemarche ==
@@ -56018,7 +56386,7 @@ Alpha List {
     12/09/2000  C  Queen's Honor of Distinction -- Geoffrey St. Albans
   
   == Geoffrey St. Albans of Eastwood ==
-    03/22/1997   L Sagittarius -- Geoffrey St. Albans of Eastwood
+    03/22/1997  CL Sagittarius -- Geoffrey St. Albans of Eastwood
     06/16/2001  C  Silver Crescent -- Geoffrey St. Albans of Eastwood
   
   == Geoffrey d'Ayer of Montalban ==
@@ -56044,8 +56412,8 @@ Alpha List {
     04/06/2002 AC  Queen's Honor of Distinction -- Geoffrey de Wygan [Yana III]
   
   == Geoffrey de Wygand ==
-    10/20/1996   L QOC -- Geoffrey de Wygand
-    12/07/1996   L AOA -- Geoffrey de Wygand
+    10/20/1996  CL Queen's Courtesy -- Geoffrey de Wygand
+    12/07/1996  CL Award of Arms -- Geoffrey de Wygand
   
   == Geoffrey fitz David ==
     05/18/1996   L AOA -- Geoffrey fitz David
@@ -56450,6 +56818,9 @@ Alpha List {
     04/19/1975 A L Award of Arms -- Gillian of the Green Woods
     12/12/1981 A L Silver Crescent -- Gillian of the Green Woods
     10/05/1996 A   Queen's Honor of Distinction -- Gillian of the Green Woods
+  
+  == Gillian of the Greenwoods ==
+    10/05/1996  C  Queen's Honor of Distinction -- Gillian of the Greenwoods
   
   == Gilliane McGill de Verona ==
     07/27/2002 ACL Award of Arms -- Gilliane McGill de Verona
@@ -58228,7 +58599,7 @@ Alpha List {
     09/17/1988   L AOA -- Harald Krake Ganglere
   
   == Harald Longfellow ==
-    01/25/1997   L Troubadour -- Harald Longfellow
+    01/25/1997  CL Troubadour -- Harald Longfellow
     03/04/2000   L Daystar (Carolingia) -- Harald Longfellow
     01/05/2002  C  Maunche -- Harald Longfellow
   
@@ -58251,7 +58622,7 @@ Alpha List {
     09/12/1998   L Sagittarius -- Harald von Auerbach
   
   == Haraldr Bassi [registered] ==
-    11/23/1996 A L Award of Arms -- Haraldr Bassi
+    11/23/1996 ACL Award of Arms -- Haraldr Bassi
     08/18/1999 ACL Silver Crescent -- Haraldr Bassi
     02/01/2003 ACL Manche -- Haraldr Bassi
   
@@ -58303,8 +58674,8 @@ Alpha List {
     01/04/1992 A L Master of the Laurel -- Harold von Auerbach
     01/02/1993 A L Queen's Courtesy -- Harold von Auerbach
     09/17/1994 A L Master of the Pelican -- Harold von Auerbach
-    11/30/1996 A   Queen's Honor of Distinction -- Harold von Auerbach
-    11/30/1996 A L Court Baron -- Harold von Auerbach
+    11/30/1996 AC  Queen's Honor of Distinction -- Harold von Auerbach
+    11/30/1996 ACL Court Baron -- Harold von Auerbach
     02/01/1997 A   Baron of Stonemarche -- Harold von Auerbach
     09/12/1998 AC  Sagittarius -- Harold von Auerbach
     04/21/2001 AC  Queen's Honor of Distinction -- Harold von Auerbach [Isabella]
@@ -58481,7 +58852,7 @@ Alpha List {
     02/27/1982 A L Award of Arms -- Heinrich Kreiner
   
   == Heinrich MacKinnon ==
-    10/05/1996 A L Award of Arms -- Heinrich MacKinnon
+    10/05/1996 ACL Award of Arms -- Heinrich MacKinnon
   
   == Heinrich der Brauer ==
     AKA: Eissdrache of the Vale
@@ -59004,7 +59375,7 @@ Alpha List {
     04/20/1996 A   Award of Arms -- Hálfdan langleggr
   
   == I Sebastiani Commedia dell’Arte Troupe ==
-    10/20/1996 A L Troubadour -- I Sebastiani Commedia dell’Arte Troupe
+    10/20/1996 ACL Troubadour -- I Sebastiani Commedia dell’Arte Troupe
   
   == Iago Benitez ==
     09/16/1995   L AOA -- Iago Benitez
@@ -59059,7 +59430,7 @@ Alpha List {
   == Ian Gunn [registered] ==
     01/19/1991 A L Award of Arms -- Ian Gunn
     04/30/1994 A L Millstone (Stonemarche) -- Ian Gunn
-    02/01/1997 A L Silver Crescent -- Ian Gunn
+    02/01/1997 ACL Silver Crescent -- Ian Gunn
     02/01/2003 ACL Burdened Tyger -- Ian Gunn
     10/30/2004 ACL Master of the Pelican -- Ian Gunn
   
@@ -59080,7 +59451,7 @@ Alpha List {
     01/29/1994 A L Award of Arms -- Ian McKenzie
   
   == Ian Raven of Tadcaster [registered] ==
-    10/20/1996 A L Award of Arms -- Ian Raven of Tadcaster
+    10/20/1996 ACL Award of Arms -- Ian Raven of Tadcaster
     06/22/2002 A L Salamander (Bhakail) -- Ian Raven of Tadcaster
     09/13/2003 ACL Golden Rapier -- Ian Raven of Tadcaster
     01/13/2007  C  King's Rapier Champion -- Ian Raven of Tadcaster
@@ -59164,7 +59535,7 @@ Alpha List {
     08/12/1992 A   Golden Rapier -- Iciar Albarez de Montesinos
   
   == Idhounea Tearlachsdottir ==
-    10/05/1996 A L Award of Arms -- Idhounea Tearlachsdottir
+    10/05/1996 ACL Award of Arms -- Idhounea Tearlachsdottir
     02/02/2002 ACL Manche -- Idhounea Tearlachsdottir
   
   == Idon of Sheffield ==
@@ -59406,8 +59777,8 @@ Alpha List {
   == Irene le Noir ==
     10/05/1991   L AOA -- Irene le Noir
     01/23/1993   L Maunche -- Irene le Noir
-    10/05/1996   L Grant of Arms -- Irene le Noir
-    10/05/1996   L Court Barony -- Irene le Noir
+    10/05/1996  CL Court Baroness -- Irene le Noir
+    10/05/1996  CL Grant of Arms -- Irene le Noir
     04/06/2002  C  Queen's Cypher -- Irene le Noir
     08/18/2004  C  Mistress of the Pelican -- Irene le Noir
     04/14/2007  C  Queen's Cypher -- Irene le Noir
@@ -59675,7 +60046,7 @@ Alpha List {
     01/04/1988 A L Manche -- Isabella of York
     11/09/1991 A L Mistress of the Laurel -- Isabella of York
     09/30/1995 A   Queen's Cypher -- Isabella of York [Gabrielle]
-    01/04/1997 A L King's Excellence -- Isabella of York
+    01/04/1997 ACL King's Excellence -- Isabella of York
     04/04/1998 ACL Court Baroness -- Isabella of York
     09/19/1998 ACL Silver Crescent -- Isabella of York
     04/21/2001 ACL Countess -- Isabella of York
@@ -59747,6 +60118,7 @@ Alpha List {
   == Iseabeil Urchardann ==
     AKA: Beileag Urquhart
     12/09/1995   L White Oak (Beyond the Mountain) -- Beileag Urquhart
+    11/02/1996  C  Award of Arms -- Beileag Urquhart
   
   == Iseault Blaecstan [registered] ==
     08/12/1992 A L Award of Arms -- Iseault Blaecstan
@@ -60363,6 +60735,9 @@ Alpha List {
     10/23/2010  C  Crown Princess -- Jana von Drachenklaue
     04/02/2011 A   Queen's Cypher -- Jana von Drachenklaue [Aikaterine II]
   
+  == Jana von Drachenklaue and Steffan ap Kennydd ==
+    04/05/1997  C  Queen's Cypher -- Jana von Drachenklaue and Steffan ap Kennydd
+  
   == Jane Little Cougar ==
     12/11/2004 ACL Award of Arms -- Jane Little Cougar
   
@@ -60947,6 +61322,9 @@ Alpha List {
   == Jessa d'Avondale ==
     09/28/2002  C  King's Cypher -- Jessa d'Avondale
   
+  == Jessa d’Avondale ==
+    04/05/1997  C  Mistress of the Pelican -- Jessa d’Avondale
+  
   == Jessa of Avondale [registered] ==
     07/26/1986 A L Award of Arms -- Jessa of Avondale
     03/28/1987 A L Bronze Tower (Settmour Swamp) -- Jessa of Avondale
@@ -61080,7 +61458,7 @@ Alpha List {
     03/06/1982 A L Award of Arms -- Joaquin de Peregrin
   
   == Jocelyn Tarr ==
-    04/05/1997 A L Award of Arms -- Jocelyn Tarr
+    04/05/1997 ACL Award of Arms -- Jocelyn Tarr
     08/13/2002 A   Court Baroness -- Jocelyn Tarr
     08/13/2002 A   Grant of Arms -- Jocelyn Tarr
     03/25/2006 A   Silver Crescent -- Jocelyn Tarr
@@ -61148,6 +61526,7 @@ Alpha List {
   
   == Johan von Traubenberg ==
     08/16/1990   L Tygers Combattant -- Johan von Traubenberg
+    02/22/1997  C  Queen's Honor of Distinction -- Johan von Traubenberg
   
   == Johanes von Brakeshiem ==
     02/17/1990   L AOA -- Johanes von Brakeshiem
@@ -61186,7 +61565,7 @@ Alpha List {
     04/03/1993 A L Mistress of the Laurel -- Johanna Dudley
     12/10/1994 A L Silver Crescent -- Johanna Dudley
     03/02/1996 A   Baroness of Carolingia -- Johanna Dudley [ret.]
-    01/04/1997 A L Mistress of the Pelican -- Johanna Dudley
+    01/04/1997 ACL Mistress of the Pelican -- Johanna Dudley
     09/30/2000 ACL Burdened Tyger -- Johanna Dudley
     06/08/2002 ACL Court Baroness -- Johanna Dudley
   
@@ -61291,7 +61670,7 @@ Alpha List {
     03/20/1982 A L Tygers Cub -- John Geoffrey Fabyan of Ridgefield
   
   == John Irongut ==
-    01/25/1997 A L Award of Arms -- John Irongut
+    01/25/1997 ACL Award of Arms -- John Irongut
   
   == John Kelton of Greyhorn [registered] ==
     05/27/1989 A L Award of Arms -- John Kelton of Greyhorn
@@ -61697,6 +62076,9 @@ Alpha List {
   == Joseph the Reluctant ==
     03/18/2006 ACL Award of Arms -- Joseph the Reluctant
     11/11/2006 A L Sable Gauntlet (Iron Bog) -- Joseph the Reluctant
+  
+  == Joseph van der Cullen ==
+    11/23/1996  C  Manche -- Joseph van der Cullen
   
   == Josepha Marci de Marseilles ==
     06/11/1983   L AOA -- Josepha Marci de Marseilles
@@ -62285,7 +62667,7 @@ Alpha List {
     04/01/1978   L AOA -- Kale Harlansson of Gotland
     07/30/1983   L Silver Crescent -- Kale Harlansson of Gotland
     06/06/1987   L Maunche -- Kale Harlansson of Gotland
-    01/25/1997   L QOC -- Kale Harlansson of Gotland
+    01/25/1997  CL Queen's Courtesy -- Kale Harlansson of Gotland
   
   == Kaleb of Endewearde ==
     05/29/2010 ACL Gawain -- Kaleb of Endewearde
@@ -62536,7 +62918,7 @@ Alpha List {
     07/20/2002  CL Grant of Arms -- Kassandra Ianthos
   
   == Kassandra Lundgarten ==
-    03/08/1997 A L Award of Arms -- Kassandra Lundgarten
+    03/08/1997 ACL Award of Arms -- Kassandra Lundgarten
   
   == Kassimimr Dumbrowski ==
     01/06/1990   L AOA -- Kassimimr Dumbrowski
@@ -62887,7 +63269,7 @@ Alpha List {
     06/15/2002  CL Award of Arms -- Katherine Moirigahna O'Griobhtha
   
   == Katherine Montclair ==
-    03/08/1997 A L Award of Arms -- Katherine Montclair
+    03/08/1997 ACL Award of Arms -- Katherine Montclair
     11/21/1998 ACL Maunche -- Katherine Montclair
     11/06/1999 A L Pine (Concordia of the Snows) -- Katherine Montclair
   
@@ -63764,7 +64146,7 @@ Alpha List {
     05/27/1989   L AOA -- Kieran MacKrimmin
   
   == Kieran MacRae ==
-    02/22/1997   L AOA -- Kieran MacRae
+    02/22/1997  CL Award of Arms -- Kieran MacRae
   
   == Kieran ap Kyndrowan ==
     03/22/1997   L AOA -- Kieran ap Kyndrowan
@@ -64122,7 +64504,7 @@ Alpha List {
     06/??/1994 A L Tygers Combattant -- Krakken Gnashbone
     07/16/1994 A L Sagittarius -- Krakken Gnashbone
     04/13/1996 A L Silver Crescent -- Krakken Gnashbone
-    02/01/1997 A L Master of the Pelican -- Krakken Gnashbone
+    02/01/1997 ACL Master of the Pelican -- Krakken Gnashbone
     04/21/2001 ACL Court Baron -- Krakken Gnashbone
     12/08/2001 A L Freedom of the Bridge (Bridge) -- Krakken Gnashbone
     06/05/2004  C  King's Archery Champion -- Krakken Gnashbone
@@ -64150,7 +64532,7 @@ Alpha List {
     08/14/1996 A   Award of Arms -- Kresenz von Württemberg (Zenzi)
   
   == Krey Macleod [deceased] ==
-    03/01/1997 A L Award of Arms -- Krey Macleod
+    03/01/1997 ACL Award of Arms -- Krey Macleod [backlog]
   
   == Krisha von Halstern ==
     04/19/1980 A L Tygers Cub -- Krisha von Halstern
@@ -64322,7 +64704,7 @@ Alpha List {
     01/13/2001 A   Troubadour -- Kyran O’Conghaile
   
   == Kyran O’Connelly ==
-    03/08/1997   L AOA -- Kyran O’Connelly
+    03/08/1997  CL Award of Arms -- Kyran O’Connelly
   
   == Kyrian Thaeborne ==
     SEE: Merewyn MacQuarrie
@@ -64443,6 +64825,9 @@ Alpha List {
     08/17/2005 A L Mistress of the Laurel -- Lakshmi Amman of Sri Ranganatha Temple
     04/29/2007 A   Daystar (Carolingia) -- Lakshmi Amman of Sri Ranganatha Temple
   
+  == Lalage de Peregraine ==
+    02/01/1997  C  Award of Arms -- Lalage de Peregraine
+  
   == Lalage la Peregrina [registered] ==
     02/01/1997 A L Award of Arms -- Lalage la Peregrina
   
@@ -64482,7 +64867,7 @@ Alpha List {
     11/22/1986   L Silver Crescent -- Larissa della Casa Esterrefatta
   
   == Larissa of Swanmere ==
-    11/02/1996 A L Award of Arms -- Larissa of Swanmere
+    11/02/1996 ACL Award of Arms -- Larissa of Swanmere
     02/03/2001   L Moon (Carolingia) -- Larissa of Swanmere
     07/14/2001 A L Daystar (Carolingia) -- Larissa of Swanmere
   
@@ -64736,7 +65121,7 @@ Alpha List {
   
   == Leah di Estera ==
     07/19/1986 A   White Oak (Beyond the Mountain) -- Leah di Estera
-    10/12/1996   L Laurel -- Leah di Estera
+    10/12/1996  CL Mistress of the Laurel -- Leah di Estera
   
   == Leandra Plumieg [registered] ==
     12/05/1992 A   Award of Arms -- Leandra Plumieg
@@ -65371,7 +65756,7 @@ Alpha List {
     11/02/1996 A   Award of Arms -- Logan Mc Tavish
   
   == Logan McTavish ==
-    11/02/1996   L AOA -- Logan McTavish
+    11/02/1996  CL Award of Arms -- Logan McTavish
   
   == Logan Smith ==
     01/26/2008 ACL Gawain -- Logan Smith
@@ -65489,7 +65874,7 @@ Alpha List {
     04/24/1988 A L Award of Arms -- Loriwynn the Harper
     04/24/1988 A L Troubadour -- Loriwynn the Harper
     05/26/1996 A L Ivory Tower (Settmour Swamp) -- Loriwynn the Harper
-    11/23/1996 A L Manche -- Loriwynn the Harper
+    11/23/1996 ACL Manche -- Loriwynn the Harper
     03/29/2003 A L Ivory Tower (Settmour Swamp) -- Loriwynn the Harper
   
   == Lorraine of Smoking Rocks ==
@@ -65708,10 +66093,13 @@ Alpha List {
   
   == Lucrezia Franceschina Andreini [registered] ==
     08/16/1994 A L Award of Arms -- Lucrezia Franceschina Andreini
-    12/14/1996 A L Troubadour -- Lucrezia Franceschina Andreini
+    12/14/1996 ACL Troubadour -- Lucrezia Franceschina Andreini
     01/04/1997 A L Manche -- Lucrezia Franceschina Andreini
     04/26/1998 A   Moon (Carolingia) -- Lucrezia Franceschina Andreini
     04/10/1999 ACL Mistress of the Laurel -- Lucrezia Franceschina Andreini
+  
+  == Lucrezia Francheschina Andreini ==
+    01/04/1997  C  Manche -- Lucrezia Francheschina Andreini
   
   == Lucrezia Malatesta [registered] ==
     03/05/1994 A L Award of Arms -- Lucrezia Malatesta
@@ -65892,7 +66280,7 @@ Alpha List {
   == Lyanna of Kernough ==
     01/31/1987   L Silver Crescent -- Lyanna of Kernough
     11/27/1993   L Pelican -- Lyanna of Kernough
-    11/30/1996   L QOC -- Lyanna of Kernough
+    11/30/1996  CL Queen's Courtesy -- Lyanna of Kernough
     10/24/2001   L Ordre du Pelerin (Havre des Glaces) -- Lyanna of Kernough
     11/24/2001  CL Court Baroness -- Lyanna of Kernough
   
@@ -66935,6 +67323,9 @@ Alpha List {
   == Margaretta von Gottessanger ==
     08/15/1981   L Fatima -- Margaretta von Gottessanger
   
+  == Margarey Culano de Tracey ==
+    02/01/1997  C  Mistress of the Laurel -- Margarey Culano de Tracey
+  
   == Margarita Alegria Gonzalvo [registered] ==
     10/09/1993 A L Award of Arms -- Margarita Alegria Gonzalvo
   
@@ -67083,7 +67474,7 @@ Alpha List {
   
   == Maria Elisabeta Gonzaga ==
     AKA: Bess of Winter Hill
-    01/25/1997 A L Award of Arms -- Maria Elisabeta Gonzaga
+    01/25/1997 ACL Award of Arms -- Bess of Winter Hill
     09/22/2001 ACL Manche -- Maria Elisabeta Gonzaga
     04/27/2003 A   Daystar (Carolingia) -- Maria Elisabeta Gonzaga
   
@@ -67254,7 +67645,7 @@ Alpha List {
   == Marietta Angelica de Felice Antonio ==
     04/11/1987 A L Award of Arms -- Marietta Angelica de Felice Antonio
     11/04/1989 A L Daystar (Carolingia) -- Marietta Angelica de Felice Antonio
-    11/02/1996 A L Burdened Tyger -- Marietta Angelica de Felice Antonio
+    11/02/1996 ACL Burdened Tyger -- Marietta Angelica de Felice Antonio
   
   == Marietta Aurelia da Bari [registered] ==
     11/07/1998 A   Award of Arms -- Marietta Aurelia da Bari
@@ -67323,7 +67714,8 @@ Alpha List {
   
   == Marion MacGregor ==
     AKA: Brianna of Bywater
-    12/07/1996   L AOA -- Brianna of Bywater
+    12/07/1996  CL Award of Arms -- Brianna of Bywater
+    04/05/1997  C  Queen's Cypher -- Brianna of Bywater
   
   == Marion Quyn ==
     01/07/2011   L Troubadour -- Marion Quyn
@@ -67736,7 +68128,7 @@ Alpha List {
     12/06/1986 A L Award of Arms -- Mathilde Eschenbach
     12/??/1987   L Salamander (Bhakail) -- Mathilde Eschenbach
     03/03/1990 A L Manche -- Mathilde Eschenbach
-    12/14/1996 A L Terpsichore -- Mathilde Eschenbach
+    12/14/1996 ACL Terpsichore -- Mathilde Eschenbach
     05/28/2005 ACL Golden Tyger -- Mathilde Eschenbach
     04/22/2006 ACL Mistress of the Laurel -- Mathilde Eschenbach
     05/03/2008 ACL Golden Lyre -- Mathilde Eschenbach
@@ -68035,7 +68427,7 @@ Alpha List {
     02/16/1991   L AOA -- Meadhbh ni Cléirigh
   
   == Meadhbh ni Loingsigh [registered] ==
-    04/05/1997 A L Award of Arms -- Meadhbh ni Loingsigh
+    04/05/1997 ACL Award of Arms -- Meadhbh ni Loingsigh
   
   == Meadhbh ni hAilin ==
     07/29/1995 A   Award of Arms -- Meadhbh ni hAilin
@@ -68577,6 +68969,9 @@ Alpha List {
   == Michael Alewright ==
     02/22/1997   L AOA -- Michael Alewright
   
+  == Michael Alwright ==
+    02/22/1997  C  Award of Arms -- Michael Alwright
+  
   == Michael Caithness [registered] ==
     12/17/1983 A L Award of Arms -- Michael Caithness
   
@@ -68809,6 +69204,7 @@ Alpha List {
   == Michel Almond de Champagne ==
     03/04/1995   L AOA -- Michel Almond de Champagne
     10/05/1996   L Silver Crescent -- Michel Almond de Champagne
+    10/05/1996  C  Queen's Honor of Distinction -- Michel Almond de Champagne
     02/21/1998  CL Queen's Courtesy -- Michel Almond de Champagne
     04/04/1998  C  Queen's Cypher -- Michel Almond de Champagne
     09/12/1998  CL Manche -- Michel Almond de Champagne
@@ -68904,6 +69300,9 @@ Alpha List {
   == Mikhail Gregorievich of Kiev [registered] ==
     10/19/1985 A L Award of Arms -- Mikhail Gregorievich of Kiev
     05/25/1986 A L Freedom of the Bridge (Bridge) -- Mikhail Gregorievich of Kiev
+  
+  == Mikhail Reubenovic Kopacewski ==
+    03/22/1997  C  Silver Crescent -- Mikhail Reubenovic Kopacewski
   
   == Mikhail Reubenovic Kopaczewski [registered] ==
     01/21/1989 A L Award of Arms -- Mikhail Reubenovic Kopaczewski
@@ -69571,6 +69970,10 @@ Alpha List {
   == Morganna le Coeur ==
     06/07/1997  CL Award of Arms -- Morganna le Coeur
   
+  == Morgen DuVal ==
+    10/05/1996  C  Lady of the Rose -- Morgen DuVal
+    10/05/1996  C  Countess -- Morgen DuVal
+  
   == Morgen Duval ==
     08/??/1990   L Pillar (Bridge) -- Morgen Duval
     10/05/1996   L Rose -- Morgen Duval
@@ -69682,7 +70085,8 @@ Alpha List {
     07/11/2009 ACL Silver Rapier -- Morty of Malagentia
   
   == Moruadh of An Tir Caillte ==
-    12/07/1996 A L Award of Arms -- Moruadh of An Tir Caillte
+    10/26/1996  C  Crown Princess -- Moruadh of An Tir Caillte
+    12/07/1996 ACL Award of Arms -- Moruadh of An Tir Caillte
     09/27/1997 ACL Countess -- Moruadh of An Tir Caillte
     09/27/1997 ACL Lady of the Rose -- Moruadh of An Tir Caillte
     09/25/1999 ACL Duchess -- Moruadh of An Tir Caillte
@@ -70792,7 +71196,7 @@ Alpha List {
     09/25/2010 A   King's Esteem of Merit -- Ohashi Katsutoshi (now Iheronimus Brückner)
   
   == Oksana Goncharova [registered] ==
-    11/23/1996 A L Award of Arms -- Oksana Goncharova
+    11/23/1996 ACL Award of Arms -- Oksana Goncharova
     02/01/2003 ACL Manche -- Oksana Goncharova
     03/12/2005 ACL Golden Tyger -- Oksana Goncharova [dayboard for Hrim Schola]
     04/01/2006 ACL Burdened Tyger -- Oksana Goncharova
@@ -70894,7 +71298,7 @@ Alpha List {
     05/24/2009   L Friends (Concordia of the Snows) -- Olivia de Bourough
   
   == Olivia de la Paz ==
-    03/08/1997 A L Award of Arms -- Olivia de la Paz
+    03/08/1997 ACL Award of Arms -- Olivia de la Paz
   
   == Olrick van Lubbeke ==
     ??/??/1999   L Salamander (Bhakail) -- Olrick van Lubbeke
@@ -71010,7 +71414,7 @@ Alpha List {
     06/07/1997  CL Tygers Combattant -- Orlando Alvarez
   
   == Orlando Sforza ==
-    03/01/1997 A L Award of Arms -- Orlando Sforza
+    03/01/1997 ACL Award of Arms -- Orlando Sforza
     03/28/1998 ACL Golden Rapier -- Orlando Sforza
     03/27/1999 ACL Silver Crescent -- Orlando Sforza
   
@@ -71426,7 +71830,7 @@ Alpha List {
   
   == Pamelina of Avon ==
     08/16/1994 A L Award of Arms -- Pamelina of Avon
-    01/25/1997 A L Troubador -- Pamelina of Avon
+    01/25/1997 ACL Troubadour -- Pamelina of Avon
     10/03/1998 ACL Manche -- Pamelina of Avon
   
   == Pancho Sanchez ==
@@ -71954,7 +72358,7 @@ Alpha List {
   == Philadelphia Brown [registered] ==
     04/23/1988 A L Award of Arms -- Philadelphia Brown
     07/18/1992 A L Salamander (Bhakail) -- Philadelphia Brown
-    12/14/1996 A L Terpsichore -- Philadelphia Brown
+    12/14/1996 ACL Terpsichore -- Philadelphia Brown
     04/12/2003 ACL Silver Crescent -- Philadelphia Brown
     04/03/2004 ACL Queen's Courtesy -- Philadelphia Brown
     02/24/2007 ACL Court Baroness -- Philadelphia Brown
@@ -72138,6 +72542,9 @@ Alpha List {
   == Phraedrique the Sullen ==
     04/11/1992   L AOA -- Phraedrique the Sullen
   
+  == Phynian ap Llewellen ==
+    11/23/1996  C  Manche -- Phynian ap Llewellen
+  
   == Phynian ap Llewellyn ==
     11/23/1996   L Maunche -- Phynian ap Llewellyn
   
@@ -72217,7 +72624,7 @@ Alpha List {
     07/09/2011 ACL Burdened Tyger -- Pomnestina Mairead Sherbatskaja
   
   == Pompinea Beatrice Andreini ==
-    04/05/1997 A L Troubadour -- Pompinea Beatrice Andreini
+    04/05/1997 ACL Troubadour -- Pompinea Beatrice Andreini
   
   == Pookah Larasdotter ==
     08/16/2005  C  Tygers Cub -- Pookah Larasdotter
@@ -72561,7 +72968,7 @@ Alpha List {
     12/14/1996 A   Award of Arms -- Ragnar of Silverlake
   
   == Ragnar of the Silver Lake ==
-    12/14/1996   L AOA -- Ragnar of the Silver Lake
+    12/14/1996  CL Award of Arms -- Ragnar of the Silver Lake
   
   == Ragnar the Wolf [registered] [deceased] ==
     05/30/1993 A L Award of Arms -- Ragnar the Wolf
@@ -72572,7 +72979,7 @@ Alpha List {
     04/12/1980   L Viscount -- Ragnarr Thorwaldsson [from Atlantia]
   
   == Ragnarr Two-Axe of the Reeking Swamp ==
-    11/02/1996   L Maunche -- Ragnarr Two-Axe of the Reeking Swamp
+    11/02/1996  CL Manche -- Ragnarr Two-Axe of the Reeking Swamp
   
   == Ragnarr Two-Axe of the Swamp [registered] ==
     04/21/1979 A L Award of Arms -- Ragnarr Two-Axe of the Swamp
@@ -73158,6 +73565,9 @@ Alpha List {
   == Reynard du Lyre ==
     07/30/1988   L AOA -- Reynard du Lyre
   
+  == Reynards des Montaignes ==
+    10/05/1996  C  Silver Crescent -- Reynards des Montaignes
+  
   == Reynke von Eschenbach ==
     08/11/1992   L AOA -- Reynke von Eschenbach
   
@@ -73402,7 +73812,7 @@ Alpha List {
     01/13/1990   L Chivalry -- Rhys of Harlech
     01/13/1990 A   Knight -- Rhys of Harlech
     04/06/1991 A L Count -- Rhys of Harlech
-    04/05/1997 A L King's Excellence -- Rhys of Harlech
+    04/05/1997 ACL King's Excellence -- Rhys of Harlech
     09/27/1997 ACL Queen's Courtesy -- Rhys of Harlech
     04/12/2003 ACL Manche -- Rhys of Harlech
   
@@ -74017,6 +74427,7 @@ Alpha List {
     03/24/1995   L Viscount -- Robin Wallace [from AEthelmearc]
     04/29/1995   L Shield of Chivalry -- Robin Wallace
     01/04/1997   L Chivalry -- Robin Wallace
+    01/04/1997  C  Master of Arms -- Robin Wallace
     09/20/1997  CL Queen's Courtesy -- Robin Wallace
   
   == Robin [of Carillion] ==
@@ -74051,6 +74462,9 @@ Alpha List {
     05/10/1986   L AOA -- Robin the Just
     04/01/1989   L Terpsichore -- Robin the Just
     03/17/1990   L Troubadour -- Robin the Just
+  
+  == Robur de Roestoc ==
+    01/25/1997  C  Award of Arms -- Robur de Roestoc
   
   == Robyn of Deira ==
     09/15/1984   L AOA -- Robyn of Deira
@@ -74160,7 +74574,7 @@ Alpha List {
   
   == Roger de Guillaume ==
     11/11/1989 A L White Oak (Beyond the Mountain) -- Roger de Guillaume
-    11/02/1996 A L Award of Arms -- Roger de Guillaume
+    11/02/1996 ACL Award of Arms -- Roger de Guillaume
   
   == Roger de la Grande Marche ==
     10/03/1992 A L Award of Arms -- Roger de la Grande Marche
@@ -74415,6 +74829,9 @@ Alpha List {
   == Rosaline di Petrantonio ==
     02/05/2005 ACL Award of Arms -- Rosaline di Petrantonio
   
+  == Rosalynd ate Rhylle ==
+    01/25/1997  C  Award of Arms -- Rosalynd ate Rhylle
+  
   == Rosalynd atte Rhylle ==
     01/25/1997   L AOA -- Rosalynd atte Rhylle
   
@@ -74607,8 +75024,11 @@ Alpha List {
     10/27/1990 A   Court Baroness -- Rowan Elayne of Kendal
     ??/??/1999 A   Halberd (Bryn Gwlad) -- Rowan Elayne of Kendal
   
+  == Rowan Elfham ==
+    04/05/1997  C  Queen's Cypher -- Rowan Elfham
+  
   == Rowan Elfhame ==
-    12/07/1996   L AOA -- Rowan Elfhame
+    12/07/1996  CL Award of Arms -- Rowan Elfhame
   
   == Rowan Elvesham [registered] ==
     12/07/1996 A   Award of Arms -- Rowan Elvesham
@@ -74863,6 +75283,9 @@ Alpha List {
     01/04/1986 A   Award of Arms -- Ruairidh MacEanruig
     03/08/1986 A L White Oak (Beyond the Mountain) -- Ruairidh MacEanruig
   
+  == Ruaraidh an Cu ==
+    03/22/1997  C  King's Bard -- Ruaraidh an Cu
+  
   == Ruby ==
     10/21/2000   L AOA -- Ruby [of Northpass]
   
@@ -74979,7 +75402,7 @@ Alpha List {
   
   == Rurik Longsword ==
     04/13/1996   L AOA -- Rurik Longsword
-    02/22/1997   L QOC -- Rurik Longsword
+    02/22/1997  CL Queen's Courtesy -- Rurik Longsword
     04/05/1997   L Viscount -- Rurik Longsword [from AEthelmearc]
   
   == Ruskin Thayes ==
@@ -74991,7 +75414,7 @@ Alpha List {
     07/06/1991   L Chivalry -- Ruslan Novgorodcev
     07/06/1991 A   Master at Arms -- Ruslan Novgorodcev
     10/03/1992 A L Count -- Ruslan Novgorodcev
-    03/01/1997 A L Silver Crescent -- Ruslan Novgorodcev
+    03/01/1997 ACL Silver Crescent -- Ruslan Novgorodcev
     08/17/2001 ACL Master of the Pelican -- Ruslan Novgorodcev
     09/29/2001 AC  King's Cypher -- Ruslan Novgorodcev [Hanse III]
     10/02/2004 AC  King's Cypher -- Ruslan Novgorodcev [Gaufred Kelson]
@@ -75000,7 +75423,7 @@ Alpha List {
     04/28/1984   L AOA -- Russell of Insula Draconis
   
   == Ruteger Lutz ==
-    03/08/1997   L AOA -- Ruteger Lutz
+    03/08/1997  CL Award of Arms -- Ruteger Lutz
   
   == Rutger Magnussen of Eastwood ==
     03/24/2012  C  Award of Arms -- Rutger Magnussen of Eastwood [backlog]
@@ -75116,7 +75539,7 @@ Alpha List {
     11/26/2011 AC  Award of Arms -- Sabina Iulia Metella
   
   == Sabina Portinari [registered] ==
-    02/01/1997 A L Award of Arms -- Sabina Portinari
+    02/01/1997 ACL Award of Arms -- Sabina Portinari
   
   == Sabina Tracy ==
     07/06/2002 ACL Award of Arms -- Sabina Tracy
@@ -75548,8 +75971,8 @@ Alpha List {
     09/24/1984 A L Pillar (Bridge) -- Sarant the Myopic
     03/08/1986 A L Sun and Soil (Beyond the Mountain) -- Sarant the Myopic
     10/01/1994 A L Terpsichore -- Sarant the Myopic
-    12/07/1996 A L Court Baron -- Sarant the Myopic
-    12/07/1996 A L Grant of Arms -- Sarant the Myopic
+    12/07/1996 ACL Court Baron -- Sarant the Myopic
+    12/07/1996 ACL Grant of Arms -- Sarant the Myopic
   
   == Sarolta Hunyadi [registered] ==
     05/27/1984 A L Award of Arms -- Sarolta Hunyadi
@@ -75854,7 +76277,7 @@ Alpha List {
     10/06/1979 A   Count -- Seanan an Chasur
     08/15/1987 A   Knight -- Seanan an Chasur
     07/23/1988 A   Tygers Combattant -- Seanan an Chasur
-    11/23/1996 A L Queen's Courtesy -- Seanan an Chasur
+    11/23/1996 ACL Queen's Courtesy -- Seanan an Chasur
   
   == Seanevar of Boise Ardent ==
     03/25/2000 A L Award of Arms -- Seanevar of Boise Ardent
@@ -76725,6 +77148,9 @@ Alpha List {
   == Simon Kenric [registered] ==
     11/02/1996 A L Award of Arms -- Simon Kenric
   
+  == Simon Kenrick ==
+    11/02/1996  C  Award of Arms -- Simon Kenrick
+  
   == Simon O'Shea ==
     04/30/1988   L AOA -- Simon O'Shea
   
@@ -77389,6 +77815,9 @@ Alpha List {
   == Steffan Joseph ==
     09/25/1999  CL Award of Arms -- Steffan Joseph
   
+  == Steffan Skywatcher ==
+    11/02/1996  C  Silver Crescent -- Steffan Skywatcher
+  
   == Steffan Wolfgang von Radeusbarg ==
     07/14/1990   L AOA -- Steffan Wolfgang von Radeusbarg
   
@@ -77703,7 +78132,7 @@ Alpha List {
     08/08/2007   L AOA -- Sunnifa Heinreksottir
   
   == Sunniva Ormstung [registered] ==
-    02/01/1997 A L Award of Arms -- Sunniva Ormstung
+    02/01/1997 ACL Award of Arms -- Sunniva Ormstung
     02/05/2000 ACL Manche -- Sunniva Ormstung
     02/02/2002 ACL Mistress of the Laurel -- Sunniva Ormstung
     02/01/2003 AC  Queen's Honor of Distinction -- Sunniva Ormstung [Isabella II]
@@ -77783,7 +78212,9 @@ Alpha List {
     04/21/2007 ACL Award of Arms -- Susanna Mahieu
   
   == Susanna del Lago ==
-    04/05/1997   L Grant of Arms -- Susanna del Lago
+    11/02/1996  C  Silver Crescent -- Susanna del Lago
+    04/05/1997  C  Queen's Honor of Distinction -- Susanna del Lago
+    04/05/1997  CL Grant of Arms -- Susanna del Lago
     08/14/1998  C  Mistress of the Pelican -- Susanna del Lago
   
   == Susanna la Fleur ==
@@ -77989,7 +78420,7 @@ Alpha List {
   == Sylvan Elkinson ==
     11/25/1995 A L Troubadour -- Sylvan Elkinson
     11/25/1995 A L Tygers Cub -- Sylvan Elkinson
-    11/30/1996 A   Award of Arms -- Sylvan Elkinson
+    11/30/1996 AC  Award of Arms -- Sylvan Elkinson
   
   == Sylvan Elkinsson ==
     11/30/1996   L AOA -- Sylvan Elkinsson
@@ -78183,6 +78614,9 @@ Alpha List {
     01/26/2008 ACL Award of Arms -- Tadgh of Stonemarche
     01/30/2010 A L Furison (Stonemarche) -- Tadgh of Stonemarche
     10/20/2012 A L Millstone (Stonemarche) -- Tadgh of Stonemarche
+  
+  == Tadhg an Sinneach ==
+    10/05/1996  C  Award of Arms -- Tadhg an Sinneach
   
   == Tadhg ua hlcidhe An-Artuil [registered] ==
     04/16/1988 A   Award of Arms -- Tadhg ua hlcidhe An-Artuil
@@ -79009,6 +79443,9 @@ Alpha List {
   == Thereon Colosa ==
     07/12/2008 ACL Gawain -- Thereon Colosa
   
+  == Theresa ==
+    03/01/1997  C  Award of Arms -- Theresa
+  
   == Theresa Hume ==
     04/23/1983   L AOA -- Theresa Hume
   
@@ -79150,7 +79587,7 @@ Alpha List {
     10/14/1978 A L Award of Arms -- Thomas of Linlithgow
   
   == Thomas of Northpass ==
-    10/26/1996 A L Award of Arms -- Thomas of Northpass
+    10/26/1996 ACL Award of Arms -- Thomas of Northpass
     10/31/1998 A L Seadog (Ostgardr) -- Thomas of Northpass
     04/21/2001 ACL Queen's Courtesy -- Thomas of Northpass
     01/11/2003 A L Silver Crescent -- Thomas of Northpass
@@ -79180,7 +79617,7 @@ Alpha List {
     01/11/2003  C  Silver Crescent -- Thomas the Constable
   
   == Thomas the Unnamed ==
-    01/25/1997 A L Award of Arms -- Thomas the Unnamed
+    01/25/1997 ACL Award of Arms -- Thomas the Unnamed
   
   == Thomé de Laurent [registered] ==
     04/27/1991 A L Award of Arms -- Thomé de Laurent
@@ -79680,6 +80117,9 @@ Alpha List {
     01/03/2004 ACL Sagittarius -- Tobyn Kembold
     10/25/2008 ACL Artemis -- Tobyn Kembold
   
+  == Tofi Kerjalfsen ==
+    02/22/1997  C  Manche -- Tofi Kerjalfsen
+  
   == Tofi Kerthjalfsen ==
     02/22/1997   L Maunche -- Tofi Kerthjalfsen
   
@@ -79958,7 +80398,7 @@ Alpha List {
     07/04/1998 ACL Tygers Cub -- Tristan Fisher
   
   == Tristan Macdonald ==
-    02/01/1997 A L Award of Arms -- Tristan Macdonald
+    02/01/1997 ACL Award of Arms -- Tristan Macdonald
   
   == Tristan Sexwulf ==
     03/28/1992   L AOA -- Tristan Sexwulf
@@ -80331,6 +80771,9 @@ Alpha List {
   == Ulf Ulfson ==
     04/05/1997 A L Award of Arms -- Ulf Ulfson
   
+  == Ulf Ulson ==
+    04/05/1997  C  Award of Arms -- Ulf Ulson
+  
   == Ulfarr Craeftig Bikkjusonr ==
     01/29/2005 ACL Award of Arms -- Ulfarr Craeftig Bikkjusonr
   
@@ -80431,6 +80874,9 @@ Alpha List {
   == Ulrich von Rothenburg [registered] ==
     05/10/2008 ACL Grant of Arms -- Ulrich von Rothenburg
   
+  == Ulrich von der Insel ==
+    10/05/1996  C  Queen's Courtesy -- Ulrich von der Insel
+  
   == Ulrick of York ==
     07/14/2001   L Daystar (Carolingia) -- Ulrick of York
   
@@ -80438,7 +80884,7 @@ Alpha List {
     04/19/1980 A L Award of Arms -- Umbar in Harchiral Dandachi
   
   == Umm Salamagulina-na ibnat asuman-dukht Al Basrai yyatun Mah huly ==
-    01/25/1997 A   Award of Arms -- Umm Salamagulina-na ibnat asuman-dukht Al Basrai yyatun Mah huly
+    01/25/1997 AC  Award of Arms -- Umm Salamagulina-na ibnat asuman-dukht Al Basrai yyatun Mah huly
   
   == Umm Salamagulina-na ibnat asuman-dukht al Basrai yyatun Mah huly ==
     01/25/1997   L AOA -- Umm Salamagulina-na ibnat asuman-dukht al Basrai yyatun Mah huly
@@ -81340,7 +81786,7 @@ Alpha List {
   
   == Will Langdon of Greymorne ==
     03/09/1991   L Maunche -- Will Langdon of Greymorne
-    02/22/1997   L QOC -- Will Langdon of Greymorne
+    02/22/1997  CL Queen's Courtesy -- Will Langdon of Greymorne
   
   == Will of Avon ==
     06/08/2002 ACL Tygers Cub -- Will of Avon
@@ -81365,7 +81811,7 @@ Alpha List {
     05/15/1982   L AOA -- William "Pointer" Archer
   
   == William Atwood ==
-    11/02/1996   L AOA -- William Atwood
+    11/02/1996  CL Award of Arms -- William Atwood
   
   == William Barker ==
     07/22/2000 ACL Tygers Cub -- William Barker
@@ -81379,7 +81825,7 @@ Alpha List {
   == William Blackwing [registered] ==
     03/27/1993 A L Award of Arms -- William Blackwing
     12/02/1995 A L Pillar of the Bridge (Bridge) -- William Blackwing
-    10/05/1996 A L Queen's Courtesy -- William Blackwing
+    10/05/1996 ACL Queen's Courtesy -- William Blackwing
   
   == William Blaise [registered] ==
     11/03/1990 A L Award of Arms -- William Blaise
@@ -81990,7 +82436,7 @@ Alpha List {
     02/01/1997   L AOA -- Xavier Ramirez
   
   == Xavier Ramiriz ==
-    02/01/1997 A   Award of Arms -- Xavier Ramiriz
+    02/01/1997 AC  Award of Arms -- Xavier Ramiriz
   
   == Xavier the Eccentric ==
     09/11/1993 A L Award of Arms -- Xavier the Eccentric
@@ -82107,7 +82553,7 @@ Alpha List {
   
   == Yelizaveta Medvedeva [registered] ==
     06/04/1994 A L Award of Arms -- Yelizaveta Medvedeva
-    01/25/1997 A L Troubador -- Yelizaveta Medvedeva
+    01/25/1997 ACL Troubadour -- Yelizaveta Medvedeva
     02/21/1998 ACL Manche -- Yelizaveta Medvedeva
     04/26/1998 A L Moon (Carolingia) -- Yelizaveta Medvedeva
     05/01/1999 A L Daystar (Carolingia) -- Yelizaveta Medvedeva
@@ -82209,7 +82655,7 @@ Alpha List {
     09/05/1999   L Millstone (Stonemarche) -- Yitzak ibn Yashua
   
   == Yitzhak iben Yoshua ==
-    02/01/1997   L AOA -- Yitzhak iben Yoshua
+    02/01/1997  CL Award of Arms -- Yitzhak iben Yoshua
   
   == Yitzhak ibn Yoshua [registered] ==
     02/01/1997 A   Award of Arms -- Yitzhak ibn Yoshua
@@ -82223,6 +82669,7 @@ Alpha List {
     12/01/1990   L Viscount -- Yngvar the Dismal [from AEthelmearc]
     01/02/1993   L Tygers Combattant -- Yngvar the Dismal
     11/23/1996   L Chivalry -- Yngvar the Dismal
+    11/23/1996  C  Knight -- Yngvar the Dismal
     06/07/1997  C  (BUSINESS: Crown Prince of AEthelmearc (Unknown Branch) -- Yngvar the Dismal)
   
   == Yngvarr Ottosson ==
@@ -82467,7 +82914,7 @@ Alpha List {
     04/11/1992   L White Oak (Beyond the Mountain) -- Zacharius Flamebeard of Eastmark
   
   == Zachary Wolfhunter [registered] [deceased] ==
-    10/26/1996 A L Award of Arms -- Zachary Wolfhunter
+    10/26/1996 ACL Award of Arms -- Zachary Wolfhunter
     02/03/2001 ACL Burdened Tyger -- Zachary Wolfhunter
     10/03/2009 A L Silver Crescent -- Zachary Wolfhunter [presented posthumously]
   
