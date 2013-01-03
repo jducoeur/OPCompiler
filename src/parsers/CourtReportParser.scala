@@ -167,3 +167,10 @@ trait OneTableCourtReportParser extends CourtReportParser with BigTableParser {
   }
 }
 object OneTableCourtReportParser extends OneTableCourtReportParser {}
+
+object ThreeColumnCourtReportParser extends OneTableCourtReportParser {
+  override def transformRow(rowVals:List[String]):TypedRow = {
+    val dateStr :: awardStr :: recipientStr :: excess = rowVals
+    RowInfo(new OPShortDate(dateStr), Award.find(awardStr), Persona.find(recipientStr), "Court Name Not Recorded")
+  }  
+}
