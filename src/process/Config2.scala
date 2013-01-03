@@ -597,7 +597,8 @@ object Config2 {
           ),
           
           children = Seq(
-            Barony("Knight's Crossing")
+            Barony("Knight's Crossing"),
+            Barony("Nordmark")
           )
         ),
         
