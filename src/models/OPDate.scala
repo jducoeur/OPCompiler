@@ -26,6 +26,7 @@ object Month extends Enumeration {
     ("August" -> August),
     ("Aug" -> August),
     ("September" -> September),
+    ("Sep" -> September),
     ("Sept" -> September),
     ("October" -> October),
     ("Oct" -> October),
@@ -115,27 +116,6 @@ trait OPDate extends Ordered[OPDate] {
 }
 
 abstract class OPDateFromString(val fromStr:String) extends OPDate {
-	def prefix = ifMatched(_.before, fromStr)
-	def suffix = ifMatched(_.after, fromStr)  
-}
-
-// This version parses the modern court-report format, eg, "February 22, 1998"
-class OPCourtDate(f:String) extends OPDateFromString(f) {
-	val dateMatch:Option[Regex.Match] = {
-	  OPDate.dateRegex.findFirstMatchIn(fromStr) orElse OPDate.abbrevRegex.findFirstMatchIn(fromStr)
-	}
-	
-	def month = getField("month", Month.byName(_), Month.Unknown)
-	def day = getField("day", _.toInt, OPDate.Unknown)
-	def year = getField("year", _.toInt, OPDate.Unknown)
-}
-
-// This version parses the short version in the alpha list, eg, "2/22/98"
-class OPShortDate(f:String) extends OPDateFromString(f) {
-  val dateMatch:Option[Regex.Match] = { 
-    OPDate.shortRegex.findFirstMatchIn(fromStr) orElse OPDate.shorterRegex.findFirstMatchIn(fromStr)
-  }      
-  
   // This expects each date part to be either two digits, or "??"
   def optionalPart(digits:String) = {
     if (digits == "??" || digits == "????" || digits == "xx" || digits == "xxxx" || digits == "19??")
@@ -151,6 +131,27 @@ class OPShortDate(f:String) extends OPDateFromString(f) {
         case e:Exception => Log.error("Bad date part: " + digits); OPDate.Unknown
       }
   }
+
+  def prefix = ifMatched(_.before, fromStr)
+  def suffix = ifMatched(_.after, fromStr)  
+}
+
+// This version parses the modern court-report format, eg, "February 22, 1998"
+class OPCourtDate(f:String) extends OPDateFromString(f) {
+	val dateMatch:Option[Regex.Match] = {
+	  OPDate.dateRegex.findFirstMatchIn(fromStr) orElse OPDate.abbrevRegex.findFirstMatchIn(fromStr)
+	}
+	
+	def month = getField("month", Month.byName(_), Month.Unknown)
+	def day = getField("day", optionalPart(_), OPDate.Unknown)
+	def year = getField("year", _.toInt, OPDate.Unknown)
+}
+
+// This version parses the short version in the alpha list, eg, "2/22/98"
+class OPShortDate(f:String) extends OPDateFromString(f) {
+  val dateMatch:Option[Regex.Match] = { 
+    OPDate.shortRegex.findFirstMatchIn(fromStr) orElse OPDate.shorterRegex.findFirstMatchIn(fromStr)
+  }      
 
   def monthPart(digits:String) = {
     val raw = optionalPart(digits)
@@ -185,7 +186,7 @@ class InvalidOPDate extends OPDate {
 
 object OPDate {
 	val dateRegex:Regex = new Regex("""(January|February|March|April|May|June|July|August|September|October|November|December) (\d\d?)(th|st)?, (\d\d\d\d)""", "month", "day", "suffix", "year")
-	val abbrevRegex:Regex = new Regex("""(Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept|Sep|Oct|Nov|Dec)\.? (\d\d?)(th|st)?, (\d\d\d\d)""", "month", "day", "suffix", "year")
+	val abbrevRegex:Regex = new Regex("""(Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept|Sep|Oct|Nov|Dec)\.? ([\d\?][\d\?]?)(th|st)?, (\d\d\d\d)""", "month", "day", "suffix", "year")
 	val shortRegex:Regex = new Regex("""(..?)/(..?)/(..\S\S)""", "month", "day", "year")
 	val shorterRegex:Regex = new Regex("""(..?)/(..?)/(..)""", "month", "day", "year")
 	val Unknown = -1
