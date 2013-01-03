@@ -100,7 +100,7 @@ object Config2 {
             Award("Confirmation of Gentility"),
             
             // Closed Orders
-            Award("Guardsman", "Kingdom Order of Fence", "Kingdom Fence", "Fence"),
+            Award("Guardsman", "Kingdom Order of Fence", "Kingdom Fence", "Fence", "High Merit for Fence"),
             Award("Fatima"),
             Award("Pheon"),
             
@@ -304,14 +304,15 @@ object Config2 {
           ),
         
           children = Seq(
-            Barony("BMDL", awards = Seq(
-              Award("Gold Comet", "Comet Or"),
-              Award("Green Comet", "Comet Vert"),
-              "Silver Comet",
-              "Iron Comet",
-              "Red Comet",
-              "Blue Comet",
-              "Peacock"
+            Barony("BMDL", synonyms = Seq("Debatable Lands"),
+              awards = Seq(
+                Award("Gold Comet", "Comet Or"),
+                Award("Green Comet", "Comet Vert"),
+                "Silver Comet",
+                "Iron Comet",
+                "Red Comet",
+                "Blue Comet",
+                "Peacock"
             )),
             
             Barony("Delftwood", awards = Seq(
