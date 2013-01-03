@@ -104,7 +104,9 @@ class OPCourtDate(f:String) extends OPDateFromString(f) {
 
 // This version parses the short version in the alpha list, eg, "2/22/98"
 class OPShortDate(f:String) extends OPDateFromString(f) {
-  val dateMatch:Option[Regex.Match] = OPDate.shortRegex.findFirstMatchIn(fromStr)
+  val dateMatch:Option[Regex.Match] = { 
+    OPDate.shortRegex.findFirstMatchIn(fromStr) orElse OPDate.shorterRegex.findFirstMatchIn(fromStr)
+  }      
   
   // This expects each date part to be either two digits, or "??"
   def optionalPart(digits:String) = {
@@ -129,9 +131,19 @@ class OPShortDate(f:String) extends OPDateFromString(f) {
     else
       Month(raw)
   }
+  
+  def padYear(y:Int):Int = {
+    if (y < 100) {
+      if (y < 50)
+        2000 + y
+      else
+        1900 + y
+    } else
+      y
+  }
 
   def day = getField("day", optionalPart(_), OPDate.Unknown)
-  def year = getField("year", optionalPart(_), OPDate.Unknown)
+  def year = padYear(getField("year", optionalPart(_), OPDate.Unknown))
   def month = getField("month", monthPart(_), Month.Unknown)
 }
 
@@ -145,7 +157,8 @@ class InvalidOPDate extends OPDate {
 
 object OPDate {
 	val dateRegex:Regex = new Regex("""(January|February|March|April|May|June|July|August|September|October|November|December) (\d\d?)(th|st)?, (\d\d\d\d)""", "month", "day", "suffix", "year")
-	val shortRegex:Regex = new Regex("""(..?)/(..?)/(....)""", "month", "day", "year")
+	val shortRegex:Regex = new Regex("""(..?)/(..?)/(..\S\S)""", "month", "day", "year")
+	val shorterRegex:Regex = new Regex("""(..?)/(..?)/(..)""", "month", "day", "year")
 	val Unknown = -1
 	val Invalid = new InvalidOPDate
 }

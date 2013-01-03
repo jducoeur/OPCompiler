@@ -22,14 +22,11 @@ abstract trait OldFile {
 class CourtReportFile(val name:String) extends OldFile {
   val kind = FileType.CourtReport
   val parser = CurrentCourtReportParser
-  
-  // Arguably a little evil to set this up here, with the parser assigned by kind;
-  // the separation of concerns is crappy
-  // TODO: redo this for the new world -- we need some way to specify which parser to use
-  // for the older court report files
-//  val parser = (xml \ "@kind").text match {
-//    case "current" => CurrentCourtReportParser
-//  } 
+}
+
+class CourtReportOneTableFile(val name:String) extends OldFile {
+  val kind = FileType.CourtReport
+  val parser = OneTableCourtReportParser
 }
 
 class AlphaFile(val name:String) extends OldFile {
@@ -45,14 +42,16 @@ class AwardFile(val name:String) extends OldFile {
 object FilesToProcess {
   val dataDir = "data"
   val courtReportDir = new File(dataDir + "\\chrono")
+  val courtReportOneTableDir = new File(dataDir + "\\chrono\\oneTable")
   val alphaDir = new File(dataDir + "\\alpha")
   val awardDir = new File(dataDir + "\\awards")
   
   def makeFiles(dir:File)(builder: String => OldFile) = {
-    dir.listFiles map (file => builder(file.getAbsolutePath))
+    dir.listFiles filter (_.isFile) map (file => builder(file.getAbsolutePath))
   }
+  
   val alphas = makeFiles(alphaDir)(new AlphaFile(_))
-  val courtReports = makeFiles(courtReportDir)(new CourtReportFile(_))
+  val courtReports = makeFiles(courtReportDir)(new CourtReportFile(_)) ++: makeFiles(courtReportOneTableDir)(new CourtReportOneTableFile(_))
   val awards = makeFiles(awardDir)(new AwardFile(_))
   
   def processOneType(files:Seq[OldFile], title:String) = {

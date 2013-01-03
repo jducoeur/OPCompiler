@@ -105,3 +105,42 @@ class CurrentCourtReportParser extends CourtReportParser {
   }
 }
 object CurrentCourtReportParser extends CurrentCourtReportParser {}
+
+
+/**
+ * This parser handles the table format that was common prior to Lucan V.
+ */
+trait OneTableCourtReportParser extends CourtReportParser with BigTableParser {
+  case class RowInfo(date:OPDate, award:Seq[AwardAs], recipient:Persona, eventName:String)
+  type TypedRow = RowInfo
+  
+  def transformRow(rowVals:List[String]):TypedRow = {
+    val dateStr :: awardStr :: recipientStr :: courtStr :: excess = rowVals
+    RowInfo(new OPShortDate(dateStr), Award.find(awardStr), Persona.find(recipientStr), courtStr)
+  }
+  
+  // TBD: is this correct? Do we need to also match on court name?
+  def groupMatch(first:TypedRow, second:TypedRow):Boolean = first.date == second.date
+  
+  def makeRecognition(row:TypedRow, court:Court, index:Int):Recognition = {
+    // Current assumption: each node only contains one award. Is that right?
+    val as = row.award.head
+    val recognition = Recognition(row.recipient, as.award, as.name, Some(court), Some(index))
+    row.recipient.addAward(recognition)
+    recognition
+  }
+  
+  def handleGroup(group:RowGroup) = {
+    val firstRow = group(0)
+    val court = new Court(firstRow.eventName, firstRow.date)
+    val (nFound, recs) = ((0, Seq.empty[Recognition]) /: group) { (state, row) =>
+      val (index, seq) = state
+      (index + 1, seq :+ makeRecognition(row, court, index)) 
+    }
+    court.business = recs
+    Log.pushContext(court.title)
+    Log.print(court.toString)
+    Log.popContext
+  }
+}
+object OneTableCourtReportParser extends OneTableCourtReportParser {}
