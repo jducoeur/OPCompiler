@@ -594,6 +594,10 @@ object Config2 {
             "Panache",
             "Sigillum Coronae",
             "Silver Guard"
+          ),
+          
+          children = Seq(
+            Barony("Knight's Crossing")
           )
         ),
         
