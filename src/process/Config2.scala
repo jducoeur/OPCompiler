@@ -57,6 +57,8 @@ object Config2 {
           
           // Yes, there exists exactly one Court Count:
           Award("Court Count"),
+          // And Seanan is a Court Duke:
+          Award("Court Duke"),
           
           Award("Viscount", gender = Male, synonyms = Seq(AwardName("Viscountess", Female))),
           Award("Count", gender = Male, synonyms = Seq(

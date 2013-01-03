@@ -10182,6 +10182,24 @@ Court Reports {
       
     }
   }
+  Lucan2.xhtml {
+    Boredom War, June ?? 1994 {
+      == Boredom War == (June ??, 1994)
+        06/??/1994  C  Tygers Combattant -- Krakken Gnashbone
+      
+    }
+    Pennsic War, Aug. 17, 1994 {
+      == Pennsic War == (August 17, 1994)
+        08/17/1994  C  Court Duke -- Seanan an Chasur
+      
+    }
+    East Kingdom Royal Banquet, Pennsic XXIII, Aug. ?? 1994 {
+      == East Kingdom Royal Banquet, Pennsic XXIII == (August ??, 1994)
+        08/??/1994  C  Award of Arms -- The Vicar of Revelwood, Rob of the Wood
+        08/??/1994  C  Troubadour -- Iron Baron
+      
+    }
+  }
   Lucan3.xhtml {
     Coronation, Quintavia, Oct. 5, 1996 {
       == Coronation, Quintavia == (October 5, 1996)
@@ -61081,6 +61099,9 @@ Alpha List {
   == Irinka z Poznania ==
     02/22/2003 ACL Award of Arms -- Irinka z Poznania
   
+  == Iron Baron ==
+    08/??/1994  C  Troubadour -- Iron Baron
+  
   == Iron Dwarf ==
     08/16/2000   L Silver Crescent -- Iron Dwarf
   
@@ -65828,7 +65849,7 @@ Alpha List {
   
   == Krakken Gnashbone ==
     01/23/1993 A   Award of Arms -- Krakken Gnashbone
-    06/??/1994 A L Tygers Combattant -- Krakken Gnashbone
+    06/??/1994 ACL Tygers Combattant -- Krakken Gnashbone
     07/16/1994 A L Sagittarius -- Krakken Gnashbone
     04/13/1996 ACL Silver Crescent -- Krakken Gnashbone
     02/01/1997 ACL Master of the Pelican -- Krakken Gnashbone
@@ -77778,6 +77799,7 @@ Alpha List {
     10/06/1979 A   Count -- Seanan an Chasur
     08/15/1987 A   Knight -- Seanan an Chasur
     07/23/1988 A   Tygers Combattant -- Seanan an Chasur
+    08/17/1994  C  Court Duke -- Seanan an Chasur
     11/23/1996 ACL Queen's Courtesy -- Seanan an Chasur
   
   == Seanevar of Boise Ardent ==
@@ -80906,6 +80928,9 @@ Alpha List {
   
   == The Vicar ==
     08/??/1996  C  Troubadour -- The Vicar
+  
+  == The Vicar of Revelwood, Rob of the Wood ==
+    08/??/1994  C  Award of Arms -- The Vicar of Revelwood, Rob of the Wood
   
   == Thea die Edele von Bayern ==
     05/12/1990   L AOA -- Thea die Edele von Bayern
