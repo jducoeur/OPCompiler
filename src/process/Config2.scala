@@ -63,7 +63,8 @@ object Config2 {
           Award("Viscount", gender = Male, synonyms = Seq(AwardName("Viscountess", Female))),
           Award("Count", gender = Male, synonyms = Seq(
             AwardName("Countess", Female),
-            AwardName("Jarl", Male))),
+            AwardName("Jarl", Male),
+            AwardName("Earl", Male))),
           Award("Duke", gender = Male, synonyms = Seq(AwardName("Duchess", Female)))
       )
       // Each of these is a Seq[AwardInfo], so they don't fit neatly into the above list

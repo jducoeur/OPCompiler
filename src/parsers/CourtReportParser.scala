@@ -28,7 +28,12 @@ class CurrentCourtReportParser extends CourtReportParser {
         parsedAwardName
       else if (court.isChampionship) {
         // We couldn't find the award, so try inserting the championship name
-        parsedAwardName.replace("Champion", court.champName + " Champion")
+        val subbedName = parsedAwardName.replace("Champion", court.champName + " Champion")
+        if (Award.contains(subbedName))
+          subbedName
+        else
+          // Give up, and assume it's Rattan:
+          parsedAwardName.replace("Champion", "Rattan Champion")
       } else
         parsedAwardName
     } else
