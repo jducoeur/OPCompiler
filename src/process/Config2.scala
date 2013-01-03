@@ -41,7 +41,7 @@ object Config2 {
           Award("White Scarf", "Defender of the White Scarf"),
           
           Award("Patent of Arms", "Patent"),
-          Award("Knight", "Chivalry (knight)", "Order of Chivalry (Knight)"),
+          Award("Knight", "Chivalry (knight)", "Order of Chivalry (Knight)", "KSCA"),
           // Yes, sometimes the choice didn't get recorded:
           Award("Chivalry", "Member of the Chivalry"),
           Award("Laurel", synonyms = Seq(
