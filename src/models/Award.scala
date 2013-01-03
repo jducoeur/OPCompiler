@@ -104,6 +104,7 @@ object Award {
     		"""elect""".r,
     		"""out\s*going""".r,
     		"""backlog""".r,
+    		"""vicar""".r,
     		"""vigil""".r)
     commentRegexes.exists(regex => regex.findFirstIn(name) != None)
   }
