@@ -223,7 +223,7 @@ object Config2 {
             
             Barony("Mountain Freehold"),
             
-            Barony("Carillion", awards = Seq(
+            Barony("Carillion", synonyms = Seq("Carillon"), awards = Seq(
               "Chime",
               "Fish",
               "Sable Bell",
