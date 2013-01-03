@@ -11,48 +11,24 @@ object FileType extends Enumeration {
   val CourtReport, Alpha, AwardListing = Value
 }
 
-abstract trait OldFile {
-  import FileType._
-  val kind:FileType
-  val name:String
-  val parser:OPFileParser
+import FileType._
+case class OldFile(kind:FileType, name:String, parser:OPFileParser) {
   def simpleName = new File(name).getName
-}
-
-class CourtReportFile(val name:String) extends OldFile {
-  val kind = FileType.CourtReport
-  val parser = CurrentCourtReportParser
-}
-
-class CourtReportOneTableFile(val name:String) extends OldFile {
-  val kind = FileType.CourtReport
-  val parser = OneTableCourtReportParser
-}
-
-class AlphaFile(val name:String) extends OldFile {
-  val kind = FileType.Alpha
-  val parser = AlphaParser
-}
-
-class AwardFile(val name:String) extends OldFile {
-  val kind = FileType.AwardListing
-  val parser = AwardListingParser
 }
 
 object FilesToProcess {
   val dataDir = "data"
-  val courtReportDir = new File(dataDir + "\\chrono")
-  val courtReportOneTableDir = new File(dataDir + "\\chrono\\oneTable")
-  val alphaDir = new File(dataDir + "\\alpha")
-  val awardDir = new File(dataDir + "\\awards")
   
-  def makeFiles(dir:File)(builder: String => OldFile) = {
-    dir.listFiles filter (_.isFile) map (file => builder(file.getAbsolutePath))
+  def makeFiles(dirName:String, fileType:FileType, parser:OPFileParser) = {
+    val dir = new File(dataDir + dirName)
+    dir.listFiles filter (_.isFile) map (file => new OldFile(fileType, file.getAbsolutePath, parser))
   }
   
-  val alphas = makeFiles(alphaDir)(new AlphaFile(_))
-  val courtReports = makeFiles(courtReportDir)(new CourtReportFile(_)) ++: makeFiles(courtReportOneTableDir)(new CourtReportOneTableFile(_))
-  val awards = makeFiles(awardDir)(new AwardFile(_))
+  val alphas = makeFiles("\\alpha", FileType.Alpha, AlphaParser)
+  val courtReports = 
+    makeFiles("\\chrono", FileType.CourtReport, CurrentCourtReportParser) ++: 
+    makeFiles("\\chrono\\oneTable", FileType.CourtReport,OneTableCourtReportParser)
+  val awards = makeFiles("\\awards", FileType.AwardListing, AwardListingParser)
   
   def processOneType(files:Seq[OldFile], title:String) = {
     Log.pushContext(title)
