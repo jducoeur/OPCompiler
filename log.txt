@@ -9520,6 +9520,82 @@ Court Reports {
       
     }
   }
+  Michael.xhtml {
+    Coronation, October 18, 1980 * {
+      == Coronation == (October 18, 1980)
+        10/18/1980  C  Queen's Courtesy -- Elric of Erehwon
+        10/18/1980  C  Manche -- Baschamp-Paul Montargent
+        10/18/1980  C  Burdened Tyger -- Geoffrei de Courville
+      
+    }
+    Crown Tourney, in Bhakail, Unk ?? 1980 {
+      == Crown Tourney, in Bhakail == (????? ??, 1980)
+        ??/??/1980  C  Master at Arms -- Kobayashi Yutaka
+      
+    }
+    Twelfth Night, Storvik, Jan 3, 1981 {
+      == Twelfth Night, Storvik == (January 3, 1981)
+        01/03/1981  C  Silver Crescent -- Jaelle of Armida
+        01/03/1981  C  Silver Crescent -- Sedalia of House Maruviel
+        01/03/1981  C  Troubadour -- Myfanwy O'Mwyle ni Cambion
+        01/03/1981  C  Award of Arms -- Myfanwy O'Mwyle ni Cambion
+        01/03/1981  C  Award of Arms -- Richard de Chalfont
+        01/03/1981  C  Award of Arms -- Elisa Caer Seren
+        01/03/1981  C  Tygers Combattant -- Tnek the Anisessetor
+      
+    }
+    Drachenwald Twelfth Night, Jan. ?? 1981 {
+      == Drachenwald Twelfth Night == (January ??, 1981)
+        01/??/1981  C  Knight -- Narlech (Knarlic von Linse)
+        01/??/1981  C  Mistress of the Laurel -- Kathea von Linse
+        01/??/1981  C  Master of the Laurel -- Tuiren de Lisle
+        01/??/1981  C  Court Baron -- Charles Stuart O'Connor
+        01/??/1981  C  Troubadour -- Gwen
+        01/??/1981  C  Silver Crescent -- Charles Stuart O'Connor
+        01/??/1981  C  Silver Crescent -- Wilhelm von der Goldkuste
+        01/??/1981  C  Manche -- Regina de Romsey
+        01/??/1981  C  Manche -- Morgan Pferdezuchter
+        01/??/1981  C  Manche -- Aife, called Omadon
+        01/??/1981  C  Manche -- Catherine Delleray
+      
+    }
+    Shakespeare Feast, Tir-Y-Don, Unk ?? 1981 {
+      == Shakespeare Feast, Tir-Y-Don == (????? ??, 1981)
+        ??/??/1981  C  Manche -- Robert Chartreux of Battenborough
+        ??/??/1981  C  Court Baroness -- Melissa of the Misty Mere
+        ??/??/1981  C  Award of Arms -- Elain of Oaklawn
+      
+    }
+    Tourney of Ymir, Windmaster's Hill, Unk ?? 1981 {
+      == Tourney of Ymir, Windmaster's Hill == (????? ??, 1981)
+        ??/??/1981  C  Mistress of the Laurel -- Giovanna Mara Hunyadi di Ghiberti
+        ??/??/1981  C  Master of the Pelican -- Robin of Mannefield
+      
+    }
+    Ice Dragon, Rhydderich Hael, Unk ?? 1981 {
+      == Ice Dragon, Rhydderich Hael == (????? ??, 1981)
+        ??/??/1981  C  Knight -- Barak Elandris Mago
+        ??/??/1981  C  Troubadour -- Charlotte of the Misty Hills (Roen Dentilliere)
+        ??/??/1981  C  Award of Arms -- Anne of Porcellus
+      
+    }
+    First Event of Curragh Mor, Unk ?? 1981 {
+      == First Event of Curragh Mor == (????? ??, 1981)
+        ??/??/1981  C  Award of Arms -- Cadwallon Rudd
+      
+    }
+    Coronation of Siegfried and Wanda, Settmour Swamp, Unk ?? 1981 {
+      == Coronation of Siegfried and Wanda, Settmour Swamp == (????? ??, 1981)
+        ??/??/1981  C  Silver Crescent -- Alyson of Islay
+        ??/??/1981  C  Silver Crescent -- Edward of Crofton
+        ??/??/1981  C  Award of Arms -- Ingrid von Baumgarten
+        ??/??/1981  C  Award of Arms -- Arianwen of Urquart
+        ??/??/1981  C  Award of Arms -- Gwyneth map Llwellyn
+        ??/??/1981  C  Award of Arms -- Cassandra Boell von Bayer
+        ??/??/1981  C  Award of Arms -- Alizaunde de Breguf
+      
+    }
+  }
   Aelfwine.xhtml {
     Coronation, Oct. 3, 1981 {
       == Coronation == (October 3, 1981)
@@ -45025,7 +45101,7 @@ Alpha List {
   
   == Aife, called Omadon ==
     09/27/1980   L AOA -- Aife, called Omadon
-    01/10/1981   L Maunche -- Aife, called Omadon
+    01/10/1981  CL Manche -- Aife, called Omadon
   
   == Aihill MacFerchair ==
     03/17/2012   L Silver Martlet (Iron Bog) -- Aihill MacFerchair
@@ -46777,6 +46853,9 @@ Alpha List {
     08/17/1984 A L Mistress of the Laurel -- Alizaunde de Bregeuf
     08/18/1984  C  Mistress of the Laurel -- Alizaunde de Bregeuf
   
+  == Alizaunde de Breguf ==
+    ??/??/1981  C  Award of Arms -- Alizaunde de Breguf
+  
   == Alizonde de Bregeuf ==
     12/12/1981  C  Manche -- Alizonde de Bregeuf
     01/23/1982  C  Troubadour -- Alizonde de Bregeuf
@@ -47088,6 +47167,7 @@ Alpha List {
     04/20/1974   L Rose -- Alyson of Islay
     04/20/1974   L Count -- Alyson of Islay
     04/16/1977   L Fatima -- Alyson of Islay
+    ??/??/1981  C  Silver Crescent -- Alyson of Islay
   
   == Alyssa Dragonsdaughter ==
     02/21/2009 ACL Award of Arms -- Alyssa Dragonsdaughter
@@ -48582,7 +48662,7 @@ Alpha List {
     06/10/1972 A   Windblown Leaf (Myrkwood) -- Anne of Narnia
   
   == Anne of Porcellus [registered] ==
-    03/21/1981 A L Award of Arms -- Anne of Porcellus
+    03/21/1981 ACL Award of Arms -- Anne of Porcellus
     04/24/1982 A L Grant of Arms -- Anne of Porcellus
   
   == Anne of Surrey ==
@@ -49383,7 +49463,7 @@ Alpha List {
     03/15/1986  C  Award of Arms -- Arianwen merch Gawaine
   
   == Arianwen of Urquart ==
-    04/04/1981   L AOA -- Arianwen of Urquart
+    04/04/1981  CL Award of Arms -- Arianwen of Urquart
   
   == Arianwen of Urquhart ==
     08/08/2012 A L Court Barony -- Arianwen of Urquhart
@@ -50776,6 +50856,7 @@ Alpha List {
   == Barak Elandris Mago ==
     08/18/1979   L AOA -- Barak Elandris Mago
     08/23/1980   L QOC -- Barak Elandris Mago
+    ??/??/1981  C  Knight -- Barak Elandris Mago
     03/21/1981   L Chivalry -- Barak Elandris Mago
   
   == Barak Elandris Muthumbal ==
@@ -50894,7 +50975,7 @@ Alpha List {
     10/30/2004 ACL Award of Arms -- Bartolomieu of Panther Vale, called Barr
   
   == Baschamp-Paul Montargent ==
-    10/18/1980   L Maunche -- Baschamp-Paul Montargent
+    10/18/1980  CL Manche -- Baschamp-Paul Montargent
   
   == Basil de Lacey ==
     09/05/1998 ACL Tygers Cub -- Basil de Lacey
@@ -53169,7 +53250,7 @@ Alpha List {
     10/19/1985 ACL Award of Arms -- Cadoc ap Cluiun
   
   == Cadwallon Rudd ==
-    04/11/1981   L AOA -- Cadwallon Rudd
+    04/11/1981  CL Award of Arms -- Cadwallon Rudd
   
   == Cadwan Galwiddoe of Redmarch [registered] ==
     11/03/1979   L AOA -- Cadwan Galwiddoe of Redmarch
@@ -53960,6 +54041,7 @@ Alpha List {
     12/05/1981  C  Burdened Tyger -- Cassandra Boell von Baer
   
   == Cassandra Boell von Bayer ==
+    ??/??/1981  C  Award of Arms -- Cassandra Boell von Bayer
     12/05/1981   L Burdened Tyger -- Cassandra Boell von Bayer
     04/10/1982   L Silver Crescent -- Cassandra Boell von Bayer
     04/27/1991  CL Court Baroness -- Cassandra Boell von Bayer
@@ -54252,6 +54334,9 @@ Alpha List {
     01/10/1981   L Maunche -- Catherine Cameron Stewart Morgan
     01/02/1982   L Viscount -- Catherine Cameron Stewart Morgan [from Drachenwald]
     01/02/1982   L Laurel -- Catherine Cameron Stewart Morgan
+  
+  == Catherine Delleray ==
+    01/??/1981  C  Manche -- Catherine Delleray
   
   == Catherine Des Deux Pays ==
     10/07/1989 ACL Award of Arms -- Catherine Des Deux Pays
@@ -55106,6 +55191,10 @@ Alpha List {
     10/12/1985   L Grant of Arms -- Charles Stewart O’Connor [from Middle]
     08/15/1987   L Laurel -- Charles Stewart O’Connor [from Calontir]
   
+  == Charles Stuart O'Connor ==
+    01/??/1981  C  Silver Crescent -- Charles Stuart O'Connor
+    01/??/1981  C  Court Baron -- Charles Stuart O'Connor
+  
   == Charles Zanos ==
     02/03/2001 ACL Award of Arms -- Charles Zanos
     02/03/2001 ACL Burdened Tyger -- Charles Zanos
@@ -55162,6 +55251,9 @@ Alpha List {
   
   == Charles-Phillipe Castelmore de Cadours ==
     03/26/1988  C  Guardsman -- Charles-Phillipe Castelmore de Cadours
+  
+  == Charlotte of the Misty Hills (Roen Dentilliere) ==
+    ??/??/1981  C  Troubadour -- Charlotte of the Misty Hills (Roen Dentilliere)
   
   == Charlton du Rill ==
     07/15/1989 ACL Award of Arms -- Charlton du Rill
@@ -60145,7 +60237,7 @@ Alpha List {
   == Edward of Crofton [registered] ==
     11/15/1975 A L Award of Arms -- Edward of Crofton
     04/16/1977 A L Burdened Tyger -- Edward of Crofton
-    04/04/1981 A L Silver Crescent -- Edward of Crofton
+    04/04/1981 ACL Silver Crescent -- Edward of Crofton
   
   == Edward of Denby Woods ==
     12/02/1995   L AOA -- Edward of Denby Woods
@@ -60563,6 +60655,9 @@ Alpha List {
     06/09/1984  CL Award of Arms -- Elaigne Kerr Benicoeur
     08/17/1985  CL Manche -- Elaigne Kerr Benicoeur
     02/17/1990   L Laurel -- Elaigne Kerr Benicoeur
+  
+  == Elain of Oaklawn ==
+    ??/??/1981  C  Award of Arms -- Elain of Oaklawn
   
   == Elaina of Oaklawn ==
     04/25/1981   L AOA -- Elaina of Oaklawn
@@ -61080,7 +61175,7 @@ Alpha List {
     07/30/1983 ACL Award of Arms -- Elisa Bethany MacAllister
   
   == Elisa Caer Seren ==
-    01/03/1981   L AOA -- Elisa Caer Seren
+    01/03/1981  CL Award of Arms -- Elisa Caer Seren
   
   == Elisa of Thescorre ==
     07/16/1994   L AOA -- Elisa of Thescorre
@@ -61658,7 +61753,7 @@ Alpha List {
     12/18/1976 A   Lamp of Tir Ysgithr (Tir Ysgithr) -- Elric of Erehwon
     03/26/1977 A   Light of Atenveldt (Atenveldt) -- Elric of Erehwon
     04/02/1978 A L Court Baron -- Elric of Erehwon
-    10/18/1980 A L Queen's Courtesy -- Elric of Erehwon
+    10/18/1980 ACL Queen's Courtesy -- Elric of Erehwon
     05/30/1981 A L Silver Crescent -- Elric of Erehwon
     02/15/1982 A L Master of the Laurel -- Elric of Erehwon
     05/08/1982 AC  Baron Bhakail -- Elric of Erehwon [retired]
@@ -65151,7 +65246,7 @@ Alpha List {
   
   == Geoffrei de Courville ==
     11/17/1979   L AOA -- Geoffrei de Courville
-    10/18/1980   L Burdened Tyger -- Geoffrei de Courville
+    10/18/1980  CL Burdened Tyger -- Geoffrei de Courville
     01/09/1982   L Maunche -- Geoffrei de Courville
   
   == Geoffrey Blesedale ==
@@ -65737,6 +65832,9 @@ Alpha List {
   
   == Giovanna Luigia di Milano [registered] ==
     06/27/1992 ACL Award of Arms -- Giovanna Luigia di Milano
+  
+  == Giovanna Mara Hunyadi di Ghiberti ==
+    ??/??/1981  C  Mistress of the Laurel -- Giovanna Mara Hunyadi di Ghiberti
   
   == Giovanna Maria Hunyadi de Ghiberti ==
     01/12/1980   L Maunche -- Giovanna Maria Hunyadi de Ghiberti
@@ -66981,6 +67079,9 @@ Alpha List {
   == Gweddyn of Moray Firth ==
     07/23/1989  C  Award of Arms -- Gweddyn of Moray Firth
   
+  == Gwen ==
+    01/??/1981  C  Troubadour -- Gwen
+  
   == Gwen ap Madyn ==
     02/08/2003  CL Golden Lyre -- Gwen ap Madyn [Buffens performance]
   
@@ -67340,6 +67441,9 @@ Alpha List {
     04/11/1987 A L Award of Arms -- Gwyneth ferch Meredydd Ynys Mon
     10/07/1987 A   Guardsman -- Gwyneth ferch Meredydd Ynys Mon
     07/10/1993 A L Golden Rapier -- Gwyneth ferch Meredydd Ynys Mon
+  
+  == Gwyneth map Llwellyn ==
+    ??/??/1981  C  Award of Arms -- Gwyneth map Llwellyn
   
   == Gwyneth merch Macsen ==
     02/27/1976   L AOA -- Gwyneth merch Macsen
@@ -68862,7 +68966,7 @@ Alpha List {
     04/21/2001 ACL Award of Arms -- Ingred Ulm
   
   == Ingrid von Baumgarten [registered] ==
-    04/04/1981 A L Award of Arms -- Ingrid von Baumgarten
+    04/04/1981 ACL Award of Arms -- Ingrid von Baumgarten
     01/29/1983 A L Yale (Dragonship Haven) -- Ingrid von Baumgarten
     11/05/1983 ACL Silver Crescent -- Ingrid von Baumgarten
     04/12/1986   L White Oak (Beyond the Mountain) -- Ingrid von Baumgarten
@@ -69758,6 +69862,7 @@ Alpha List {
     03/19/1983   L Maunche -- Jaelle Armida
   
   == Jaelle of Armida ==
+    01/03/1981  C  Silver Crescent -- Jaelle of Armida
     10/23/1982  C  Burdened Tyger -- Jaelle of Armida
     03/19/1983  C  Manche -- Jaelle of Armida
   
@@ -72598,7 +72703,7 @@ Alpha List {
     07/31/1976   L Court Barony -- Kathea Ver Kaeysc [from West]
   
   == Kathea von Linse ==
-    01/10/1981   L Laurel -- Kathea von Linse
+    01/10/1981  CL Mistress of the Laurel -- Kathea von Linse
   
   == Katherina-Theresia von Franke-Hessian ==
     02/27/1976   L AOA -- Katherina-Theresia von Franke-Hessian
@@ -73899,7 +74004,7 @@ Alpha List {
   == Kobayashi Yutaka [registered] ==
     05/12/1979 A L Tygers Combattant -- Kobayashi Yutaka
     10/25/1980   L Chivalry -- Kobayashi Yutaka
-    10/25/1980 A   Master at Arms -- Kobayashi Yutaka
+    10/25/1980 AC  Master at Arms -- Kobayashi Yutaka
     12/06/1980 A L Moon (Carolingia) -- Kobayashi Yutaka
     12/12/1981 ACL Manche -- Kobayashi Yutaka
     03/20/1982 A L Queen's Courtesy -- Kobayashi Yutaka
@@ -78786,6 +78891,7 @@ Alpha List {
   
   == Melissa of the Misty Mere ==
     10/18/1980   L Burdened Tyger -- Melissa of the Misty Mere
+    ??/??/1981  C  Court Baroness -- Melissa of the Misty Mere
   
   == Melissande Swansea ==
     04/16/1994   L AOA -- Melissande Swansea
@@ -80049,6 +80155,9 @@ Alpha List {
   == Morgan O'Laithlann ==
     02/14/1998 ACL Award of Arms -- Morgan O'Laithlann
   
+  == Morgan Pferdezuchter ==
+    01/??/1981  C  Manche -- Morgan Pferdezuchter
+  
   == Morgan Pferdzuchter, called Anwen ==
     01/10/1981 A L Manche -- Morgan Pferdzuchter, called Anwen
   
@@ -80619,8 +80728,8 @@ Alpha List {
     09/23/2006   L AOA -- Mychen Hebenstreit
   
   == Myfanwy O'Mwyle ni Cambion ==
-    01/03/1981   L Troubadour -- Myfanwy O'Mwyle ni Cambion
-    01/03/1981   L AOA -- Myfanwy O'Mwyle ni Cambion
+    01/03/1981  CL Award of Arms -- Myfanwy O'Mwyle ni Cambion
+    01/03/1981  CL Troubadour -- Myfanwy O'Mwyle ni Cambion
   
   == Myfanwy ferch Rhiannon ==
     04/01/1989  CL Award of Arms -- Myfanwy ferch Rhiannon
@@ -80786,6 +80895,9 @@ Alpha List {
   
   == Narine MacAlister ==
     07/08/1989  C  Award of Arms -- Narine MacAlister
+  
+  == Narlech (Knarlic von Linse) ==
+    01/??/1981  C  Knight -- Narlech (Knarlic von Linse)
   
   == Nasija Sofija ==
     05/06/2006 ACL Award of Arms -- Nasija Sofija
@@ -83782,7 +83894,7 @@ Alpha List {
   
   == Rashid al-Gyanji ==
     AKA: Richard de Chalfont
-    01/03/1981 A L Award of Arms -- Rashid al-Gyanji
+    01/03/1981 ACL Award of Arms -- Richard de Chalfont
     01/09/1982 ACL Manche -- Richard de Chalfont
     08/??/1988 A L Salamander (Bhakail) -- Rashid al-Gyanji
     01/05/1991 ACL Master of the Laurel -- Richard de Chalfont
@@ -83972,6 +84084,7 @@ Alpha List {
     08/17/1985  CL Mistress of the Pelican -- Regina Romsey
   
   == Regina de Romsey ==
+    01/??/1981  C  Manche -- Regina de Romsey
     01/02/1982  C  Grant of Arms -- Regina de Romsey
     01/02/1982  C  Court Baroness -- Regina de Romsey
   
@@ -84760,6 +84873,9 @@ Alpha List {
   == Robert Bury atte Okeforde [registered] ==
     07/20/2002 A   Award of Arms -- Robert Bury atte Okeforde
   
+  == Robert Chartreux of Battenborough ==
+    ??/??/1981  C  Manche -- Robert Chartreux of Battenborough
+  
   == Robert Chartreux of Battenbough ==
     04/25/1981   L Maunche -- Robert Chartreux of Battenbough
   
@@ -85118,6 +85234,9 @@ Alpha List {
     02/21/1976   L AOA -- Robin of Mannefeld
     01/13/1979   L Silver Crescent -- Robin of Mannefeld
     02/21/1981   L Pelican -- Robin of Mannefeld
+  
+  == Robin of Mannefield ==
+    ??/??/1981  C  Master of the Pelican -- Robin of Mannefield
   
   == Robin of Stonemarche ==
     06/12/1993 A L Award of Arms -- Robin of Stonemarche
@@ -87249,6 +87368,9 @@ Alpha List {
   
   == Sedalia McNair ==
     01/29/1994  C  Sigillum Coronae (Drachenwald) -- Sedalia McNair [Presented in the name of TRM Drachenwald, Elffin & Vanna]
+  
+  == Sedalia of House Maruviel ==
+    01/03/1981  C  Silver Crescent -- Sedalia of House Maruviel
   
   == Seelie Brianna Sutherland ==
     01/09/1982  CL Award of Arms -- Seelie Brianna Sutherland
@@ -91435,6 +91557,9 @@ Alpha List {
     04/26/1980   L QOC -- Tnek the Ainissestor
     01/03/1981   L Tygers Combattant -- Tnek the Ainissestor
   
+  == Tnek the Anisessetor ==
+    01/03/1981  C  Tygers Combattant -- Tnek the Anisessetor
+  
   == Tobias de Baku ==
     01/27/2007 ACL Award of Arms -- Tobias de Baku
   
@@ -91905,6 +92030,9 @@ Alpha List {
   
   == Tuiren de Childgrove ==
     10/03/1981   L AOA -- Tuiren de Childgrove
+  
+  == Tuiren de Lisle ==
+    01/??/1981  C  Master of the Laurel -- Tuiren de Lisle
   
   == Tuner ==
     03/27/1982 A L Award of Arms -- Tuner
@@ -93285,6 +93413,7 @@ Alpha List {
   
   == Wilhelm von der Goldkuste ==
     09/27/1980   L AOA -- Wilhelm von der Goldkuste
+    01/??/1981  C  Silver Crescent -- Wilhelm von der Goldkuste
     06/06/1981   L Silver Crescent -- Wilhelm von der Goldkuste
   
   == Will Foy ==

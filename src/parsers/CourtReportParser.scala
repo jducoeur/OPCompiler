@@ -1,5 +1,6 @@
 package parsers
 
+import scala.util.matching._
 import scala.xml._
 import models._
 import process._
@@ -11,11 +12,7 @@ trait CourtReportParser extends OPFileParser {
 class CurrentCourtReportParser extends CourtReportParser {
   // Why a Seq? Because a single row often turns out to describe several awards, joined with
   // "&" or suchlike
-  def processRow(itemRow:Node, court:Court, index:Int):Seq[Recognition] = {
-    val cells = itemRow \ "td" toList
-    val awardCell :: nameCell :: dummy = cells
-    val awardName = StringUtils.scrub(awardCell.text)
-    val personaName = StringUtils.scrub(nameCell.text)
+  def processRowGuts(court:Court, index:Int, awardName:String, personaName:String):Seq[Recognition] = {
     val persona = Persona.find(personaName)
     val (parsedAwardName, comment) = ParseUtils.extractComment(awardName)
     
@@ -47,13 +44,27 @@ class CurrentCourtReportParser extends CourtReportParser {
       recognition
     }
     val recs = for (award <- awardAses) yield makeRec(award)
-    recs
+    recs    
+  }
+  
+  def processRow(itemRow:Node, court:Court, index:Int):Seq[Recognition] = {
+    val cells = itemRow \ "td" toList
+    val awardCell :: nameCell :: dummy = cells
+    val awardName = StringUtils.scrub(awardCell.text)
+    val personaName = StringUtils.scrub(nameCell.text)
+    
+    processRowGuts(court, index, awardName, personaName)
   }
   
   import scala.util.matching.Regex;
   val stripDash:Regex = """,?\s*-?\s*$""".r
   
-  def processGuts(caption:String, businessNodes:NodeSeq) = {
+  def buildBusinessFromTable(businessNodes:NodeSeq)(court:Court):Seq[Recognition] = {
+    val start:Seq[Recognition] = Seq.empty
+    businessNodes.foldLeft(start)((vec, businessRow) => vec ++: processRow(businessRow, court, vec.size))
+  }
+  
+  def processGuts(caption:String, builder:(Court => Seq[Recognition])) = {
     // ... remove basic junk...
     val scrubbedCaption = process.StringUtils.scrub(caption)
     Log.pushContext(scrubbedCaption)
@@ -74,8 +85,9 @@ class CurrentCourtReportParser extends CourtReportParser {
     // ... and now we're finally ready to start building the court:
     val court = new Court(courtTitle, courtDate)
     var index = 0;
-    val start:Seq[Recognition] = Seq.empty
-    court.business = businessNodes.foldLeft(start)((vec, businessRow) => vec ++: processRow(businessRow, court, vec.size))
+    // The general assumption is that the caller will use a closure to capture the information
+    // about the business nodes:
+    court.business = builder(court)
     Log.print(court.toString)
     Log.popContext    
   }
@@ -104,7 +116,7 @@ class CurrentCourtReportParser extends CourtReportParser {
           if (captionDivs.length > 0) captionDivs.head.text.trim else ""
         }
       }
-    processGuts(caption, businessNodes)
+    processGuts(caption, buildBusinessFromTable(businessNodes))
   }
   
   def processFile(fileNode:Elem, name:String) = {
@@ -130,10 +142,45 @@ trait WordCourtReportParser extends CurrentCourtReportParser {
     val pairs = elements.tail.zip(elements)
     val tablePairs = pairs filter (_._1.label == "table")
     
-    tablePairs.foreach(pair => processGuts(pair._2.text.trim, pair._1 \\ "tr"))
+    tablePairs.foreach(pair => processGuts(pair._2.text.trim, buildBusinessFromTable(pair._1 \\ "tr")))
   }
 }
 object WordCourtReportParser extends WordCourtReportParser {}
+
+
+/**
+ * This deals with the really antique files -- Siegfried I and earlier. These are in a highly
+ * simplified HTML format that uses lines instead of tables, so the parsing is a bit different.
+ * Each paragraph is a court; each line is an award. The result is more like the AlphaParser.
+ */
+trait AncientCourtReportParser extends CurrentCourtReportParser {
+  
+  val awardLineRegex = new Regex("""^(.*)\s*-\s(.*)$""", "award", "recipient")
+  
+  def buildBusinessFromLines(lines:Seq[Node])(court:Court):Seq[Recognition] = {
+    val start:Seq[Recognition] = Seq.empty
+    lines.foldLeft(start) { (vec, line) => 
+      val lineMatch = awardLineRegex.findFirstMatchIn(StringUtils.scrub(line.text))
+      lineMatch match {
+        case Some(m) => vec ++: processRowGuts(court, vec.size, m.group("award"), m.group("recipient"))
+        case None => vec
+      }
+    }
+  }
+  
+  def processParagraph(paraNode:Node) = {
+    val lines = paraNode.child filter (_.isInstanceOf[Text])
+    val courtName = lines.head.text.trim
+    processGuts(courtName, buildBusinessFromLines(lines.tail))
+  }
+  
+  override def processFile(fileNode:Elem, name:String) = {
+    val bodyNode = fileNode \\ "body" head
+    val tables = bodyNode \\ "p"
+    tables foreach processParagraph
+  }
+}
+object AncientCourtReportParser extends AncientCourtReportParser {}
 
 
 /**

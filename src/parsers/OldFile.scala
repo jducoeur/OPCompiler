@@ -29,6 +29,7 @@ object FilesToProcess {
     makeFiles("\\chrono", FileType.CourtReport, CurrentCourtReportParser) ++: 
     makeFiles("\\chrono\\oneTable", FileType.CourtReport, OneTableCourtReportParser) ++:
     makeFiles("\\chrono\\oneTable\\threeColumn", FileType.CourtReport, ThreeColumnCourtReportParser) ++:
+    makeFiles("\\chrono\\ancient", FileType.CourtReport, AncientCourtReportParser) ++:
     makeFiles("\\chrono\\word", FileType.CourtReport, WordCourtReportParser)
   val awards = makeFiles("\\awards", FileType.AwardListing, AwardListingParser)
   
