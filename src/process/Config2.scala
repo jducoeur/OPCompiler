@@ -41,7 +41,7 @@ object Config2 {
           Award("White Scarf", "Defender of the White Scarf"),
           
           Award("Patent of Arms", "Patent"),
-          Award("Knight", "Chivalry (knight)", "Order of Chivalry (Knight)", "KSCA"),
+          Award("Knight", "Chivalry (knight)", "Order of Chivalry (Knight)", "KSCA", "Knighthood"),
           // Yes, sometimes the choice didn't get recorded:
           Award("Chivalry", "Member of the Chivalry"),
           Award("Laurel", synonyms = Seq(
@@ -101,7 +101,7 @@ object Config2 {
             Award("Confirmation of Gentility"),
             
             // Closed Orders
-            Award("Guardsman", "Kingdom Order of Fence", "East Kingdom Fencing Order", "East Kingdom Fencing Award", "East Kingdom Fence"),
+            Award("Guardsman", "East Kingdom Fencing Order", "East Kingdom Fencing Award", "East Kingdom Fence"),
             Award("Fatima"),
             Award("Pheon"),
             

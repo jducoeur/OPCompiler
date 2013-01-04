@@ -155,7 +155,9 @@ object WordCourtReportParser extends WordCourtReportParser {}
  */
 trait AncientCourtReportParser extends CurrentCourtReportParser {
   
-  val awardLineRegex = new Regex("""^(.*)\s*-\s(.*)$""", "award", "recipient")
+  // Note that this allows either en or em dashes, because both get used in at least
+  // Siegfried I:
+  val awardLineRegex = new Regex("""^(.*)\s[-–]\s(.*)$""", "award", "recipient")
   
   def buildBusinessFromLines(lines:Seq[Node])(court:Court):Seq[Recognition] = {
     val start:Seq[Recognition] = Seq.empty

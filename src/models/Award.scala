@@ -1,5 +1,7 @@
 package models
 
+import scala.util.matching._
+
 import process._
 import Gender._
 
@@ -108,12 +110,22 @@ object Award {
     		"""vigil""".r)
     commentRegexes.exists(regex => regex.findFirstIn(name) != None)
   }
+
+  val businessMarker = new Regex("""^\[(.*)\]$""", "actual")
+  def markedBusiness(rawName:String) = {
+    val mOpt = businessMarker.findFirstMatchIn(rawName)
+    mOpt match {
+      case Some(m) => (true, m.group("actual"))
+      case None => (isCommentaryBusiness(rawName), rawName)
+    }
+  }
   
   val noSynonyms:Seq[AwardName] = Seq.empty
   
-  def addUnknownAward(name:String) = {
+  def addUnknownAward(rawName:String) = {
+    val (awardIsCommentary, name) = markedBusiness(rawName)
     val awardName = AwardName(name, Gender.Unknown)
-    val newAward = Award(UnknownBranch, awardName, isCommentaryBusiness(name), noSynonyms)
+    val newAward = Award(UnknownBranch, awardName, awardIsCommentary, noSynonyms)
     val as = newAward.as(name)
     if (newAward.commentary)
       Log.info("Adding commentary \"" + name + "\"")
