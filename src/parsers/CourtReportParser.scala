@@ -13,7 +13,7 @@ class CurrentCourtReportParser extends CourtReportParser {
   // Why a Seq? Because a single row often turns out to describe several awards, joined with
   // "&" or suchlike
   def processRowGuts(court:Court, index:Int, awardName:String, personaName:String):Seq[Recognition] = {
-    val persona = Persona.find(personaName)
+    val persona = getPersona(personaName)
     val (parsedAwardName, comment) = ParseUtils.extractComment(awardName)
     
     // This weirdness is to deal with the very common case where we have, eg, the

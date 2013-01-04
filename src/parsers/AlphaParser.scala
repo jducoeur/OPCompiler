@@ -11,56 +11,8 @@ import process.{Log, StringUtils}
 // the fact that they are bold-faced. There is a lot of internal junk that isn't visible
 // from looking at them; we mostly gloss over that.
 class AlphaParser extends OPFileParser {
-
-  // **********************
-  //
-  // This section deals with the messy problem that name lines often contain
-  // references to other entries, in fairly irregular syntax
-  def chopAsterisk(name:String) = {
-    if (name.charAt(0) == '*')
-      name.substring(1)
-    else
-      name
-  }
-  case class OneName(name:String, isCurrent:Boolean)
-  case class NameBreakdown(curName:String, others:Seq[OneName])
-  val separators = new Regex("""^(.*?),?\-? \(?(see|was|formerly|aka):? (.*?)\)?$""", "curName", "relation", "rest")
-  // If it's in parens, the relation is optional:
-  val parens = new Regex("""^(.*?),?\-? \((see|was|formerly|aka|):?\s?(.*?)\)$""", "curName", "relation", "rest")
-  
-  def parseRest(sep:String, rest:String):Seq[OneName] = {
-    val isCurrent = sep match {
-      case "see" => true
-      case "was" => false
-      case "formerly" => false
-      case "aka" => false
-      case "" => false
-      case _ => throw new Exception("Somehow got an unknown name separator!")
-    }
-    
-    val m = separators.findFirstMatchIn(rest) orElse parens.findFirstMatchIn(rest)
-    m match {
-      case Some(foundMatch) => OneName(chopAsterisk(m.get.group("curName")), isCurrent) +: parseRest(m.get.group("relation"), m.get.group("rest"))
-      case None => Seq(OneName(chopAsterisk(rest), isCurrent))
-    }
-  }
-  
-  // The entry point: given the raw line of text, check whether it contains
-  // any references. Returns a NameBreakdown, which separates this name from
-  // any others it may be referencing, and says whether it indicates that this
-  // name is an old name.
-  def checkReferences(rawName:String):NameBreakdown = {
-    val m = separators.findFirstMatchIn(rawName) orElse parens.findFirstMatchIn(rawName)
-    m match {
-      case Some(foundMatch) => NameBreakdown(m.get.group("curName"), parseRest(m.get.group("relation"), m.get.group("rest")))
-      case None => NameBreakdown(rawName, Seq.empty)
-    }
-  }
-  
-  // ***********************
-  
   var currentPersona:Option[Persona] = None
-  
+
   def startPerson(scrubbed:String) = {
     if (currentPersona != null) {
       Log.popContext
@@ -70,19 +22,7 @@ class AlphaParser extends OPFileParser {
     var name = if (deceased) scrubbed.substring(1) else scrubbed
     val reg = (name.charAt(0) == '*')
     name = if (reg) name.substring(1) else name
-    val breakdown = checkReferences(name)
-    name = breakdown.curName.trim
-    // The current name is current iff none of the others are
-    val currentName = breakdown.others.find(_.isCurrent)
-    val isCurrent = currentName.isEmpty
-    val others = breakdown.others map (_.name)
-    // Get a person that has the correct "main" name, then get the current persona from it:
-    val persona =
-      (if (isCurrent)
-        Persona.find(name, others)
-      else
-        Persona.find(currentName.get.name, name +: others)).person.getPersona(name)  
-    val person = persona.person
+    val persona = getPersona(name)
     if (reg)
       persona.registeredName = true
     if (deceased)

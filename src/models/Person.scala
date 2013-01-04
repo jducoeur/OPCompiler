@@ -97,7 +97,7 @@ class Person(mainPersonaName:String) {
   var deceased:Boolean = false
   
   def getPersona(name:String) = {
-	personae.find(_.scaName == name).getOrElse(throw new Exception("Can't find persona " + name))
+	personae.find(_.scaName == Persona.scrub(name)).getOrElse(throw new Exception("Can't find persona " + name))
   }
   
   def addAward(personaName:String, award:Recognition) = getPersona(personaName).addAward(award)

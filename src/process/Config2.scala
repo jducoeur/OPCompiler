@@ -321,7 +321,7 @@ object Config2 {
               "Windmill"
             )),
             
-            Barony("Rhydderich Hael"),
+            Barony("Rhydderich Hael", synonyms = Seq("the Rhydderich Hael")),
             
             Barony("Thescorre", awards = Seq(
               "Raven's Feather"
