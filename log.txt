@@ -9520,6 +9520,65 @@ Court Reports {
       
     }
   }
+  Gavin1.xhtml {
+    Coronation, April 19, 1980 * {
+      == Coronation == (April 19, 1980)
+        04/19/1980  C  Award of Arms -- Umbar Thundercaller
+        04/19/1980  C  Award of Arms -- Charlotte of the Misty Hills
+        04/19/1980  C  Manche -- Gregory von Lucida
+        04/19/1980  C  Manche -- Cassadoria Fionn-Ghail
+        04/19/1980  C  Manche -- James O'Neill
+        04/19/1980  C  Tygers Combattant -- Morgan Argente Elandris
+        04/19/1980  C  Tygers Combattant -- Atai Yoshina
+        04/19/1980  C  Fatima -- Elfrida Peregrina
+        04/19/1980  C  Mistress of the Laurel -- Alyson of Islay
+      
+    }
+    Shakespeare Feaste, April 26, 1980 {
+      == Shakespeare Feaste == (April 26, 1980)
+        04/26/1980  C  Award of Arms -- Melissa of the Misty Mere
+        04/26/1980  C  Manche -- Brytor Aison of Devon
+        04/26/1980  C  Queen's Courtesy -- Tnek the Anissestor
+        04/26/1980  C  Queen's Courtesy -- Ann Ethridge of Somerset
+        04/26/1980  C  Fatima -- Ann Ethridge of Somerset
+      
+    }
+    Crown Tournament, May 10, 1980 {
+      == Crown Tournament == (May 10, 1980)
+        05/10/1980  C  Award of Arms -- Erbert de Gilbear
+        05/10/1980  C  Award of Arms -- Thalysar of Erin
+        05/10/1980  C  Award of Arms -- Clarissa Elena
+      
+    }
+    Eleanor of Aquitaine Tourney, May 31, 1980 {
+      == Eleanor of Aquitaine Tourney == (May 31, 1980)
+        05/31/1980  C  Award of Arms -- Andreas Hak
+        05/31/1980  C  Award of Arms -- Svidrir Elnarsson
+        05/31/1980  C  Award of Arms -- Tamara la Gracieuse
+      
+    }
+    Bishop Geoffrey's Melee Tourney, June 7, 1980 {
+      == Bishop Geoffrey's Melee Tourney == (June 7, 1980)
+        06/07/1980  C  Award of Arms -- Cinhil MacAran
+        06/07/1980  C  Award of Arms -- Frieden von Modoc
+        06/07/1980  C  Award of Arms -- Margaretta Ariel
+      
+    }
+    Baronial Champions Tourney (Rhydderich Hael), September 6, 1980 {
+      == Baronial Champions Tourney (Rhydderich Hael) == (September 6, 1980)
+        09/06/1980  C  Award of Arms -- Zahava Tchauchik
+        09/06/1980  C  Award of Arms -- Sylvana Dagfinsdottir
+        09/06/1980  C  Award of Arms -- Rosamond Mableswin Entenheales
+        09/06/1980  C  Award of Arms -- Norman the Norman
+        09/06/1980  C  Award of Arms -- Bedawyr of Avaricum
+        09/06/1980  C  Award of Arms -- Elennar Linwen
+        09/06/1980  C  Burdened Tyger -- Michaele del Vaga
+        09/06/1980  C  Burdened Tyger -- Annelise Dagfinsdottir
+        09/06/1980  C  Burdened Tyger -- Daedra McBeth a Gryphon
+        09/06/1980  C  Silver Crescent -- Morgan Argente Elandris
+      
+    }
+  }
   Michael.xhtml {
     Coronation, October 18, 1980 * {
       == Coronation == (October 18, 1980)
@@ -47276,6 +47335,7 @@ Alpha List {
     04/20/1974   L Rose -- Alyson of Islay
     04/20/1974   L Count -- Alyson of Islay
     04/16/1977   L Fatima -- Alyson of Islay
+    04/19/1980  C  Mistress of the Laurel -- Alyson of Islay
     ??/??/1981  C  Silver Crescent -- Alyson of Islay
   
   == Alyssa Dragonsdaughter ==
@@ -47868,7 +47928,7 @@ Alpha List {
     SEE: Andreas der Eisfalke
   
   == Andreas Hak ==
-    05/31/1980   L AOA -- Andreas Hak
+    05/31/1980  CL Award of Arms -- Andreas Hak
     03/16/1985  CL Tygers Combattant -- Andreas Hak
     07/19/1986  CL Silver Crescent -- Andreas Hak
     10/24/1987   L Chivalry -- Andreas Hak
@@ -48402,6 +48462,8 @@ Alpha List {
   
   == Ann Ethridge of Somerset ==
     04/25/1980   L Fatima -- Ann Ethridge of Somerset
+    04/26/1980  C  Fatima -- Ann Ethridge of Somerset
+    04/26/1980  C  Queen's Courtesy -- Ann Ethridge of Somerset
   
   == Ann Kidder ==
     09/24/2005 ACL Tygers Cub -- Ann Kidder
@@ -48805,7 +48867,7 @@ Alpha List {
   
   == Annelise Dagfinsdottir ==
     04/19/1980   L AOA -- Annelise Dagfinsdottir
-    09/06/1980   L Burdened Tyger -- Annelise Dagfinsdottir
+    09/06/1980  CL Burdened Tyger -- Annelise Dagfinsdottir
     03/05/1983   L Maunche -- Annelise Dagfinsdottir
     03/12/1988   L Laurel -- Annelise Dagfinsdottir
   
@@ -50250,7 +50312,7 @@ Alpha List {
     08/18/1989   L AOA -- Atai Tetsutaka Ikyoto
   
   == Atai Yoshina ==
-    04/19/1980   L Tygers Combattant -- Atai Yoshina
+    04/19/1980  CL Tygers Combattant -- Atai Yoshina
     08/22/1982   L Chivalry -- Atai Yoshina
     08/22/1982  C  Knight -- Atai Yoshina
     01/06/1990   L Viscount -- Atai Yoshina [from Drachenwald]
@@ -51205,7 +51267,7 @@ Alpha List {
     05/24/2003 ACL Award of Arms -- Becky of Regnesfolke
   
   == Bedawyr of Avaricum ==
-    09/06/1980   L AOA -- Bedawyr of Avaricum
+    09/06/1980  CL Award of Arms -- Bedawyr of Avaricum
     12/08/1984  CL Manche -- Bedawyr of Avaricum
     09/14/1985  CL Silver Crescent -- Bedawyr of Avaricum
     03/12/1988  C  Baron of the Rhydderich Hael (Unknown Branch) -- Bedawyr of Avaricum
@@ -53271,6 +53333,9 @@ Alpha List {
   == Bryon l'ours d'Argent de Bourgogne ==
     02/??/1985   L AOA -- Bryon l'ours d'Argent de Bourgogne [from Atenveldt]
   
+  == Brytor Aison of Devon ==
+    04/26/1980  C  Manche -- Brytor Aison of Devon
+  
   == Brígiða inn kollrrammi ==
     AKA: Brigit of Bergental
     08/18/2005 ACL Award of Arms -- Brigit of Bergental
@@ -54145,6 +54210,9 @@ Alpha List {
   
   == Cassadoria Fiongheli ==
     10/03/1981  C  Silver Crescent -- Cassadoria Fiongheli
+  
+  == Cassadoria Fionn-Ghail ==
+    04/19/1980  C  Manche -- Cassadoria Fionn-Ghail
   
   == Cassair ni Deoraine ==
     11/21/1998  CL Award of Arms -- Cassair ni Deoraine
@@ -55370,6 +55438,9 @@ Alpha List {
   == Charles-Phillipe Castelmore de Cadours ==
     03/26/1988  C  Guardsman -- Charles-Phillipe Castelmore de Cadours
   
+  == Charlotte of the Misty Hills ==
+    04/19/1980  C  Award of Arms -- Charlotte of the Misty Hills
+  
   == Charlotte of the Misty Hills (Roen Dentilliere) ==
     ??/??/1981  C  Troubadour -- Charlotte of the Misty Hills (Roen Dentilliere)
   
@@ -55998,7 +56069,7 @@ Alpha List {
     09/29/2001  C  King's Cypher -- Cinder of Oakenwood
   
   == Cinhil MacAran [registered] ==
-    06/07/1980 A L Award of Arms -- Cinhil MacAran
+    06/07/1980 ACL Award of Arms -- Cinhil MacAran
     05/08/1982 AC  Princess' Courtesy (Drachenwald) -- Cinhil MacAran [given in the name of HSH Drachenwald]
     07/03/1982 ACL Silver Crescent -- Cinhil MacAran
     10/02/1982 ACL Court Baron -- Cinhil MacAran
@@ -56055,6 +56126,9 @@ Alpha List {
   
   == Clarissa Elaena de Perrenoud ==
     05/10/1980   L AOA -- Clarissa Elaena de Perrenoud
+  
+  == Clarissa Elena ==
+    05/10/1980  C  Award of Arms -- Clarissa Elena
   
   == Clarissa da Svizzera ==
     03/09/1996   L Silver Crescent -- Clarissa da Svizzera
@@ -57391,7 +57465,7 @@ Alpha List {
   == Daedra McBeth a Gryphon ==
     02/25/1978   L AOA -- Daedra McBeth a Gryphon
     01/06/1979   L Maunche -- Daedra McBeth a Gryphon
-    09/06/1980   L Burdened Tyger -- Daedra McBeth a Gryphon
+    09/06/1980  CL Burdened Tyger -- Daedra McBeth a Gryphon
     06/13/1981  CL Troubadour -- Daedra McBeth a Gryphon
     07/28/1984   L Silver Crescent -- Daedra McBeth a Gryphon
     03/18/1989  CL Mistress of the Pelican -- Daedra McBeth a Gryphon
@@ -61163,7 +61237,7 @@ Alpha List {
     04/05/1997 A L Award of Arms -- Eleni of Carolingia
   
   == Elennar Linwen [registered] ==
-    09/06/1980 A L Award of Arms -- Elennar Linwen
+    09/06/1980 ACL Award of Arms -- Elennar Linwen
     01/15/1983 A L Burdened Tyger -- Elennar Linwen
     ??/??/1999 A L Salamander (Bhakail) -- Elennar Linwen
   
@@ -61207,6 +61281,9 @@ Alpha List {
   
   == Elfin De Verre ==
     11/25/1995  C  Award of Arms -- Elfin De Verre
+  
+  == Elfrida Peregrina ==
+    04/19/1980  C  Fatima -- Elfrida Peregrina
   
   == Elfrida Perigrynna ==
     04/19/1980   L Fatima -- Elfrida Perigrynna
@@ -62475,7 +62552,7 @@ Alpha List {
     11/08/2008 ACL Award of Arms -- Erasmus of Mountain Freehold
   
   == Erbert de Gilbear ==
-    05/10/1980   L AOA -- Erbert de Gilbear
+    05/10/1980  CL Award of Arms -- Erbert de Gilbear
   
   == Erdvilas Pasaulietiskas [registered] ==
     07/15/1989 A L Award of Arms -- Erdvilas Pasaulietiskas
@@ -64453,6 +64530,9 @@ Alpha List {
   
   == Friedan von Modoc ==
     06/07/1980   L AOA -- Friedan von Modoc
+  
+  == Frieden von Modoc ==
+    06/07/1980  C  Award of Arms -- Frieden von Modoc
   
   == Friedric Tomassen av Knusslig Hamn ==
     10/10/1987  C  Silver Crescent -- Friedric Tomassen av Knusslig Hamn
@@ -66523,7 +66603,7 @@ Alpha List {
   
   == Gregory von Lucida ==
     04/30/1977   L Salamander (Bhakail) -- Gregory von Lucida
-    04/19/1980   L Maunche -- Gregory von Lucida
+    04/19/1980  CL Manche -- Gregory von Lucida
   
   == Grendal of Blackwood ==
     05/01/2004 ACL Award of Arms -- Grendal of Blackwood
@@ -70092,7 +70172,7 @@ Alpha List {
   
   == James O'Neill ==
     06/16/1979   L AOA -- James O'Neill
-    04/19/1980   L Maunche -- James O'Neill
+    04/19/1980  CL Manche -- James O'Neill
     08/21/1982   L Laurel -- James O'Neill
     10/10/1987   L Silver Crescent -- James O'Neill
     07/08/1989   L Pelican -- James O'Neill
@@ -77459,6 +77539,9 @@ Alpha List {
   == Margarethe von Haewengraes ==
     01/07/1984 ACL Award of Arms -- Margarethe von Haewengraes
   
+  == Margaretta Ariel ==
+    06/07/1980  C  Award of Arms -- Margaretta Ariel
+  
   == Margaretta von Gottesanger ==
     06/07/1980   L AOA -- Margaretta von Gottesanger
     01/09/1982   L Maunche -- Margaretta von Gottesanger
@@ -79057,6 +79140,7 @@ Alpha List {
     03/26/1994 A   Sigil of AEthelmearc (AEthelmearc) -- Melissa of Waldren
   
   == Melissa of the Misty Mere ==
+    04/26/1980  C  Award of Arms -- Melissa of the Misty Mere
     10/18/1980   L Burdened Tyger -- Melissa of the Misty Mere
     ??/??/1981  C  Court Baroness -- Melissa of the Misty Mere
   
@@ -79492,7 +79576,7 @@ Alpha List {
   
   == Michaele del Vaga ==
     06/14/1980   L AOA -- Michaele del Vaga
-    09/06/1980   L Burdened Tyger -- Michaele del Vaga
+    09/06/1980  CL Burdened Tyger -- Michaele del Vaga
     05/09/1981  CL Terpsichore -- Michaele del Vaga
     10/03/1981  C  Queen's Cypher -- Michaele del Vaga
     04/24/1982   L Grant of Arms -- Michaele del Vaga
@@ -80226,6 +80310,8 @@ Alpha List {
     01/06/1979   L Grant of Arms -- Morgan Argante Elandris of Cantref Gwalon
   
   == Morgan Argente Elandris ==
+    04/19/1980  C  Tygers Combattant -- Morgan Argente Elandris
+    09/06/1980  C  Silver Crescent -- Morgan Argente Elandris
     07/06/1991   L Perseus (Carolingia) -- Morgan Argente Elandris
   
   == Morgan Argente Elandris of Cantref Gwalon ==
@@ -81680,7 +81766,7 @@ Alpha List {
     08/13/1992   L AOA -- Norman of Pembroke
   
   == Norman the Norman ==
-    09/06/1980   L AOA -- Norman the Norman
+    09/06/1980  CL Award of Arms -- Norman the Norman
     12/08/1990   L Grant of Arms -- Norman the Norman
     12/08/1990  CL Court Baron -- Norman the Norman
   
@@ -85822,7 +85908,7 @@ Alpha List {
     12/06/1981 ACL Award of Arms -- Rosalys Ashmund
   
   == Rosamond Mableswin Entenheales ==
-    09/06/1980 A L Award of Arms -- Rosamond Mableswin Entenheales
+    09/06/1980 ACL Award of Arms -- Rosamond Mableswin Entenheales
   
   == Rosamond d’Alewarton ==
     04/06/1991  C  Award of Arms -- Rosamond d’Alewarton
@@ -89803,6 +89889,9 @@ Alpha List {
     05/31/1980   L AOA -- Svidrir Einarsson
     08/17/1985   L Court Barony -- Svidrir Einarsson
   
+  == Svidrir Elnarsson ==
+    05/31/1980  C  Award of Arms -- Svidrir Elnarsson
+  
   == Svipdag Helgisson ==
     04/06/2002 ACL Award of Arms -- Svipdag Helgisson
   
@@ -89853,7 +89942,7 @@ Alpha List {
     11/30/1996   L AOA -- Sylvan Elkinsson
   
   == Sylvana Dagfinsdottir [registered] ==
-    09/06/1980 A L Award of Arms -- Sylvana Dagfinsdottir
+    09/06/1980 ACL Award of Arms -- Sylvana Dagfinsdottir
   
   == Sylvania Evaluna de Anesty ==
     02/15/2003   L Golden Lyre -- Sylvania Evaluna de Anesty [Atenveldt) (ceramic pitcher and goblet]
@@ -90267,6 +90356,9 @@ Alpha List {
   
   == Tamara de Bretagne [registered] [deceased] ==
     03/16/1996 A L Award of Arms -- Tamara de Bretagne
+  
+  == Tamara la Gracieuse ==
+    05/31/1980  C  Award of Arms -- Tamara la Gracieuse
   
   == Tamara of Montvale ==
     06/30/1990 ACL Award of Arms -- Tamara of Montvale
@@ -90861,6 +90953,9 @@ Alpha List {
   
   == Thallos of Brighton Manor ==
     07/14/2007 ACL Award of Arms -- Thallos of Brighton Manor
+  
+  == Thalysar of Erin ==
+    05/10/1980  C  Award of Arms -- Thalysar of Erin
   
   == The Coopers ==
     08/23/1980   L Court Barony -- The Coopers [Joint with Middle]
@@ -91734,6 +91829,9 @@ Alpha List {
   == Tnek the Anisessetor ==
     01/03/1981  C  Tygers Combattant -- Tnek the Anisessetor
   
+  == Tnek the Anissestor ==
+    04/26/1980  C  Queen's Courtesy -- Tnek the Anissestor
+  
   == Tobias de Baku ==
     01/27/2007 ACL Award of Arms -- Tobias de Baku
   
@@ -92594,6 +92692,9 @@ Alpha List {
   
   == Ulrick of York ==
     07/14/2001   L Daystar (Carolingia) -- Ulrick of York
+  
+  == Umbar Thundercaller ==
+    04/19/1980  C  Award of Arms -- Umbar Thundercaller
   
   == Umbar in Harchiral Dandachi [registered] ==
     04/19/1980 A L Award of Arms -- Umbar in Harchiral Dandachi
@@ -94863,6 +94964,7 @@ Alpha List {
     06/08/1996   L AOA -- Zadra [of Myrkfaellin]
   
   == Zahava Tchauchik ==
+    09/06/1980  C  Award of Arms -- Zahava Tchauchik
     06/23/1984  CL Award of Arms -- Zahava Tchauchik
     03/12/1988  CL Court Baron -- Zahava Tchauchik
     09/23/1989  CL Silver Crescent -- Zahava Tchauchik
