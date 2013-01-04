@@ -4,7 +4,7 @@ object StringUtils {
   
   // Essentially "super-trim"
   def scrub(name:String):String = {
-    name.filter(_.toInt != 160).replaceAll("\\s+", " ").trim
+    name.map(c => if (c.toInt == 160) ' ' else c).replaceAll("\\s+", " ").trim
   }
 
 }

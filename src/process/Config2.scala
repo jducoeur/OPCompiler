@@ -504,6 +504,8 @@ object Config2 {
               "Windblown Leaf"
             )),
             
+            Barony("Nottinghill Coil"),
+            
             Barony("Ponto Alto", awards = Seq(
               "Ponte di Ferro"
             )),

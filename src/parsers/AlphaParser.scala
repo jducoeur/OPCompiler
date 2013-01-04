@@ -24,17 +24,21 @@ class AlphaParser extends OPFileParser {
   }
   case class OneName(name:String, isCurrent:Boolean)
   case class NameBreakdown(curName:String, others:Seq[OneName])
-  val separators = new Regex("""^(.*?),? \(?(see|was|formerly):? (.*?)\)?$""", "curName", "relation", "rest")
+  val separators = new Regex("""^(.*?),?\-? \(?(see|was|formerly|aka):? (.*?)\)?$""", "curName", "relation", "rest")
+  // If it's in parens, the relation is optional:
+  val parens = new Regex("""^(.*?),?\-? \((see|was|formerly|aka|):?\s?(.*?)\)$""", "curName", "relation", "rest")
   
   def parseRest(sep:String, rest:String):Seq[OneName] = {
     val isCurrent = sep match {
       case "see" => true
       case "was" => false
       case "formerly" => false
+      case "aka" => false
+      case "" => false
       case _ => throw new Exception("Somehow got an unknown name separator!")
     }
     
-    val m = separators.findFirstMatchIn(rest)
+    val m = separators.findFirstMatchIn(rest) orElse parens.findFirstMatchIn(rest)
     m match {
       case Some(foundMatch) => OneName(chopAsterisk(m.get.group("curName")), isCurrent) +: parseRest(m.get.group("relation"), m.get.group("rest"))
       case None => Seq(OneName(chopAsterisk(rest), isCurrent))
@@ -46,7 +50,7 @@ class AlphaParser extends OPFileParser {
   // any others it may be referencing, and says whether it indicates that this
   // name is an old name.
   def checkReferences(rawName:String):NameBreakdown = {
-    val m = separators.findFirstMatchIn(rawName)
+    val m = separators.findFirstMatchIn(rawName) orElse parens.findFirstMatchIn(rawName)
     m match {
       case Some(foundMatch) => NameBreakdown(m.get.group("curName"), parseRest(m.get.group("relation"), m.get.group("rest")))
       case None => NameBreakdown(rawName, Seq.empty)
@@ -171,6 +175,9 @@ class AlphaParser extends OPFileParser {
           val scrubbed = StringUtils.scrub(text.text)
           if (scrubbed.length > 0) {
             processAwardLine(scrubbed)
+          } else if (text.text.length > 0 && nameBuffer.length > 0) {
+            // Looks like we scrubbed away whitespace in the middle of a name line:
+            recordNamePart(" ")
           }
         }
       }

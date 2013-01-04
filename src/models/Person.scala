@@ -130,10 +130,14 @@ object Persona {
     syns.foreach(new Persona(_, person, false))
     typos.foreach(new Persona(_, person, true))
   }
+  
+  def scrub(name:String) = {
+    process.StringUtils.scrub(name.replaceAll("""\*""", ""))
+  }
 
   // Note that this can add the personaName to byPersona as a side-effect:
   def find(personaName:String, otherNames:Seq[String] = Seq.empty) = {
-    val name = process.StringUtils.scrub(personaName)
+    val name = scrub(personaName)
     val mainPersona = byPersona.getOrElse(name, new Person(name).mainPersona)
     val mainPerson = mainPersona.person
     otherNames.foreach(otherName => {
