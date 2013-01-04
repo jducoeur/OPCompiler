@@ -47341,8 +47341,7 @@ Alpha List {
   == Amee de Jardyn [registered] ==
     02/11/1989 A L Award of Arms -- Amee de Jardyn
     07/27/1991 A   Guardsman -- Amee de Jardyn
-    01/23/1993 A   Golden Rapier -- Amee de Jardyn
-    01/23/1993  C  Fence -- Amee de Jardyn
+    01/23/1993 AC  Fence -- Amee de Jardyn
     08/14/1996 A L Manche -- Amee de Jardyn
   
   == Amee des Jardins ==
@@ -52654,8 +52653,7 @@ Alpha List {
     02/04/2012 ACL Queen's Courtesy -- Brita Mairi Svensdottir
   
   == Brita Marie Svensdottir ==
-    08/12/1992   L Golden Rapier -- Brita Marie Svensdottir
-    08/12/1992  C  High Merit for Fence -- Brita Marie Svensdottir
+    08/12/1992  CL High Merit for Fence -- Brita Marie Svensdottir
   
   == Brithwen Boreshulla ==
     03/13/2004   L Seahorse (Ostgardr) -- Brithwen Boreshulla
@@ -57769,8 +57767,7 @@ Alpha List {
   == Danulf Donaldson ==
     04/11/1987   L AOA -- Danulf Donaldson
     04/27/1991  CL Silver Crescent -- Danulf Donaldson
-    12/19/1992   L Golden Rapier -- Danulf Donaldson
-    12/19/1992  C  Kingdom Fence -- Danulf Donaldson
+    12/19/1992  CL Kingdom Fence -- Danulf Donaldson
     07/10/1993  C  King's Fencing Champion -- Danulf Donaldson
   
   == Danulf Donaldson * ==
@@ -63404,8 +63401,7 @@ Alpha List {
   
   == Feng von Amleth ==
     07/21/1990 ACL Award of Arms -- Feng von Amleth
-    01/23/1993  C  Fence -- Feng von Amleth
-    01/23/1993 A L Golden Rapier -- Feng von Amleth
+    01/23/1993 ACL Fence -- Feng von Amleth
     04/03/1993  C  Golden Rapier -- Feng von Amleth
     09/16/2000 ACL Burdened Tyger -- Feng von Amleth
   
@@ -66364,8 +66360,7 @@ Alpha List {
     02/11/1989 AC  Award of Arms -- Gregory Finche
     07/27/1991 A   Guardsman -- Gregory Finche
     07/19/1992 ACL Silver Crescent -- Gregory Finche
-    08/12/1992  C  High Merit for Fence -- Gregory Finche
-    08/12/1992 A L Golden Rapier -- Gregory Finche
+    08/12/1992 ACL High Merit for Fence -- Gregory Finche
     04/23/1994 A L Manche -- Gregory Finche
     10/05/1996 ACL Master of the Laurel -- Gregory Finche
   
@@ -72052,8 +72047,7 @@ Alpha List {
     07/27/1985  C  Award of Arms -- Justinian of Rakovec
     12/05/1987  CL Silver Crescent -- Justinian of Rakovec
     03/26/1988  CL Guardsman -- Justinian of Rakovec
-    08/12/1992   L Golden Rapier -- Justinian of Rakovec
-    08/12/1992  C  High Merit for Fence -- Justinian of Rakovec
+    08/12/1992  CL High Merit for Fence -- Justinian of Rakovec
   
   == Justinian of Rokovec ==
     07/27/1985   L AOA -- Justinian of Rokovec
@@ -82397,8 +82391,7 @@ Alpha List {
     10/06/1979 A L Terpsichore -- Patri du Chat Gris
     03/14/1992 A L Perseus (Carolingia) -- Patri du Chat Gris
     04/11/1992 ACL Master of the Pelican -- Patri du Chat Gris
-    08/12/1992  C  High Merit for Fence -- Patri du Chat Gris
-    08/12/1992 A L Golden Rapier -- Patri du Chat Gris
+    08/12/1992 ACL High Merit for Fence -- Patri du Chat Gris
     03/02/1996 ACL Queen's Courtesy -- Patri du Chat Gris
   
   == Patri ibn Cariadoc ==
@@ -83029,8 +83022,7 @@ Alpha List {
     01/30/1988 A L Award of Arms -- Phillip of the Golden Stag
     02/06/1988  C  Award of Arms -- Phillip of the Golden Stag
     06/15/1991 A   Guardsman -- Phillip of the Golden Stag
-    08/12/1992  C  High Merit for Fence -- Phillip of the Golden Stag
-    08/12/1992 A L Golden Rapier -- Phillip of the Golden Stag
+    08/12/1992 ACL High Merit for Fence -- Phillip of the Golden Stag
   
   == Phillip the Facetious ==
     06/03/2000  CL Award of Arms -- Phillip the Facetious
@@ -84405,8 +84397,7 @@ Alpha List {
     04/14/1989 A   Silver Crescent -- Rhiannon the Curious
     04/15/1989  CL Silver Crescent -- Rhiannon the Curious
     10/05/1991 ACL Maunche -- Rhiannon the Curious
-    08/12/1992  C  High Merit for Fence -- Rhiannon the Curious
-    08/12/1992 A L Golden Rapier -- Rhiannon the Curious
+    08/12/1992 ACL High Merit for Fence -- Rhiannon the Curious
     01/08/1994 ACL Mistress of the Pelican -- Rhiannon the Curious
     10/04/1997 A   White Scarf -- Rhiannon the Curious [Aethelmearc]
     04/16/1999 A   Grant of Arms -- Rhiannon the Curious
@@ -84550,8 +84541,7 @@ Alpha List {
   == Rian Gortyroyan ==
     11/10/1990   L AOA -- Rian Gortyroyan
     07/20/1991  C  Queen's Fencing Champion -- Rian Gortyroyan
-    08/12/1992   L Golden Rapier -- Rian Gortyroyan
-    08/12/1992  C  High Merit for Fence -- Rian Gortyroyan
+    08/12/1992  CL High Merit for Fence -- Rian Gortyroyan
   
   == Rianna Whirlwind [registered] ==
     04/11/1992 A   Award of Arms -- Rianna Whirlwind
@@ -94273,8 +94263,7 @@ Alpha List {
     12/09/1995 A L White Oak (Beyond the Mountain) -- Yasuko
   
   == Yciar Albarez de Montesinos y Aragon ==
-    08/12/1992   L Golden Rapier -- Yciar Albarez de Montesinos y Aragon
-    08/12/1992  C  High Merit for Fence -- Yciar Albarez de Montesinos y Aragon
+    08/12/1992  CL High Merit for Fence -- Yciar Albarez de Montesinos y Aragon
   
   == Yelena Ayzenshtat ==
     06/24/2000 ACL Award of Arms -- Yelena Ayzenshtat

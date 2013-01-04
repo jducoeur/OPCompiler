@@ -101,7 +101,7 @@ object Config2 {
             Award("Confirmation of Gentility"),
             
             // Closed Orders
-            Award("Guardsman", "Kingdom Order of Fence", "Kingdom Fence", "Fence", "High Merit for Fence", "East Kingdom Fencing Order", "East Kingdom Fencing Award", "East Kingdom Fence"),
+            Award("Guardsman", "Kingdom Order of Fence", "East Kingdom Fencing Order", "East Kingdom Fencing Award", "East Kingdom Fence"),
             Award("Fatima"),
             Award("Pheon"),
             
@@ -135,7 +135,8 @@ object Config2 {
             Award("Tygers Cub", "Tyger Cub"),
             
             // Orders of High Merit
-            Award("Golden Rapier"),
+            // Figuring out which terms mean the Guardsman and which the OGR is tricky:
+            Award("Golden Rapier", "High Merit for Fence", "Kingdom Fence", "Fence"),
             Award("Maunche", "Mauche", "Manche", "Manch"),
             Award("Sagittarius", "Sagitarius"),
             Award("Silver Crescent", "Sliver Crescent"),
