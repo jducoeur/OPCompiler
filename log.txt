@@ -9655,6 +9655,77 @@ Court Reports {
       
     }
   }
+  Shannon.xhtml {
+    Coronation, April 7, 1979 {
+      == Coronation == (April 7, 1979)
+        04/07/1979  C  Award of Arms -- Sunny of Somerset
+        04/07/1979  C  Award of Arms -- Fenris of Twycross
+        04/07/1979  C  Fatima -- Catherine Courtney
+      
+    }
+    April 21, 1979 {
+      ==  == (April 21, 1979)
+        04/21/1979  C  Award of Arms -- Maelduine Dragonstooth
+        04/21/1979  C  Award of Arms -- Ragnar Two Axe
+        04/21/1979  C  Award of Arms -- Abelard Keyf de Marseilles
+      
+    }
+    Crown Tournament, May 12, 1979 {
+      == Crown Tournament == (May 12, 1979)
+        05/12/1979  C  Award of Arms -- Kristin Ahearn
+        05/12/1979  C  Tygers Combattant -- Kobayashi Yutaka
+      
+    }
+    June 16,1979 {
+      ==  == (June 16, 1979)
+        06/16/1979  C  Award of Arms -- Arianna of Wynthrope
+        06/16/1979  C  Award of Arms -- James O'Neill
+        06/16/1979  C  Tygers Combattant -- Traidenis Wilkas of Winter Oak
+        06/16/1979  C  Tygers Cub -- Amanda of the Strait
+      
+    }
+    Intra-Kingdom Peace, June 30, 1979 {
+      == Intra-Kingdom Peace == (June 30, 1979)
+        06/30/1979  C  Award of Arms -- Larissa of Winter Oak
+        06/30/1979  C  Award of Arms -- Austin Chadyoyck of Normandy
+        06/30/1979  C  Award of Arms -- Hrolfr Hrafnsen
+        06/30/1979  C  Queen's Courtesy -- Wladislaw Polyeski
+        06/30/1979  C  Master of the Laurel -- Sigismund Wasa Care
+      
+    }
+    King's and Queen's Champions / White Mare Tourney, August 4, 1979 {
+      == King's and Queen's Champions / White Mare Tourney == (August 4, 1979)
+        08/04/1979  C  Award of Arms -- Jason of Cannon
+        08/04/1979  C  Award of Arms -- Ariel of the Silver Birches
+        08/04/1979  C  Award of Arms -- Samuel ben Isaac
+        08/04/1979  C  Award of Arms -- Taliesin of Nordovest
+      
+    }
+    Pennsic VIII, August 18, 1979 {
+      == Pennsic VIII == (August 18, 1979)
+        08/18/1979  C  Award of Arms -- Barak Elandris Hasdrubal
+        08/18/1979  C  Award of Arms -- Barak Elandris Mago
+        08/18/1979  C  Award of Arms -- Siegfried von Halstern
+        08/18/1979  C  Tygers Combattant -- Ino Ogami
+        08/18/1979  C  Tygers Combattant -- Sagan von Ostensee
+      
+    }
+    September 15, 1979 {
+      ==  == (September 15, 1979)
+        09/15/1979  C  Award of Arms -- Seneath
+      
+    }
+    Last Court, October 6, 1979 {
+      == Last Court == (October 6, 1979)
+        10/06/1979  C  Award of Arms -- Airmid Godwin
+        10/06/1979  C  Award of Arms -- Jonathan Errassil
+        10/06/1979  C  Burdened Tyger -- William Widefarer
+        10/06/1979  C  Burdened Tyger -- Ysabeau Cameron of Lochiel
+        10/06/1979  C  Grant of Arms -- Tannis of Tir-y-Don
+        10/06/1979  C  Silver Crescent -- Fedelm ni Uidhir
+      
+    }
+  }
   Siegfried1.xhtml {
     Feast of St. Mark, Nithgard, April 25, 1981 {
       == Feast of St. Mark, Nithgard == (April 25, 1981)
@@ -44590,6 +44661,9 @@ Alpha List {
   == Abel of Regnesfolc ==
     03/11/2000 ACL Award of Arms -- Abel of Regnesfolc
   
+  == Abelard Keyf de Marseilles ==
+    04/21/1979  C  Award of Arms -- Abelard Keyf de Marseilles
+  
   == Abelard Kif de Marseilles [registered] ==
     04/21/1979 A L Award of Arms -- Abelard Kif de Marseilles
   
@@ -45680,6 +45754,7 @@ Alpha List {
     02/04/2012   L AOA -- Aiofe ingen Cuain
   
   == Airmid Godwin ==
+    10/06/1979  C  Award of Arms -- Airmid Godwin
     03/24/1984  C  Manche -- Airmid Godwin
     07/06/1985  C  Mistress of the Laurel -- Airmid Godwin
   
@@ -47604,7 +47679,7 @@ Alpha List {
     02/01/2003 ACL Award of Arms -- Amanda of Stonemarche
   
   == Amanda of the Strait ==
-    06/16/1979   L Tygers Cub -- Amanda of the Strait
+    06/16/1979  CL Tygers Cub -- Amanda of the Strait
     11/07/1981  C  Award of Arms -- Amanda of the Strait
     11/07/1981  CL Queen's Courtesy -- Amanda of the Strait
   
@@ -49775,7 +49850,7 @@ Alpha List {
     06/24/1989   L AOA -- Arianna Ravestar of Wolfwood
   
   == Arianna of Wynthrope ==
-    06/16/1979   L AOA -- Arianna of Wynthrope
+    06/16/1979  CL Award of Arms -- Arianna of Wynthrope
     10/02/1982  C  Queen's Cypher -- Arianna of Wynthrope
     03/19/1983  CL Silver Crescent -- Arianna of Wynthrope
     01/07/1984  C  Grant of Arms -- Arianna of Wynthrope
@@ -49895,7 +49970,7 @@ Alpha List {
     11/17/2007 ACL Award of Arms -- Ariel of Sutr's Brood
   
   == Ariel of the Silver Birches ==
-    08/04/1979 A   Award of Arms -- Ariel of the Silver Birches
+    08/04/1979 AC  Award of Arms -- Ariel of the Silver Birches
   
   == Ariella Fitzgerald of Devonshire ==
     08/17/1995  C  Award of Arms -- Ariella Fitzgerald of Devonshire
@@ -50809,7 +50884,7 @@ Alpha List {
     01/23/1999 ACL Tygers Cub -- Aurora of Stonemarche
   
   == Austin Chadyoyck of Normandy ==
-    06/30/1979   L AOA -- Austin Chadyoyck of Normandy
+    06/30/1979  CL Award of Arms -- Austin Chadyoyck of Normandy
     01/05/1980  CL Tygers Combattant -- Austin Chadyoyck of Normandy
   
   == Avacyn von Dhum ==
@@ -51233,10 +51308,11 @@ Alpha List {
     08/18/1985  C  Knight -- Barak Elandris Hanno
   
   == Barak Elandris Hasdrubal ==
+    08/18/1979  C  Award of Arms -- Barak Elandris Hasdrubal
     10/02/1982  C  Count -- Barak Elandris Hasdrubal
   
   == Barak Elandris Mago ==
-    08/18/1979   L AOA -- Barak Elandris Mago
+    08/18/1979  CL Award of Arms -- Barak Elandris Mago
     08/23/1980   L QOC -- Barak Elandris Mago
     ??/??/1981  C  Knight -- Barak Elandris Mago
     03/21/1981   L Chivalry -- Barak Elandris Mago
@@ -54758,6 +54834,9 @@ Alpha List {
     01/10/1981   L Maunche -- Catherine Cameron Stewart Morgan
     01/02/1982   L Viscount -- Catherine Cameron Stewart Morgan [from Drachenwald]
     01/02/1982   L Laurel -- Catherine Cameron Stewart Morgan
+  
+  == Catherine Courtney ==
+    04/07/1979  C  Fatima -- Catherine Courtney
   
   == Catherine Delleray ==
     01/??/1981  C  Manche -- Catherine Delleray
@@ -63759,7 +63838,7 @@ Alpha List {
   
   == Fedelm ni Uidhir ==
     10/14/1978   L Grant of Arms -- Fedelm ni Uidhir
-    10/06/1979   L Silver Crescent -- Fedelm ni Uidhir
+    10/06/1979  CL Silver Crescent -- Fedelm ni Uidhir
   
   == Federach mac Cian ==
     02/03/2001 A   Award of Arms -- Federach mac Cian
@@ -63845,7 +63924,7 @@ Alpha List {
     05/06/1989 ACL Award of Arms -- Fenris of Dun Gol
   
   == Fenris of Twycross ==
-    04/07/1979   L AOA -- Fenris of Twycross
+    04/07/1979  CL Award of Arms -- Fenris of Twycross
     04/17/1982   L Silver Crescent -- Fenris of Twycross
   
   == Feral von Halsstern ==
@@ -68963,6 +69042,9 @@ Alpha List {
     10/05/1985  CL Grant of Arms -- Hrolf Hrafnsen
     01/11/2003 A   Terpsichore -- Hrolf Hrafnsen
   
+  == Hrolfr Hrafnsen ==
+    06/30/1979  C  Award of Arms -- Hrolfr Hrafnsen
+  
   == Hrolfr Hrafnson ==
     01/11/2003  CL Terpsichore -- Hrolfr Hrafnson
   
@@ -69462,6 +69544,7 @@ Alpha List {
     08/17/2006 AC  Queen's Honor of Distinction -- Innogen of Clonmel
   
   == Ino Ogami ==
+    08/18/1979  C  Tygers Combattant -- Ino Ogami
     08/15/1981  C  Knighthood -- Ino Ogami
   
   == Ioannes Nikaias [registered] ==
@@ -70400,7 +70483,7 @@ Alpha List {
     06/14/2003 ACL Award of Arms -- James Jacob Talbot
   
   == James O'Neill ==
-    06/16/1979   L AOA -- James O'Neill
+    06/16/1979  CL Award of Arms -- James O'Neill
     04/19/1980  CL Manche -- James O'Neill
     08/21/1982   L Laurel -- James O'Neill
     10/10/1987   L Silver Crescent -- James O'Neill
@@ -70706,7 +70789,7 @@ Alpha List {
     05/01/2004 ACL Award of Arms -- Jason of Albion
   
   == Jason of Cannon ==
-    08/04/1979   L AOA -- Jason of Cannon
+    08/04/1979  CL Award of Arms -- Jason of Cannon
   
   == Jason of Concordia ==
     07/04/1998 ACL Tygers Cub -- Jason of Concordia
@@ -71850,7 +71933,7 @@ Alpha List {
     03/04/2006 A L Grant of Arms -- Jonathan Carver of Dover
   
   == Jonathan Errassil ==
-    10/06/1979   L AOA -- Jonathan Errassil
+    10/06/1979  CL Award of Arms -- Jonathan Errassil
   
   == Jonathan Miles [registered] ==
     03/27/1999 ACL Award of Arms -- Jonathan Miles
@@ -74441,7 +74524,7 @@ Alpha List {
     08/17/1985  CL Manche -- Knud Kaukinen
   
   == Kobayashi Yutaka [registered] ==
-    05/12/1979 A L Tygers Combattant -- Kobayashi Yutaka
+    05/12/1979 ACL Tygers Combattant -- Kobayashi Yutaka
     10/25/1980   L Chivalry -- Kobayashi Yutaka
     10/25/1980 AC  Master at Arms -- Kobayashi Yutaka
     12/06/1980 A L Moon (Carolingia) -- Kobayashi Yutaka
@@ -74686,6 +74769,7 @@ Alpha List {
     03/23/2002 ACL Award of Arms -- Kristiana de Barton
   
   == Kristin Ahearn ==
+    05/12/1979  C  Award of Arms -- Kristin Ahearn
     09/26/1987  C  Silver Crescent -- Kristin Ahearn
     09/26/1987  C  Burdened Tyger -- Kristin Ahearn
   
@@ -74988,6 +75072,9 @@ Alpha List {
     11/02/1996 ACL Award of Arms -- Larissa of Swanmere
     02/03/2001   L Moon (Carolingia) -- Larissa of Swanmere
     07/14/2001 A L Daystar (Carolingia) -- Larissa of Swanmere
+  
+  == Larissa of Winter Oak ==
+    06/30/1979  C  Award of Arms -- Larissa of Winter Oak
   
   == Larissa the Shrew [registered] ==
     04/05/1986 A L Award of Arms -- Larissa the Shrew
@@ -76814,6 +76901,9 @@ Alpha List {
   == Mael Eoin mac Echuid ==
     09/25/2010  C  King's Esteem of Merit -- Mael Eoin mac Echuid
     12/03/2011  CL Silver Crescent -- Mael Eoin mac Echuid
+  
+  == Maelduine Dragonstooth ==
+    04/21/1979  C  Award of Arms -- Maelduine Dragonstooth
   
   == Maeldune von Drachenzahne [registered] ==
     04/07/1979 A L Award of Arms -- Maeldune von Drachenzahne
@@ -84034,6 +84124,7 @@ Alpha List {
     03/11/1989 A L Award of Arms -- Ragnar MacHardy
   
   == Ragnar Two Axe ==
+    04/21/1979  C  Award of Arms -- Ragnar Two Axe
     02/22/2003  CL Golden Lyre -- Ragnar Two Axe
   
   == Ragnar Two Axe of the Reeking Swamp ==
@@ -87067,6 +87158,9 @@ Alpha List {
   == Saga of Thormwind ==
     01/08/1993   L AOA -- Saga of Thormwind
   
+  == Sagan von Ostensee ==
+    08/18/1979  C  Tygers Combattant -- Sagan von Ostensee
+  
   == Sage of Nordenhal ==
     06/03/2006 ACL Tygers Cub -- Sage of Nordenhal
   
@@ -87192,6 +87286,9 @@ Alpha List {
   
   == Samuel Peter DeBump ==
     01/31/2009 ACL Award of Arms -- Samuel Peter DeBump
+  
+  == Samuel ben Isaac ==
+    08/04/1979  C  Award of Arms -- Samuel ben Isaac
   
   == Samuel de Bianco ==
     01/11/2003 A   Award of Arms -- Samuel de Bianco
@@ -87902,7 +87999,7 @@ Alpha List {
     02/05/1994  C  King's Bard -- Senaid a’Lechbuie
   
   == Seneath ==
-    09/15/1979 A L Award of Arms -- Seneath
+    09/15/1979 ACL Award of Arms -- Seneath
   
   == Senseki Taro Hirotsune ==
     04/21/2007 ACL Tygers Combattant -- Senseki Taro Hirotsune
@@ -88505,6 +88602,7 @@ Alpha List {
     10/09/1993   L Tygers Combattant -- Siegfried von Halsstern
   
   == Siegfried von Halstern ==
+    08/18/1979  C  Award of Arms -- Siegfried von Halstern
     04/23/1983  C  Duke -- Siegfried von Halstern
   
   == Siegfried von Wolfenhaussen ==
@@ -88567,6 +88665,9 @@ Alpha List {
   
   == Sigismund Von Alsenz ==
     09/13/1997   L AOA -- Sigismund Von Alsenz
+  
+  == Sigismund Wasa Care ==
+    06/30/1979  C  Master of the Laurel -- Sigismund Wasa Care
   
   == Sigismund von Alsenz [registered] ==
     09/13/1997 AC  Award of Arms -- Sigismund von Alsenz
@@ -89846,7 +89947,7 @@ Alpha List {
     04/14/2007 A   Queen's Honor of Distinction -- Sunniva Ormstung [Jana IV]
   
   == Sunny of Somerset [registered] ==
-    04/07/1979 A L Award of Arms -- Sunny of Somerset
+    04/07/1979 ACL Award of Arms -- Sunny of Somerset
   
   == Suppililiumas of Gongor ==
     06/01/1985 ACL Award of Arms -- Suppililiumas of Gongor
@@ -90486,6 +90587,7 @@ Alpha List {
     08/21/1988 A   Award of Arms -- Taliesin of Carreg Cennen
   
   == Taliesin of Nordovest ==
+    08/04/1979  C  Award of Arms -- Taliesin of Nordovest
     01/10/1982  C  Pheon -- Taliesin of Nordovest
     05/12/1984  C  Sagittarius -- Taliesin of Nordovest
   
@@ -90692,7 +90794,7 @@ Alpha List {
     11/07/1992 A   Queen's Courtesy -- Cormac the Teeth
   
   == Tannis of Tir-y-Don ==
-    10/06/1979   L Grant of Arms -- Tannis of Tir-y-Don
+    10/06/1979  CL Grant of Arms -- Tannis of Tir-y-Don
     07/12/1980   L Silver Crescent -- Tannis of Tir-y-Don
     09/27/1980   L Burdened Tyger -- Tannis of Tir-y-Don
   
@@ -92303,6 +92405,9 @@ Alpha List {
   
   == Traidenis Vilkas of WinterOak ==
     01/07/1984  C  Knight -- Traidenis Vilkas of WinterOak
+  
+  == Traidenis Wilkas of Winter Oak ==
+    06/16/1979  C  Tygers Combattant -- Traidenis Wilkas of Winter Oak
   
   == Travis of Malagentia ==
     10/28/2000 ACL Award of Arms -- Travis of Malagentia
@@ -94152,6 +94257,7 @@ Alpha List {
     06/18/2011 ACL Award of Arms -- William Spicer
   
   == William Widefarer ==
+    10/06/1979  C  Burdened Tyger -- William Widefarer
     10/03/1981  C  Silver Crescent -- William Widefarer
     12/11/1982  C  Troubadour -- William Widefarer
     06/30/1984  C  Manche -- William Widefarer
@@ -94305,6 +94411,9 @@ Alpha List {
   
   == Wladislaw Fioletowien ==
     06/01/1985  C  Troubadour -- Wladislaw Fioletowien
+  
+  == Wladislaw Polyeski ==
+    06/30/1979  C  Queen's Courtesy -- Wladislaw Polyeski
   
   == Wladislaw of Concordia ==
     01/21/1978   L Yale (Dragonship Haven) -- Wladislaw of Concordia [Poleski]
@@ -94993,6 +95102,7 @@ Alpha List {
   
   == Ysabeau Cameron of Lochiel ==
     10/06/1979  C  Terpsichore -- Ysabeau Cameron of Lochiel
+    10/06/1979  C  Burdened Tyger -- Ysabeau Cameron of Lochiel
   
   == Ysabeau de Lorigne [registered] ==
     AKA: Yseault Solaine de Loriage
