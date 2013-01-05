@@ -9636,6 +9636,19 @@ Court Reports {
       
     }
   }
+  Asbjorn2.xhtml {
+    Mirkwude, Apr 27, 1975 {
+      == Mirkwude == (April 27, 1975)
+        04/27/1975  C  Gaping Wound (Middle) -- Andros ap Anlawdd [given by HRM Rolac of the Middle Kingdom]
+      
+    }
+    Crown Tournament, May 31, 1975 {
+      == Crown Tournament == (May 31, 1975)
+        05/31/1975  C  Crown Prince -- Aonghais Dubh
+        05/31/1975  C  Crown Princess -- Ysabeau Cameron
+      
+    }
+  }
   Bertrand.xhtml {
     October 14, 1978 {
       ==  == (October 14, 1978)
@@ -48824,7 +48837,7 @@ Alpha List {
   == Andros ap Anlawdd [registered] ==
     01/05/1974   L Chivalry -- Andros ap Anlawdd
     01/05/1974 A   Knight -- Andros ap Anlawdd
-    04/27/1975 A   Gaping Wound (Middle) -- Andros ap Anlawdd
+    04/27/1975 AC  Gaping Wound (Middle) -- Andros ap Anlawdd [given by HRM Rolac of the Middle Kingdom]
     02/20/1982 A L Queen's Courtesy -- Andros ap Anlawdd
   
   == Andros ap Annlawden ==
@@ -49936,6 +49949,9 @@ Alpha List {
   
   == Aoife of Narrenbeck ==
     04/11/1992 ACL Award of Arms -- Aoife of Narrenbeck
+  
+  == Aonghais Dubh ==
+    05/31/1975  C  Crown Prince -- Aonghais Dubh
   
   == Aonghais Og ==
     08/14/1991  CL Award of Arms -- Aonghais Og
@@ -95878,6 +95894,7 @@ Alpha List {
     07/03/2010 ACL Award of Arms -- Yric Carlisle
   
   == Ysabeau Cameron ==
+    05/31/1975  C  Crown Princess -- Ysabeau Cameron
     04/24/1976   L Rose -- Ysabeau Cameron
     04/24/1976   L Count -- Ysabeau Cameron
     10/09/1976   L Court Barony -- Ysabeau Cameron
