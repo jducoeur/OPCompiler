@@ -500,7 +500,7 @@ object Config2 {
             )),
             
             //  Note that Myrkwode was dissolved into Atlantia
-            Barony("Myrkwood", awards = Seq(
+            Barony("Myrkwood", synonyms = Seq("Myrquehood"), awards = Seq(
               "Windblown Leaf"
             )),
             
