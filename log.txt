@@ -9520,6 +9520,68 @@ Court Reports {
       
     }
   }
+  Bertrand.xhtml {
+    October 14, 1978 {
+      ==  == (October 14, 1978)
+        10/14/1978  C  Count -- Gyrth Oldcastle of Ravenspur
+        10/14/1978  C  Countess -- Melisande de Belvoir
+        10/14/1978  C  Lady of the Rose -- Melisande de Belvoir
+      
+    }
+    November 4, 1978 {
+      ==  == (November 4, 1978)
+        11/04/1978  C  Award of Arms -- Kathryn Courtney
+      
+    }
+    November 5, 1978 {
+      ==  == (November 5, 1978)
+        11/05/1978  C  Award of Arms -- Setanta an Chasur
+      
+    }
+    December 2, 1978 {
+      ==  == (December 2, 1978)
+        12/02/1978  C  Burdened Tyger -- William de Montgilt
+      
+    }
+    Twelfth Night, January 6, 1979 {
+      == Twelfth Night == (January 6, 1979)
+        01/06/1979  C  Queen's Courtesy -- Tojenareum Grenville of Devon
+        01/06/1979  C  Fatima -- Sigismund Vacare
+        01/06/1979  C  Fatima -- Alia Vacare
+        01/06/1979  C  Manche -- Magda z Stalburg
+        01/06/1979  C  Manche -- Daedra MacBeth a Gryphon
+        01/06/1979  C  Baroness Dragonship Haven -- Ann of Hatfield
+        01/06/1979  C  Grant of Arms -- Ann of Hatfield
+        01/06/1979  C  Baroness Rhydderich Hael (AEthelmearc) -- Morgan Elandris
+        01/06/1979  C  Grant of Arms -- Morgan Elandris
+        01/06/1979  C  Mistress of the Laurel -- Kathryn Goodwyn
+        01/06/1979  C  Master of the Pelican -- William de Montgilt
+        01/06/1979  C  Master of the Pelican -- Geoffrey d'Ayr
+        01/06/1979  C  Knight -- Gavin Kilkenny of Kilcarren
+      
+    }
+    Atlantian Twelfth Night, January 13, 1979 {
+      == Atlantian Twelfth Night == (January 13, 1979)
+        01/13/1979  C  Tygers Cub -- Donovan Hynnddll
+        01/13/1979  C  Burdened Tyger -- Elizabeth Beaufort
+        01/13/1979  C  Award of Arms -- Ginevra de Sailly
+        01/13/1979  C  Tygers Combattant -- Jacques Martel de Normandie
+        01/13/1979  C  Manche -- Ann Etheridge of Somerset
+        01/13/1979  C  Silver Crescent -- Robin of Mannefeld
+        01/13/1979  C  Knight -- Bryetor Aison of Devon
+      
+    }
+    February 24, 1979 {
+      ==  == (February 24, 1979)
+        02/24/1979  C  Baron Debatable Lands (AEthelmearc) -- Leonard the Younger
+        02/24/1979  C  Founding Baron Debatable Lands (AEthelmearc) -- Robert de la Tor-Fraisse
+      
+    }
+    April 7, 1979 {
+      ==  == (April 7, 1979)
+      
+    }
+  }
   Gavin1.xhtml {
     Coronation, April 19, 1980 * {
       == Coronation == (April 19, 1980)
@@ -46967,6 +47029,9 @@ Alpha List {
     10/18/1991   L AOA -- Alia Silvermoon
     10/19/1991 AC  Award of Arms -- Alia Silvermoon
   
+  == Alia Vacare ==
+    01/06/1979  C  Fatima -- Alia Vacare
+  
   == Alia Vasa Care ==
     01/06/1979   L Fatima -- Alia Vasa Care
   
@@ -48740,7 +48805,7 @@ Alpha List {
   
   == Ann Etheridge of Somerset ==
     03/06/1976   L AOA -- Ann Etheridge of Somerset
-    01/13/1979   L Maunche -- Ann Etheridge of Somerset
+    01/13/1979  CL Manche -- Ann Etheridge of Somerset
     03/24/1979   L Burdened Tyger -- Ann Etheridge of Somerset
     04/26/1980   L QOC -- Ann Etheridge of Somerset
   
@@ -48768,6 +48833,10 @@ Alpha List {
   
   == Ann of Bright Valley ==
     SEE: Anne von Hellestal
+  
+  == Ann of Hatfield ==
+    01/06/1979  C  Grant of Arms -- Ann of Hatfield
+    01/06/1979  C  Baroness Dragonship Haven -- Ann of Hatfield
   
   == Ann of Oakenwood ==
     12/08/2007 ACL Award of Arms -- Ann of Oakenwood
@@ -53541,6 +53610,7 @@ Alpha List {
   == Bryetor Aison of Devon ==
     05/06/1978   L AOA -- Bryetor Aison of Devon
     01/13/1979   L Maunche -- Bryetor Aison of Devon
+    01/13/1979  C  Knight -- Bryetor Aison of Devon
     01/13/1979 A L Chivalry -- Bryetor Aison of Devon [Alantia]
     03/24/1979 A L Viscount -- Bryetor Aison of Devon
     04/26/1980 A   (Champion on the Manche (Unknown Branch) -- Bryetor Aison of Devon)
@@ -57745,6 +57815,7 @@ Alpha List {
     12/03/2012 A   Award of Arms -- Dabid Docair
   
   == Daedra MacBeth a Gryphon ==
+    01/06/1979  C  Manche -- Daedra MacBeth a Gryphon
     07/28/1984  C  Silver Crescent -- Daedra MacBeth a Gryphon
   
   == Daedra McBeth a Gryphon ==
@@ -59633,6 +59704,9 @@ Alpha List {
   
   == Donnel MacKinnon ==
     08/09/2011 A L Award of Arms -- Donnel MacKinnon
+  
+  == Donovan Hynnddll ==
+    01/13/1979  C  Tygers Cub -- Donovan Hynnddll
   
   == Donovan Shinnock [registered] ==
     04/30/2006 A   Perseus (Carolingia) -- Donovan Shinnock
@@ -61823,7 +61897,7 @@ Alpha List {
   
   == Elizabeth Beaufort ==
     06/24/1978   L AOA -- Elizabeth Beaufort
-    01/13/1979   L Burdened Tyger -- Elizabeth Beaufort
+    01/13/1979  CL Burdened Tyger -- Elizabeth Beaufort
   
   == Elizabeth Bennett ==
     08/09/2010 ACL Award of Arms -- Elizabeth Bennett
@@ -65536,7 +65610,7 @@ Alpha List {
   == Gavin Kilkenny of Kilcarren [registered] ==
     08/21/1976 A L Award of Arms -- Gavin Kilkenny of Kilcarren
     10/08/1977 A L Tygers Combattant -- Gavin Kilkenny of Kilcarren
-    01/06/1979 A   Knight -- Gavin Kilkenny of Kilcarren
+    01/06/1979 AC  Knight -- Gavin Kilkenny of Kilcarren
     01/18/1980   L Chivalry -- Gavin Kilkenny of Kilcarren
     10/18/1980 A L Count -- Gavin Kilkenny of Kilcarren
     04/14/1984 AC  Queen's Cypher -- Gavin Kilkenny of Kilcarren [Sedalia I]
@@ -65854,6 +65928,9 @@ Alpha List {
   
   == Geoffrey d'Ayer of Montalban ==
     04/16/1988   L Court Barony -- Geoffrey d'Ayer of Montalban
+  
+  == Geoffrey d'Ayr ==
+    01/06/1979  C  Master of the Pelican -- Geoffrey d'Ayr
   
   == Geoffrey d'Ayr of Montalban [registered] ==
     10/11/1975 A L Award of Arms -- Geoffrey d'Ayr of Montalban
@@ -66340,7 +66417,7 @@ Alpha List {
     05/05/2007  CL Award of Arms -- Ginevra d'Angouleme
   
   == Ginevra de Sailly ==
-    01/13/1979   L AOA -- Ginevra de Sailly
+    01/13/1979  CL Award of Arms -- Ginevra de Sailly
     01/20/1979 A   Award of Arms -- Ginevra de Sailly
   
   == Ginevra d’Alatri ==
@@ -68032,7 +68109,7 @@ Alpha List {
   
   == Gyrth Oldcastle of Ravenspur ==
     08/12/1978   L Chivalry -- Gyrth Oldcastle of Ravenspur
-    10/14/1978   L Count -- Gyrth Oldcastle of Ravenspur
+    10/14/1978  CL Count -- Gyrth Oldcastle of Ravenspur
     01/05/1980   L QOC -- Gyrth Oldcastle of Ravenspur
   
   == Gyth of the Danelaw ==
@@ -70325,6 +70402,9 @@ Alpha List {
   
   == Jacques Martel de Normande, called the Jovial ==
     02/21/1976   L AOA -- Jacques Martel de Normande, called the Jovial
+  
+  == Jacques Martel de Normandie ==
+    01/13/1979  C  Tygers Combattant -- Jacques Martel de Normandie
   
   == Jacques Phillipe Touson de la Champagne ==
     11/21/1998   L Friends (Concordia of the Snows) -- Jacques Phillipe Touson de la Champagne
@@ -73498,7 +73578,7 @@ Alpha List {
     05/04/2002  CL Award of Arms -- Kathryn Aylwyn de Chaliers
   
   == Kathryn Courtney ==
-    11/04/1978   L AOA -- Kathryn Courtney
+    11/04/1978  CL Award of Arms -- Kathryn Courtney
     04/07/1979   L Fatima -- Kathryn Courtney
     05/02/1981   L Viscount -- Kathryn Courtney [from Atlantia]
   
@@ -73522,7 +73602,7 @@ Alpha List {
     10/11/1975 A L Award of Arms -- Kathryn Goodwyn
     10/11/1975 A L Court Baroness -- Kathryn Goodwyn
     10/09/1976   L Fatima -- Kathryn Goodwyn
-    01/06/1979 A L Mistress of the Laurel -- Kathryn Goodwyn
+    01/06/1979 ACL Mistress of the Laurel -- Kathryn Goodwyn
     06/16/1979   L Moon (Carolingia) -- Kathryn Goodwyn
     06/17/1979 A   Moon (Carolingia) -- Kathryn Goodwyn
     06/17/1979 A L Daystar (Carolingia) -- Kathryn Goodwyn
@@ -75515,6 +75595,7 @@ Alpha List {
   
   == Leonard the Younger ==
     02/24/1979   L Grant of Arms -- Leonard the Younger
+    02/24/1979  C  Baron Debatable Lands (AEthelmearc) -- Leonard the Younger
     03/27/1982   L Maunche -- Leonard the Younger
     05/16/1992  CL Court Baron -- Leonard the Younger
     05/16/1992  CL Grant of Arms -- Leonard the Younger
@@ -76980,7 +77061,7 @@ Alpha List {
   
   == Magda z Stalburg ==
     09/16/1976   L AOA -- Magda z Stalburg
-    01/06/1979   L Maunche -- Magda z Stalburg
+    01/06/1979  CL Manche -- Magda z Stalburg
     01/05/1980  CL Burdened Tyger -- Magda z Stalburg
     08/23/1980   L Silver Crescent -- Magda z Stalburg
     04/04/1981   L Grant of Arms -- Magda z Stalburg
@@ -79396,8 +79477,8 @@ Alpha List {
   == Melisande de Belvoir ==
     04/16/1977   L Burdened Tyger -- Melisande de Belvoir
     10/08/1977   L Silver Crescent -- Melisande de Belvoir
-    10/14/1978   L Rose -- Melisande de Belvoir
-    10/14/1978   L Count -- Melisande de Belvoir
+    10/14/1978  CL Countess -- Melisande de Belvoir
+    10/14/1978  CL Lady of the Rose -- Melisande de Belvoir
   
   == Melisande de Bourges ==
     06/14/2003  CL Award of Arms -- Melisande de Bourges
@@ -80657,6 +80738,10 @@ Alpha List {
   
   == Morgan Duvall ==
     01/07/1984  C  Manche -- Morgan Duvall
+  
+  == Morgan Elandris ==
+    01/06/1979  C  Grant of Arms -- Morgan Elandris
+    01/06/1979  C  Baroness Rhydderich Hael (AEthelmearc) -- Morgan Elandris
   
   == Morgan Faraday [registered] ==
     07/16/2005 A   Award of Arms -- Morgan Faraday
@@ -85575,6 +85660,7 @@ Alpha List {
   
   == Robert de la Tor-Fraisse ==
     04/??/1974   L Grant of Arms -- Robert de la Tor-Fraisse
+    02/24/1979  C  Founding Baron Debatable Lands (AEthelmearc) -- Robert de la Tor-Fraisse
   
   == Robert du Bourg ==
     03/07/2009 ACL Award of Arms -- Robert du Bourg
@@ -85805,7 +85891,7 @@ Alpha List {
   
   == Robin of Mannefeld ==
     02/21/1976   L AOA -- Robin of Mannefeld
-    01/13/1979   L Silver Crescent -- Robin of Mannefeld
+    01/13/1979  CL Silver Crescent -- Robin of Mannefeld
     02/21/1981   L Pelican -- Robin of Mannefeld
   
   == Robin of Mannefield ==
@@ -88345,10 +88431,7 @@ Alpha List {
     07/23/1988   L Tygers Combattant -- Shannon an Chassur
   
   == Shannon an Chasur ==
-    05/02/1987  C  Shield of Chivalry -- Shannon an Chasur
-    08/15/1987  C  Knight -- Shannon an Chasur
-    07/23/1988  C  Tygers Combattant -- Shannon an Chasur
-    04/09/1994  C  Tygers Combattant -- Shannon an Chasur [backlog]
+    SEE: Sibán Gallowglass
   
   == Shannon inghean Bhriain uí Dhuilleáin [registered] ==
     01/15/2005 A   Award of Arms -- Shannon inghean Bhriain uí Dhuilleáin [from Caid]
@@ -88554,9 +88637,15 @@ Alpha List {
   
   == Sibán Gallowglass [registered] ==
     AKA: Setanta an Chasur
+    AKA: Shannon an Chasur
     AKA: Shannon
+    11/05/1978  C  Award of Arms -- Setanta an Chasur
     10/06/1979  C  Count -- Setanta an Chasur
+    05/02/1987  C  Shield of Chivalry -- Shannon an Chasur
+    08/15/1987  C  Knight -- Shannon an Chasur
+    07/23/1988  C  Tygers Combattant -- Shannon an Chasur
     01/04/1992 A   Award of Arms -- Sibán Gallowglass
+    04/09/1994  C  Tygers Combattant -- Shannon an Chasur [backlog]
     07/28/2001 A   Silver Crescent -- Sibán Gallowglass
     04/12/2003 A   Queen's Honor of Distinction -- Sibán Gallowglass [Isabella II]
     02/24/2007 A   Mistress of the Pelican -- Sibán Gallowglass
@@ -88653,6 +88742,9 @@ Alpha List {
   
   == Sigis Wulfgarsson ==
     08/12/1987 ACL Tygers Cub -- Sigis Wulfgarsson
+  
+  == Sigismund Vacare ==
+    01/06/1979  C  Fatima -- Sigismund Vacare
   
   == Sigismund Vasa Care [registered] ==
     01/03/1977 A L Award of Arms -- Sigismund Vasa Care
@@ -92181,6 +92273,7 @@ Alpha List {
   == Tojenareum Grenville of Devon ==
     07/24/1976   L Burdened Tyger -- Tojenareum Grenville of Devon
     07/15/1978   L Maunche -- Tojenareum Grenville of Devon
+    01/06/1979  C  Queen's Courtesy -- Tojenareum Grenville of Devon
   
   == Tojenoreum Grenville of Devon ==
     03/06/1976   L AOA -- Tojenoreum Grenville of Devon
@@ -94297,6 +94390,10 @@ Alpha List {
     01/08/1977   L Grant of Arms -- William de Montegilt
     12/02/1978   L Burdened Tyger -- William de Montegilt
     01/06/1979   L Pelican -- William de Montegilt
+  
+  == William de Montgilt ==
+    12/02/1978  C  Burdened Tyger -- William de Montgilt
+    01/06/1979  C  Master of the Pelican -- William de Montgilt
   
   == William mab'Ailean ==
     05/07/1983   L AOA -- William mab'Ailean
