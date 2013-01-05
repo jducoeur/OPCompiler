@@ -9520,6 +9520,23 @@ Court Reports {
       
     }
   }
+  Akbar3.xhtml {
+    Coronation/Twelfth Night, in Myrkewood, January 6, 1973 {
+      == Coronation/Twelfth Night, in Myrkewood == (January 6, 1973)
+        01/06/1973  C  Silver Crescent -- Alfgar the Sententious
+        01/06/1973  C  Knight -- Asbjorn Gustafson of Roed
+      
+    }
+    at the Coronation of Finnvarr and Caellyn, May 20, 1973 {
+      == at the Coronation of Finnvarr and Caellyn == (May 20, 1973)
+        05/20/1973  C  Award of Arms -- Alain du Rocher
+        05/20/1973  C  Grant of Arms -- El of the Two Knives
+        05/20/1973  C  Grant of Arms -- Alfgar the Sententious
+        05/20/1973  C  Grant of Arms -- Balin the Fairhaired
+        05/20/1973  C  Patent of Arms -- Jehan de la Marche
+      
+    }
+  }
   Alaric.xhtml {
     Camelot, in Bridge, July 10, 1976 {
       == Camelot, in Bridge == (July 10, 1976)
@@ -47448,7 +47465,8 @@ Alpha List {
     09/30/1995  C  Award of Arms -- Alfdis Greyga
   
   == Alfgar the Sententious [registered] ==
-    01/06/1973 A L Silver Crescent -- Alfgar the Sententious
+    01/06/1973 ACL Silver Crescent -- Alfgar the Sententious
+    05/20/1973  C  Grant of Arms -- Alfgar the Sententious
     04/20/1974 ACL Master of the Laurel -- Alfgar the Sententious
     11/29/1975 ACL Court Baron -- Alfgar the Sententious
     03/19/1977 A L Seahorse (Ostgardr) -- Alfgar the Sententious
@@ -51019,6 +51037,10 @@ Alpha List {
   == Asahaito ==
     07/16/1988  C  Burdened Tyger -- Asahaito
   
+  == Asbjorn Gustafson of Roed ==
+    AKA: Haarfagr
+    01/06/1973  C  Knight -- Asbjorn Gustafson of Roed
+  
   == Asbjorn Gustavsson ==
     10/11/1975   L Duke -- Asbjorn Gustavsson
   
@@ -51817,6 +51839,7 @@ Alpha List {
   == Balin the Fairhaired [registered] ==
     06/15/1972   L Grant of Arms -- Balin the Fairhaired
     06/15/1972 A   Baron Beyond the Mountain -- Balin the Fairhaired [retired]
+    05/20/1973  C  Grant of Arms -- Balin the Fairhaired
     11/01/1975 ACL Pelican -- Balin the Fairhaired
     07/05/1992 A   White Oak (Beyond the Mountain) -- Balin the Fairhaired
   
@@ -61768,6 +61791,7 @@ Alpha List {
   
   == El of the Two Knives [registered] ==
     09/26/1971 A   Silver Crescent -- El of the Two Knives
+    05/20/1973  C  Grant of Arms -- El of the Two Knives
     11/17/1973 A   Master of the Pelican -- El of the Two Knives
     04/24/1982 A   Troubadour -- El of the Two Knives
     08/14/1982 A   Pillar (Bridge) -- El of the Two Knives
@@ -68783,6 +68807,9 @@ Alpha List {
   == Haakon Tryjvasen ==
     07/31/1993  C  Award of Arms -- Haakon Tryjvasen
   
+  == Haarfagr ==
+    SEE: Asbjorn Gustafson of Roed
+  
   == Hack MacKeiver ==
     01/15/1983 ACL Award of Arms -- Hack MacKeiver
   
@@ -71776,6 +71803,7 @@ Alpha List {
     05/15/1971   L Laurel -- Jehan de la Marche
     09/23/1972   L Chivalry -- Jehan de la Marche
     01/06/1973   L Count -- Jehan de la Marche
+    05/20/1973  C  Patent of Arms -- Jehan de la Marche
     10/19/1974   L QOC -- Jehan de la Marche
     04/16/1977  CL Silver Crescent -- Jehan de la Marche
     10/06/1979  CL Troubadors -- Jehan de la Marche

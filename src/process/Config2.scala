@@ -141,7 +141,11 @@ object Config2 {
             Award("Golden Rapier", "High Merit for Fence", "Kingdom Fence", "Fence"),
             Award("Maunche", "Mauche", "Manche", "Manch"),
             Award("Sagittarius", "Sagitarius"),
-            Award("Silver Crescent", "Sliver Crescent"),
+            // What? What's the Golden Dragon, I hear you say. From the Chron files of Akbar III:
+            // "(This order has absorbed the previous Order of the Golden Dragon, and members of the O.G.D. 
+            // were therefore awarded the O.S.C.  These included El of the Two Knives, Seneschal, and 
+            // Aravis Del Clare, Foreign Minister.)"  Pikestaff, Vol 2, No. 1, 10 March 1973 
+            Award("Silver Crescent", "Sliver Crescent", "Golden Dragon"),
             Award("Tygers Combattant", "Tygers Combatant", "Tyger Combatant"),
             
             // Royalty -- not awards, but frequently recorded in the OP
