@@ -9541,6 +9541,65 @@ Court Reports {
       
     }
   }
+  Aonghais1.xhtml {
+    Pennsic II, September 16, 1973 {
+      INFO:Adding commentary "Crowned"
+      == Pennsic II == (September 16, 1973)
+        09/16/1973  C  (Crowned (Unknown Branch) -- Angus the Black of the High Place and Alyson of Islay)
+      
+    }
+    November 17, 1973 {
+      ==  == (November 17, 1973)
+        11/17/1973  C  Mistress of the Laurel -- Moira Maureen ua Seamus of the Green Hills
+        11/17/1973  C  Master of the Pelican -- El of Two Knives
+      
+    }
+    at Twelfth Night in Ostgardr, Jan. 5, 1974 {
+      == at Twelfth Night in Ostgardr == (January 5, 1974)
+        01/05/1974  C  Court Baron -- Patri du Chat Gris
+        01/05/1974  C  Baron of Bhakail -- Gregory von Lucida
+        01/05/1974  C  Knight -- Andros ap Anlawdd
+        01/05/1974  C  Award of Arms -- Brak of the Eagle's Eyre
+        01/05/1974  C  Award of Arms -- Garanhir of Ness
+      
+    }
+    in Carolingia, Feb. 11, 1974 {
+      == in Carolingia == (February 11, 1974)
+        02/11/1974  C  Mistress of the Laurel -- Marian of Edwinstowe
+        02/11/1974  C  Award of Arms -- John of Canterbury
+      
+    }
+    at the Tournament and Feast in Bridge, Mar. 23, 1974 {
+      == at the Tournament and Feast in Bridge == (March 23, 1974)
+        03/23/1974  C  Knight -- Garanhir of Ness
+      
+    }
+    at Tournament, in Myrkewoode, Apr. 6, 1974 {
+      == at Tournament, in Myrkewoode == (April 6, 1974)
+        04/06/1974  C  Court Baron -- Volf of Novgorod
+        04/06/1974  C  Baron of the Debateable Lands (AEthelmearc) -- Robert de la Tor Fraisse
+      
+    }
+    in Bhakail at the Coronation of Asbjorn and Eloise, Apr. 20, 1974 {
+      == in Bhakail at the Coronation of Asbjorn and Eloise == (April 20, 1974)
+        04/20/1974  C  Master of the Laurel -- Alfgar the Sententious
+        04/20/1974  C  Silver Crescent -- Barbara du Lac
+        04/20/1974  C  Award of Arms -- Alaric of Uwef
+        04/20/1974  C  Award of Arms -- Zaragoza San Solomon Puertolano de Belacazar
+        04/20/1974  C  Award of Arms -- Tcipakkan Arastorm
+        04/20/1974  C  Award of Arms -- Rorik of Harcourt
+        04/20/1974  C  Award of Arms -- Aelfwine Dunedain
+        04/20/1974  C  Award of Arms -- Robin Crosspatch
+        04/20/1974  C  Award of Arms -- James the Fair
+        04/20/1974  C  Award of Arms -- Morgiane de Provence
+        04/20/1974  C  Award of Arms -- Elspeth of Morven
+        04/20/1974  C  Award of Arms -- Maria of Oxenford
+        04/20/1974  C  Award of Arms -- Ruissart McEth of Strathnaver
+        04/20/1974  C  Award of Arms -- Kathryn Fitzroy
+        04/20/1974  C  Award of Arms -- Cassandra of Beth'lem
+      
+    }
+  }
   Aonghais2.xhtml {
     Coronation, October 11, 1975 {
       == Coronation == (October 11, 1975)
@@ -45640,6 +45699,7 @@ Alpha List {
     01/04/1986 ACL Silver Crescent -- Aelfwine Denedom
   
   == Aelfwine Dunedain ==
+    04/20/1974  C  Award of Arms -- Aelfwine Dunedain
     04/24/1982  C  Earl -- Aelfwine Dunedain
   
   == Aelfwine Lee of Whitby ==
@@ -46537,6 +46597,9 @@ Alpha List {
   == Alaric of Owef [registered] ==
     04/20/1974 A L Award of Arms -- Alaric of Owef
   
+  == Alaric of Uwef ==
+    04/20/1974  C  Award of Arms -- Alaric of Uwef
+  
   == Alaric the Bald ==
     06/13/1998  CL Award of Arms -- Alaric the Bald
   
@@ -47367,7 +47430,7 @@ Alpha List {
   
   == Alfgar the Sententious [registered] ==
     01/06/1973 A L Silver Crescent -- Alfgar the Sententious
-    04/20/1974 A L Master of the Laurel -- Alfgar the Sententious
+    04/20/1974 ACL Master of the Laurel -- Alfgar the Sententious
     11/29/1975 ACL Court Baron -- Alfgar the Sententious
     03/19/1977 A L Seahorse (Ostgardr) -- Alfgar the Sententious
     04/01/1978 ACL Master of the Pelican -- Alfgar the Sententious
@@ -48836,7 +48899,7 @@ Alpha List {
   
   == Andros ap Anlawdd [registered] ==
     01/05/1974   L Chivalry -- Andros ap Anlawdd
-    01/05/1974 A   Knight -- Andros ap Anlawdd
+    01/05/1974 AC  Knight -- Andros ap Anlawdd
     04/27/1975 AC  Gaping Wound (Middle) -- Andros ap Anlawdd [given by HRM Rolac of the Middle Kingdom]
     02/20/1982 A L Queen's Courtesy -- Andros ap Anlawdd
   
@@ -49208,6 +49271,9 @@ Alpha List {
   
   == Angus of Clan Campbell ==
     09/24/1994   L QOC -- Angus of Clan Campbell
+  
+  == Angus the Black of the High Place and Alyson of Islay ==
+    09/16/1973  C  (Crowned (Unknown Branch) -- Angus the Black of the High Place and Alyson of Islay)
   
   
   == Angus the Pitiful ==
@@ -50142,15 +50208,7 @@ Alpha List {
     09/15/1984 ACL Award of Arms -- Arame merch Emrys
   
   == Arastorm the Golden [registered] ==
-    04/20/1974 A L Award of Arms -- Arastorm the Golden
-    05/01/1976 A L Daystar (Carolingia) -- Arastorm the Golden
-    04/01/1978 ACL Silver Crescent -- Arastorm the Golden
-    07/05/1980 A L Manche -- Arastorm the Golden
-    07/26/1980 A L Court Baroness -- Arastorm the Golden
-    04/24/1982 ACL Countess -- Arastorm the Golden
-    10/03/1987 A L Millstone (Stonemarche) -- Arastorm the Golden
-    08/08/2012 A   Patent of Arms -- Arastorm the Golden
-    08/08/2012 A L Rose -- Arastorm the Golden
+    SEE: Tcipakkan Arastorm
   
   == Aravis Del Clare ==
     12/12/1981  C  Mistress of the Pelican -- Aravis Del Clare
@@ -51880,7 +51938,7 @@ Alpha List {
     06/20/1987 ACL Award of Arms -- Barbara de la Carriere
   
   == Barbara du Lac ==
-    04/20/1974 A L Silver Crescent -- Barbara du Lac
+    04/20/1974 ACL Silver Crescent -- Barbara du Lac
   
   == Barbara le Grange ==
     05/26/1985 ACL Award of Arms -- Barbara le Grange
@@ -52819,6 +52877,9 @@ Alpha List {
   
   == Bradawc Turnbull ==
     07/22/1995   L AOA -- Bradawc Turnbull
+  
+  == Brak of the Eagle's Eyre ==
+    01/05/1974  C  Award of Arms -- Brak of the Eagle's Eyre
   
   == Brak of the Eagle's Eyrie [registered] ==
     01/05/1974 A L Award of Arms -- Brak of the Eagle's Eyrie
@@ -55187,7 +55248,7 @@ Alpha List {
     07/06/2002 ACL Award of Arms -- Cassandra of An Dubhaigeainn
   
   == Cassandra of Beth'lem [registered] ==
-    04/20/1974 A L Award of Arms -- Cassandra of Beth'lem
+    04/20/1974 ACL Award of Arms -- Cassandra of Beth'lem
     03/08/1975 A L Silver Crescent -- Cassandra of Beth'lem
     01/07/1978 ACL Court Baroness -- Cassandra of Beth'lem
     01/22/2000 A L Seahorse (Ostgardr) -- Cassandra of Beth'lem
@@ -61676,7 +61737,7 @@ Alpha List {
   
   == El of Two Knives ==
     09/26/1971   L Silver Crescent -- El of Two Knives
-    11/17/1973   L Pelican -- El of Two Knives
+    11/17/1973  CL Master of the Pelican -- El of Two Knives
     11/01/1975  C  (Named Principal of the Pelican (Unknown Branch) -- El of Two Knives)
     04/24/1982   L Troubadour -- El of Two Knives
     08/14/1982   L Pillar (Bridge) -- El of Two Knives
@@ -62941,7 +63002,7 @@ Alpha List {
     10/24/1987  C  Award of Arms -- Elspeth ap Myrrdin
   
   == Elspeth of Morven ==
-    04/20/1974   L AOA -- Elspeth of Morven
+    04/20/1974  CL Award of Arms -- Elspeth of Morven
     10/19/1974   L QOC -- Elspeth of Morven
     10/11/1975  CL Silver Crescent -- Elspeth of Morven
     02/14/1976  CL Mistress of the Laurel -- Elspeth of Morven
@@ -65870,8 +65931,9 @@ Alpha List {
     03/02/1985   L AOA -- Gamhainn MacAber
   
   == Garanhir of Ness ==
-    01/05/1974   L AOA -- Garanhir of Ness
+    01/05/1974  CL Award of Arms -- Garanhir of Ness
     03/23/1974   L Chivalry -- Garanhir of Ness
+    03/23/1974  C  Knight -- Garanhir of Ness
     11/29/1975  CL Silver Crescent -- Garanhir of Ness
     12/12/1981  CL Troubadour -- Garanhir of Ness
   
@@ -67516,6 +67578,7 @@ Alpha List {
     06/08/2002 ACL Tygers Cub -- Gregory of York
   
   == Gregory von Lucida ==
+    01/05/1974  C  Baron of Bhakail -- Gregory von Lucida
     04/30/1977   L Salamander (Bhakail) -- Gregory von Lucida
     11/17/1979  C  Queen's Courtesy -- Gregory von Lucida
     04/19/1980  CL Manche -- Gregory von Lucida
@@ -71173,6 +71236,7 @@ Alpha List {
     08/07/2008  C  Award of Arms -- James the Cat-herder
   
   == James the Fair ==
+    04/20/1974  C  Award of Arms -- James the Fair
     10/10/1981  C  Court Baron -- James the Fair
   
   == James the Forrester ==
@@ -72432,6 +72496,7 @@ Alpha List {
     09/26/1971 A L Silver Crescent -- John of Brook-Lynne
   
   == John of Canterbury ==
+    02/11/1974  C  Award of Arms -- John of Canterbury
     02/16/1974 A L Award of Arms -- John of Canterbury
     08/10/1975 A L Queen's Courtesy -- John of Canterbury
     09/10/1975 A L Silver Crescent -- John of Canterbury
@@ -74153,6 +74218,7 @@ Alpha List {
     11/14/2009 ACL Award of Arms -- Kathryn Elizabeth Lyons Ramsey
   
   == Kathryn Fitzroy ==
+    04/20/1974  C  Award of Arms -- Kathryn Fitzroy
     07/09/1983  C  Award of Arms -- Kathryn Fitzroy
   
   == Kathryn Fitzroy of Bath ==
@@ -78739,7 +78805,7 @@ Alpha List {
     04/19/1980   L AOA -- Maria from the Bridge
   
   == Maria of Oxenford [registered] ==
-    04/20/1974   L AOA -- Maria of Oxenford
+    04/20/1974  CL Award of Arms -- Maria of Oxenford
     04/19/1980 A   Award of Arms -- Maria of Oxenford
   
   == Maria von Morgenrot ==
@@ -78794,6 +78860,7 @@ Alpha List {
   
   == Marian of Edwinstowe [registered] [deceased] ==
     AKA: Old Marian
+    02/11/1974  C  Mistress of the Laurel -- Marian of Edwinstowe
     02/16/1974   L Pelican -- Marian of Edwinstowe
     04/30/1977   L Daystar (Carolingia) -- Marian of Edwinstowe [resigned]
     06/10/1978  CL Silver Crescent -- Marian of Edwinstowe
@@ -81049,6 +81116,7 @@ Alpha List {
     01/07/1978  C  Silver Crescent -- Moira Maureen ua Seamus
   
   == Moira Maureen ua Seamus of the Green Hills ==
+    11/17/1973  C  Mistress of the Laurel -- Moira Maureen ua Seamus of the Green Hills
     04/24/1976   L Burdened Tyger -- Moira Maureen ua Seamus of the Green Hills
     01/07/1978   L Silver Crescent -- Moira Maureen ua Seamus of the Green Hills
     01/07/1978   L Laurel -- Moira Maureen ua Seamus of the Green Hills
@@ -81582,7 +81650,7 @@ Alpha List {
     08/12/1992  C  High Merit for Fence -- Morghun Sheridan [principal]
   
   == Morgiane de Provence [registered] ==
-    04/20/1974 A L Award of Arms -- Morgiane de Provence
+    04/20/1974 ACL Award of Arms -- Morgiane de Provence
     01/10/1976 A L Silver Crescent -- Morgiane de Provence
     07/10/1976   L Grant of Arms -- Morgiane de Provence
     07/10/1976 A   Founding Baroness Bridge -- Morgiane de Provence
@@ -83660,7 +83728,7 @@ Alpha List {
   == Patri du Chat Gris [registered] [deceased] ==
     05/05/1972   L Chivalry -- Patri du Chat Gris
     05/05/1972 A   Knight -- Patri du Chat Gris
-    01/05/1974 A L Court Baron -- Patri du Chat Gris
+    01/05/1974 ACL Court Baron -- Patri du Chat Gris
     08/10/1975 A L Master of the Laurel -- Patri du Chat Gris
     03/11/1978 AC  Baron Carolingia -- Patri du Chat Gris
     03/11/1978 A L Daystar (Carolingia) -- Patri du Chat Gris
@@ -86281,6 +86349,9 @@ Alpha List {
   == Robert de la Mante ==
     08/20/1983  C  Master of the Laurel -- Robert de la Mante
   
+  == Robert de la Tor Fraisse ==
+    04/06/1974  C  Baron of the Debateable Lands (AEthelmearc) -- Robert de la Tor Fraisse
+  
   == Robert de la Tor-Fraisse ==
     04/??/1974   L Grant of Arms -- Robert de la Tor-Fraisse
     02/24/1979  C  Founding Baron Debatable Lands (AEthelmearc) -- Robert de la Tor-Fraisse
@@ -86438,7 +86509,7 @@ Alpha List {
     01/12/1985 A   Award of Arms -- Robin Clarian
   
   == Robin Crosspatch ==
-    04/20/1974 A L Award of Arms -- Robin Crosspatch
+    04/20/1974 ACL Award of Arms -- Robin Crosspatch
   
   == Robin Fagan ==
     03/26/2011 ACL Award of Arms -- Robin Fagan
@@ -86850,6 +86921,9 @@ Alpha List {
   
   == Rorik Roroksson ==
     04/16/1977  C  Queen's Courtesy -- Rorik Roroksson
+  
+  == Rorik of Harcourt ==
+    04/20/1974  C  Award of Arms -- Rorik of Harcourt
   
   == Rory MacKinnon ==
     03/24/2007 AC  Award of Arms -- Rory MacKinnon
@@ -87503,6 +87577,9 @@ Alpha List {
   
   == Ruiseart McEth of Strathnaver ==
     04/20/1974   L AOA -- Ruiseart McEth of Strathnaver
+  
+  == Ruissart McEth of Strathnaver ==
+    04/20/1974  C  Award of Arms -- Ruissart McEth of Strathnaver
   
   == Rukkayah ==
     06/24/2006   L AOA -- Rukkayah [of Quintavia]
@@ -91737,6 +91814,18 @@ Alpha List {
   == Tausaret Seteptemhathor ==
     01/29/2005 ACL Award of Arms -- Tausaret Seteptemhathor
   
+  == Tcipakkan Arastorm ==
+    AKA: Arastorm the Golden
+    04/20/1974 ACL Award of Arms -- Tcipakkan Arastorm
+    05/01/1976 A L Daystar (Carolingia) -- Arastorm the Golden
+    04/01/1978 ACL Silver Crescent -- Arastorm the Golden
+    07/05/1980 A L Manche -- Arastorm the Golden
+    07/26/1980 A L Court Baroness -- Arastorm the Golden
+    04/24/1982 ACL Countess -- Arastorm the Golden
+    10/03/1987 A L Millstone (Stonemarche) -- Arastorm the Golden
+    08/08/2012 A   Patent of Arms -- Arastorm the Golden
+    08/08/2012 A L Rose -- Arastorm the Golden
+  
   == Teagara Angelus ==
     SEE: Tadea Isabetta di Bruno
   
@@ -94551,6 +94640,7 @@ Alpha List {
     08/08/1987   L AOA -- Vlva Ingvarsdotter Enhrning
   
   == Volf of Novgorod ==
+    04/06/1974  C  Court Baron -- Volf of Novgorod
     04/05/1986  C  Grant of Arms -- Volf of Novgorod
   
   == Volf of Novgorod, the Ignitor [registered] ==
@@ -96168,6 +96258,9 @@ Alpha List {
   
   == Zarabeth du Mer ==
     09/26/1998  C  Award of Arms -- Zarabeth du Mer
+  
+  == Zaragoza San Solomon Puertolano de Belacazar ==
+    04/20/1974  C  Award of Arms -- Zaragoza San Solomon Puertolano de Belacazar
   
   == Zarifa ==
     09/21/1996   L AOA -- Zarifa [of Carillion]

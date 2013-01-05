@@ -308,7 +308,7 @@ object Config2 {
           ),
         
           children = Seq(
-            Barony("BMDL", synonyms = Seq("Debatable Lands"),
+            Barony("BMDL", synonyms = Seq("Debatable Lands", "the Debateable Lands"),
               awards = Seq(
                 Award("Gold Comet", "Comet Or"),
                 Award("Green Comet", "Comet Vert"),
