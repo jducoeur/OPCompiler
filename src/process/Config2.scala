@@ -514,6 +514,8 @@ object Config2 {
               "St. Roche"
             )),
             
+            Barony("Storvik"),
+            
             Barony("Windmaster's Hill", awards = Seq(
               "Boreas",
               "St Nicholas",

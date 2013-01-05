@@ -9835,6 +9835,91 @@ Court Reports {
       
     }
   }
+  Laeghaire.xhtml {
+    Coronation, October 9, 1976 {
+      == Coronation == (October 9, 1976)
+        10/09/1976  C  Count -- Alaric von Rotstern
+        10/09/1976  C  Countess -- Yseult of Orkney
+        10/09/1976  C  Silver Crescent -- Geoffrey d'Ayr of Montalban
+        10/09/1976  C  Manche -- Alia bint Ulek ibn al Kharish
+        10/09/1976  C  Manche -- Christopher of the Fields
+        10/09/1976  C  Tygers Combattant -- Alaric von Rotstern
+        10/09/1976  C  Tygers Combattant -- Fernando Salazar y Perez
+        10/09/1976  C  Award of Arms -- Danamas Icarus of Starlinghurst
+        10/09/1976  C  Award of Arms -- Dungael of Galloway
+        10/09/1976  C  Award of Arms -- Devona de Elva v Groves
+        10/09/1976  C  Award of Arms -- Thorvald Thorbjornson
+        10/09/1976  C  Award of Arms -- Walter de Montagne
+        10/09/1976  C  Award of Arms -- Gwendolyn de Montagne
+        10/09/1976  C  Award of Arms -- Feirifiz ac Zygmundt
+        10/09/1976  C  Court Baroness -- Tamera FitzGloucester of the White Boar
+        10/09/1976  C  Baroness of Storvik (Atlantia) -- Ysabeau Cameron of Lochiel
+        10/09/1976  C  Burdened Tyger -- Danamas of Starlinghurst
+        10/09/1976  C  Fatima -- Kathryn Goodwyn
+      
+    }
+    Twelfth Night, January 8, 1977 {
+      == Twelfth Night == (January 8, 1977)
+        01/08/1977  C  Grant of Arms -- Aravis del Clare
+        01/08/1977  C  Grant of Arms -- Vuong Manh
+        01/08/1977  C  Award of Arms -- Joanna Dudley
+        01/08/1977  C  Award of Arms -- Sigismund Vasa Care
+        01/08/1977  C  Award of Arms -- Marjorie of Ruthiemurches
+        01/08/1977  C  Patent of Arms -- Yseult of Orkney [confirmed]
+        01/08/1977  C  Award of Arms -- Robin of Manfeld [confirmed]
+        01/08/1977  C  Award of Arms -- Arianna of the Golden Dagger [confirmed]
+        01/08/1977  C  Court Baroness -- Tamera FitzGloucester of the White Boar [confirmed]
+      
+    }
+    St. Agnes Revel, Dragonship Haven, January 22, 1977 {
+      == St. Agnes Revel, Dragonship Haven == (January 22, 1977)
+        01/22/1977  C  Award of Arms -- Richard of Rideja
+      
+    }
+    Oriental Feast, Isenfir, January 29, 1977 {
+      == Oriental Feast, Isenfir == (January 29, 1977)
+        01/29/1977  C  Award of Arms -- Heltar the Exile
+      
+    }
+    Tourney of Ymir, Windmaster's Hill, February 19, 1977 {
+      == Tourney of Ymir, Windmaster's Hill == (February 19, 1977)
+        02/19/1977  C  Baron Windmaster's Hill (Atlantia) -- Brian Maolcaoin
+        02/19/1977  C  Award of Arms -- Aultain Moira O'Linnala
+        02/19/1977  C  Award of Arms -- Ysar de la Nuit Blanche
+      
+    }
+    Kingmaker Tourney, Canton of Tir-Y-Don, March 5, 1977 {
+      == Kingmaker Tourney, Canton of Tir-Y-Don == (March 5, 1977)
+        03/05/1977  C  Award of Arms -- Geoffrey Thomas Paget of Cam
+      
+    }
+    in Storvik, March 26, 1977 {
+      INFO:Adding commentary "Prince of Atlantia"
+      INFO:Adding commentary "Princess of Atlantia"
+      == in Storvik == (March 26, 1977)
+        03/26/1977  C  (Prince of Atlantia (Unknown Branch) -- Alaric von Rotstern)
+        03/26/1977  C  (Princess of Atlantia (Unknown Branch) -- Yseult of Orkney)
+        03/26/1977  C  Award of Arms -- Philippus Barbarus
+      
+    }
+    Last Court, Carolingia, April 16, 1977 {
+      == Last Court, Carolingia == (April 16, 1977)
+        04/16/1977  C  Award of Arms -- Franque ui Cruthnye
+        04/16/1977  C  Award of Arms -- Evart of Bangor
+        04/16/1977  C  Award of Arms -- Algernon Hartesmond
+        04/16/1977  C  Award of Arms -- Seamus Mac Curiadh of Glenerochaidh
+        04/16/1977  C  Award of Arms -- Allyn O'Dubhda
+        04/16/1977  C  Fatima -- Alyson of Islay
+        04/16/1977  C  Grant of Arms -- Berowne of Arden
+        04/16/1977  C  Queen's Courtesy -- Vuong Manh, Mandarin Second Class
+        04/16/1977  C  Burdened Tyger -- Edward of Crofton
+        04/16/1977  C  Burdened Tyger -- Melisande de Belvoir
+        04/16/1977  C  Burdened Tyger -- Geoffrey d'Ayr
+        04/16/1977  C  Silver Crescent -- Frederick of Holland
+        04/16/1977  C  Silver Crescent -- Jehan de la Marche
+      
+    }
+  }
   Michael.xhtml {
     Coronation, October 18, 1980 * {
       == Coronation == (October 18, 1980)
@@ -46350,8 +46435,9 @@ Alpha List {
   
   == Alaric von Rotstern ==
     01/03/1976   L Chivalry -- Alaric von Rotstern
-    10/09/1976   L Tygers Combattant -- Alaric von Rotstern
-    10/09/1976   L Count -- Alaric von Rotstern
+    10/09/1976  CL Count -- Alaric von Rotstern
+    10/09/1976  CL Tygers Combattant -- Alaric von Rotstern
+    03/26/1977  C  (Prince of Atlantia (Unknown Branch) -- Alaric von Rotstern)
     07/15/1978   L Maunche -- Alaric von Rotstern
   
   == Alarice Blackhawk [registered] ==
@@ -47184,7 +47270,7 @@ Alpha List {
     07/20/1996  CL Silver Crescent -- Alfwyn Marie von Augsburg
   
   == Algernon Hartesmond [registered] ==
-    04/16/1977 A L Award of Arms -- Algernon Hartesmond
+    04/16/1977 ACL Award of Arms -- Algernon Hartesmond
     10/06/1979 ACL Troubadors -- Algernon Hartesmond
     04/04/1981 A L Court Baron -- Algernon Hartesmond
     12/02/1984 A L Freedom of the Bridge (Bridge) -- Algernon Hartesmond
@@ -47239,6 +47325,9 @@ Alpha List {
   
   == Alia bint Ulek Wasa Care ==
     10/06/1979  C  Terpsichore -- Alia bint Ulek Wasa Care
+  
+  == Alia bint Ulek ibn al Kharish ==
+    10/09/1976  C  Manche -- Alia bint Ulek ibn al Kharish
   
   == Alia bint Ulek ibn el Kharish [registered] ==
     10/09/1976 A L Manche -- Alia bint Ulek ibn el Kharish
@@ -47672,6 +47761,10 @@ Alpha List {
   == Allyn O'Dubha, called Macemaker ==
     04/16/1977   L AOA -- Allyn O'Dubha, called Macemaker
   
+  == Allyn O'Dubhda ==
+    AKA: Macemaker
+    04/16/1977  C  Award of Arms -- Allyn O'Dubhda
+  
   == Allyn min Teanga ==
     10/15/1988  C  Award of Arms -- Allyn min Teanga
     07/11/1992  C  Silver Crescent -- Allyn min Teanga
@@ -47880,7 +47973,7 @@ Alpha List {
   == Alyson of Islay ==
     04/20/1974   L Rose -- Alyson of Islay
     04/20/1974   L Count -- Alyson of Islay
-    04/16/1977   L Fatima -- Alyson of Islay
+    04/16/1977  CL Fatima -- Alyson of Islay
     10/06/1979  C  Terpsichore -- Alyson of Islay
     04/19/1980  C  Mistress of the Laurel -- Alyson of Islay
     ??/??/1981  C  Silver Crescent -- Alyson of Islay
@@ -49927,6 +50020,9 @@ Alpha List {
   == Aravis Kathryn DelClare ==
     09/26/1971   L Silver Crescent -- Aravis Kathryn DelClare
   
+  == Aravis del Clare ==
+    01/08/1977  C  Grant of Arms -- Aravis del Clare
+  
   == Arawen Aka Halu ==
     04/01/1989 ACL Award of Arms -- Arawen Aka Halu
   
@@ -50135,6 +50231,9 @@ Alpha List {
   
   == Arianna of l'Isle du Dragon Dormant ==
     05/23/1998  C  Award of Arms -- Arianna of l'Isle du Dragon Dormant
+  
+  == Arianna of the Golden Dagger ==
+    01/08/1977  C  Award of Arms -- Arianna of the Golden Dagger [confirmed]
   
   == Arianna of the North ==
     05/18/1991  C  Award of Arms -- Arianna of the North
@@ -50960,6 +51059,9 @@ Alpha List {
   
   == Augustus the Bowyer ==
     01/15/2000 ACL Award of Arms -- Augustus the Bowyer
+  
+  == Aultain Moira O'Linnala ==
+    02/19/1977  C  Award of Arms -- Aultain Moira O'Linnala
   
   == Aultain Moire O'Linnala [registered] ==
     02/19/1977 A L Award of Arms -- Aultain Moire O'Linnala
@@ -52080,6 +52182,7 @@ Alpha List {
   == Berowne of Arden [registered] ==
     04/24/1976 A L Silver Crescent -- Berowne of Arden
     01/08/1977 A L Grant of Arms -- Berowne of Arden
+    04/16/1977  C  Grant of Arms -- Berowne of Arden
     10/14/1978 ACL Master of the Pelican -- Berowne of Arden
     04/19/1980 A L Manche -- Berowne of Arden
     01/29/1983 A L Yale (Dragonship Haven) -- Berowne of Arden
@@ -52927,6 +53030,7 @@ Alpha List {
   == Brian Maolcaoin ==
     11/07/1975   L AOA -- Brian Maolcaoin
     02/19/1977   L Grant of Arms -- Brian Maolcaoin
+    02/19/1977  C  Baron Windmaster's Hill (Atlantia) -- Brian Maolcaoin
   
   == Brian McGuiness ==
     03/15/1986 A L Bronze Tower (Settmour Swamp) -- Brian McGuiness
@@ -56448,7 +56552,7 @@ Alpha List {
     12/06/1975 A L Moon (Carolingia) -- Christopher of the Fields
     04/24/1976 A L Award of Arms -- Christopher of the Fields
     10/09/1976   L Silver Crescent -- Christopher of the Fields
-    10/09/1976 A L Manche -- Christopher of the Fields
+    10/09/1976 ACL Manche -- Christopher of the Fields
   
   == Christopher, son of Darius ==
     03/23/2002  CL Tygers Cub -- Christopher, son of Darius
@@ -58431,9 +58535,13 @@ Alpha List {
     11/04/2000 ACL Award of Arms -- Danae of Athens
     02/10/2001 ACL Silver Crescent -- Danae of Athens
   
+  == Danamas Icarus of Starlinghurst ==
+    10/09/1976  C  Award of Arms -- Danamas Icarus of Starlinghurst
+  
   == Danamas of Starlinghurst [registered] ==
     10/02/1976 A L Award of Arms -- Danamas of Starlinghurst
     10/02/1976 A L Burdened Tyger -- Danamas of Starlinghurst
+    10/09/1976  C  Burdened Tyger -- Danamas of Starlinghurst
   
   == Dance Bau Denn ==
     02/29/1992   L AOA -- Dance Bau Denn
@@ -59243,6 +59351,9 @@ Alpha List {
   
   == Devon Douglas Corah ==
     03/22/1997   L AOA -- Devon Douglas Corah
+  
+  == Devona de Elva v Groves ==
+    10/09/1976  C  Award of Arms -- Devona de Elva v Groves
   
   == Devona de Elva y Groves ==
     10/09/1976 A L Award of Arms -- Devona de Elva y Groves
@@ -60465,6 +60576,9 @@ Alpha List {
   == Dunchad Bjarnarson ==
     11/21/2009 ACL Award of Arms -- Dunchad Bjarnarson
   
+  == Dungael of Galloway ==
+    10/09/1976  C  Award of Arms -- Dungael of Galloway
+  
   == Dunstable Peregrinator ==
     11/30/2002 ACL Golden Lyre -- Dunstable Peregrinator
     05/01/2004 A L Award of Arms -- Dunstable Peregrinator
@@ -61023,7 +61137,7 @@ Alpha List {
   
   == Edward of Crofton [registered] ==
     11/15/1975 A L Award of Arms -- Edward of Crofton
-    04/16/1977 A L Burdened Tyger -- Edward of Crofton
+    04/16/1977 ACL Burdened Tyger -- Edward of Crofton
     04/04/1981 ACL Silver Crescent -- Edward of Crofton
   
   == Edward of Denby Woods ==
@@ -63877,7 +63991,7 @@ Alpha List {
     05/06/2006 ACL Award of Arms -- Evangeline d'Orleans
   
   == Evart of Bangor [registered] ==
-    04/16/1977 A L Award of Arms -- Evart of Bangor
+    04/16/1977 ACL Award of Arms -- Evart of Bangor
   
   == Eve de l'Isle Madeleine ==
     04/24/1976 A   Award of Arms -- Eve de l'Isle Madeleine
@@ -64181,6 +64295,9 @@ Alpha List {
   == Feirfiz Ashmund ==
     12/06/1981  C  Silver Crescent -- Feirfiz Ashmund
   
+  == Feirifiz ac Zygmundt ==
+    10/09/1976  C  Award of Arms -- Feirifiz ac Zygmundt
+  
   == Felecia Miguelez di Milano [registered] ==
     01/16/1982 A   Award of Arms -- Felecia Miguelez di Milano
   
@@ -64327,7 +64444,7 @@ Alpha List {
   
   == Fernando Salazar y Perez [registered] ==
     02/14/1976 A L Award of Arms -- Fernando Salazar y Perez
-    10/09/1976 A L Tygers Combattant -- Fernando Salazar y Perez
+    10/09/1976 ACL Tygers Combattant -- Fernando Salazar y Perez
     10/01/1977  C  Patent of Arms -- Fernando Salazar y Perez
     10/01/1977  C  Count -- Fernando Salazar y Perez
     10/08/1977 A L Count -- Fernando Salazar y Perez
@@ -64904,7 +65021,7 @@ Alpha List {
     05/23/2009   L Court Barony -- Frank Potter, called Francis of Mariaville
   
   == Franque ui Cruthnye [registered] ==
-    04/16/1977 A L Award of Arms -- Franque ui Cruthnye
+    04/16/1977 ACL Award of Arms -- Franque ui Cruthnye
     03/04/1978 A L Salamander (Bhakail) -- Franque ui Cruthnye
   
   == Franqueite du Grandchamp [registered] ==
@@ -64985,7 +65102,7 @@ Alpha List {
   
   == Frederick of Holland ==
     03/27/1976   L Seahorse (Ostgardr) -- Frederick of Holland
-    04/16/1977   L Silver Crescent -- Frederick of Holland
+    04/16/1977  CL Silver Crescent -- Frederick of Holland
     04/01/1978  C  Patent of Arms -- Frederick of Holland
     04/01/1978  CL Count -- Frederick of Holland
   
@@ -66170,15 +66287,19 @@ Alpha List {
     03/22/1997  CL Sagittarius -- Geoffrey St. Albans of Eastwood
     06/16/2001  C  Silver Crescent -- Geoffrey St. Albans of Eastwood
   
+  == Geoffrey Thomas Paget of Cam ==
+    03/05/1977  C  Award of Arms -- Geoffrey Thomas Paget of Cam
+  
   == Geoffrey d'Ayer of Montalban ==
     04/16/1988   L Court Barony -- Geoffrey d'Ayer of Montalban
   
   == Geoffrey d'Ayr ==
+    04/16/1977  C  Burdened Tyger -- Geoffrey d'Ayr
     01/06/1979  C  Master of the Pelican -- Geoffrey d'Ayr
   
   == Geoffrey d'Ayr of Montalban [registered] ==
     10/11/1975 A L Award of Arms -- Geoffrey d'Ayr of Montalban
-    10/09/1976 A L Silver Crescent -- Geoffrey d'Ayr of Montalban
+    10/09/1976 ACL Silver Crescent -- Geoffrey d'Ayr of Montalban
     04/16/1977 A L Burdened Tyger -- Geoffrey d'Ayr of Montalban
     03/04/1978 A L Salamander (Bhakail) -- Geoffrey d'Ayr of Montalban
     01/06/1979 A L Master of the Pelican -- Geoffrey d'Ayr of Montalban
@@ -67952,7 +68073,7 @@ Alpha List {
     03/24/1995   L AOA -- Gwendolyn Sylvania
   
   == Gwendolyn de Montagne ==
-    10/09/1976 A L Award of Arms -- Gwendolyn de Montagne
+    10/09/1976 ACL Award of Arms -- Gwendolyn de Montagne
   
   == Gwendolyn ferch Branwen ==
     11/26/1994   L AOA -- Gwendolyn ferch Branwen
@@ -68975,6 +69096,9 @@ Alpha List {
   
   == Heltar Greyseas ==
     01/29/1977 A L Award of Arms -- Heltar Greyseas
+  
+  == Heltar the Exile ==
+    01/29/1977  C  Award of Arms -- Heltar the Exile
   
   == Hendricke Lambert Bloetgoet [registered] ==
     01/20/1996 A L Award of Arms -- Hendricke Lambert Bloetgoet
@@ -71393,7 +71517,7 @@ Alpha List {
     09/23/1972   L Chivalry -- Jehan de la Marche
     01/06/1973   L Count -- Jehan de la Marche
     10/19/1974   L QOC -- Jehan de la Marche
-    04/16/1977   L Silver Crescent -- Jehan de la Marche
+    04/16/1977  CL Silver Crescent -- Jehan de la Marche
     10/06/1979  CL Troubadors -- Jehan de la Marche
   
   == Jehan dit Dube ==
@@ -71748,6 +71872,7 @@ Alpha List {
     02/22/2003 AC  Award of Arms -- Joanna
   
   == Joanna Dudley ==
+    01/08/1977  C  Award of Arms -- Joanna Dudley
     03/02/1996  C  Baroness of Carolingia -- Joanna Dudley
   
   == Joanna called Joan ==
@@ -73866,7 +73991,7 @@ Alpha List {
   == Kathryn Goodwyn [registered] ==
     10/11/1975 A L Award of Arms -- Kathryn Goodwyn
     10/11/1975 A L Court Baroness -- Kathryn Goodwyn
-    10/09/1976   L Fatima -- Kathryn Goodwyn
+    10/09/1976  CL Fatima -- Kathryn Goodwyn
     01/06/1979 ACL Mistress of the Laurel -- Kathryn Goodwyn
     06/16/1979   L Moon (Carolingia) -- Kathryn Goodwyn
     06/17/1979 A   Moon (Carolingia) -- Kathryn Goodwyn
@@ -77117,6 +77242,9 @@ Alpha List {
   == MacSeamus o’Eamonn ==
     08/19/1993  C  Award of Arms -- MacSeamus o’Eamonn
   
+  == Macemaker ==
+    SEE: Allyn O'Dubhda
+  
   == Macha MacArthur ==
     07/22/2000 ACL Tygers Cub -- Macha MacArthur
   
@@ -78756,7 +78884,7 @@ Alpha List {
   
   == Marjorie of Ruthiemurches [registered] ==
     08/07/1976 A L Salamander (Bhakail) -- Marjorie of Ruthiemurches
-    01/08/1977 A L Award of Arms -- Marjorie of Ruthiemurches
+    01/08/1977 ACL Award of Arms -- Marjorie of Ruthiemurches
   
   == Mark Feuegeist ==
     08/13/1992  C  Tygers Combattant -- Mark Feuegeist
@@ -79760,7 +79888,7 @@ Alpha List {
     08/15/2005   L Troubadour -- Melisande d'Iona
   
   == Melisande de Belvoir ==
-    04/16/1977   L Burdened Tyger -- Melisande de Belvoir
+    04/16/1977  CL Burdened Tyger -- Melisande de Belvoir
     10/01/1977  C  Silver Crescent -- Melisande de Belvoir
     10/08/1977   L Silver Crescent -- Melisande de Belvoir
     10/14/1978  CL Countess -- Melisande de Belvoir
@@ -83957,6 +84085,9 @@ Alpha List {
   == Philippia Cupbreaker ==
     08/16/1996  C  Laurel -- Philippia Cupbreaker
   
+  == Philippus Barbarus ==
+    03/26/1977  C  Award of Arms -- Philippus Barbarus
+  
   == Phillip Reed [registered] ==
     AKA: the Facetious
     ??/??/1999 A   Fish (Carillion) -- Phillip Reed
@@ -85662,7 +85793,7 @@ Alpha List {
     10/06/1990 A   Award of Arms -- Richard of Ravensglenn, the Juggler
   
   == Richard of Rideja [registered] ==
-    01/22/1977 A L Award of Arms -- Richard of Rideja
+    01/22/1977 ACL Award of Arms -- Richard of Rideja
     01/09/1982 ACL Master of the Laurel -- Richard of Rideja
   
   == Richard of Thornhouse ==
@@ -86188,6 +86319,9 @@ Alpha List {
   
   == Robin of Maclean ==
     09/16/1995  C  Award of Arms -- Robin of Maclean
+  
+  == Robin of Manfeld ==
+    01/08/1977  C  Award of Arms -- Robin of Manfeld [confirmed]
   
   == Robin of Mannefeld ==
     02/21/1976   L AOA -- Robin of Mannefeld
@@ -88012,6 +88146,9 @@ Alpha List {
   == Seamus Langstaff ==
     04/13/1985 A L Award of Arms -- Seamus Langstaff
   
+  == Seamus Mac Curiadh of Glenerochaidh ==
+    04/16/1977  C  Award of Arms -- Seamus Mac Curiadh of Glenerochaidh
+  
   == Seamus MacCorcrain ==
     03/05/2011 A   Fountain (Atlantia) -- Seamus MacCorcrain [from Bergental]
   
@@ -89058,6 +89195,7 @@ Alpha List {
   
   == Sigismund Vasa Care [registered] ==
     01/03/1977 A L Award of Arms -- Sigismund Vasa Care
+    01/08/1977  C  Award of Arms -- Sigismund Vasa Care
     07/01/1978 A L Manche -- Sigismund Vasa Care
     01/06/1979   L Fatima -- Sigismund Vasa Care
     06/30/1979 A L Master of the Laurel -- Sigismund Vasa Care
@@ -91103,6 +91241,10 @@ Alpha List {
   == Tamarrion di Sidana ==
     SEE: Temair ingen Muiredaich
   
+  == Tamera FitzGloucester of the White Boar ==
+    10/09/1976  C  Court Baroness -- Tamera FitzGloucester of the White Boar
+    01/08/1977  C  Court Baroness -- Tamera FitzGloucester of the White Boar [confirmed]
+  
   == Tamera FitzGloucestre of the White Boar ==
     08/10/1975   L Grant of Arms -- Tamera FitzGloucestre of the White Boar
     10/09/1976   L Court Barony -- Tamera FitzGloucestre of the White Boar
@@ -92296,6 +92438,9 @@ Alpha List {
   
   == Thorvald Sigurdsson ==
     10/28/2000  CL Shield of Chivalry -- Thorvald Sigurdsson
+  
+  == Thorvald Thorbjornson ==
+    10/09/1976  C  Award of Arms -- Thorvald Thorbjornson
   
   == Thorvald Varghuvad ==
     01/04/1986   L AOA -- Thorvald Varghuvad
@@ -94213,11 +94358,14 @@ Alpha List {
   
   == Vuong Manh ==
     04/24/1976   L Burdened Tyger -- Vuong Manh
-    01/08/1977   L Grant of Arms -- Vuong Manh
+    01/08/1977  CL Grant of Arms -- Vuong Manh
     04/16/1977   L QOC -- Vuong Manh
     10/08/1977   L Silver Crescent -- Vuong Manh
     08/12/1978  CL Master of the Pelican -- Vuong Manh
     10/18/1980   L Court Barony -- Vuong Manh
+  
+  == Vuong Manh, Mandarin Second Class ==
+    04/16/1977  C  Queen's Courtesy -- Vuong Manh, Mandarin Second Class
   
   == Vykor of Wales ==
     01/12/1985  C  Knight -- Vykor of Wales
@@ -94246,7 +94394,7 @@ Alpha List {
     10/07/1984   L AOA -- Walram von Laufenberg
   
   == Walter de Montagne [registered] ==
-    10/09/1976 A L Award of Arms -- Walter de Montagne
+    10/09/1976 ACL Award of Arms -- Walter de Montagne
   
   == Walter de Witte [registered] ==
     05/08/1982 A L Award of Arms -- Walter de Witte
@@ -95536,6 +95684,7 @@ Alpha List {
     10/06/1979   L Burdened Tyger -- Ysabeau Cameron
   
   == Ysabeau Cameron of Lochiel ==
+    10/09/1976  C  Baroness of Storvik (Atlantia) -- Ysabeau Cameron of Lochiel
     04/16/1977  C  Countess -- Ysabeau Cameron of Lochiel
     10/06/1979  C  Terpsichore -- Ysabeau Cameron of Lochiel
     10/06/1979  C  Burdened Tyger -- Ysabeau Cameron of Lochiel
@@ -95638,7 +95787,7 @@ Alpha List {
     04/30/2011 ACL Award of Arms -- Ysane la fileresse
   
   == Ysar de la Nuit Blanche ==
-    02/19/1977   L AOA -- Ysar de la Nuit Blanche
+    02/19/1977  CL Award of Arms -- Ysar de la Nuit Blanche
   
   == Yseault Solaine de Loriage ==
     SEE: Ysabeau de Lorigne
@@ -95656,7 +95805,9 @@ Alpha List {
   
   == Yseult of Orkney ==
     10/09/1976   L Rose -- Yseult of Orkney
-    10/09/1976   L Count -- Yseult of Orkney
+    10/09/1976  CL Countess -- Yseult of Orkney
+    01/08/1977  C  Patent of Arms -- Yseult of Orkney [confirmed]
+    03/26/1977  C  (Princess of Atlantia (Unknown Branch) -- Yseult of Orkney)
   
   == Ysmay de Lynn ==
     03/27/2010 ACL Award of Arms -- Ysmay de Lynn
