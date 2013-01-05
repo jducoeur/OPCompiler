@@ -9783,6 +9783,25 @@ Court Reports {
       
     }
   }
+  Finnvarr.xhtml {
+    Coronation, May 20, 1973 {
+      == Coronation == (May 20, 1973)
+        05/20/1973  C  Award of Arms -- Alain du Rocher
+      
+    }
+    At the Second Battle of the Pennsic War (Pennsic II), September 15, 1973 {
+      == At the Second Battle of the Pennsic War (Pennsic II) == (September 15, 1973)
+        09/15/1973  C  Knight -- Angus the Black
+        09/15/1973  C  Master at Arms -- Sean Ruabarua
+        09/15/1973  C  Master of the Pelican -- John of Ileway
+        09/15/1973  C  Silver Crescent -- Sita of Oudh
+        09/15/1973  C  Award of Arms -- Wilhelm of Bothnia
+        09/15/1973  C  Award of Arms -- Eleanoir of Shire
+        09/15/1973  C  Award of Arms -- Morganna Bressea
+        09/15/1973  C  Award of Arms -- Eadmund of Pendlesweald
+      
+    }
+  }
   Frederick.xhtml {
     Coronation, October 1, 1977 {
       == Coronation == (October 1, 1977)
@@ -49272,6 +49291,9 @@ Alpha List {
   == Angus of Clan Campbell ==
     09/24/1994   L QOC -- Angus of Clan Campbell
   
+  == Angus the Black ==
+    09/15/1973  C  Knight -- Angus the Black
+  
   == Angus the Black of the High Place and Alyson of Islay ==
     09/16/1973  C  (Crowned (Unknown Branch) -- Angus the Black of the High Place and Alyson of Islay)
   
@@ -60966,7 +60988,7 @@ Alpha List {
     01/26/2002 ACL Award of Arms -- Eachna dalta Óengusa
   
   == Eadmund of Pendlesweald [registered] ==
-    09/15/1973 A L Award of Arms -- Eadmund of Pendlesweald
+    09/15/1973 ACL Award of Arms -- Eadmund of Pendlesweald
   
   == Eadoin inghen Eoghin ==
     01/31/2009 ACL Award of Arms -- Eadoin inghen Eoghin
@@ -61871,6 +61893,9 @@ Alpha List {
   
   == Eldritch of Sylvan Glen ==
     SEE: Eldrich Gaiman
+  
+  == Eleanoir of Shire ==
+    09/15/1973  C  Award of Arms -- Eleanoir of Shire
   
   == Eleanor Atte Knolle ==
     08/10/2011  CL Mauche -- Eleanor Atte Knolle
@@ -72521,7 +72546,7 @@ Alpha List {
   
   == John of Ileway ==
     09/??/1971 A   Founding Baron Carolingia -- John of Ileway [retired]
-    09/15/1973 A L Master of the Pelican -- John of Ileway
+    09/15/1973 ACL Master of the Pelican -- John of Ileway
   
   == John of Ruantallan ==
     SEE: Big Damn John
@@ -75724,7 +75749,7 @@ Alpha List {
   
   == Lain Alfanez de la Roca [registered] ==
     AKA: Alain du Rocher
-    05/20/1973 A L Award of Arms -- Lain Alfanez de la Roca
+    05/20/1973 ACL Award of Arms -- Alain du Rocher
   
   == Lakev of Stonemarche ==
     SEE: Lucien de Pontivy
@@ -81612,6 +81637,9 @@ Alpha List {
   
   == Morgana the Perilous ==
     01/14/1978   L AOA -- Morgana the Perilous
+  
+  == Morganna Bressea ==
+    09/15/1973  C  Award of Arms -- Morganna Bressea
   
   == Morganna de Londres of Griffin Tower ==
     07/27/1996 ACL Award of Arms -- Morganna de Londres of Griffin Tower
@@ -88562,6 +88590,9 @@ Alpha List {
     02/06/1982  C  Award of Arms -- Sean O’Wode
     02/06/1982  C  Queen's Courtesy -- Sean O’Wode
   
+  == Sean Ruabarua ==
+    09/15/1973  C  Master at Arms -- Sean Ruabarua
+  
   == Sean Ruabarua MacGillaphaid ==
     09/15/1973   L Chivalry -- Sean Ruabarua MacGillaphaid
   
@@ -89945,7 +89976,7 @@ Alpha List {
     11/17/1979  C  Grant of Arms -- Sita Begum Sribunniya of Oudh
   
   == Sita of Oudh ==
-    09/15/1973   L Silver Crescent -- Sita of Oudh
+    09/15/1973  CL Silver Crescent -- Sita of Oudh
     02/14/1976   L Burdened Tyger -- Sita of Oudh
     11/17/1979   L Court Barony -- Sita of Oudh
     02/27/1982  CL Mistress of the Pelican -- Sita of Oudh
@@ -94861,7 +94892,7 @@ Alpha List {
     08/17/2005 ACL Award of Arms -- Wilhelm der Wannensig
   
   == Wilhelm of Bothnia ==
-    09/15/1973   L AOA -- Wilhelm of Bothnia
+    09/15/1973  CL Award of Arms -- Wilhelm of Bothnia
     04/24/1976   L Silver Crescent -- Wilhelm of Bothnia
     01/07/1978   L Grant of Arms -- Wilhelm of Bothnia
     01/07/1978  C  Baron Myrquehood (Atlantia) -- Wilhelm of Bothnia
