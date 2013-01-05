@@ -9520,6 +9520,27 @@ Court Reports {
       
     }
   }
+  Alaric.xhtml {
+    Camelot, in Bridge, July 10, 1976 {
+      == Camelot, in Bridge == (July 10, 1976)
+        07/10/1976  C  Baroness of the Bridge -- Morgiane de Provence
+        07/10/1976  C  Sheriff of Smoking Rocks -- Yosef Alaric
+      
+    }
+    Fifth Pensic War, August 21, 1976 {
+      == Fifth Pensic War == (August 21, 1976)
+        08/21/1976  C  Knight -- Tojenareum Grenville of Devon
+        08/21/1976  C  Master at Arms -- Vissevald Selkirksson
+        08/21/1976  C  Award of Arms -- Nachum Avram ben Benjamin ben Meir
+        08/21/1976  C  Award of Arms -- Grimnir Bogmodr
+      
+    }
+    Michaelmas Tourney, Caer Mear, Sept 18, 1976 {
+      == Michaelmas Tourney, Caer Mear == (September 18, 1976)
+        09/18/1976  C  Award of Arms -- Magda z Stalburg
+      
+    }
+  }
   Bertrand.xhtml {
     October 14, 1978 {
       ==  == (October 14, 1978)
@@ -67487,6 +67508,9 @@ Alpha List {
     02/24/2007  C  King's Bard -- Grimm the Skald
     02/20/2010  C  Queen's Bard -- Grimm the Skald
   
+  == Grimnir Bogmodr ==
+    08/21/1976  C  Award of Arms -- Grimnir Bogmodr
+  
   == Grimr Ori ==
     04/12/2003  CL Burdened Tyger -- Grimr Ori
   
@@ -77466,6 +77490,7 @@ Alpha List {
   
   == Magda z Stalburg ==
     09/16/1976   L AOA -- Magda z Stalburg
+    09/18/1976  C  Award of Arms -- Magda z Stalburg
     01/06/1979  CL Manche -- Magda z Stalburg
     01/05/1980  CL Burdened Tyger -- Magda z Stalburg
     08/23/1980   L Silver Crescent -- Magda z Stalburg
@@ -81398,6 +81423,7 @@ Alpha List {
     01/10/1976 A L Silver Crescent -- Morgiane de Provence
     07/10/1976   L Grant of Arms -- Morgiane de Provence
     07/10/1976 A   Founding Baroness Bridge -- Morgiane de Provence
+    07/10/1976  C  Baroness of the Bridge -- Morgiane de Provence
     10/06/1979 ACL Troubadors -- Morgiane de Provence
     04/19/1980 A L Mistress of the Pelican -- Morgiane de Provence
     05/10/1981  C  Mistress of the Pelican -- Morgiane de Provence
@@ -81921,7 +81947,7 @@ Alpha List {
     03/29/2008 ACL Golden Lyre -- N'Kante of Serpentius
   
   == Nachum Avram ben Benjamin ben Meir [registered] ==
-    08/21/1976 A L Award of Arms -- Nachum Avram ben Benjamin ben Meir
+    08/21/1976 ACL Award of Arms -- Nachum Avram ben Benjamin ben Meir
   
   == Nadezhda Voronova ==
     SEE: Symonne de Villeneuve
@@ -92745,6 +92771,7 @@ Alpha List {
   
   == Tojenareum Grenville of Devon ==
     07/24/1976   L Burdened Tyger -- Tojenareum Grenville of Devon
+    08/21/1976  C  Knight -- Tojenareum Grenville of Devon
     07/15/1978   L Maunche -- Tojenareum Grenville of Devon
     01/06/1979  C  Queen's Courtesy -- Tojenareum Grenville of Devon
   
@@ -94226,6 +94253,7 @@ Alpha List {
   
   == Vissevald Selkirksson [registered] ==
     01/03/1976 A L Award of Arms -- Vissevald Selkirksson
+    08/21/1976  C  Master at Arms -- Vissevald Selkirksson
     04/19/1980 A L Count -- Vissevald Selkirksson
     04/04/1981   L Chivalry -- Vissevald Selkirksson
     04/04/1981 A   Knight -- Vissevald Selkirksson
@@ -95620,6 +95648,7 @@ Alpha List {
   == Yosef Alaric [registered] ==
     11/01/1975 A L Award of Arms -- Yosef Alaric
     07/10/1976 A   Sheriff of the Smoking Rocks (Smoking Rocks) -- Yosef Alaric
+    07/10/1976  C  Sheriff of Smoking Rocks -- Yosef Alaric
     01/14/1978 A L Court Baron -- Yosef Alaric
     02/25/1978 A   Battered Wrench (Hammerhold) -- Yosef Alaric
     10/05/1979 A   Dwarven Hammer (Hammerhold) -- Yosef Alaric [from Meridies]

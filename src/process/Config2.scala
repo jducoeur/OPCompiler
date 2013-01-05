@@ -121,6 +121,8 @@ object Config2 {
             Award("Kingdom Augmentation of Arms", "(Kingdom) Augmentation of Arms", "Augmentation of Arms", "East Kingdom Augmentation of Arms", "Kingdom Augmentation"),
             // Yes, the Tyger carries no precedence -- it just has all the prestige ever:
             Award("Tyger of the East"),
+            // No clue how Yosef ranks in terms of precedence -- this one is unique:
+            Award("Sheriff of Smoking Rocks"),
             
             // Orders of Honor
             Award("Artemis"),
