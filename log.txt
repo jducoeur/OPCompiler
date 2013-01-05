@@ -9541,6 +9541,101 @@ Court Reports {
       
     }
   }
+  Aonghais2.xhtml {
+    Coronation, October 11, 1975 {
+      == Coronation == (October 11, 1975)
+        10/11/1975  C  Knight -- Ismael ibn Murad
+        10/11/1975  C  Silver Crescent -- Elspeth of Morven
+        10/11/1975  C  Silver Crescent -- Peridot of the Quaking Hand
+        10/11/1975  C  Queen's Courtesy -- House Hakim
+        10/11/1975  C  Queen's Courtesy -- Akbar ibn Murad
+        10/11/1975  C  Queen's Courtesy -- Khadijah of House Hakim
+        10/11/1975  C  Queen's Courtesy -- Murad al-ben Murhammed ibn Hakim
+        10/11/1975  C  Queen's Courtesy -- Ismael ibn Murad
+        10/11/1975  C  Award of Arms -- Katherine Goodwyn
+        10/11/1975  C  Award of Arms -- Alsvis
+        10/11/1975  C  Court Baroness -- Katherine Goodwin
+        10/11/1975  C  Award of Arms -- Yesugai ibn Akbar
+        10/11/1975  C  Award of Arms -- Margaruete la Folle
+        10/11/1975  C  Award of Arms -- Geoffrey of Ayr-Montalban
+        10/11/1975  C  Dragon's Heart (Middle) -- Ishmael ibn Murad
+      
+    }
+    Crown Tournament, October 25, 1975 {
+      == Crown Tournament == (October 25, 1975)
+        10/25/1975  C  Award of Arms -- Shiawassee Magausson
+        10/25/1975  C  Award of Arms -- Arianne ferch Rhys
+      
+    }
+    Medieval Fair in Hartford, November 1, 1975 {
+      INFO:Adding commentary "Named Principal of the Pelican"
+      == Medieval Fair in Hartford == (November 1, 1975)
+        11/01/1975  C  Knight -- Laeghaire ua Lavrte
+        11/01/1975  C  Pelican -- Balin the Fairhaired
+        11/01/1975  C  Silver Crescent -- Salamallah the Corpulent
+        11/01/1975  C  Award of Arms -- Moses ben Eldad
+        11/01/1975  C  Award of Arms -- Anne of Hatfield
+        11/01/1975  C  Award of Arms -- Yosef Alaric
+        11/01/1975  C  (Named Principal of the Pelican (Unknown Branch) -- El of Two Knives)
+      
+    }
+    Courtesans' Ball, November 7, 1975 {
+      == Courtesans' Ball == (November 7, 1975)
+        11/07/1975  C  Award of Arms -- Brian Maolcaoin
+        11/07/1975  C  Award of Arms -- Alura the Twin
+      
+    }
+    Schola, November 15, 1975 {
+      == Schola == (November 15, 1975)
+        11/15/1975  C  Silver Crescent -- Cariadoc of the Bow
+        11/15/1975  C  Award of Arms -- Edward of Crofton
+        11/15/1975  C  Award of Arms -- Kate Wood
+      
+    }
+    King's Birthday, November 22, 1975 {
+      == King's Birthday == (November 22, 1975)
+        11/22/1975  C  Award of Arms -- William de Montgilt
+        11/22/1975  C  Award of Arms -- Thomas-Edmund de Warwick
+      
+    }
+    Festival of the Arts, November 29, 1975 {
+      == Festival of the Arts == (November 29, 1975)
+        11/29/1975  C  Silver Crescent -- Garanhir of Ness
+        11/29/1975  C  Award of Arms -- Angelique of Burgundy
+        11/29/1975  C  Award of Arms -- Albrecht the Clumsy
+        11/29/1975  C  Award of Arms -- Brother Thomas
+        11/29/1975  C  Court Baron -- Alfgar the Sententious
+      
+    }
+    Twelfth Night, January 3, 1976 {
+      == Twelfth Night == (January 3, 1976)
+        01/03/1976  C  Knight -- Alaric von Rotstern
+        01/03/1976  C  Award of Arms -- Muirean nic Ruaidhri
+        01/03/1976  C  Award of Arms -- Vuong Manh
+        01/03/1976  C  Award of Arms -- Vissevald Selkirksson
+        01/03/1976  C  Award of Arms -- Merlinia the Faye
+        01/03/1976  C  Award of Arms -- Richard of Locksley
+        01/03/1976  C  Award of Arms -- Tannis of Tir-Y-Don
+        01/03/1976  C  Viceroy of Ostgardr -- Vardak of Iloi
+      
+    }
+    St. Valentine's Day, February 14, 1976 {
+      == St. Valentine's Day == (February 14, 1976)
+        02/14/1976  C  Mistress of the Laurel -- Elspeth of Morven
+        02/14/1976  C  Award of Arms -- Signagraoulph of Kenmore
+        02/14/1976  C  Award of Arms -- Lisa Goldenstar
+        02/14/1976  C  Award of Arms -- Steven the Wanderer
+        02/14/1976  C  Award of Arms -- Fernando Salazar y Perez
+      
+    }
+    Tournament of Ymir, February 21, 1976 {
+      == Tournament of Ymir == (February 21, 1976)
+        02/21/1976  C  Award of Arms -- Caprus of Theleme
+        02/21/1976  C  Award of Arms -- Robin of Mannefeld
+        02/21/1976  C  Award of Arms -- Jacques the Jovial
+      
+    }
+  }
   Bertrand.xhtml {
     October 14, 1978 {
       ==  == (October 14, 1978)
@@ -46239,6 +46334,9 @@ Alpha List {
   == Akanato Date ==
     03/17/1984   L AOA -- Akanato Date
   
+  == Akbar ibn Murad ==
+    10/11/1975  C  Queen's Courtesy -- Akbar ibn Murad
+  
   == Akbar ibn Murad al-ben ibn Hakim ==
     04/26/1970   L Chivalry -- Akbar ibn Murad al-ben ibn Hakim
     08/29/1970   L Count -- Akbar ibn Murad al-ben ibn Hakim
@@ -46456,6 +46554,7 @@ Alpha List {
   
   == Alaric von Rotstern ==
     01/03/1976   L Chivalry -- Alaric von Rotstern
+    01/03/1976  C  Knight -- Alaric von Rotstern
     10/09/1976  CL Count -- Alaric von Rotstern
     10/09/1976  CL Tygers Combattant -- Alaric von Rotstern
     03/26/1977  C  (Prince of Atlantia (Unknown Branch) -- Alaric von Rotstern)
@@ -46632,6 +46731,9 @@ Alpha List {
   
   == Albrecht Grammaticus ==
     03/07/1992   L AOA -- Albrecht Grammaticus
+  
+  == Albrecht the Clumsy ==
+    11/29/1975  C  Award of Arms -- Albrecht the Clumsy
   
   == Albrecht von Dammer ==
     01/19/1985  C  Award of Arms -- Albrecht von Dammer
@@ -47253,7 +47355,7 @@ Alpha List {
   == Alfgar the Sententious [registered] ==
     01/06/1973 A L Silver Crescent -- Alfgar the Sententious
     04/20/1974 A L Master of the Laurel -- Alfgar the Sententious
-    11/29/1975 A L Court Baron -- Alfgar the Sententious
+    11/29/1975 ACL Court Baron -- Alfgar the Sententious
     03/19/1977 A L Seahorse (Ostgardr) -- Alfgar the Sententious
     04/01/1978 ACL Master of the Pelican -- Alfgar the Sententious
     04/03/1982 A L Terpsichore -- Alfgar the Sententious
@@ -47883,6 +47985,9 @@ Alpha List {
   == Alsvid Annarin ==
     SEE: Elen Alswith of Eriskay
   
+  == Alsvis ==
+    10/11/1975  C  Award of Arms -- Alsvis
+  
   == Alsvith Annarin ==
     SEE: Elen Alswith of Eriskay
   
@@ -47910,6 +48015,9 @@ Alpha List {
   
   == Althedis von Riga ==
     03/28/2009  C  Queen's Champion of Arts & Sciences -- Althedis von Riga
+  
+  == Alura the Twin ==
+    11/07/1975  C  Award of Arms -- Alura the Twin
   
   == Alvaro el Littoral ==
     12/11/1993 ACL Award of Arms -- Alvaro el Littoral
@@ -48853,7 +48961,7 @@ Alpha List {
   
   == Angelique of Burgundy ==
     10/04/1975 A L Seahorse (Ostgardr) -- Angelique of Burgundy
-    11/29/1975 A L Award of Arms -- Angelique of Burgundy
+    11/29/1975 ACL Award of Arms -- Angelique of Burgundy
   
   == Anges MacKincaid ==
     11/23/2002 ACL Tygers Cub -- Anges MacKincaid
@@ -49490,7 +49598,7 @@ Alpha List {
     01/16/1982   L AOA -- Anne of Galway [from Ansteorra]
   
   == Anne of Hatfield [registered] ==
-    11/01/1975 A L Award of Arms -- Anne of Hatfield
+    11/01/1975 ACL Award of Arms -- Anne of Hatfield
     04/01/1978 ACL Manche -- Anne of Hatfield
     04/01/1978 ACL Silver Crescent -- Anne of Hatfield
     04/25/1978 A L White Oak (Beyond the Mountain) -- Anne of Hatfield
@@ -50268,7 +50376,7 @@ Alpha List {
     10/05/1985   L Court Barony -- Arianne des Jardins
   
   == Arianne ferch Rhys ==
-    10/25/1975 A L Award of Arms -- Arianne ferch Rhys
+    10/25/1975 ACL Award of Arms -- Arianne ferch Rhys
   
   == Arianne of Clann O'Choda ==
     02/12/2000  CL Silver Crescent -- Arianne of Clann O'Choda
@@ -51613,7 +51721,7 @@ Alpha List {
   == Balin the Fairhaired [registered] ==
     06/15/1972   L Grant of Arms -- Balin the Fairhaired
     06/15/1972 A   Baron Beyond the Mountain -- Balin the Fairhaired [retired]
-    11/01/1975 A L Master of the Pelican -- Balin the Fairhaired
+    11/01/1975 ACL Pelican -- Balin the Fairhaired
     07/05/1992 A   White Oak (Beyond the Mountain) -- Balin the Fairhaired
   
   == Baliq the Kazar ==
@@ -53049,7 +53157,7 @@ Alpha List {
     01/12/1980   L Pelican -- Brian Maolcain
   
   == Brian Maolcaoin ==
-    11/07/1975   L AOA -- Brian Maolcaoin
+    11/07/1975  CL Award of Arms -- Brian Maolcaoin
     02/19/1977   L Grant of Arms -- Brian Maolcaoin
     02/19/1977  C  Baron Windmaster's Hill (Atlantia) -- Brian Maolcaoin
   
@@ -53759,6 +53867,9 @@ Alpha List {
   
   == Brother Mikael Cruickshank ==
     04/23/1994   L AOA -- Brother Mikael Cruickshank
+  
+  == Brother Thomas ==
+    11/29/1975  C  Award of Arms -- Brother Thomas
   
   == Browen Carus [registered] ==
     09/12/1998 A   Award of Arms -- Browen Carus
@@ -54777,6 +54888,9 @@ Alpha List {
   == Caorunn of Inverness, called Rowan ==
     03/29/2008   L AOA -- Caorunn of Inverness, called Rowan
   
+  == Caprus of Theleme ==
+    02/21/1976  C  Award of Arms -- Caprus of Theleme
+  
   == Caprus ua'Seaghde ==
     02/21/1976   L AOA -- Caprus ua'Seaghde
   
@@ -54815,7 +54929,7 @@ Alpha List {
     11/06/1999 AC  Tygers Cub -- Cariadoc of Northern Outpost
   
   == Cariadoc of the Bow ==
-    11/15/1975   L Silver Crescent -- Cariadoc of the Bow
+    11/15/1975  CL Silver Crescent -- Cariadoc of the Bow
     10/14/1978  C  Master of the Pelican -- Cariadoc of the Bow [exchange from Order of the Laurel]
     10/06/1979   L Troubadour -- Cariadoc of the Bow
     08/15/1981  C  Master of the Laurel -- Cariadoc of the Bow
@@ -61157,7 +61271,7 @@ Alpha List {
     08/15/1981   L Court Barony -- Edward and Joan Wilver of Cooper's Lake [With Middle]
   
   == Edward of Crofton [registered] ==
-    11/15/1975 A L Award of Arms -- Edward of Crofton
+    11/15/1975 ACL Award of Arms -- Edward of Crofton
     04/16/1977 ACL Burdened Tyger -- Edward of Crofton
     04/04/1981 ACL Silver Crescent -- Edward of Crofton
   
@@ -61547,6 +61661,7 @@ Alpha List {
   == El of Two Knives ==
     09/26/1971   L Silver Crescent -- El of Two Knives
     11/17/1973   L Pelican -- El of Two Knives
+    11/01/1975  C  (Named Principal of the Pelican (Unknown Branch) -- El of Two Knives)
     04/24/1982   L Troubadour -- El of Two Knives
     08/14/1982   L Pillar (Bridge) -- El of Two Knives
     01/05/1991  CL Court Baron -- El of Two Knives
@@ -62812,8 +62927,8 @@ Alpha List {
   == Elspeth of Morven ==
     04/20/1974   L AOA -- Elspeth of Morven
     10/19/1974   L QOC -- Elspeth of Morven
-    10/11/1975   L Silver Crescent -- Elspeth of Morven
-    02/14/1976   L Laurel -- Elspeth of Morven
+    10/11/1975  CL Silver Crescent -- Elspeth of Morven
+    02/14/1976  CL Mistress of the Laurel -- Elspeth of Morven
   
   == Elspeth of Neddingham ==
     04/05/1986  C  Burdened Tyger -- Elspeth of Neddingham
@@ -64464,7 +64579,7 @@ Alpha List {
     07/09/2010 ACL Award of Arms -- Fern McFarland
   
   == Fernando Salazar y Perez [registered] ==
-    02/14/1976 A L Award of Arms -- Fernando Salazar y Perez
+    02/14/1976 ACL Award of Arms -- Fernando Salazar y Perez
     10/09/1976 ACL Tygers Combattant -- Fernando Salazar y Perez
     10/01/1977  C  Patent of Arms -- Fernando Salazar y Perez
     10/01/1977  C  Count -- Fernando Salazar y Perez
@@ -65741,7 +65856,7 @@ Alpha List {
   == Garanhir of Ness ==
     01/05/1974   L AOA -- Garanhir of Ness
     03/23/1974   L Chivalry -- Garanhir of Ness
-    11/29/1975   L Silver Crescent -- Garanhir of Ness
+    11/29/1975  CL Silver Crescent -- Garanhir of Ness
     12/12/1981  CL Troubadour -- Garanhir of Ness
   
   == Garath of Stonemarche ==
@@ -66360,6 +66475,9 @@ Alpha List {
   
   == Geoffrey le Seul ==
     10/19/1985 ACL Award of Arms -- Geoffrey le Seul
+  
+  == Geoffrey of Ayr-Montalban ==
+    10/11/1975  C  Award of Arms -- Geoffrey of Ayr-Montalban
   
   == Geoffrey of Blesedale ==
     06/03/2006  CL Award of Arms -- Geoffrey of Blesedale
@@ -69449,6 +69567,9 @@ Alpha List {
   == House Casa de Buraco ==
     06/11/2011 A L Burdened Tyger -- House Casa de Buraco
   
+  == House Hakim ==
+    10/11/1975  C  Queen's Courtesy -- House Hakim
+  
   == House Kellswood ==
     08/08/2007 A   Purple Fretty (Middle) -- House Kellswood
   
@@ -70467,6 +70588,13 @@ Alpha List {
   == Ishida Yoshikawa ==
     12/13/1997 ACL Award of Arms -- Ishida Yoshikawa
   
+  == Ishmael ibn Murad ==
+    10/11/1975  C  Dragon's Heart (Middle) -- Ishmael ibn Murad
+  
+  == Ismael ibn Murad ==
+    10/11/1975  C  Queen's Courtesy -- Ismael ibn Murad
+    10/11/1975  C  Knight -- Ismael ibn Murad
+  
   == Ismael ibn Murad al-ben Mohammed nasil Hakim ==
     10/11/1975   L QOC -- Ismael ibn Murad al-ben Mohammed nasil Hakim
   
@@ -70831,6 +70959,9 @@ Alpha List {
   
   == Jacques du Bois Blanc [registered] ==
     05/16/1987 AC  Award of Arms -- Jacques du Bois Blanc
+  
+  == Jacques the Jovial ==
+    02/21/1976  C  Award of Arms -- Jacques the Jovial
   
   == Jacquetta de Mehun ==
     04/14/1984  CL Award of Arms -- Jacquetta de Mehun
@@ -73577,7 +73708,7 @@ Alpha List {
     10/03/1981  C  Award of Arms -- Kate Morgan
   
   == Kate Wood [registered] ==
-    11/15/1975 A L Award of Arms -- Kate Wood
+    11/15/1975 ACL Award of Arms -- Kate Wood
   
   == Kate of Owlsherst ==
     08/16/2006 ACL Tygers Cub -- Kate of Owlsherst
@@ -73818,6 +73949,12 @@ Alpha List {
     12/21/2002 A L Queen's Courtesy -- Katherine Gilliesfleur
     09/09/2006 A   Seahorse (Ostgardr) -- Katherine Gilliesfleur
     09/09/2006 A   Augmentation of Arms -- Katherine Gilliesfleur
+  
+  == Katherine Goodwin ==
+    10/11/1975  C  Court Baroness -- Katherine Goodwin
+  
+  == Katherine Goodwyn ==
+    10/11/1975  C  Award of Arms -- Katherine Goodwyn
   
   == Katherine Jade of Bailey ==
     09/27/1986   L Grant of Arms -- Katherine Jade of Bailey
@@ -74635,7 +74772,7 @@ Alpha List {
     08/29/1970   L Rose -- Khadijah of House Hakim
     08/29/1970   L Count -- Khadijah of House Hakim
     09/26/1971   L Duke -- Khadijah of House Hakim
-    10/11/1975   L QOC -- Khadijah of House Hakim
+    10/11/1975  CL Queen's Courtesy -- Khadijah of House Hakim
   
   == Khatife ==
     03/17/2012   L Sable Compass (Iron Bog) -- Khatife
@@ -75495,6 +75632,9 @@ Alpha List {
   
   == Laeghaire O'Laverty of County Tyrone ==
     04/16/1977  C  Count -- Laeghaire O'Laverty of County Tyrone
+  
+  == Laeghaire ua Lavrte ==
+    11/01/1975  C  Knight -- Laeghaire ua Lavrte
   
   == Laeghaire ua'Laverty ==
     11/01/1975   L Chivalry -- Laeghaire ua'Laverty
@@ -76450,6 +76590,7 @@ Alpha List {
     02/14/1976 A L Award of Arms -- Lisa Golden Star
   
   == Lisa Goldenstar ==
+    02/14/1976  C  Award of Arms -- Lisa Goldenstar
     02/20/1982  C  Troubadour -- Lisa Goldenstar
   
   == Lisa O’Connor ==
@@ -78399,6 +78540,9 @@ Alpha List {
     05/24/2003 AC  Queen's Honor of Distinction -- Maggie Basketmaker [Roxane II]
     01/31/2004 ACL Mistress of the Pelican -- Margarita Kofinopoia
   
+  == Margaruete la Folle ==
+    10/11/1975  C  Award of Arms -- Margaruete la Folle
+  
   == Margery Coulano de Tracey ==
     04/13/1996  C  Queen's Cypher -- Margery Coulano de Tracey
   
@@ -80093,6 +80237,9 @@ Alpha List {
   == Merlinia of Rivenoak ==
     08/17/1985  C  Manche -- Merlinia of Rivenoak
   
+  == Merlinia the Faye ==
+    01/03/1976  C  Award of Arms -- Merlinia the Faye
+  
   == Merloren the Hermit ==
     03/24/1979   L AOA -- Merloren the Hermit
   
@@ -81602,7 +81749,7 @@ Alpha List {
     07/??/1995   L Salamander (Bhakail) -- Moses
   
   == Moses ben Eldad [registered] [deceased] ==
-    11/01/1975 A L Award of Arms -- Moses ben Eldad
+    11/01/1975 ACL Award of Arms -- Moses ben Eldad
     08/03/1981 A L Pillar (Bridge) -- Moses ben Eldad
     09/10/1983 ACL Troubadour -- Moses ben Eldad
   
@@ -81679,7 +81826,7 @@ Alpha List {
     04/01/1978  C  Manche -- Muirean nic Ruadhri
   
   == Muirean nic Ruaidhri ==
-    01/03/1976   L AOA -- Muirean nic Ruaidhri
+    01/03/1976  CL Award of Arms -- Muirean nic Ruaidhri
     04/01/1978   L Maunche -- Muirean nic Ruaidhri
   
   == Muiredach O’Siadhail [registered] ==
@@ -81750,6 +81897,9 @@ Alpha List {
   == Murad al-ben Muhammed ibn Hakim [deceased] ==
     07/26/1970 A   Knight -- Murad al-ben Muhammed ibn Hakim
     06/13/1971 A   Count -- Murad al-ben Muhammed ibn Hakim
+  
+  == Murad al-ben Murhammed ibn Hakim ==
+    10/11/1975  C  Queen's Courtesy -- Murad al-ben Murhammed ibn Hakim
   
   == Murad nasl Muhammed ibn Hakim ==
     06/13/1970   L Count -- Murad nasl Muhammed ibn Hakim
@@ -83835,7 +83985,7 @@ Alpha List {
     04/28/1990  C  Award of Arms -- Periac of Dragonship Haven
   
   == Peridot of the Quaking Hand [registered] ==
-    10/11/1975 A L Silver Crescent -- Peridot of the Quaking Hand
+    10/11/1975 ACL Silver Crescent -- Peridot of the Quaking Hand
     04/01/1978 ACL Mistress of the Laurel -- Peridot of the Quaking Hand
     05/26/1979   L Moon (Carolingia) -- Peridot of the Quaking Hand
     ??/??/1999 A   Moon (Carolingia) -- Peridot of the Quaking Hand
@@ -85803,7 +85953,7 @@ Alpha List {
     04/20/1985  CL Award of Arms -- Richard of Grimwald
   
   == Richard of Locksley [registered] ==
-    01/03/1976 A L Award of Arms -- Richard of Locksley
+    01/03/1976 ACL Award of Arms -- Richard of Locksley
   
   == Richard of Lough Ree ==
     02/27/1993 A L Award of Arms -- Richard of Lough Ree
@@ -86350,7 +86500,7 @@ Alpha List {
     01/08/1977  C  Award of Arms -- Robin of Manfeld [confirmed]
   
   == Robin of Mannefeld ==
-    02/21/1976   L AOA -- Robin of Mannefeld
+    02/21/1976  CL Award of Arms -- Robin of Mannefeld
     01/13/1979  CL Silver Crescent -- Robin of Mannefeld
     02/21/1981   L Pelican -- Robin of Mannefeld
   
@@ -87765,6 +87915,9 @@ Alpha List {
     07/11/1998 ACL Manche -- Salaamallah the Corpulent
     02/20/2010 A   Holly (Beyond the Mountain) -- Salaamallah the Corpulent
   
+  == Salamallah the Corpulent ==
+    11/01/1975  C  Silver Crescent -- Salamallah the Corpulent
+  
   == Saleem bin Alefan ibn Iftakruddin ==
     07/08/1989  C  Tygers Combattant -- Saleem bin Alefan ibn Iftakruddin
   
@@ -89018,6 +89171,9 @@ Alpha List {
     05/29/1999 A   Award of Arms -- Shi-lung of Dragon’s Aerie
     12/06/2008 A   Silver Crescent -- Shi-lung of Dragon’s Aerie
   
+  == Shiawassee Magausson ==
+    10/25/1975  C  Award of Arms -- Shiawassee Magausson
+  
   == Shila M’Lanaghan [registered] ==
     03/12/1994 A L Award of Arms -- Shila M’Lanaghan
   
@@ -89251,6 +89407,9 @@ Alpha List {
     02/18/1978 A L Award of Arms -- Sigmundr Ulvr
     03/26/1983 A L Bronze Tower (Settmour Swamp) -- Sigmundr Ulvr
     10/06/1990 ACL Silver Crescent -- Sigmundr Ulvr
+  
+  == Signagraoulph of Kenmore ==
+    02/14/1976  C  Award of Arms -- Signagraoulph of Kenmore
   
   == Signagroulph of Kenmore [registered] ==
     02/14/1976 A L Award of Arms -- Signagroulph of Kenmore
@@ -90414,7 +90573,7 @@ Alpha List {
     04/20/1991   L White Oak (Beyond the Mountain) -- Steven Voroshazi
   
   == Steven the Wanderer ==
-    02/14/1976 A L Award of Arms -- Steven the Wanderer
+    02/14/1976 ACL Award of Arms -- Steven the Wanderer
   
   == Stevyn Voroshazi ==
     04/20/1991 A   White Oak (Beyond the Mountain) -- Stevyn Voroshazi
@@ -91375,6 +91534,9 @@ Alpha List {
     12/29/1990 ACL Award of Arms -- Cormac the Teeth
     11/07/1992 A   Queen's Courtesy -- Cormac the Teeth
   
+  == Tannis of Tir-Y-Don ==
+    01/03/1976  C  Award of Arms -- Tannis of Tir-Y-Don
+  
   == Tannis of Tir-y-Don ==
     10/06/1979  CL Grant of Arms -- Tannis of Tir-y-Don
     07/12/1980   L Silver Crescent -- Tannis of Tir-y-Don
@@ -92200,6 +92362,9 @@ Alpha List {
   
   == Thomas the Unnamed ==
     01/25/1997 ACL Award of Arms -- Thomas the Unnamed
+  
+  == Thomas-Edmund de Warwick ==
+    11/22/1975  C  Award of Arms -- Thomas-Edmund de Warwick
   
   == Thome de Laurent ==
     04/27/1991  C  Award of Arms -- Thome de Laurent
@@ -93994,6 +94159,9 @@ Alpha List {
   == Vardak Mirceavitch Basarobov of Iloi ==
     07/12/1970   L Grant of Arms -- Vardak Mirceavitch Basarobov of Iloi
   
+  == Vardak of Iloi ==
+    01/03/1976  C  Viceroy of Ostgardr -- Vardak of Iloi
+  
   == Vargas of Mactores Romae ==
     07/03/2010 ACL Award of Arms -- Vargas of Mactores Romae
   
@@ -94252,7 +94420,7 @@ Alpha List {
     07/10/2012   L Moon (Carolingia) -- Vissevald Selkirkson
   
   == Vissevald Selkirksson [registered] ==
-    01/03/1976 A L Award of Arms -- Vissevald Selkirksson
+    01/03/1976 ACL Award of Arms -- Vissevald Selkirksson
     08/21/1976  C  Master at Arms -- Vissevald Selkirksson
     04/19/1980 A L Count -- Vissevald Selkirksson
     04/04/1981   L Chivalry -- Vissevald Selkirksson
@@ -94385,6 +94553,7 @@ Alpha List {
     09/07/1991 ACL Award of Arms -- Vratislav Netopier
   
   == Vuong Manh ==
+    01/03/1976  C  Award of Arms -- Vuong Manh
     04/24/1976   L Burdened Tyger -- Vuong Manh
     01/08/1977  CL Grant of Arms -- Vuong Manh
     04/16/1977   L QOC -- Vuong Manh
@@ -94901,6 +95070,7 @@ Alpha List {
     01/06/1979   L Pelican -- William de Montegilt
   
   == William de Montgilt ==
+    11/22/1975  C  Award of Arms -- William de Montgilt
     04/01/1978  C  Grant of Arms -- William de Montgilt
     04/01/1978  C  Court Baron -- William de Montgilt
     12/02/1978  C  Burdened Tyger -- William de Montgilt
@@ -95509,6 +95679,9 @@ Alpha List {
   == Yesfir Gilarovna ==
     09/12/1998 ACL Tygers Cub -- Yesfir Gilarovna
   
+  == Yesugai ibn Akbar ==
+    10/11/1975  C  Award of Arms -- Yesugai ibn Akbar
+  
   == Yesugai ibn Akbar ibn Murad [registered] ==
     10/11/1975 A   Award of Arms -- Yesugai ibn Akbar ibn Murad
     04/24/1982 A   Tygers Cub -- Yesugai ibn Akbar ibn Murad
@@ -95646,7 +95819,7 @@ Alpha List {
     07/26/1997 A L Award of Arms -- Yorgon of Lion’s End
   
   == Yosef Alaric [registered] ==
-    11/01/1975 A L Award of Arms -- Yosef Alaric
+    11/01/1975 ACL Award of Arms -- Yosef Alaric
     07/10/1976 A   Sheriff of the Smoking Rocks (Smoking Rocks) -- Yosef Alaric
     07/10/1976  C  Sheriff of Smoking Rocks -- Yosef Alaric
     01/14/1978 A L Court Baron -- Yosef Alaric
