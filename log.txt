@@ -9582,6 +9582,19 @@ Court Reports {
       
     }
   }
+  Fernando.xhtml {
+    Coronation, in Carolingia, April 16, 1977 {
+      == Coronation, in Carolingia == (April 16, 1977)
+        04/16/1977  C  Count -- Laeghaire O'Laverty of County Tyrone
+        04/16/1977  C  Countess -- Ysabeau Cameron of Lochiel
+        04/16/1977  C  Court Baron -- Frederick of Feolildwyn
+        04/16/1977  C  Award of Arms -- Paul of Cambridge
+        04/16/1977  C  Award of Arms -- Maryatilda of Beldings Border
+        04/16/1977  C  Queen's Courtesy -- Rorik Roroksson
+        04/16/1977  C  Tygers Combattant -- Strykar Langhjar Girhaldsson
+      
+    }
+  }
   Frederick.xhtml {
     Coronation, October 1, 1977 {
       == Coronation == (October 1, 1977)
@@ -64968,6 +64981,7 @@ Alpha List {
     01/19/1969 A L Court Baron -- Frederick of Feolildwyn
     01/19/1969 A L Grant of Arms -- Frederick of Feolildwyn
     09/26/1971 A L Silver Crescent -- Frederick of Feolildwyn
+    04/16/1977  C  Court Baron -- Frederick of Feolildwyn
   
   == Frederick of Holland ==
     03/27/1976   L Seahorse (Ostgardr) -- Frederick of Holland
@@ -75330,6 +75344,9 @@ Alpha List {
   == Laeghaire O Laverty ==
     08/22/1981   L Pillar (Bridge) -- Laeghaire O Laverty
   
+  == Laeghaire O'Laverty of County Tyrone ==
+    04/16/1977  C  Count -- Laeghaire O'Laverty of County Tyrone
+  
   == Laeghaire ua'Laverty ==
     11/01/1975   L Chivalry -- Laeghaire ua'Laverty
     04/16/1977   L Count -- Laeghaire ua'Laverty
@@ -79006,7 +79023,7 @@ Alpha List {
     05/26/1996 ACL Award of Arms -- Maryam Jules of the Dragon’s Trench
   
   == Maryatilda of Beldings Border ==
-    04/16/1977 A L Award of Arms -- Maryatilda of Beldings Border
+    04/16/1977 ACL Award of Arms -- Maryatilda of Beldings Border
   
   == Maryette Rhianna Cantrell ==
     01/21/1989  C  Award of Arms -- Maryette Rhianna Cantrell
@@ -83483,7 +83500,7 @@ Alpha List {
     09/12/1987  CL Award of Arms -- Paul Wickenden of Thanet
   
   == Paul of Cambridge ==
-    04/16/1977   L AOA -- Paul of Cambridge
+    04/16/1977  CL Award of Arms -- Paul of Cambridge
     ??/??/1999   L Daystar (Carolingia) -- Paul of Cambridge
   
   == Paul the Boteman ==
@@ -86504,6 +86521,9 @@ Alpha List {
     04/16/1977 A L Queen's Courtesy -- Rorik Harcourt of the Axe
     01/03/1981   L Grant of Arms -- Rorik Harcourt of the Axe
     01/03/1981 A   Baron of Myrkwood (Atlantia) -- Rorik Harcourt of the Axe
+  
+  == Rorik Roroksson ==
+    04/16/1977  C  Queen's Courtesy -- Rorik Roroksson
   
   == Rory MacKinnon ==
     03/24/2007 AC  Award of Arms -- Rory MacKinnon
@@ -90254,6 +90274,9 @@ Alpha List {
   
   == Strykar Geirhaldsson [registered] ==
     10/18/1980 A   Queen's Cypher -- Strykar Geirhaldsson [Tamera]
+  
+  == Strykar Langhjar Girhaldsson ==
+    04/16/1977  C  Tygers Combattant -- Strykar Langhjar Girhaldsson
   
   == Strykar Langhjor Geirhaldsson ==
     08/??/1977   L Tygers Combattant -- Strykar Langhjor Geirhaldsson
@@ -95513,6 +95536,7 @@ Alpha List {
     10/06/1979   L Burdened Tyger -- Ysabeau Cameron
   
   == Ysabeau Cameron of Lochiel ==
+    04/16/1977  C  Countess -- Ysabeau Cameron of Lochiel
     10/06/1979  C  Terpsichore -- Ysabeau Cameron of Lochiel
     10/06/1979  C  Burdened Tyger -- Ysabeau Cameron of Lochiel
   
