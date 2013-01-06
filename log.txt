@@ -9794,6 +9794,68 @@ Court Reports {
       
     }
   }
+  Cariadoc2.xhtml {
+    Coronation, October 19, 1974 {
+      == Coronation == (October 19, 1974)
+        10/19/1974  C  Rose -- Eloise of Roed
+        10/19/1974  C  Queen's Courtesy -- Elspeth of Morven
+        10/19/1974  C  Queen's Courtesy -- Jehan de la Marche
+        10/19/1974  C  Fatima -- Liosliath of Donnelly
+      
+    }
+    Twelfth Night, Jan 18, 1975 {
+      == Twelfth Night == (January 18, 1975)
+        01/18/1975  C  Knight -- Aelfwine Dunedain
+        01/18/1975  C  Knight -- Michael of York
+        01/18/1975  C  Award of Arms -- Liosliath of Donnelly
+      
+    }
+    in Carolingia, Feb 14, 1975 {
+      == in Carolingia == (February 14, 1975)
+        02/14/1975  C  Burdened Tyger -- Sita of Oudh
+      
+    }
+    in Caer Mear, Feb 27, 1975 {
+      == in Caer Mear == (February 27, 1975)
+        02/27/1975  C  Award of Arms -- Katrine de Warrick
+        02/27/1975  C  Award of Arms -- Deadra Colin Cristant Madoc
+        02/27/1975  C  Award of Arms -- Mica of Glencorbendal
+      
+    }
+    Queen's Birthday, Tir Y Don, March 6, 1975 {
+      == Queen's Birthday, Tir Y Don == (March 6, 1975)
+        03/06/1975  C  Knight -- Shinowassee Magnusson
+        03/06/1975  C  Award of Arms -- Gwyneth Merch Macsen
+        03/06/1975  C  Award of Arms -- Ann Etheridge of Somerset
+        03/06/1975  C  Award of Arms -- Ariana of the Golden Dagger
+        03/06/1975  C  Award of Arms -- Anya de Calais
+        03/06/1975  C  Award of Arms -- Tojenarum Grenville of Devon
+        03/06/1975  C  Award of Arms -- Leonus de Rotund
+        03/06/1975  C  Award of Arms -- Donal mac Ruiseart mac Donal
+        03/06/1975  C  Award of Arms -- Ragnar Thorvaldsson
+      
+    }
+    Debatable Lands, March 13, 1975 {
+      == Debatable Lands == (March 13, 1975)
+        03/13/1975  C  Award of Arms -- Nicholas of the Hill Folk
+        03/13/1975  C  Award of Arms -- Annaliseede Poictitaine
+        03/13/1975  C  Award of Arms -- Klaus Josef von Eichensohne
+        03/13/1975  C  Award of Arms -- Sioban of Tullyverry
+      
+    }
+    Morgana, March 20, 1975 {
+      == Morgana == (March 20, 1975)
+        03/20/1975  C  Award of Arms -- Freya of the Amber Hills
+        03/20/1975  C  Award of Arms -- Stephen Red Cloak
+      
+    }
+    Isenfir, March 27, 1975 {
+      == Isenfir == (March 27, 1975)
+        03/27/1975  C  Silver Crescent -- Norbjorn Jorgesson
+        03/27/1975  C  Award of Arms -- Gwendolyn of Gwynedd
+      
+    }
+  }
   Fernando.xhtml {
     Coronation, in Carolingia, April 16, 1977 {
       == Coronation, in Carolingia == (April 16, 1977)
@@ -45753,6 +45815,7 @@ Alpha List {
   
   == Aelfwine Dunedain ==
     04/20/1974  C  Award of Arms -- Aelfwine Dunedain
+    01/18/1975  C  Knight -- Aelfwine Dunedain
     04/24/1982  C  Earl -- Aelfwine Dunedain
   
   == Aelfwine Lee of Whitby ==
@@ -49365,6 +49428,7 @@ Alpha List {
     SEE: Ankara Lig Niki
   
   == Ann Etheridge of Somerset ==
+    03/06/1975  C  Award of Arms -- Ann Etheridge of Somerset
     03/06/1976   L AOA -- Ann Etheridge of Somerset
     01/13/1979  CL Manche -- Ann Etheridge of Somerset
     03/24/1979   L Burdened Tyger -- Ann Etheridge of Somerset
@@ -49587,6 +49651,9 @@ Alpha List {
   
   == Annalise of Poictaine ==
     03/13/1976   L AOA -- Annalise of Poictaine
+  
+  == Annaliseede Poictitaine ==
+    03/13/1975  C  Award of Arms -- Annaliseede Poictitaine
   
   == Annastassja Diaz de Leon ==
     09/19/1998  CL Queen's Courtesy -- Annastassja Diaz de Leon
@@ -50016,6 +50083,7 @@ Alpha List {
     02/25/2005 A   Award of Arms -- Anya Minestri Demitro [from Trimaris]
   
   == Anya de Calais ==
+    03/06/1975  C  Award of Arms -- Anya de Calais
     03/06/1976   L AOA -- Anya de Calais
   
   == Anyonca of Blackwood ==
@@ -50387,6 +50455,7 @@ Alpha List {
     06/25/1983   L AOA -- Ariana Kreiner
   
   == Ariana of the Golden Dagger ==
+    03/06/1975  C  Award of Arms -- Ariana of the Golden Dagger
     03/06/1976   L AOA -- Ariana of the Golden Dagger
   
   == Ariana of the North [registered] ==
@@ -59264,6 +59333,9 @@ Alpha List {
     04/11/2009 A   Queen's Cypher -- Deacon de Chatillon [Alethea]
     05/24/2009 A L Rams Horn (Concordia of the Snows) -- Deacon de Chatillon
   
+  == Deadra Colin Cristant Madoc ==
+    02/27/1975  C  Award of Arms -- Deadra Colin Cristant Madoc
+  
   == Deadra Colin Madoc ==
     02/27/1976   L AOA -- Deadra Colin Madoc
   
@@ -60198,6 +60270,9 @@ Alpha List {
     11/06/1999 A L Award of Arms -- Donal O’Conghaile
     11/30/2002 A   Master of the Pelican -- Donal O’Conghaile
     11/27/2004 A   Manche -- Donal O’Conghaile
+  
+  == Donal mac Ruiseart mac Donal ==
+    03/06/1975  C  Award of Arms -- Donal mac Ruiseart mac Donal
   
   == Donal o'Neil ==
     10/09/2010  C  Princess's Champion of Arts and Sciences -- Donal o'Neil
@@ -62943,7 +63018,7 @@ Alpha List {
   
   == Eloise of Roed [registered] ==
     10/19/1974 A L Countess -- Eloise of Roed
-    10/19/1974 A L Lady of the Rose -- Eloise of Roed
+    10/19/1974 ACL Rose -- Eloise of Roed
   
   == Elosie of Coulter ==
     09/27/1997  C  Queen's Cypher -- Elosie of Coulter
@@ -63074,7 +63149,7 @@ Alpha List {
   
   == Elspeth of Morven ==
     04/20/1974  CL Award of Arms -- Elspeth of Morven
-    10/19/1974   L QOC -- Elspeth of Morven
+    10/19/1974  CL Queen's Courtesy -- Elspeth of Morven
     10/11/1975  CL Silver Crescent -- Elspeth of Morven
     02/14/1976  CL Mistress of the Laurel -- Elspeth of Morven
   
@@ -65434,6 +65509,7 @@ Alpha List {
     09/17/1994 A L Award of Arms -- Freya of Thorsby
   
   == Freya of the Amber Hills ==
+    03/20/1975  C  Award of Arms -- Freya of the Amber Hills
     03/20/1976   L AOA -- Freya of the Amber Hills
   
   == Freydid Wolvesbrat ==
@@ -68389,6 +68465,7 @@ Alpha List {
     04/03/2004 AC  Queen's Cypher -- Gwendolyn of Basing [Luna IV]
   
   == Gwendolyn of Gwynedd ==
+    03/27/1975  C  Award of Arms -- Gwendolyn of Gwynedd
     04/24/1976 A L Award of Arms -- Gwendolyn of Gwynedd
   
   == Gwendolyn of Middlemarch [registered] ==
@@ -68700,6 +68777,9 @@ Alpha List {
   
   == Gwyneth Greencliff de la Brunefalaise ==
     SEE: Maddalena Salutati
+  
+  == Gwyneth Merch Macsen ==
+    03/06/1975  C  Award of Arms -- Gwyneth Merch Macsen
   
   == Gwyneth Ravenlock ==
     02/05/1994   L AOA -- Gwyneth Ravenlock
@@ -71827,7 +71907,7 @@ Alpha List {
     09/23/1972  C  Knight -- Jehan de la Marche
     01/06/1973   L Count -- Jehan de la Marche
     05/20/1973  C  Patent of Arms -- Jehan de la Marche
-    10/19/1974   L QOC -- Jehan de la Marche
+    10/19/1974  CL Queen's Courtesy -- Jehan de la Marche
     04/16/1977  CL Silver Crescent -- Jehan de la Marche
     10/06/1979  CL Troubadors -- Jehan de la Marche
   
@@ -74404,6 +74484,9 @@ Alpha List {
   == Katrine Lyndesay ==
     03/06/2004  C  Award of Arms -- Katrine Lyndesay
   
+  == Katrine de Warrick ==
+    02/27/1975  C  Award of Arms -- Katrine de Warrick
+  
   == Katriona MacDhomnuill ==
     06/17/2006 ACL Award of Arms -- Katriona MacDhomnuill
   
@@ -75282,6 +75365,9 @@ Alpha List {
   
   == Klaus Ioseph von Eichensonne ==
     03/13/1976   L AOA -- Klaus Ioseph von Eichensonne
+  
+  == Klaus Josef von Eichensohne ==
+    03/13/1975  C  Award of Arms -- Klaus Josef von Eichensohne
   
   == Klaus Rother von Schweinichen ==
     06/25/2005   L Moon (Carolingia) -- Klaus Rother von Schweinichen
@@ -76344,6 +76430,7 @@ Alpha List {
     04/08/1995 ACL Award of Arms -- Osnah Rachel bat Eleazar ha-Levi
   
   == Leonus de Rotund [registered] [deceased] ==
+    03/06/1975  C  Award of Arms -- Leonus de Rotund
     03/06/1976   L AOA -- Leonus de Rotund
     03/06/1977 A   Award of Arms -- Leonus de Rotund
     03/19/1977 A L Seahorse (Ostgardr) -- Leonus de Rotund
@@ -76741,8 +76828,8 @@ Alpha List {
     02/02/2002 A   Award of Arms -- Linnet MacHardy
   
   == Liosliath of Donnelly [registered] ==
-    10/19/1974   L Fatima -- Liosliath of Donnelly
-    01/18/1975 A L Award of Arms -- Liosliath of Donnelly
+    10/19/1974  CL Fatima -- Liosliath of Donnelly
+    01/18/1975 ACL Award of Arms -- Liosliath of Donnelly
   
   == Lisa Golden Star [registered] [deceased] ==
     02/14/1976 A L Award of Arms -- Lisa Golden Star
@@ -80493,6 +80580,9 @@ Alpha List {
   == Mica Glencorbindale ==
     02/27/1976   L AOA -- Mica Glencorbindale
   
+  == Mica of Glencorbendal ==
+    02/27/1975  C  Award of Arms -- Mica of Glencorbendal
+  
   == Micaela Annunziata [registered] ==
     01/24/1998 A   Award of Arms -- Micaela Annunziata
   
@@ -80661,7 +80751,7 @@ Alpha List {
   
   == Michael of York [registered] ==
     01/18/1975   L Chivalry -- Michael of York
-    01/18/1975 A   Knight -- Michael of York
+    01/18/1975 AC  Knight -- Michael of York
     02/17/1990 A L Moon (Carolingia) -- Michael of York
     10/12/1991 A L Perseus (Carolingia) -- Michael of York
     05/02/1992 ACL Manche -- Michael of York
@@ -82656,6 +82746,7 @@ Alpha List {
     02/10/1996   L AOA -- Nicholas of Rivenwald
   
   == Nicholas of the Hill Folk ==
+    03/13/1975  C  Award of Arms -- Nicholas of the Hill Folk
     03/13/1976   L AOA -- Nicholas of the Hill Folk
   
   == Nicholas of the North [registered] ==
@@ -82922,6 +83013,9 @@ Alpha List {
   
   == Nora ==
     SEE: Eleanora Stewart
+  
+  == Norbjorn Jorgesson ==
+    03/27/1975  C  Silver Crescent -- Norbjorn Jorgesson
   
   == Noriko Sugawara ==
     05/12/2012 A L Award of Arms -- Noriko Sugawara
@@ -84977,6 +85071,9 @@ Alpha List {
   
   == Ragnar MacHardy [registered] ==
     03/11/1989 A L Award of Arms -- Ragnar MacHardy
+  
+  == Ragnar Thorvaldsson ==
+    03/06/1975  C  Award of Arms -- Ragnar Thorvaldsson
   
   == Ragnar Two Axe ==
     04/21/1979  C  Award of Arms -- Ragnar Two Axe
@@ -89358,6 +89455,9 @@ Alpha List {
   == Shilung (of Dragon’s Aerie) ==
     05/29/1999  C  Award of Arms -- Shilung (of Dragon’s Aerie)
   
+  == Shinowassee Magnusson ==
+    03/06/1975  C  Knight -- Shinowassee Magnusson
+  
   == Shire of Anglespur ==
     04/05/1986  CL Burdened Tyger -- Shire of Anglespur
   
@@ -89838,6 +89938,9 @@ Alpha List {
     12/29/1990  C  Award of Arms -- Sinric Mailweaver
     02/05/2000  CL Manche -- Sinric Mailweaver
   
+  == Sioban of Tullyverry ==
+    03/13/1975  C  Award of Arms -- Sioban of Tullyverry
+  
   == Siobhan Forbeis of Lonachan [registered] ==
     SEE: Gianetta Lucia Allegretta
   
@@ -90028,6 +90131,7 @@ Alpha List {
   
   == Sita of Oudh ==
     09/15/1973  CL Silver Crescent -- Sita of Oudh
+    02/14/1975  C  Burdened Tyger -- Sita of Oudh
     02/14/1976   L Burdened Tyger -- Sita of Oudh
     11/17/1979   L Court Barony -- Sita of Oudh
     02/27/1982  CL Mistress of the Pelican -- Sita of Oudh
@@ -90652,6 +90756,9 @@ Alpha List {
   
   == Stephen Mundfuss ==
     03/04/1989 ACL Award of Arms -- Stephen Mundfuss
+  
+  == Stephen Red Cloak ==
+    03/20/1975  C  Award of Arms -- Stephen Red Cloak
   
   == Stephen Renwald [registered] ==
     04/12/2003 A   Award of Arms -- Stephen Renwald
@@ -93126,6 +93233,9 @@ Alpha List {
     08/21/1976  C  Knight -- Tojenareum Grenville of Devon
     07/15/1978   L Maunche -- Tojenareum Grenville of Devon
     01/06/1979  C  Queen's Courtesy -- Tojenareum Grenville of Devon
+  
+  == Tojenarum Grenville of Devon ==
+    03/06/1975  C  Award of Arms -- Tojenarum Grenville of Devon
   
   == Tojenoreum Grenville of Devon ==
     03/06/1976   L AOA -- Tojenoreum Grenville of Devon
