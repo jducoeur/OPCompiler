@@ -10059,6 +10059,16 @@ Court Reports {
       
     }
   }
+  Jehan.xhtml {
+    Twelfth Night, Jan. 6, 1973 {
+      == Twelfth Night == (January 6, 1973)
+        01/06/1973  C  Silver Crescent -- El of Two Knives
+        01/06/1973  C  Silver Crescent -- Aravis del Clare
+        01/06/1973  C  Silver Crescent -- Alfgar the Sententious
+        01/06/1973  C  Knight -- Asbjorn Gustafsson
+      
+    }
+  }
   Laeghaire.xhtml {
     Coronation, October 9, 1976 {
       == Coronation == (October 9, 1976)
@@ -50264,6 +50274,7 @@ Alpha List {
     09/26/1971   L Silver Crescent -- Aravis Kathryn DelClare
   
   == Aravis del Clare ==
+    01/06/1973  C  Silver Crescent -- Aravis del Clare
     01/08/1977  C  Grant of Arms -- Aravis del Clare
   
   == Arawen Aka Halu ==
@@ -51040,6 +51051,9 @@ Alpha List {
   == Asbjorn Gustafson of Roed ==
     AKA: Haarfagr
     01/06/1973  C  Knight -- Asbjorn Gustafson of Roed
+  
+  == Asbjorn Gustafsson ==
+    01/06/1973  C  Knight -- Asbjorn Gustafsson
   
   == Asbjorn Gustavsson ==
     10/11/1975   L Duke -- Asbjorn Gustavsson
@@ -61782,6 +61796,7 @@ Alpha List {
   
   == El of Two Knives ==
     09/26/1971   L Silver Crescent -- El of Two Knives
+    01/06/1973  C  Silver Crescent -- El of Two Knives
     11/17/1973  CL Master of the Pelican -- El of Two Knives
     11/01/1975  C  (Named Principal of the Pelican (Unknown Branch) -- El of Two Knives)
     04/24/1982   L Troubadour -- El of Two Knives
