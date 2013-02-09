@@ -8,6 +8,10 @@ object Emitter {
     Log.print("(" + concat + ")")
   }
   
+  def toPHPName(name:String):String = {
+    name.replace(" ", "_").toUpperCase().replace("'", "").replace("-", "_")
+  }
+  
   def emitBranches = {
 	// Print out the final SQL output:
 	Log.pushContext("SQL Branch Output")
@@ -23,6 +27,13 @@ object Emitter {
 		    )
 	}
 	Log.print(";")
-	Log.popContext	    
+	Log.popContext	  
+	
+	Log.pushContext("PHP define Branch Output")
+	allBranches.foreach { branch =>
+	  if (branch.emit)
+	    Log.print("$" + toPHPName(branch.name) + " = " + branch.index + ";")
+	}
+	Log.popContext
   }
 }
