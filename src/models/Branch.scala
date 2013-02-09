@@ -16,6 +16,10 @@ trait Branch extends DelayedInit {
   val name:String
   val kind:BranchType
   
+  val index:Int = Branch.nextIndex
+  val branchType:Int
+  val emit:Boolean = true
+  
   private var _parent:Option[Branch] = None
   def parent = {
     _parent match {
@@ -36,6 +40,7 @@ trait Branch extends DelayedInit {
   def addName(n:String) = {
     names = names :+ n
     Branch.byName = Branch.byName + (n -> this)
+    Branch.allBranches += this
   }
   
   override def delayedInit(subInit: => Unit) = {
@@ -43,6 +48,12 @@ trait Branch extends DelayedInit {
 	addName(name)
 	addName(kind.toString + " of " + name)
 	addName(kind.toString + " of the " + name)
+  }
+  
+  def emitIndex:String = index.toString
+  def emitParentIndex:String = _parent match {
+    case Some(p) => p.emitIndex
+    case None => "NULL"
   }
 }
 
@@ -68,8 +79,12 @@ object SCA extends Branch with DeclareableBranch {
   val name = "SCA"
   parent = SCA
   val kind = BranchType.SCAWide
+  val branchType = -1
+  override val emit = false
   
   def instantiate(name:String) = this
+  
+  override def emitIndex = "NULL"
 }
 
 // There should be one record here for each Kingdom. Note that, in the case of Kingdom,
@@ -77,6 +92,7 @@ object SCA extends Branch with DeclareableBranch {
 // a Principality. (Keep in mind that most Kingdoms were originally Principalities.)
 class SCAKingdom(val name:String) extends Branch {
   val kind = BranchType.Kingdom
+  val branchType = 1
 }
 object Kingdom extends DeclareableBranch {  
   def instantiate(name:String) = new SCAKingdom(name)
@@ -84,6 +100,7 @@ object Kingdom extends DeclareableBranch {
 
 class Principality(val name:String) extends Branch {
   val kind = BranchType.Principality
+  val branchType = 2
 }
 object Principality extends DeclareableBranch {
   def instantiate(name:String) = new Principality(name)
@@ -91,6 +108,7 @@ object Principality extends DeclareableBranch {
 
 class Barony(val name:String) extends Branch {
   val kind = BranchType.Barony
+  val branchType = 3
   
   override private[models] def parent_=(p:Branch) = {
     super.parent_=(p)
@@ -134,20 +152,24 @@ object UnknownBranch extends Branch {
   val name = "Unknown Branch"
   val kind = BranchType.Unknown
   parent = SCA
+  val branchType = -1
+  override val emit = false
 }
 
 object Branch {
   var byName:Map[String,Branch] = Map.empty
   
-  def create(kindStr:String, name:String, parent:Branch):Branch = {
-    val kind = BranchType.withName(kindStr)
-    val branch = kind match {
-      case BranchType.Kingdom => new SCAKingdom(name)
-      case BranchType.Principality => new Principality(name)
-      case BranchType.Barony => new Barony(name)
-      case _ => throw new Exception("I don't know what kind of branch a " + kindStr + " is.")
-    }
-    branch.parent = parent
-    branch
+  var allBranches:Set[Branch] = Set.empty
+  
+  def sortedByIndex:Seq[Branch] = {
+    val all = allBranches.toSeq
+    all.sortWith { _.index < _.index }
+  }
+  
+  var _nextIndex = 0
+  def nextIndex() = {
+    val ret = _nextIndex
+    _nextIndex += 1
+    ret
   }
 }

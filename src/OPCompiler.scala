@@ -19,6 +19,9 @@ object OPCompiler extends App {
 		})
 		Log.popContext
 		
+		// Emit the results:
+		Emitter.emitBranches
+
 		Log.finish
 	}
 
