@@ -1,8 +1,18 @@
 package process
 
-import models.{SCA, Kingdom, Principality, Barony, Award, AwardName, Champion, Gender}
+import models.{SCA, Kingdom, Principality, Barony, Award, AwardName, AwardLevel, AwardGroup, Champion, Gender}
 import Award._
 import Gender._
+import AwardLevel._
+
+case class TSeq[T](ss:Seq[T]*) {
+  def toSeq:Seq[T] = (Seq.empty[T] /: ss) { (s, x) => s ++ x }
+}
+
+object TSeq {
+  implicit def t2Seq[T](x:T):Seq[T] = Seq(x)
+}
+import TSeq._
 
 // Second pass at program configuration. After spending a *long* time doing this
 // using XML (the original Config class), which results in a very messy class
@@ -19,7 +29,7 @@ object Config2 {
       isDefault = true, 
       
       // Society-wide awards and concepts
-      awards = Seq(
+      awards = TSeq(
           Award("Queen's Guard"),
           Award("Royal Cypher"),
           Award("King's Cypher"),
@@ -28,45 +38,54 @@ object Config2 {
           
           Award("Herald Extraordinaire"),
           
-          Award("Award of Arms", "Award of Arm", "AOA"),
+          AwardGroup(AwardLevel.Armiger, 
+              Award("Award of Arms", "Award of Arm", "AOA")),
           
-          Award("Court Barony", synonyms = Seq(
-            AwardName("Court Baroness", Female),
-            AwardName("Court Baron", Male),
-            AwardName("Baroness of the Court", Female),
-            AwardName("Baron of the Court", Male)
-          )),
-          Award("Grant of Arms", "Grand of Arms", "GOA"),
+          AwardGroup(AwardLevel.CourtBaron,
+	          Award("Court Barony", synonyms = Seq(
+	            AwardName("Court Baroness", Female),
+	            AwardName("Court Baron", Male),
+	            AwardName("Baroness of the Court", Female),
+	            AwardName("Baron of the Court", Male)
+	          ))),
+	          
+	      AwardGroup(AwardLevel.Grants,
+	    		Award("Grant of Arms", "Grand of Arms", "GOA")),
           
           Award("White Scarf", "Defender of the White Scarf"),
           
-          Award("Patent of Arms", "Patent"),
-          Award("Knight", "Chivalry (knight)", "Order of Chivalry (Knight)", "KSCA", "Knighthood"),
-          // Yes, sometimes the choice didn't get recorded:
-          Award("Chivalry", "Member of the Chivalry"),
-          Award("Laurel", synonyms = Seq(
-            AwardName("Mistress of the Laurel", Female),
-            AwardName("Master of the Laurel", Male)
-          )),
-          Award("Master at Arms", "Master of Arms"),
-          Award("Pelican", synonyms = Seq(
-            AwardName("Mistress of the Pelican", Female),
-            AwardName("Master of the Pelican", Male)
-          )),
-          Award("Rose", synonyms = Seq(AwardName("Lady of the Rose", Female))),
+          AwardGroup(AwardLevel.Peerage,
+	          Award("Patent of Arms", "Patent"),
+	          Award("Knight", "Chivalry (knight)", "Order of Chivalry (Knight)", "KSCA", "Knighthood"),
+	          // Yes, sometimes the choice didn't get recorded:
+	          Award("Chivalry", "Member of the Chivalry"),
+	          Award("Laurel", synonyms = Seq(
+	            AwardName("Mistress of the Laurel", Female),
+	            AwardName("Master of the Laurel", Male)
+	          )),
+	          Award("Master at Arms", "Master of Arms"),
+	          Award("Pelican", synonyms = Seq(
+	            AwardName("Mistress of the Pelican", Female),
+	            AwardName("Master of the Pelican", Male)
+	          )),
+	          Award("Rose", synonyms = Seq(AwardName("Lady of the Rose", Female))),          
+	          // Yes, there exists exactly one Court Count:
+	          Award("Court Count"),
+	          // And Seanan is a Court Duke:
+	          Award("Court Duke")),
           
-          // Yes, there exists exactly one Court Count:
-          Award("Court Count"),
-          // And Seanan is a Court Duke:
-          Award("Court Duke"),
-          
-          Award("Viscount", gender = Male, synonyms = Seq(AwardName("Viscountess", Female))),
-          Award("Count", gender = Male, synonyms = Seq(
-            AwardName("Countess", Female),
-            AwardName("Jarl", Male),
-            AwardName("Earl", Male))),
-          Award("Duke", gender = Male, synonyms = Seq(AwardName("Duchess", Female)))
-      )
+	      AwardGroup(AwardLevel.Viscounty,
+	    	  Award("Viscount", gender = Male, synonyms = Seq(AwardName("Viscountess", Female)))),
+	    	  
+	      AwardGroup(AwardLevel.County,
+	          Award("Count", gender = Male, synonyms = Seq(
+	            AwardName("Countess", Female),
+	            AwardName("Jarl", Male),
+	            AwardName("Earl", Male)))),
+	      
+	      AwardGroup(AwardLevel.Ducal,
+	          Award("Duke", gender = Male, synonyms = Seq(AwardName("Duchess", Female))))
+      ).toSeq
       // Each of these is a Seq[AwardInfo], so they don't fit neatly into the above list
       ++ Champion("Archery", "Archer")
       ++ Champion("Arms", "Rattan", "Heavy List", "Tournament", "List")

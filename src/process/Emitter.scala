@@ -36,4 +36,10 @@ object Emitter {
 	}
 	Log.popContext
   }
+  
+  def emitAwards = {
+    Log.pushContext("SQL Award Output")
+    Log.print("INSERT INTO 'award' (award_id,award_name,select_branch,) VALUES ")
+    Log.popContext
+  }
 }

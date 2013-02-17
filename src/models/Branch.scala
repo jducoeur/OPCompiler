@@ -20,6 +20,8 @@ trait Branch extends DelayedInit {
   val branchType:Int
   val emit:Boolean = true
   
+  val defaultAwardLevel:Option[AwardLevel.AwardLevel] = None
+  
   private var _parent:Option[Branch] = None
   def parent = {
     _parent match {
@@ -93,6 +95,7 @@ object SCA extends Branch with DeclareableBranch {
 class SCAKingdom(val name:String) extends Branch {
   val kind = BranchType.Kingdom
   val branchType = 1
+  override val defaultAwardLevel = Some(AwardLevel.KingdomAward)
 }
 object Kingdom extends DeclareableBranch {  
   def instantiate(name:String) = new SCAKingdom(name)
@@ -101,6 +104,7 @@ object Kingdom extends DeclareableBranch {
 class Principality(val name:String) extends Branch {
   val kind = BranchType.Principality
   val branchType = 2
+  override val defaultAwardLevel = Some(AwardLevel.PrincipalityAward)
 }
 object Principality extends DeclareableBranch {
   def instantiate(name:String) = new Principality(name)
@@ -109,6 +113,7 @@ object Principality extends DeclareableBranch {
 class Barony(val name:String) extends Branch {
   val kind = BranchType.Barony
   val branchType = 3
+  override val defaultAwardLevel = Some(AwardLevel.Baronial)
   
   override private[models] def parent_=(p:Branch) = {
     super.parent_=(p)
@@ -125,7 +130,7 @@ class Barony(val name:String) extends Branch {
     val synNames = Seq(AwardName(term + " of " + nameVariant, gender),
     				   AwardName("Founding " + term + " " + nameVariant, gender),
     				   AwardName("Founding " + term + " of " + nameVariant, gender))
-    Award(parent, primaryName, false, synNames)
+    Award(parent, primaryName, false, synNames, AwardLevel.TerritorialBaron)
   }
   // Do the Canadian Baronies have French titles instead? If so, I may need to
   // come up with something more general for this.
@@ -154,6 +159,7 @@ object UnknownBranch extends Branch {
   parent = SCA
   val branchType = -1
   override val emit = false
+  override val defaultAwardLevel = Some(AwardLevel.Unknown)
 }
 
 object Branch {
