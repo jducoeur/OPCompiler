@@ -55,6 +55,10 @@ case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq
       }
     }
   }
+  
+  val id = Award.nextId()
+  
+  Award.allAwards += this
 }
 
 // Temporary holder so that we can retain the info during Config2 declaration
@@ -108,7 +112,20 @@ object Champion {
 }
 
 object Award {
+  implicit object AwardOrdering extends Ordering[Award] {
+    def compare(x:Award, y:Award) = {
+      x.name.name compare y.name.name
+    }
+  }
   var knownAwards:Map[String,AwardAs] = Map.empty
+  import collection.immutable.SortedSet
+  var allAwards:SortedSet[Award] = SortedSet.empty
+  
+  var _nextId = 0
+  def nextId() = {
+    _nextId += 1
+    _nextId
+  }
   
   implicit def string2AwardInfo(name:String) = AwardInfo(AwardName(name, Gender.Unknown))
  

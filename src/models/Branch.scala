@@ -52,7 +52,10 @@ trait Branch extends DelayedInit {
 	addName(kind.toString + " of the " + name)
   }
   
-  def emitIndex:String = index.toString
+  def requiresBranchSelect = 0
+  
+  def emitIndex = index.toString
+  
   def emitParentIndex:String = _parent match {
     case Some(p) => p.emitIndex
     case None => "NULL"
@@ -87,6 +90,7 @@ object SCA extends Branch with DeclareableBranch {
   def instantiate(name:String) = this
   
   override def emitIndex = "NULL"
+  override def requiresBranchSelect = 1
 }
 
 // There should be one record here for each Kingdom. Note that, in the case of Kingdom,

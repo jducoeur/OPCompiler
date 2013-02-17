@@ -21,6 +21,7 @@ object OPCompiler extends App {
 		
 		// Emit the results:
 		Emitter.emitBranches
+		Emitter.emitAwards
 
 		Log.finish
 	}

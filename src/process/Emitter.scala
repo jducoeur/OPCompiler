@@ -8,6 +8,8 @@ object Emitter {
     Log.print("(" + concat + ")")
   }
   
+  def sqlStr(str:String) = "'" + str + "'"
+  
   def toPHPName(name:String):String = {
     name.replace(" ", "_").toUpperCase().replace("'", "").replace("-", "_")
   }
@@ -21,7 +23,7 @@ object Emitter {
 	  if (branch.emit)
 		  printValues(
 		    branch.emitIndex,
-		    "'" + branch.name + "'",
+		    sqlStr(branch.name),
 		    branch.emitParentIndex,
 		    branch.branchType
 		    )
@@ -39,7 +41,18 @@ object Emitter {
   
   def emitAwards = {
     Log.pushContext("SQL Award Output")
-    Log.print("INSERT INTO 'award' (award_id,award_name,select_branch,) VALUES ")
+    val awards = Award.allAwards
+    Log.print("INSERT INTO 'award' (award_id,award_name,select_branch,type_id,branch_id) VALUES ")
+    awards.foreach { award =>
+      printValues(
+        award.id,
+        sqlStr(award.name.name),
+        award.branch.requiresBranchSelect,
+        award.level,
+        award.branch.emitIndex
+      )
+    }
+    Log.print(";")
     Log.popContext
   }
 }
