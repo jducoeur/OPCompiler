@@ -54,5 +54,11 @@ object Emitter {
     }
     Log.print(";")
     Log.popContext
+    
+    Log.pushContext("PHP define Awards")
+    awards.foreach { award =>
+      Log.print("$" + toPHPName(award.name.name) + "_ID = " + award.id + ";")
+    }
+    Log.popContext
   }
 }
