@@ -41,7 +41,7 @@ object Emitter {
   
   def emitAwards = {
     Log.pushContext("SQL Award Output")
-    val awards = Award.allAwards
+    val awards = Award.allAwards filter (_.shouldEmit)
     Log.print("INSERT INTO 'award' (award_id,award_name,select_branch,type_id,branch_id) VALUES ")
     awards.foreach { award =>
       printValues(

@@ -56,6 +56,8 @@ case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq
     }
   }
   
+  val shouldEmit = !commentary
+  
   val id = Award.nextId()
   
   Award.allAwards += this

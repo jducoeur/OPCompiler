@@ -97115,7 +97115,6 @@ SQL Award Output {
   (807,'Attic Helm',0,20,92)
   (3,'Augmented Seahorse',0,20,0)
   (866,'Award of Arms',1,17,NULL)
-  (906,'Award of Arms - Backlog',0,100,99)
   (650,'Award of Protectors of the Chalice',0,20,75)
   (623,'Award of Tangwystyl's Favor',0,18,67)
   (299,'Azure Keystone',0,20,27)
@@ -97609,8 +97608,6 @@ SQL Award Output {
   (232,'Burdened Tyger',0,18,19)
   (420,'Cat's Paw',0,20,43)
   (648,'Chalice's Crystal',0,20,75)
-  (946,'Champion on the Manche',0,100,99)
-  (922,'Charter for the Known World players',0,100,99)
   (74,'Chiffre du Baron',0,20,16)
   (39,'Chime',0,20,9)
   (872,'Chivalry',1,8,NULL)
@@ -97631,11 +97628,8 @@ SQL Award Output {
   (632,'Cross of Lochac',0,18,69)
   (557,'Crossed Swords',0,18,58)
   (248,'Crown Prince',0,18,19)
-  (920,'Crown Prince of AEthelmearc',0,100,99)
   (249,'Crown Princess',0,18,19)
-  (921,'Crown Princess of AEthelmearc',0,100,99)
   (793,'Crown's Gratitude',0,18,90)
-  (933,'Crowned',0,100,99)
   (361,'Crystal of the Salt Wastes',0,20,35)
   (800,'Cynaguan Guard',0,19,91)
   (6,'Daystar',0,20,1)
@@ -97667,7 +97661,6 @@ SQL Award Output {
   (695,'Evergreen',0,18,78)
   (363,'Falcon of Loch Salaan',0,20,35)
   (219,'Fatima',0,18,19)
-  (928,'Fealty',0,100,99)
   (33,'Feather',0,20,6)
   (415,'Fettered Crane',0,20,41)
   (40,'Fish',0,20,9)
@@ -97750,7 +97743,6 @@ SQL Award Output {
   (49,'Keeper of the Flames',0,20,10)
   (294,'Keystone',0,18,24)
   (247,'King of the East',0,18,19)
-  (914,'King's Arts and Sciences Rattan Champion - Outgoing',0,100,99)
   (519,'King's Award of Excellence',0,18,53)
   (882,'King's Champion of Archery',1,100,NULL)
   (886,'King's Champion of Arms',1,100,NULL)
@@ -97768,15 +97760,12 @@ SQL Award Output {
   (409,'King's Sigil',0,18,40)
   (228,'Kingdom Augmentation of Arms',0,18,19)
   (250,'Kingdom Marshal of Fence',0,18,19)
-  (940,'Kingdom Rattan Champion',0,100,99)
-  (910,'Kings Bardic Rattan Champion - Out going',0,100,99)
   (871,'Knight',1,8,NULL)
   (849,'Knight Bannerette',0,18,97)
   (516,'Krakken',0,18,53)
   (382,'LUST',0,18,36)
   (424,'La Brise de Mer',0,20,44)
   (803,'La Courtesia',0,19,91)
-  (944,'Lady Protector of Aethelmearc',0,100,99)
   (608,'Lady of the Edelweiss',0,18,65)
   (381,'Lady of the Papillon',0,18,36)
   (47,'Lamp of Apollo',0,20,10)
@@ -97787,9 +97776,6 @@ SQL Award Output {
   (766,'Leaping Stag',0,18,87)
   (590,'Leather Mallet',0,18,62)
   (561,'Legion of Courtesy',0,18,58)
-  (938,'Letters of Mark',0,100,99)
-  (945,'Level 2 Banishment',0,100,99)
-  (939,'Level One Banishment',0,100,99)
   (57,'Leviathan',0,20,13)
   (407,'Light of Atenveldt',0,18,40)
   (42,'Light of Carillion',0,20,9)
@@ -97799,7 +97785,6 @@ SQL Award Output {
   (60,'Lodestone',0,20,13)
   (565,'Lonely Tower',0,20,60)
   (804,'Lord Defender of Cynagua',0,19,91)
-  (943,'Lord Protector of Aethelmearc',0,100,99)
   (560,'Lux Caidis',0,18,58)
   (75,'Lys d'Argent',0,20,16)
   (383,'Maple Leaf of Artemisia',0,18,36)
@@ -97815,7 +97800,6 @@ SQL Award Output {
   (357,'Moose Combatant of Arn Hold',0,20,34)
   (426,'Mountain Hawk',0,20,45)
   (851,'Muckin' Great Clubbe',0,18,97)
-  (934,'Named Principal of the Pelican',0,100,99)
   (717,'Northshield Cross',0,18,80)
   (622,'OHS',0,18,67)
   (304,'Oak',0,20,29)
@@ -97826,13 +97810,6 @@ SQL Award Output {
   (515,'Opal',0,18,53)
   (77,'Ordre de Mai',0,20,16)
   (624,'Orion',0,18,67)
-  (912,'Out going Baroness of Iron Bog',0,100,99)
-  (917,'Outgoing Baron of Concordia',0,100,99)
-  (907,'Outgoing King's Rattan Champion of Arms',0,100,99)
-  (909,'Outgoing Kingdom Marshal of Fence',0,100,99)
-  (908,'Outgoing Queen's Rattan Champion of Arms',0,100,99)
-  (932,'Outgoing Vicerene of Ostgardr',0,100,99)
-  (931,'Outgoing Viceroy of Ostgardr',0,100,99)
   (386,'Palm of Barony Atenveldt',0,20,37)
   (611,'Panache',0,18,65)
   (870,'Patent of Arms',1,8,NULL)
@@ -97850,7 +97827,6 @@ SQL Award Output {
   (430,'Ponte di Ferro',0,20,49)
   (604,'Popular Company of Sojourners',0,18,65)
   (301,'Portcullis',0,20,27)
-  (935,'Prince of Atlantia',0,100,99)
   (884,'Prince's Champion of Archery',1,100,NULL)
   (888,'Prince's Champion of Arms',1,100,NULL)
   (892,'Prince's Champion of Arts and Sciences',1,100,NULL)
@@ -97859,7 +97835,6 @@ SQL Award Output {
   (904,'Prince's Champion of Rapier',1,100,NULL)
   (610,'Prince's Companions of Albion',0,18,65)
   (864,'Prince's Cypher',1,100,NULL)
-  (936,'Princess of Atlantia',0,100,99)
   (820,'Princess' Favor',0,19,93)
   (885,'Princess's Champion of Archery',1,100,NULL)
   (889,'Princess's Champion of Arms',1,100,NULL)
@@ -97876,9 +97851,7 @@ SQL Award Output {
   (73,'Pèlerin',0,20,16)
   (58,'Quadrant',0,20,13)
   (246,'Queen of the East Kingdom',0,18,19)
-  (913,'Queen's Arts and Sciences Rattan Champion - Outgoing',0,100,99)
   (520,'Queen's Award of Courtesy',0,18,53)
-  (911,'Queen's Bardic Rattan Champion - Out Going',0,100,99)
   (883,'Queen's Champion of Archery',1,100,NULL)
   (887,'Queen's Champion of Arms',1,100,NULL)
   (891,'Queen's Champion of Arts and Sciences',1,100,NULL)
@@ -97899,7 +97872,6 @@ SQL Award Output {
   (259,'Raven's Feather',0,20,23)
   (255,'Red Comet',0,20,20)
   (701,'Red Company',0,18,78)
-  (929,'Renewal of Treaty between Kingdoms',0,100,99)
   (653,'Rivenstar',0,20,76)
   (54,'Roasted Duck',0,20,12)
   (59,'Rock',0,20,13)
@@ -97909,7 +97881,6 @@ SQL Award Output {
   (709,'Rouge Bend',0,20,79)
   (227,'Royal Augmentation of Arms',0,18,19)
   (861,'Royal Cypher',1,100,NULL)
-  (937,'Royal Nudge',0,100,99)
   (702,'Royal Vanguard',0,18,78)
   (718,'Russian Thistle',0,20,81)
   (806,'Ruxton',0,19,91)
@@ -97938,7 +97909,6 @@ SQL Award Output {
   (2,'Seahorse',0,20,0)
   (209,'Seamstress to the Crown',0,18,19)
   (210,'Seamstress to the Princess Royal',0,18,19)
-  (915,'Sent on Vigil',0,100,99)
   (524,'Serpent's Flame',0,20,54)
   (518,'Shark's Tooth',0,18,53)
   (230,'Sheriff of Smoking Rocks',0,18,19)
@@ -98010,15 +97980,9 @@ SQL Award Output {
   (521,'Undine',0,18,53)
   (857,'Valor',0,18,97)
   (563,'Vanguard of Honor',0,18,58)
-  (942,'Vicar of Bergental',0,100,99)
-  (941,'Vicar of Carillion',0,100,99)
   (109,'Vicereine Ostgardr',0,10,19)
   (108,'Vicerene Ostgardr',0,10,19)
-  (925,'Vicerine Ostgardr - elect',0,100,99)
   (107,'Viceroy Ostgardr',0,10,19)
-  (924,'Viceroy of Ostgardr - elect',0,100,99)
-  (927,'Vigil for Chivalry',0,100,99)
-  (930,'Vigil for Laurel',0,100,99)
   (879,'Viscount',1,7,NULL)
   (629,'Wain',0,18,67)
   (839,'Wandering Wolves',0,19,96)
@@ -98036,11 +98000,6 @@ SQL Award Output {
   (858,'Wooden Spoon',0,18,97)
   (26,'Worshipful Company of Artificers',0,20,5)
   (859,'Wreath of Chivalry',0,18,97)
-  (919,'Writ doe Pelican',0,100,99)
-  (918,'Writ for Chivalry',0,100,99)
-  (926,'Writ for Chivalry at Barleycorn',0,100,99)
-  (916,'Writ for Laurel',0,100,99)
-  (923,'Writ for Pelican',0,100,99)
   (774,'Wyvern's Claw',0,20,89)
   (775,'Wyvern's Scale',0,20,89)
   (21,'Yale',0,20,5)
@@ -98064,7 +98023,6 @@ PHP define Awards {
   $ATTIC_HELM_ID = 807;
   $AUGMENTED_SEAHORSE_ID = 3;
   $AWARD_OF_ARMS_ID = 866;
-  $AWARD_OF_ARMS___BACKLOG_ID = 906;
   $AWARD_OF_PROTECTORS_OF_THE_CHALICE_ID = 650;
   $AWARD_OF_TANGWYSTYLS_FAVOR_ID = 623;
   $AZURE_KEYSTONE_ID = 299;
@@ -98558,8 +98516,6 @@ PHP define Awards {
   $BURDENED_TYGER_ID = 232;
   $CATS_PAW_ID = 420;
   $CHALICES_CRYSTAL_ID = 648;
-  $CHAMPION_ON_THE_MANCHE_ID = 946;
-  $CHARTER_FOR_THE_KNOWN_WORLD_PLAYERS_ID = 922;
   $CHIFFRE_DU_BARON_ID = 74;
   $CHIME_ID = 39;
   $CHIVALRY_ID = 872;
@@ -98580,11 +98536,8 @@ PHP define Awards {
   $CROSS_OF_LOCHAC_ID = 632;
   $CROSSED_SWORDS_ID = 557;
   $CROWN_PRINCE_ID = 248;
-  $CROWN_PRINCE_OF_AETHELMEARC_ID = 920;
   $CROWN_PRINCESS_ID = 249;
-  $CROWN_PRINCESS_OF_AETHELMEARC_ID = 921;
   $CROWNS_GRATITUDE_ID = 793;
-  $CROWNED_ID = 933;
   $CRYSTAL_OF_THE_SALT_WASTES_ID = 361;
   $CYNAGUAN_GUARD_ID = 800;
   $DAYSTAR_ID = 6;
@@ -98616,7 +98569,6 @@ PHP define Awards {
   $EVERGREEN_ID = 695;
   $FALCON_OF_LOCH_SALAAN_ID = 363;
   $FATIMA_ID = 219;
-  $FEALTY_ID = 928;
   $FEATHER_ID = 33;
   $FETTERED_CRANE_ID = 415;
   $FISH_ID = 40;
@@ -98699,7 +98651,6 @@ PHP define Awards {
   $KEEPER_OF_THE_FLAMES_ID = 49;
   $KEYSTONE_ID = 294;
   $KING_OF_THE_EAST_ID = 247;
-  $KINGS_ARTS_AND_SCIENCES_RATTAN_CHAMPION___OUTGOING_ID = 914;
   $KINGS_AWARD_OF_EXCELLENCE_ID = 519;
   $KINGS_CHAMPION_OF_ARCHERY_ID = 882;
   $KINGS_CHAMPION_OF_ARMS_ID = 886;
@@ -98717,15 +98668,12 @@ PHP define Awards {
   $KINGS_SIGIL_ID = 409;
   $KINGDOM_AUGMENTATION_OF_ARMS_ID = 228;
   $KINGDOM_MARSHAL_OF_FENCE_ID = 250;
-  $KINGDOM_RATTAN_CHAMPION_ID = 940;
-  $KINGS_BARDIC_RATTAN_CHAMPION___OUT_GOING_ID = 910;
   $KNIGHT_ID = 871;
   $KNIGHT_BANNERETTE_ID = 849;
   $KRAKKEN_ID = 516;
   $LUST_ID = 382;
   $LA_BRISE_DE_MER_ID = 424;
   $LA_COURTESIA_ID = 803;
-  $LADY_PROTECTOR_OF_AETHELMEARC_ID = 944;
   $LADY_OF_THE_EDELWEISS_ID = 608;
   $LADY_OF_THE_PAPILLON_ID = 381;
   $LAMP_OF_APOLLO_ID = 47;
@@ -98736,9 +98684,6 @@ PHP define Awards {
   $LEAPING_STAG_ID = 766;
   $LEATHER_MALLET_ID = 590;
   $LEGION_OF_COURTESY_ID = 561;
-  $LETTERS_OF_MARK_ID = 938;
-  $LEVEL_2_BANISHMENT_ID = 945;
-  $LEVEL_ONE_BANISHMENT_ID = 939;
   $LEVIATHAN_ID = 57;
   $LIGHT_OF_ATENVELDT_ID = 407;
   $LIGHT_OF_CARILLION_ID = 42;
@@ -98748,7 +98693,6 @@ PHP define Awards {
   $LODESTONE_ID = 60;
   $LONELY_TOWER_ID = 565;
   $LORD_DEFENDER_OF_CYNAGUA_ID = 804;
-  $LORD_PROTECTOR_OF_AETHELMEARC_ID = 943;
   $LUX_CAIDIS_ID = 560;
   $LYS_DARGENT_ID = 75;
   $MAPLE_LEAF_OF_ARTEMISIA_ID = 383;
@@ -98764,7 +98708,6 @@ PHP define Awards {
   $MOOSE_COMBATANT_OF_ARN_HOLD_ID = 357;
   $MOUNTAIN_HAWK_ID = 426;
   $MUCKIN_GREAT_CLUBBE_ID = 851;
-  $NAMED_PRINCIPAL_OF_THE_PELICAN_ID = 934;
   $NORTHSHIELD_CROSS_ID = 717;
   $OHS_ID = 622;
   $OAK_ID = 304;
@@ -98775,13 +98718,6 @@ PHP define Awards {
   $OPAL_ID = 515;
   $ORDRE_DE_MAI_ID = 77;
   $ORION_ID = 624;
-  $OUT_GOING_BARONESS_OF_IRON_BOG_ID = 912;
-  $OUTGOING_BARON_OF_CONCORDIA_ID = 917;
-  $OUTGOING_KINGS_RATTAN_CHAMPION_OF_ARMS_ID = 907;
-  $OUTGOING_KINGDOM_MARSHAL_OF_FENCE_ID = 909;
-  $OUTGOING_QUEENS_RATTAN_CHAMPION_OF_ARMS_ID = 908;
-  $OUTGOING_VICERENE_OF_OSTGARDR_ID = 932;
-  $OUTGOING_VICEROY_OF_OSTGARDR_ID = 931;
   $PALM_OF_BARONY_ATENVELDT_ID = 386;
   $PANACHE_ID = 611;
   $PATENT_OF_ARMS_ID = 870;
@@ -98799,7 +98735,6 @@ PHP define Awards {
   $PONTE_DI_FERRO_ID = 430;
   $POPULAR_COMPANY_OF_SOJOURNERS_ID = 604;
   $PORTCULLIS_ID = 301;
-  $PRINCE_OF_ATLANTIA_ID = 935;
   $PRINCES_CHAMPION_OF_ARCHERY_ID = 884;
   $PRINCES_CHAMPION_OF_ARMS_ID = 888;
   $PRINCES_CHAMPION_OF_ARTS_AND_SCIENCES_ID = 892;
@@ -98808,7 +98743,6 @@ PHP define Awards {
   $PRINCES_CHAMPION_OF_RAPIER_ID = 904;
   $PRINCES_COMPANIONS_OF_ALBION_ID = 610;
   $PRINCES_CYPHER_ID = 864;
-  $PRINCESS_OF_ATLANTIA_ID = 936;
   $PRINCESS_FAVOR_ID = 820;
   $PRINCESSS_CHAMPION_OF_ARCHERY_ID = 885;
   $PRINCESSS_CHAMPION_OF_ARMS_ID = 889;
@@ -98825,9 +98759,7 @@ PHP define Awards {
   $PÈLERIN_ID = 73;
   $QUADRANT_ID = 58;
   $QUEEN_OF_THE_EAST_KINGDOM_ID = 246;
-  $QUEENS_ARTS_AND_SCIENCES_RATTAN_CHAMPION___OUTGOING_ID = 913;
   $QUEENS_AWARD_OF_COURTESY_ID = 520;
-  $QUEENS_BARDIC_RATTAN_CHAMPION___OUT_GOING_ID = 911;
   $QUEENS_CHAMPION_OF_ARCHERY_ID = 883;
   $QUEENS_CHAMPION_OF_ARMS_ID = 887;
   $QUEENS_CHAMPION_OF_ARTS_AND_SCIENCES_ID = 891;
@@ -98848,7 +98780,6 @@ PHP define Awards {
   $RAVENS_FEATHER_ID = 259;
   $RED_COMET_ID = 255;
   $RED_COMPANY_ID = 701;
-  $RENEWAL_OF_TREATY_BETWEEN_KINGDOMS_ID = 929;
   $RIVENSTAR_ID = 653;
   $ROASTED_DUCK_ID = 54;
   $ROCK_ID = 59;
@@ -98858,7 +98789,6 @@ PHP define Awards {
   $ROUGE_BEND_ID = 709;
   $ROYAL_AUGMENTATION_OF_ARMS_ID = 227;
   $ROYAL_CYPHER_ID = 861;
-  $ROYAL_NUDGE_ID = 937;
   $ROYAL_VANGUARD_ID = 702;
   $RUSSIAN_THISTLE_ID = 718;
   $RUXTON_ID = 806;
@@ -98887,7 +98817,6 @@ PHP define Awards {
   $SEAHORSE_ID = 2;
   $SEAMSTRESS_TO_THE_CROWN_ID = 209;
   $SEAMSTRESS_TO_THE_PRINCESS_ROYAL_ID = 210;
-  $SENT_ON_VIGIL_ID = 915;
   $SERPENTS_FLAME_ID = 524;
   $SHARKS_TOOTH_ID = 518;
   $SHERIFF_OF_SMOKING_ROCKS_ID = 230;
@@ -98959,15 +98888,9 @@ PHP define Awards {
   $UNDINE_ID = 521;
   $VALOR_ID = 857;
   $VANGUARD_OF_HONOR_ID = 563;
-  $VICAR_OF_BERGENTAL_ID = 942;
-  $VICAR_OF_CARILLION_ID = 941;
   $VICEREINE_OSTGARDR_ID = 109;
   $VICERENE_OSTGARDR_ID = 108;
-  $VICERINE_OSTGARDR___ELECT_ID = 925;
   $VICEROY_OSTGARDR_ID = 107;
-  $VICEROY_OF_OSTGARDR___ELECT_ID = 924;
-  $VIGIL_FOR_CHIVALRY_ID = 927;
-  $VIGIL_FOR_LAUREL_ID = 930;
   $VISCOUNT_ID = 879;
   $WAIN_ID = 629;
   $WANDERING_WOLVES_ID = 839;
@@ -98985,11 +98908,6 @@ PHP define Awards {
   $WOODEN_SPOON_ID = 858;
   $WORSHIPFUL_COMPANY_OF_ARTIFICERS_ID = 26;
   $WREATH_OF_CHIVALRY_ID = 859;
-  $WRIT_DOE_PELICAN_ID = 919;
-  $WRIT_FOR_CHIVALRY_ID = 918;
-  $WRIT_FOR_CHIVALRY_AT_BARLEYCORN_ID = 926;
-  $WRIT_FOR_LAUREL_ID = 916;
-  $WRIT_FOR_PELICAN_ID = 923;
   $WYVERNS_CLAW_ID = 774;
   $WYVERNS_SCALE_ID = 775;
   $YALE_ID = 21;
