@@ -35,7 +35,7 @@ import AwardLevel._
 
 // This captures the fact that *some* award names imply gender (although most don't)
 // Hence, there are gendered synonyms that should be used correctly
-case class AwardName(name:String, gender:Gender = Gender.Unknown) {
+case class AwardName(name:String, gender:Gender = Gender.Unknown) extends Gendered {
   def canonName = AwardName.canonName(name)
 }
 object AwardName {

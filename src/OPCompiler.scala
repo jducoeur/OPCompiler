@@ -20,8 +20,7 @@ object OPCompiler extends App {
 		Log.popContext
 		
 		// Emit the results:
-		Emitter.emitBranches
-		Emitter.emitAwards
+		Emitter.emitAll
 
 		Log.finish
 	}

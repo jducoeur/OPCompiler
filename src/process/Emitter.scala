@@ -14,6 +14,12 @@ object Emitter {
     name.replace(" ", "_").toUpperCase().replace("'", "").replace("-", "_")
   }
   
+  def emitAll = {
+    emitBranches
+    emitAwards
+    emitPeople
+  }
+  
   def emitBranches = {
 	// Print out the final SQL output:
 	Log.pushContext("SQL Branch Output")
@@ -59,6 +65,23 @@ object Emitter {
     awards.foreach { award =>
       Log.print("$" + toPHPName(award.name.name) + "_ID = " + award.id + ";")
     }
+    Log.popContext
+  }
+  
+  def emitPeople = {
+    Log.pushContext("SQL Person Output")
+    val people = Person.allPeople
+    Log.print("INSERT INTO 'atlantian' (atlantian_id,sca_name,alternate_names,gender,deceased) VALUES ")
+    people.foreach { person =>
+      printValues(
+        person.id,
+        sqlStr(person.mainPersona.scaName),
+        sqlStr(person.emitAlternateNames),
+        person.emitGender,
+        person.emitDeceased
+      )
+    }
+    Log.print(";")
     Log.popContext
   }
 }

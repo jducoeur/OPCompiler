@@ -2,22 +2,44 @@ package models
 
 object Gender extends Enumeration {
   type Gender = Value
-  val Unknown, Male, Female = Value
+  val Unknown, Male, Female, Conflict = Value
+  
+  // Utility for taking a bunch of gendered things and getting the consensus gender:
+  def foldGender[T](coll:Iterable[T], getGender:(T) => Gendered):Gender = {
+    (Gender.Unknown /: coll) { (gender, item) =>
+      val gendered = getGender(item)
+      if (gendered.hasGender) {
+        if (gender == Unknown || gendered.gender == gender)
+          gendered.gender
+        else
+          Conflict
+      } else
+        gender
+    }
+  }
+}
+
+import Gender._
+trait Gendered {
+  def gender:Gender
+  def hasGender = gender match {
+    case Male => true
+    case Female => true
+    case _ => false
+  }
 }
 
 // Represents the game-side view of a person. Note that a single Person can
 // have any number of Personae. (They could also have any number of mundane
 // identities, but we're not worrying about that yet.)
-class Persona(val scaName:String, var person:Person, val isTypo:Boolean = false) extends Ordered[Persona] {
+class Persona(val scaName:String, var person:Person, val isTypo:Boolean = false) extends Ordered[Persona] with Gendered {
   
   override def compare(that:Persona) = scaName.compare(that.scaName)
   
-  // TODO: still need to suss Gender from award names where possible. This
-  // actually should probably just be a function of the AwardAses, rather
-  // than a var:
+  // We suss the gender of a persona from its awards.
   import Gender._
-  var gender:Gender = Unknown
-  
+  def gender:Gender = Gender.foldGender(awards, {recog:Recognition => recog.as})
+
   // We can sometimes find this out from the Alpha list. Note that "false"
   // really means "we don't know"; "true" means there is reason to believe
   // it is registered.
@@ -84,9 +106,11 @@ class Persona(val scaName:String, var person:Person, val isTypo:Boolean = false)
 // The Person record pulls together a lot of information. It is currently
 // built as semi-mutable, mostly because it doesn't seem worth the extra effort
 // to make it immutable and it clearly evolves as we read in more files.
-class Person(mainPersonaName:String) {
+class Person(mainPersonaName:String) extends Gendered {
   // This contains any number of personae, including the "main" one (which might change):
   var personae:Vector[Persona] = Vector() 
+  
+  val id = Person.nextId()
   
   // Note that this is subject to change, especially if we wind up merging:
   val mainPersona:Persona = new Persona(mainPersonaName, this)
@@ -95,6 +119,33 @@ class Person(mainPersonaName:String) {
   // award Genders.
   
   var deceased:Boolean = false
+  def emitDeceased = if (deceased) 1 else 0
+  
+  // We attempt to suss the person's gender from their personae -- if they are
+  // consistent, we use that. Otherwise, we play it safe and leave it unknown for now;
+  // it can always get fixed in the DB later.
+  import Gender._
+  def gender:Gender = Gender.foldGender(personae, { persona:Persona => persona })
+  def emitGender = {
+    gender match {
+      case Male => "M"
+      case Female => "F"
+      case _ => "U"
+    }
+  }
+  
+  def emitAlternateNames = {
+    val nameList = (List.empty[String] /: personae) { (list,persona) =>
+      if (persona.isMain || persona.isTypo)
+        list
+      else
+        list :+ persona.scaName
+    }
+    if (nameList.length > 0)
+      nameList.mkString(",")
+    else
+      "NULL"
+  }
   
   def getPersona(name:String) = {
 	personae.find(_.scaName == Persona.scrub(name)).getOrElse(throw new Exception("Can't find persona " + name))
@@ -111,7 +162,11 @@ class Person(mainPersonaName:String) {
     }
     if (otherPerson.deceased)
       deceased = true
+      
+    Person.allPeople -= otherPerson
   }
+  
+  Person.allPeople += this
 }
 
 object Persona {
@@ -147,4 +202,21 @@ object Persona {
     })
     mainPersona
   }
+}
+
+object Person {
+  var _nextId = 0
+  def nextId() = {
+    _nextId += 1
+    _nextId
+  }
+  
+  implicit object PersonOrdering extends Ordering[Person] {
+    def compare(x:Person, y:Person) = {
+      x.mainPersona.scaName compare y.mainPersona.scaName
+    }
+  }  
+  
+  import collection.immutable.SortedSet
+  var allPeople:SortedSet[Person] = SortedSet.empty
 }
