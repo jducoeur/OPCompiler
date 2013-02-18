@@ -46,18 +46,21 @@ object Emitter {
     }
   }
   
+  def emitSql[T](name:String, coll:Iterable[T], info:SqlInfo[T]) = {
+    Log.pushContext("SQL "+name+" Output")
+    info.emit(coll)
+    Log.popContext    
+  }
+  
   def emitBranches = {
-	// Print out the final SQL output:
-	Log.pushContext("SQL Branch Output")
-	val info = SqlInfo[Branch]("branch", Some(_.emit),
+	val allBranches = Branch.sortedByIndex
+	emitSql("Branch", allBranches,
+	  SqlInfo[Branch]("branch", Some(_.emit),
 	    SqlField("branch_id", (_.emitIndex)),
 	    SqlField("branch", (branch => sqlStr(branch.name))),
 	    SqlField("parent_branch_id", (_.emitParentIndex)),
 	    SqlField("branch_type_id", (_.branchType))
-	    )
-	val allBranches = Branch.sortedByIndex
-	info.emit(allBranches)
-	Log.popContext	  
+	    ))	  
 	
 	Log.pushContext("PHP define Branch Output")
 	allBranches.foreach { branch =>
@@ -68,17 +71,15 @@ object Emitter {
   }
   
   def emitAwards = {
-    Log.pushContext("SQL Award Output")
-    val info = SqlInfo[Award]("award", None,
+    val awards = Award.allAwards filter (_.shouldEmit)
+    emitSql("Award", awards,
+      SqlInfo[Award]("award", None,
         SqlField("award_id", (_.id)),
         SqlField("award_name", (award => sqlStr(award.name.name))),
         SqlField("select_branch", (_.branch.requiresBranchSelect)),
         SqlField("type_id", (_.level)),
         SqlField("branch_id", (_.branch.emitIndex))
-        )
-    val awards = Award.allAwards filter (_.shouldEmit)
-    info.emit(awards)
-    Log.popContext
+        ))
     
     Log.pushContext("PHP define Awards")
     awards.foreach { award =>
@@ -88,31 +89,25 @@ object Emitter {
   }
   
   def emitPeople = {
-    Log.pushContext("SQL Person Output")
-    val info = SqlInfo[Person]("atlantian", None,
+    emitSql("Person", Person.allPeople,
+      SqlInfo[Person]("atlantian", None,
         SqlField("atlantian_id", (_.id)),
         SqlField("sca_name", (person => sqlStr(person.mainPersona.scaName))),
         SqlField("alternate_names", (person => sqlStr(person.emitAlternateNames))),
         SqlField("gender", (_.emitGender)),
         SqlField("deceased", (_.emitDeceased))
-        )
-    val people = Person.allPeople
-    info.emit(people)
-    Log.popContext
+        ))
   }
   
   def emitReigns = {
-    Log.pushContext("SQL Reign Output")
-    val info = SqlInfo[Reign]("reign", None,
+    emitSql("Reign", Reign.allReigns.values,
+      SqlInfo[Reign]("reign", None,
         SqlField("reign_id", (_.id)),
         SqlField("king_id", (_.king.person.id)),
         SqlField("queen_id", (_.queen.person.id)),
         SqlField("reign_start_sequence", (_.id)),
         SqlField("reign_start_date", (_.start)),
         SqlField("reign_end_date", (_.end))
-        )
-    val reigns = Reign.allReigns.values
-    info.emit(reigns)
-    Log.popContext
+        ))
   }
 }
