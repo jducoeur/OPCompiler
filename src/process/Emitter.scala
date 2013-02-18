@@ -20,21 +20,32 @@ object Emitter {
     emitPeople
   }
   
+  case class SqlField[T](fieldName:String, extractor:T => Any)
+  case class SqlInfo[T](tableName:String, gate:Option[T => Boolean], fields:SqlField[T]*) {
+    def emit(items:Iterable[T]) = {
+      val valueNames = fields map (_.fieldName)
+      Log.print("INSERT INTO '"+tableName+"' ("+valueNames.mkString(",")+") VALUES ")
+      items.foreach { item =>
+        if (gate.isEmpty || gate.get(item)) {
+          val fieldValues = fields map (_.extractor(item))
+          printValues(fieldValues:_*)
+        }
+      }
+      Log.print(";")
+    }
+  }
+  
   def emitBranches = {
 	// Print out the final SQL output:
 	Log.pushContext("SQL Branch Output")
-	Log.print("INSERT INTO `branch` (branch_id,branch,parent_branch_id,branch_type_id) VALUES ")
+	val info = SqlInfo[Branch]("branch", Some(_.emit),
+	    SqlField("branch_id", (_.emitIndex)),
+	    SqlField("branch", (branch => sqlStr(branch.name))),
+	    SqlField("parent_branch_id", (_.emitParentIndex)),
+	    SqlField("branch_type_id", (_.branchType))
+	    )
 	val allBranches = Branch.sortedByIndex
-	allBranches.foreach { branch =>
-	  if (branch.emit)
-		  printValues(
-		    branch.emitIndex,
-		    sqlStr(branch.name),
-		    branch.emitParentIndex,
-		    branch.branchType
-		    )
-	}
-	Log.print(";")
+	info.emit(allBranches)
 	Log.popContext	  
 	
 	Log.pushContext("PHP define Branch Output")
