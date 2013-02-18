@@ -114,6 +114,12 @@ trait OPDate extends Ordered[OPDate] {
 	else
 	  "Unknown Date"
   }
+  
+  def sqlString = {
+    (if (year == OPDate.Unknown) "1964" else year.toString) + "-" +
+    (if (month == OPDate.Unknown) "01" else padDateNum(month.id)) + "-" +
+    (if (day == OPDate.Unknown) "01" else padDateNum(day))
+  }
 }
 
 abstract class OPDateFromString(val fromStr:String) extends OPDate {

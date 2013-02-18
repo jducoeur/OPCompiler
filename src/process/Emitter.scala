@@ -4,7 +4,13 @@ import models._
 
 object Emitter {
   def printValues(vals:Any*) = {
-    val concat = vals.mkString(",")
+    val transformed = vals map { v =>
+      v match {
+        case d:OPDate => d.sqlString
+        case _ => v
+      }
+    }
+    val concat = transformed.mkString(",")
     Log.print("(" + concat + ")")
   }
   
@@ -22,6 +28,7 @@ object Emitter {
     emitBranches
     emitAwards
     emitPeople
+    emitReigns
   }
   
   case class SqlField[T](fieldName:String, extractor:T => Any)
@@ -91,6 +98,21 @@ object Emitter {
         )
     val people = Person.allPeople
     info.emit(people)
+    Log.popContext
+  }
+  
+  def emitReigns = {
+    Log.pushContext("SQL Reign Output")
+    val info = SqlInfo[Reign]("reign", None,
+        SqlField("reign_id", (_.id)),
+        SqlField("king_id", (_.king.person.id)),
+        SqlField("queen_id", (_.queen.person.id)),
+        SqlField("reign_start_sequence", (_.id)),
+        SqlField("reign_start_date", (_.start)),
+        SqlField("reign_end_date", (_.end))
+        )
+    val reigns = Reign.allReigns.values
+    info.emit(reigns)
     Log.popContext
   }
 }
