@@ -72,7 +72,7 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
 }
 
 // Represents a single Court, held by somebody, where awards were given.
-class Court(val title:String, val date:OPDate, reign:Reign) {
+class Court(val title:String, val date:OPDate, val reign:Reign) {
   // The actual business of the Court. This is a var mainly because of the
   // relationship between Recognition and Court -- we need to create the
   // Court, then build the Recognitions, then put them into it.

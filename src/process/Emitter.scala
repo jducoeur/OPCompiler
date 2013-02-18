@@ -38,6 +38,7 @@ object Emitter {
     emitPeople
     emitReigns
     emitEvents
+    emitCourts
   }
   
   case class SqlField[T](fieldName:String, extractor:T => Any)
@@ -128,6 +129,17 @@ object Emitter {
         SqlField("start_date", (_.date)),
         SqlField("end_date", (_.date)),
         SqlField("branch_id", (_ => Kingdom.East.index))
+        ))
+  }
+  
+  def emitCourts = {
+    emitSql("Court Report", Court.allCourts,
+        SqlInfo[Court]("court_report", None,
+          SqlField("court_report_id", (_.id)),
+          SqlField("event_id", (_.id)),
+          SqlField("reign_id", (_.reign.id)),
+          SqlField("court_date", (_.date)),
+          SqlField("kingdom_id", (_ => Kingdom.East.index))
         ))
   }
 }
