@@ -14,6 +14,11 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
     when:Option[Court] = None, index:Option[Int] = None, date:Option[OPDate] = None,
     inAlpha:Boolean = false, inList:Boolean = false, comment:Option[String] = None,
     where:Option[Branch] = None) extends Ordered[Recognition] {
+  
+  val id = Recognition.nextId
+
+  def emitGender = Gender.emit(as.gender)
+  
   def bestDate:OPDate = {
     date match {
       case Some(d) => d
@@ -70,6 +75,8 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
 		  (if (comment.isDefined) " [" + comment.get + "]" else "") +
 		  (if (isCommentary) ")" else "")
 }
+
+object Recognition extends IdGenerator
 
 // Represents a single Court, held by somebody, where awards were given.
 class Court(val title:String, val date:OPDate, val reign:Reign) {

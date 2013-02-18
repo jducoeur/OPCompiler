@@ -17,6 +17,14 @@ object Gender extends Enumeration {
         gender
     }
   }
+  
+  def emit(gender:Gender) = {
+    gender match {
+      case Male => "M"
+      case Female => "F"
+      case _ => "U"
+    }
+  } 
 }
 
 import Gender._
@@ -126,13 +134,7 @@ class Person(mainPersonaName:String) extends Gendered {
   // it can always get fixed in the DB later.
   import Gender._
   def gender:Gender = Gender.foldGender(personae, { persona:Persona => persona })
-  def emitGender = {
-    gender match {
-      case Male => "M"
-      case Female => "F"
-      case _ => "U"
-    }
-  }
+  def emitGender = Gender.emit(gender)
   
   def emitAlternateNames = {
     val nameList = (List.empty[String] /: personae) { (list,persona) =>
@@ -166,6 +168,11 @@ class Person(mainPersonaName:String) extends Gendered {
     Person.allPeople -= otherPerson
   }
   
+  def recognitions:Seq[Recognition] =
+    for (persona <- personae;
+         award <- persona.awards)
+      yield award
+  
   Person.allPeople += this
 }
 
@@ -177,7 +184,7 @@ object Persona {
     val all = byPersona.values.toSeq
     Sorting.stableSort(all)
   }
-  
+ 
   // This is solely intended for use at config time, from the Names file. It adds a
   // full person, with synonyms, with fewer sanity-checks, so it assumes clean data
   def addPerson(mainName:String, syns:Seq[String], typos:Seq[String]) = {

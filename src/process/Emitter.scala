@@ -5,25 +5,27 @@ import models._
 object Emitter {
   def q(str:String) = "`" + str + "`"
   
-  def printValues(vals:Any*) = {
-    val transformed = vals map { v =>
+  def sqlStr(v:Any):String = {
       v match {
-        case d:OPDate => q(d.sqlString)
+        case d:OPDate => sqlStr(d.sqlString)
         case str:String => {
           if (str.length() == 0)
             "NULL"
           else
             q(str)
         }
-        case opt:Option[String] => {
+        case opt:Option[Any] => {
           opt match {
-            case Some(s) => q(s)
+            case Some(s) => sqlStr(s)
             case None => "NULL"
           }
         }
-        case _ => v
-      }
-    }
+        case _ => v.toString
+      }    
+  }
+  
+  def printValues(vals:Any*) = {
+    val transformed = vals map sqlStr
     val concat = transformed.mkString(",")
     Log.print("(" + concat + ")")
   }
@@ -39,6 +41,7 @@ object Emitter {
     emitReigns
     emitEvents
     emitCourts
+    emitRecognitions
   }
   
   case class SqlField[T](fieldName:String, extractor:T => Any)
@@ -140,6 +143,24 @@ object Emitter {
           SqlField("reign_id", (_.reign.id)),
           SqlField("court_date", (_.date)),
           SqlField("kingdom_id", (_ => Kingdom.East.index))
+        ))
+  }
+  
+  def emitRecognitions = {
+    val allRecs:Seq[Recognition] = (Vector.empty[Recognition] /: Person.allPeople) { (vec, person) =>
+      vec ++ person.recognitions
+    }
+    emitSql("Recognition", allRecs,
+        SqlInfo[Recognition]("atlantian_award", None,
+          SqlField("atlantian_award_id", (_.id)),
+          SqlField("atlantian_id", (_.recipient.person.id)),
+          SqlField("award_id", (_.award.id)),
+          SqlField("award_date", (_.date)),
+          SqlField("event_id", (_.when map (_.id))),
+          SqlField("sequence", (_.index)),
+          SqlField("comments", (_.comment)),
+          SqlField("court_report_id", (_.when map (_.id))),
+          SqlField("gender", (_.emitGender))
         ))
   }
 }
