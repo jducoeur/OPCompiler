@@ -142,9 +142,9 @@ class Person(mainPersonaName:String) extends Gendered {
         list :+ persona.scaName
     }
     if (nameList.length > 0)
-      nameList.mkString(",")
+      Some(nameList.mkString(","))
     else
-      "NULL"
+      None
   }
   
   def getPersona(name:String) = {
