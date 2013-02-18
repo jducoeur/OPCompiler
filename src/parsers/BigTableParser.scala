@@ -35,7 +35,7 @@ trait BigTableParser {
   /**
    * Given a group of related transformed rows, actually process them.
    */
-  def handleGroup(group:RowGroup)
+  def handleGroup(group:RowGroup, name:String)
   
   /////////////////////////////////
   //
@@ -50,7 +50,7 @@ trait BigTableParser {
     transformRow(cellText)
   }
   
-  def processTable(tableNode:Node) = {
+  def processTable(tableNode:Node, name:String) = {
     // Note that we start with the *second* record -- the assumption is that the first is
     // column headers:
     val rows = (tableNode \\ "tr").tail
@@ -64,7 +64,7 @@ trait BigTableParser {
       else
         groups :+ Vector(row)
     }
-    allGroups foreach handleGroup
+    allGroups foreach (group => handleGroup(group, name))
   }
   
   /**
@@ -73,6 +73,6 @@ trait BigTableParser {
   def processFile(fileNode:Elem, name:String) = {
     // Each of these tables represents a single Court Report
     val informationTable = (fileNode \\ "table").head
-    processTable(informationTable)
+    processTable(informationTable, name)
   }
 }

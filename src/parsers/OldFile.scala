@@ -8,7 +8,7 @@ import java.io.File
 
 object FileType extends Enumeration {
   type FileType = Value
-  val CourtReport, Alpha, AwardListing = Value
+  val CourtReport, Alpha, AwardListing, Reigns = Value
 }
 
 import FileType._
@@ -23,7 +23,8 @@ object FilesToProcess {
     val dir = new File(dataDir + dirName)
     dir.listFiles filter (_.isFile) map (file => new OldFile(fileType, file.getAbsolutePath, parser))
   }
-  
+
+  val reigns = new OldFile(FileType.Reigns, new File(dataDir + "\\reigns.xhtml").getAbsolutePath, ReignsParser)
   val alphas = makeFiles("\\alpha", FileType.Alpha, AlphaParser)
   val courtReports = 
     makeFiles("\\chrono", FileType.CourtReport, CurrentCourtReportParser) ++: 
@@ -40,6 +41,10 @@ object FilesToProcess {
   }
   
   def processAll = {
+    Log.pushContext("Reigns")
+    reigns.parser.handleFile(reigns)
+    Log.popContext
+    
     processOneType(courtReports, "Court Reports")
     processOneType(alphas, "Alphabetical")
     processOneType(awards, "Award Listings")

@@ -64,7 +64,7 @@ class CurrentCourtReportParser extends CourtReportParser {
     businessNodes.foldLeft(start)((vec, businessRow) => vec ++: processRow(businessRow, court, vec.size))
   }
   
-  def processGuts(caption:String, builder:(Court => Seq[Recognition])) = {
+  def processGuts(caption:String, filename:String, builder:(Court => Seq[Recognition])) = {
     // ... remove basic junk...
     val scrubbedCaption = process.StringUtils.scrub(caption)
     Log.pushContext(scrubbedCaption)
@@ -83,7 +83,7 @@ class CurrentCourtReportParser extends CourtReportParser {
       else
         courtTitleMessy
     // ... and now we're finally ready to start building the court:
-    val court = new Court(courtTitle, courtDate)
+    val court = new Court(courtTitle, courtDate, Reign.byFilename(filename))
     var index = 0;
     // The general assumption is that the caller will use a closure to capture the information
     // about the business nodes:
@@ -92,7 +92,7 @@ class CurrentCourtReportParser extends CourtReportParser {
     Log.popContext    
   }
   
-  def processTable(tableNode:Node) = {
+  def processTable(tableNode:Node, filename:String) = {
     val rows = tableNode \\ "tr"
     // Split the rows into the ones with a colspan of 2 -- the caption -- and the rest, which
     // business
@@ -116,13 +116,13 @@ class CurrentCourtReportParser extends CourtReportParser {
           if (captionDivs.length > 0) captionDivs.head.text.trim else ""
         }
       }
-    processGuts(caption, buildBusinessFromTable(businessNodes))
+    processGuts(caption, filename, buildBusinessFromTable(businessNodes))
   }
   
   def processFile(fileNode:Elem, name:String) = {
     // Each of these tables represents a single Court Report
     val reportTables = fileNode \\ "table"
-    reportTables.foreach(processTable)
+    reportTables.foreach(table => processTable(table, name))
   }
 }
 object CurrentCourtReportParser extends CurrentCourtReportParser {}
@@ -142,7 +142,7 @@ trait WordCourtReportParser extends CurrentCourtReportParser {
     val pairs = elements.tail.zip(elements)
     val tablePairs = pairs filter (_._1.label == "table")
     
-    tablePairs.foreach(pair => processGuts(pair._2.text.trim, buildBusinessFromTable(pair._1 \\ "tr")))
+    tablePairs.foreach(pair => processGuts(pair._2.text.trim, name, buildBusinessFromTable(pair._1 \\ "tr")))
   }
 }
 object WordCourtReportParser extends WordCourtReportParser {}
@@ -170,16 +170,16 @@ trait AncientCourtReportParser extends CurrentCourtReportParser {
     }
   }
   
-  def processParagraph(paraNode:Node) = {
+  def processParagraph(paraNode:Node, name:String) = {
     val lines = paraNode.child filter (_.isInstanceOf[Text])
     val courtName = lines.head.text.trim
-    processGuts(courtName, buildBusinessFromLines(lines.tail))
+    processGuts(courtName, name, buildBusinessFromLines(lines.tail))
   }
   
   override def processFile(fileNode:Elem, name:String) = {
     val bodyNode = fileNode \\ "body" head
     val tables = bodyNode \\ "p"
-    tables foreach processParagraph
+    tables foreach (table => processParagraph(table, name))
   }
 }
 object AncientCourtReportParser extends AncientCourtReportParser {}
@@ -208,9 +208,9 @@ trait OneTableCourtReportParser extends CourtReportParser with BigTableParser {
     recognition
   }
   
-  def handleGroup(group:RowGroup) = {
+  def handleGroup(group:RowGroup, name:String) = {
     val firstRow = group(0)
-    val court = new Court(firstRow.eventName, firstRow.date)
+    val court = new Court(firstRow.eventName, firstRow.date, Reign.byFilename(name))
     val (nFound, recs) = ((0, Seq.empty[Recognition]) /: group) { (state, row) =>
       val (index, seq) = state
       (index + 1, seq :+ makeRecognition(row, court, index)) 
