@@ -204,13 +204,7 @@ object Persona {
   }
 }
 
-object Person {
-  var _nextId = 0
-  def nextId() = {
-    _nextId += 1
-    _nextId
-  }
-  
+object Person extends IdGenerator {
   implicit object PersonOrdering extends Ordering[Person] {
     def compare(x:Person, y:Person) = {
       x.mainPersona.scaName compare y.mainPersona.scaName

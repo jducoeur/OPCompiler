@@ -78,6 +78,10 @@ class Court(val title:String, val date:OPDate, reign:Reign) {
   // Court, then build the Recognitions, then put them into it.
   var business:Seq[Recognition] = Seq[Recognition]()
   
+  val id = Court.nextId()
+  
+  Court.allCourts += this
+  
   def isChampionship = title.contains("Champion")
   val champRegex = """^.* (\S*) Champion.*$""".r
   def champName = {
@@ -91,4 +95,13 @@ class Court(val title:String, val date:OPDate, reign:Reign) {
     "== " + title + " == (" + date + ", " + reign.king.scaName + " and " + reign.queen.scaName + ")\n" +
     business.foldLeft("")((str, item) => str + item + "\n")
   }
+}
+
+object Court extends IdGenerator {
+  implicit object CourtDateOrdering extends Ordering[Court] {
+    def compare(x:Court, y:Court) = x.date compare y.date
+  }
+  
+  import collection.immutable.SortedSet
+  var allCourts = SortedSet.empty[Court]
 }

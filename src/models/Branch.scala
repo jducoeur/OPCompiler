@@ -16,7 +16,7 @@ trait Branch extends DelayedInit {
   val name:String
   val kind:BranchType
   
-  val index:Int = Branch.nextIndex
+  val index:Int = Branch.nextId
   val branchType:Int
   val emit:Boolean = true
   
@@ -100,9 +100,14 @@ class SCAKingdom(val name:String) extends Branch {
   val kind = BranchType.Kingdom
   val branchType = 1
   override val defaultAwardLevel = Some(AwardLevel.KingdomAward)
+  
+  if (name == "East") Kingdom.East = this
 }
 object Kingdom extends DeclareableBranch {  
   def instantiate(name:String) = new SCAKingdom(name)
+  
+  // Horrible hack, but useful:
+  var East:SCAKingdom = null
 }
 
 class Principality(val name:String) extends Branch {
@@ -166,7 +171,7 @@ object UnknownBranch extends Branch {
   override val defaultAwardLevel = Some(AwardLevel.Unknown)
 }
 
-object Branch {
+object Branch extends IdGenerator {
   var byName:Map[String,Branch] = Map.empty
   
   var allBranches:Set[Branch] = Set.empty
@@ -174,12 +179,5 @@ object Branch {
   def sortedByIndex:Seq[Branch] = {
     val all = allBranches.toSeq
     all.sortWith { _.index < _.index }
-  }
-  
-  var _nextIndex = 0
-  def nextIndex() = {
-    val ret = _nextIndex
-    _nextIndex += 1
-    ret
   }
 }

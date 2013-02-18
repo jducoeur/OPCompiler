@@ -198,4 +198,27 @@ object OPDate {
 	val shorterRegex:Regex = new Regex("""(..?)/(..?)/(..)""", "month", "day", "year")
 	val Unknown = -1
 	val Invalid = new InvalidOPDate
+	
+	implicit object OPDateOrdering extends Ordering[OPDate] {
+	  def compare(x:OPDate, y:OPDate) = {
+	    if (x.year < y.year)
+	      -1
+	    else if (y.year < x.year)
+	      1
+	    else {
+	      if (x.month < y.month)
+	        -1
+	      else if (y.month < x.month)
+	        1
+	      else {
+	        if (x.day < y.day)
+	          -1
+	        else if (y.day < x.day)
+	          1
+	        else
+	          0
+	      }
+	    }
+	  }
+	}
 }

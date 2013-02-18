@@ -3,21 +3,29 @@ package process
 import models._
 
 object Emitter {
+  def q(str:String) = "`" + str + "`"
+  
   def printValues(vals:Any*) = {
     val transformed = vals map { v =>
       v match {
-        case d:OPDate => d.sqlString
+        case d:OPDate => q(d.sqlString)
+        case str:String => {
+          if (str.length() == 0)
+            "NULL"
+          else
+            q(str)
+        }
+        case opt:Option[String] => {
+          opt match {
+            case Some(s) => q(s)
+            case None => "NULL"
+          }
+        }
         case _ => v
       }
     }
     val concat = transformed.mkString(",")
     Log.print("(" + concat + ")")
-  }
-  
-  def sqlStr(str:String):String = "'" + str + "'"
-  def sqlStr(opt:Option[String]):String = opt match {
-    case Some(s) => sqlStr(s)
-    case None => "NULL"
   }
   
   def toPHPName(name:String):String = {
@@ -29,6 +37,7 @@ object Emitter {
     emitAwards
     emitPeople
     emitReigns
+    emitEvents
   }
   
   case class SqlField[T](fieldName:String, extractor:T => Any)
@@ -57,7 +66,7 @@ object Emitter {
 	emitSql("Branch", allBranches,
 	  SqlInfo[Branch]("branch", Some(_.emit),
 	    SqlField("branch_id", (_.emitIndex)),
-	    SqlField("branch", (branch => sqlStr(branch.name))),
+	    SqlField("branch", (_.name)),
 	    SqlField("parent_branch_id", (_.emitParentIndex)),
 	    SqlField("branch_type_id", (_.branchType))
 	    ))	  
@@ -75,7 +84,7 @@ object Emitter {
     emitSql("Award", awards,
       SqlInfo[Award]("award", None,
         SqlField("award_id", (_.id)),
-        SqlField("award_name", (award => sqlStr(award.name.name))),
+        SqlField("award_name", (_.name.name)),
         SqlField("select_branch", (_.branch.requiresBranchSelect)),
         SqlField("type_id", (_.level)),
         SqlField("branch_id", (_.branch.emitIndex))
@@ -87,13 +96,13 @@ object Emitter {
     }
     Log.popContext
   }
-  
+
   def emitPeople = {
     emitSql("Person", Person.allPeople,
       SqlInfo[Person]("atlantian", None,
         SqlField("atlantian_id", (_.id)),
-        SqlField("sca_name", (person => sqlStr(person.mainPersona.scaName))),
-        SqlField("alternate_names", (person => sqlStr(person.emitAlternateNames))),
+        SqlField("sca_name", (_.mainPersona.scaName)),
+        SqlField("alternate_names", (_.emitAlternateNames)),
         SqlField("gender", (_.emitGender)),
         SqlField("deceased", (_.emitDeceased))
         ))
@@ -108,6 +117,17 @@ object Emitter {
         SqlField("reign_start_sequence", (_.id)),
         SqlField("reign_start_date", (_.start)),
         SqlField("reign_end_date", (_.end))
+        ))
+  }
+  
+  def emitEvents = {
+    emitSql("Event", Court.allCourts,
+      SqlInfo[Court]("event", None,
+        SqlField("event_id", (_.id)),
+        SqlField("event_name", (_.title)),
+        SqlField("start_date", (_.date)),
+        SqlField("end_date", (_.date)),
+        SqlField("branch_id", (_ => Kingdom.East.index))
         ))
   }
 }

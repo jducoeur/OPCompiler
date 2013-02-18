@@ -113,7 +113,7 @@ object Champion {
   def apply(titles:String*) = royals.map(awardForRoyal(titles, _))
 }
 
-object Award {
+object Award extends IdGenerator {
   implicit object AwardOrdering extends Ordering[Award] {
     def compare(x:Award, y:Award) = {
       x.name.name compare y.name.name
@@ -122,13 +122,7 @@ object Award {
   var knownAwards:Map[String,AwardAs] = Map.empty
   import collection.immutable.SortedSet
   var allAwards:SortedSet[Award] = SortedSet.empty
-  
-  var _nextId = 0
-  def nextId() = {
-    _nextId += 1
-    _nextId
-  }
-  
+
   implicit def string2AwardInfo(name:String) = AwardInfo(AwardName(name, Gender.Unknown))
  
   // Simple builder, for the most common case:

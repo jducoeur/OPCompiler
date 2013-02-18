@@ -14,13 +14,7 @@ case class Reign(id:Int, king:Persona, queen:Persona, start:OPDate, filename:Str
   }
 }
 
-object Reign {
-  var _nextId = 0
-  def nextId() = {
-    _nextId += 1
-    _nextId
-  }
-  
+object Reign extends IdGenerator {
   implicit object ReignOrdering extends Ordering[Reign] {
     def compare(x:Reign, y:Reign) = x.id compare y.id
   }
