@@ -28,7 +28,7 @@ object AwardLevel {
   val KingdomAward = 18
   val PrincipalityAward = 19
   val Baronial = 20
-  val Unknown = 100
+  val Unknown = 18
 }
 
 import AwardLevel._

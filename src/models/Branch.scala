@@ -16,7 +16,7 @@ trait Branch extends DelayedInit {
   val name:String
   val kind:BranchType
   
-  val index:Int = Branch.nextId
+  val id:Int = Branch.nextId
   val branchType:Int
   val emit:Boolean = true
   
@@ -54,12 +54,7 @@ trait Branch extends DelayedInit {
   
   def requiresBranchSelect = 0
   
-  def emitIndex = index.toString
-  
-  def emitParentIndex:String = _parent match {
-    case Some(p) => p.emitIndex
-    case None => "NULL"
-  }
+  def parentId = _parent map (_.id)
 }
 
 trait DeclareableBranch {
@@ -89,7 +84,7 @@ object SCA extends Branch with DeclareableBranch {
   
   def instantiate(name:String) = this
   
-  override def emitIndex = "NULL"
+  override val id = -1
   override def requiresBranchSelect = 1
 }
 
@@ -168,6 +163,7 @@ object UnknownBranch extends Branch {
   parent = SCA
   val branchType = -1
   override val emit = false
+  override val id = -1
   override val defaultAwardLevel = Some(AwardLevel.Unknown)
 }
 
@@ -178,6 +174,6 @@ object Branch extends IdGenerator {
   
   def sortedByIndex:Seq[Branch] = {
     val all = allBranches.toSeq
-    all.sortWith { _.index < _.index }
+    all.sortWith { _.id < _.id }
   }
 }

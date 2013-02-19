@@ -106,7 +106,13 @@ class Court(val title:String, val date:OPDate, val reign:Reign) {
 
 object Court extends IdGenerator {
   implicit object CourtDateOrdering extends Ordering[Court] {
-    def compare(x:Court, y:Court) = x.date compare y.date
+    def compare(x:Court, y:Court) = {
+      val byDate = x.date compare y.date
+      if (byDate == 0)
+        x.id compare y.id
+      else
+        byDate
+    }
   }
   
   import collection.immutable.SortedSet
