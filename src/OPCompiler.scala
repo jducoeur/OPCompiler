@@ -11,6 +11,8 @@ object OPCompiler extends App {
 		import parsers.FilesToProcess
 		FilesToProcess.processAll
 		
+		Deduper.dedupe
+		
 		// Print out the results:
 		Log.pushContext("Alpha List")
 		val personae = models.Persona.byName

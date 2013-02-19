@@ -69,22 +69,22 @@ object Emitter {
   case class SqlInfo[T](tableName:String, gate:Option[T => Boolean], fields:SqlField[T]*) {
     def emit(items:Iterable[T]) = {
       val valueNames = fields map (_.fieldName)
-//      println("INSERT INTO `"+tableName+"` ("+valueNames.mkString(",")+") VALUES ")
+      println("INSERT INTO `"+tableName+"` ("+valueNames.mkString(",")+") VALUES ")
       var first = true
       items.foreach { item =>
         if (gate.isEmpty || gate.get(item)) {
-//          if (first)
-//            first = false
-//          else
-//            println(",")
+          if (first)
+            first = false
+          else
+            println(",")
             // TEMP:
-      println("INSERT INTO `"+tableName+"` ("+valueNames.mkString(",")+") VALUES ")
+//      println("INSERT INTO `"+tableName+"` ("+valueNames.mkString(",")+") VALUES ")
           val fieldValues = fields map (_.extractor(item))
           printValues(fieldValues:_*)
-      println(";")
+//      println(";")
         }
       }
-//      println(";")
+      println(";")
     }
   }
   

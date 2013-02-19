@@ -41,6 +41,8 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
   
   def inCourt:Boolean = when.isDefined
   
+  def isComplete:Boolean = inAlpha && inList && inCourt
+  
   // True iff this item of business is *just* a comment
   def isCommentary:Boolean = award.commentary
   

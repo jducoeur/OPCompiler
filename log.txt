@@ -45141,6 +45141,2400 @@ Award Listings {
     INFO:  11/20/2004   L Yale (Dragonship Haven) -- Holt of Hawks Glen
   }
 }
+Deduplicating {
+  Starting with 23807 recognitions
+    Of those, 23762 are real
+    Of those, 18514 are incomplete
+    It looks like El of the Two Knives (Master of the Pelican, 11/17/1973) might be:
+      4 El of Two Knives (Master of the Pelican, 11/17/1973)
+    It looks like Alaric of Owef (Award of Arms, 04/20/1974) might be:
+      8 Maria of Oxenford (Award of Arms, 04/20/1974)
+    It looks like Lysandra of Morgandy Hill (Award of Arms, 10/10/1981) might be:
+      6 Tara Sandra of Morgandy Hill (Award of Arms, 10/10/1981)
+    It looks like Cenwulf Godfyrht (Award of Arms, 12/05/1981) might be:
+      3 Cenwulf Godfeart (Award of Arms, 12/05/1981)
+    It looks like Lyralyn du Lac Noir (Award of Arms, 12/12/1981) might be:
+      1 Lyralen du Lac Noir (Award of Arms, 12/12/1981)
+    It looks like Rufus Thorhall (Award of Arms, 12/11/1982) might be:
+      7 Rufus Thorhall Skygar (Award of Arms, 12/11/1982)
+    It looks like Marcus Blödax (Tygers Combattant, 01/29/1983) might be:
+      3 Magnus Blodax (Tygers Combattant, 01/29/1983)
+    It looks like Thorvald the Indomitable (Award of Arms, 04/23/1983) might be:
+      1 Thorwald the Indomitable (Award of Arms, 04/23/1983)
+    It looks like Macha ni Phadraiga (Award of Arms, 07/02/1983) might be:
+      1 Macha ni Padraiga (Award of Arms, 07/02/1983)
+    It looks like Daria Joan de Courtenay (Award of Arms, 10/08/1983) might be:
+      2 Daria Joan de Courtney (Award of Arms, 10/08/1983)
+    It looks like Elspeth Keyf of Neddingham (Manche, 12/10/1983) might be:
+      1 Elspeth Keyfe of Neddingham (Manche, 12/10/1983)
+    It looks like Kenneth of Gryphon (Award of Arms, 01/21/1984) might be:
+      5 Kenneth of Gryphon Wald (Award of Arms, 01/21/1984)
+    It looks like Sebastien de la Main Gauche (Award of Arms, 02/25/1984) might be:
+      1 Sebastian de la Main Gauche (Award of Arms, 02/25/1984)
+    It looks like John Mordredson (Award of Arms, 03/31/1984) might be:
+      1 John Mordredsson (Award of Arms, 03/31/1984)
+    It looks like Elspeth Keyf of Neddingham (Silver Crescent, 06/09/1984) might be:
+      1 Elspeth Keyfe of Neddingham (Silver Crescent, 06/09/1984)
+    It looks like Browyn Dawntreader (Award of Arms, 09/08/1984) might be:
+      1 Bronwyn Dawntreader (Award of Arms, 09/08/1984)
+    It looks like Mercedes de Califia (Award of Arms, 10/27/1984) might be:
+      8 Mercedes Bohdanovna (Award of Arms, 10/27/1984)
+    It looks like Morgan FitzGerald (Award of Arms, 04/27/1985) might be:
+      1 Morgan Fitzgerald (Award of Arms, 04/27/1985)
+    It looks like Jorge Johansen (Award of Arms, 08/16/1985) might be:
+      1 Jorge Johanson (Award of Arms, 08/16/1985)
+    It looks like Morag MacPharlain (Grant of Arms, 01/04/1986) might be:
+      4 Morag Mac Farlane (Grant of Arms, 01/04/1986)
+    It looks like Deirdre Schneider (Award of Arms, 01/11/1986) might be:
+      4 Deirdre von Schneider (Award of Arms, 01/11/1986)
+    It looks like Isobella de Cordoba (Award of Arms, 01/11/1986) might be:
+      2 Isobel de Cordoba (Award of Arms, 01/11/1986)
+    It looks like Browyn Acthor (Award of Arms, 04/05/1986) might be:
+      2 Bronwyn Acthorn (Award of Arms, 04/05/1986)
+    It looks like Eoghan Fionn MacDuibhshithe (Award of Arms, 10/11/1986) might be:
+      7 Eoghan Thionne MacDubh Sidhe (Award of Arms, 10/11/1986)
+    It looks like Megan of Westfield (Award of Arms, 11/08/1986) might be:
+      1 Mehgan of Westfield (Award of Arms, 11/08/1986)
+    It looks like Ursula de Santiago y Galiciano (Award of Arms, 01/24/1987) might be:
+      3 Ursula Santiago y Galiciano (Award of Arms, 01/24/1987)
+    It looks like Lyanna of Kerneough (Silver Crescent, 01/31/1987) might be:
+      1 Lyanna of Kernough (Silver Crescent, 01/31/1987)
+    It looks like Rosskeen of the Silverbark (Award of Arms, 02/28/1987) might be:
+      3 Roskeen of the Silver Bark (Award of Arms, 02/28/1987)
+    It looks like Morag MacPharlain (Silver Crescent, 04/11/1987) might be:
+      4 Morag MacFarlane (Silver Crescent, 04/11/1987)
+    It looks like Elspeth FitzHugh (Award of Arms, 06/06/1987) might be:
+      1 Elspeth Fitzhugh (Award of Arms, 06/06/1987)
+    It looks like Ysolde of Summerhall (Award of Arms, 06/13/1987) might be:
+      3 Ysolde Summerhall (Award of Arms, 06/13/1987)
+    It looks like Theodur of Bucharest (Silver Crescent, 06/20/1987) might be:
+      3 Theodur of Budapest (Silver Crescent, 06/20/1987)
+    It looks like Maria Erika von Ossenheim (Tygers Cub, 06/27/1987) might be:
+      6 Erika Maria von Ossenheim (Tygers Cub, 06/27/1987)
+    It looks like Þóra Sharptooth (Award of Arms, 07/11/1987) might be:
+      3 Thora Sharptooth (Award of Arms, 07/11/1987)
+    It looks like Elspeth Keyf of Neddingham (Mistress of the Pelican, 08/15/1987) might be:
+      1 Elspeth Keyfe of Neddingham (Mistress of the Pelican, 08/15/1987)
+    It looks like Ewen Ericsson (Award of Arms, 09/12/1987) might be:
+      1 Ewan Ericsson (Award of Arms, 09/12/1987)
+    It looks like Rhiannon Rhyl (Award of Arms, 09/12/1987) might be:
+      4 Rhiannon of Rhyll (Award of Arms, 09/12/1987)
+    It looks like Giovanni Paulo Sbragia di Lucca (Award of Arms, 10/03/1987) might be:
+      2 Giovanni Paolo Sbragia di Luca (Award of Arms, 10/03/1987)
+    It looks like Browyn Acthor (Burdened Tyger, 10/10/1987) might be:
+      2 Bronwyn Acthorn (Burdened Tyger, 10/10/1987)
+    It looks like Margaret Elizabeth Peyton de Lascaux (Award of Arms, 11/07/1987) might be:
+      7 Margaret Edwina Peyton de Lascaux (Award of Arms, 11/07/1987)
+    It looks like Roderick of Basing (Grant of Arms, 01/30/1988) might be:
+      1 Roderic of Basing (Grant of Arms, 01/30/1988)
+    It looks like Morgan FitzGerald (Manche, 02/06/1988) might be:
+      1 Morgan Fitzgerald (Maunche, 02/06/1988)
+    It looks like Alicia Megan de Mont Migelle (Award of Arms, 02/27/1988) might be:
+      1 Alicia Megan de Mont Mingelle (Award of Arms, 02/27/1988)
+    It looks like Duncan Thorfinn (Award of Arms, 03/26/1988) might be:
+      1 Duncan Thorfin (Award of Arms, 03/26/1988)
+    It looks like Reina Crystaldale (Award of Arms, 04/16/1988) might be:
+      4 Reyna of Crystaldale (Award of Arms, 04/16/1988)
+    It looks like Roderick of Basing (Guardsman, 04/16/1988) might be:
+      1 Roderic of Basing (Guardsman, 04/16/1988)
+    It looks like Sean Gobha (Award of Arms, 05/28/1988) might be:
+      6 Sean Goublinne (Award of Arms, 05/28/1988)
+      9 Cedric (Award of Arms, 05/28/1988)
+    It looks like Hilal al-Dubb (Award of Arms, 06/04/1988) might be:
+      4 Hilal Dubh (Award of Arms, 06/04/1988)
+    It looks like Etienne des Nuages (Award of Arms, 06/25/1988) might be:
+      2 Etienne de Nuges (Award of Arms, 06/25/1988)
+    It looks like Ávarr Óláfsson (Award of Arms, 07/03/1988) might be:
+      4 Avar Olafsson (Award of Arms, 07/03/1988)
+    It looks like Audric Eisenherz (Award of Arms, 07/23/1988) might be:
+      6 Audric Ironheart (Award of Arms, 07/23/1988)
+    It looks like Roderick of Basing (Manche, 07/30/1988) might be:
+      1 Roderic of Basing (Maunche, 07/30/1988)
+    It looks like Guenevere of Saint Kilda (Award of Arms, 08/18/1988) might be:
+      4 Guenevere of St. Kilda (Award of Arms, 08/18/1988)
+    It looks like Richard Stanley Bowmaker (Sagittarius, 08/18/1988) might be:
+      8 Stanley Bowmaker (Sagittarius, 08/18/1988)
+    It looks like Taliesin of Carreg Cennen (Award of Arms, 08/21/1988) might be:
+      3 Talisin of Carregcennen (Award of Arms, 08/21/1988)
+    It looks like Branwen Ottersby (Grant of Arms, 09/10/1988) might be:
+      9 Bronwyn Acthorn (Grant of Arms, 09/10/1988)
+    It looks like Branwen Ottersby (Court Baroness, 09/10/1988) might be:
+      9 Bronwyn Acthorn (Court Baroness, 09/10/1988)
+    It looks like Browyn Acthor (Grant of Arms, 09/10/1988) might be:
+      2 Bronwyn Acthorn (Grant of Arms, 09/10/1988)
+    It looks like Browyn Acthor (Court Baroness, 09/10/1988) might be:
+      2 Bronwyn Acthorn (Court Baroness, 09/10/1988)
+    It looks like Harald Ulfson (Silver Crescent, 10/29/1988) might be:
+      1 Harald Ulfsson (Silver Crescent, 10/29/1988)
+    It looks like Niccolo de Verona (Award of Arms, 10/29/1988) might be:
+      1 Niccolo da Verona (Award of Arms, 10/29/1988)
+    It looks like eLeri of Nefyn (Award of Arms, 11/05/1988) might be:
+      2 Eleri of Nefyn (Award of Arms, 11/05/1988)
+    It looks like Talon of the Bridge (Award of Arms, 11/05/1988) might be:
+      2 Tallin of the Bridge (Award of Arms, 11/05/1988)
+    It looks like Waylin Adir Dragonsbane (Award of Arms, 12/03/1988) might be:
+      1 Waylin Adair Dragonsbane (Award of Arms, 12/03/1988)
+    It looks like Anna Elisabeth von Gelsenkirchen (Award of Arms, 01/21/1989) might be:
+      1 Anna Elizabeth von Gelsenkirchen (Award of Arms, 01/21/1989)
+    It looks like Bleiddian ap Cynin (Sagittarius, 02/11/1989) might be:
+      1 Bleddian ap Cynin (Sagittarius, 02/11/1989)
+    It looks like Dallán Caradoc of Caernarvon (Sagittarius, 02/11/1989) might be:
+      2 Dalen Caradoc of Caernarvon (Sagittarius, 02/11/1989)
+    It looks like Malachi Olthursson Veasslurd (Silver Crescent, 02/11/1989) might be:
+      1 Malachi Olthursson Veassllurd (Silver Crescent, 02/11/1989)
+    It looks like Malagrog Badgeron Veasslurd (Award of Arms, 02/11/1989) might be:
+      1 Malagrog Badgeron Veassllurd (Award of Arms, 02/11/1989)
+    It looks like Ettienne le Noir (Award of Arms, 03/11/1989) might be:
+      1 Ettiene le Noir (Award of Arms, 03/11/1989)
+    It looks like Rowena ni Dhonnchaidh (Burdened Tyger, 03/18/1989) might be:
+      1 Rowena nic Dhonnchaidh (Burdened Tyger, 03/18/1989)
+    It looks like Persephone de la Mer (Award of Arms, 05/13/1989) might be:
+      9 Persephone of the Waves (Award of Arms, 05/13/1989)
+    It looks like Serric der Grimmige (Award of Arms, 05/13/1989) might be:
+      1 Serric der Grimmig (Award of Arms, 05/13/1989)
+    It looks like Kieran MacCrimmin (Award of Arms, 05/27/1989) might be:
+      1 Kieran MacKrimmin (Award of Arms, 05/27/1989)
+    It looks like Giselle du Pont Avignon (Award of Arms, 06/24/1989) might be:
+      1 Gisele du Pont Avignon (Award of Arms, 06/24/1989)
+    It looks like Brianna Healfseaxe (Award of Arms, 07/01/1989) might be:
+      2 Briane Healfseaxe (Award of Arms, 07/01/1989)
+    It looks like Joana of Blak Rose (Award of Arms, 07/01/1989) might be:
+      1 Joana of Black Rose (Award of Arms, 07/01/1989)
+    It looks like Gabriel of Berkhamsted (Award of Arms, 07/23/1989) might be:
+      2 Gabriel of Barkhamstead (Award of Arms, 07/23/1989)
+    It looks like Clotilda Warhammer (Award of Arms, 09/16/1989) might be:
+      1 Clothilda Warhammer (Award of Arms, 09/16/1989)
+    It looks like Esmeralda la Sabia (Award of Arms, 09/30/1989) might be:
+      3 Esmerelda de Sabia (Award of Arms, 09/30/1989)
+    It looks like Thorgeirr Bollason (Award of Arms, 10/07/1989) might be:
+      2 Thorgeir Bollasson (Award of Arms, 10/07/1989)
+    It looks like Oriana Greycloak (Award of Arms, 11/04/1989) might be:
+      1 Orianna Greycloak (Award of Arms, 11/04/1989)
+    It looks like Geoffrey Chamberlain (Award of Arms, 01/13/1990) might be:
+      1 Goffrey Chamberlain (Award of Arms, 01/13/1990)
+    It looks like Giovanni di Settmour (Award of Arms, 01/13/1990) might be:
+      2 Giovanni of Settmour (Award of Arms, 01/13/1990)
+    It looks like Kristen de Kennett (Award of Arms, 02/03/1990) might be:
+      8 Kristen Kensister (Award of Arms, 02/03/1990)
+    It looks like Sven Svensson (Award of Arms, 02/17/1990) might be:
+      1 Sven Svenson (Award of Arms, 02/17/1990)
+    It looks like Elizabeth Talbot of Meath (Manche, 03/03/1990) might be:
+      9 Elizabeth Talbot (Maunche, 03/03/1990)
+    It looks like Camilla Ginevra di Capri (Silver Crescent, 03/10/1990) might be:
+      3 Camilla Genevre de Capri (Silver Crescent, 03/10/1990)
+    It looks like János Veres (Award of Arms, 04/07/1990) might be:
+      8 Veres Janos (Award of Arms, 04/07/1990)
+    It looks like Anastasia Petrovna Chernaya (Award of Arms, 04/21/1990) might be:
+      1 Anastasia Petrorna Chernaya (Award of Arms, 04/21/1990)
+    It looks like Gunther the Scout (Award of Arms, 04/28/1990) might be:
+      1 Gunthar the Scout (Award of Arms, 04/28/1990)
+    It looks like Ursula of North Woods (Terpsichore, 05/12/1990) might be:
+      2 Ursula of Northwoods (Terpsichore, 05/12/1990)
+    It looks like Guillaume de Chaumont (Award of Arms, 06/23/1990) might be:
+      1 Guillaume de Chaumonte (Award of Arms, 06/23/1990)
+    It looks like Katerina de la Bere (Award of Arms, 06/23/1990) might be:
+      4 Katherine de la Mer (Award of Arms, 06/23/1990)
+    It looks like Fine of Clare (Award of Arms, 07/07/1990) might be:
+      3 Fianna of Clare (Award of Arms, 07/07/1990)
+    It looks like Aquel of Darksted Wood (Manche, 07/21/1990) might be:
+      1 Aquel of Darkstead Wood (Maunche, 07/21/1990)
+    It looks like Branwyn Mwrheyd (Grant of Arms, 08/16/1990) might be:
+      2 Branwen Mwrhead (Grant of Arms, 08/16/1990)
+    It looks like Branwyn Mwrheyd (Court Baroness, 08/16/1990) might be:
+      2 Branwen Mwrhead (Court Baroness, 08/16/1990)
+    It looks like Teric Gwynedd (Tygers Combattant, 08/16/1990) might be:
+      1 Terric Gwynedd (Tygers Combattant, 08/16/1990)
+    It looks like Thorgeirr Bollason (Tygers Combattant, 08/17/1990) might be:
+      1 Thorgeirr Bollasson (Tygers Combattant, 08/17/1990)
+    It looks like Alonso Diaz (Award of Arms, 09/15/1990) might be:
+      1 Alonzo Diaz (Award of Arms, 09/15/1990)
+    It looks like Aelfgar the Wanderer (Award of Arms, 10/20/1990) might be:
+      2 Alefgar the Wanderer (Award of Arms, 10/20/1990)
+    It looks like Rowan Elayne of Kendal (Court Baroness, 10/27/1990) might be:
+      7 Rowan of Kendal (Court Baroness, 10/27/1990)
+    It looks like Richard Blayborne (Award of Arms, 11/03/1990) might be:
+      1 Richard Blayborn (Award of Arms, 11/03/1990)
+    It looks like Elena Norreys (Award of Arms, 12/08/1990) might be:
+      1 Elena Norrys (Award of Arms, 12/08/1990)
+    It looks like Elizabeth of Preston (Tygers Cub, 12/08/1990) might be:
+      8 Elizabeth of Carrigart (Tygers Cub, 12/08/1990)
+    It looks like El of the Two Knives (Court Baron, 01/05/1991) might be:
+      4 El of Two Knives (Court Baron, 01/05/1991)
+    It looks like Domnall MacDaniell (Award of Arms, 01/26/1991) might be:
+      3 Donald MacDaniel (Award of Arms, 01/26/1991)
+    It looks like Elizabeth Curwen (Award of Arms, 01/26/1991) might be:
+      1 Elizabeth Curwin (Award of Arms, 01/26/1991)
+    It looks like Justine Hart (Award of Arms, 01/26/1991) might be:
+      1 Justin Hart (Award of Arms, 01/26/1991)
+    It looks like Aell AEthelwita (Queen's Courtesy, 02/23/1991) might be:
+      1 Aell Aethelwita (Queen's Courtesy, 02/23/1991)
+    It looks like Marcus of House Bedford (Award of Arms, 03/09/1991) might be:
+      2 Magnus of House Bedford (Award of Arms, 03/09/1991)
+    It looks like Þóra Sharptooth (Manche, 03/09/1991) might be:
+      3 Thora Sharptooth (Maunche, 03/09/1991)
+    It looks like Daryl of Avallon (Silver Crescent, 04/06/1991) might be:
+      1 Daryl of Avalon (Silver Crescent, 04/06/1991)
+    It looks like Fine of Clare (Troubadour, 04/06/1991) might be:
+      2 Fiana of Clare (Troubadour, 04/06/1991)
+    It looks like Cassandra Böll von Bayer (Grant of Arms, 04/27/1991) might be:
+      2 Cassandra Boell von Bayer (Grant of Arms, 04/27/1991)
+    It looks like Cassandra Böll von Bayer (Court Baroness, 04/27/1991) might be:
+      2 Cassandra Boell von Bayer (Court Baroness, 04/27/1991)
+    It looks like Fionnghuala Gliobach Mael Ailbe (Award of Arms, 05/04/1991) might be:
+      1 Fionghuala Gliobach Mael Ailbe (Award of Arms, 05/04/1991)
+    It looks like John of Gravesend (Award of Arms, 05/04/1991) might be:
+      2 John of Graves End (Award of Arms, 05/04/1991)
+    It looks like Terence the Arcane (Award of Arms, 05/11/1991) might be:
+      1 Terance the Arcane (Award of Arms, 05/11/1991)
+    It looks like Garreth of Arden (Award of Arms, 05/18/1991) might be:
+      7 Garreth of Arden Forest (Award of Arms, 05/18/1991)
+    It looks like Gwennyth of Tanglewood (Burdened Tyger, 05/18/1991) might be:
+      5 Gwynedd of Tanglewood (Burdened Tyger, 05/18/1991)
+    It looks like Dougal of the Golden Hill (Award of Arms, 06/15/1991) might be:
+      5 Dougall of Golden Hill (Award of Arms, 06/15/1991)
+    It looks like Konner MacPherson (Award of Arms, 06/15/1991) might be:
+      1 Konner MacPhearson (Award of Arms, 06/15/1991)
+    It looks like Phillip of the Golden Stag (Guardsman, 06/15/1991) might be:
+      1 Philip of the Golden Stag (East Kingdom Fencing Award, 06/15/1991)
+    It looks like Amalthea bint Amal Darchealof (Award of Arms, 06/22/1991) might be:
+      2 Amalthea bint Amal Darcheaolf (Award of Arms, 06/22/1991)
+    It looks like Gwydion ab Aeddan (Award of Arms, 07/13/1991) might be:
+      1 Gwydion ap Aeddan (Award of Arms, 07/13/1991)
+    It looks like Amee de Jardyn (Guardsman, 07/27/1991) might be:
+      1 Amee des Jardyn (East Kingdom Fence, 07/27/1991)
+    It looks like Dallán Caradoc of Caernarvon (Silver Crescent, 07/27/1991) might be:
+      2 Dalen Caradoc of Caernarvon (Silver Crescent, 07/27/1991)
+    It looks like Gregory Finche (Guardsman, 07/27/1991) might be:
+      1 Gregory Finch (East Kingdom Fence, 07/27/1991)
+    It looks like János Veres (Tygers Combattant, 08/17/1991) might be:
+      1 Janos Veres (Tygers Combattant, 08/17/1991)
+    It looks like Morgan Deorcwulf (Award of Arms, 09/07/1991) might be:
+      3 Morgon Derocwulf (Award of Arms, 09/07/1991)
+    It looks like Findabhair ni Chonaill (Award of Arms, 09/21/1991) might be:
+      1 Findabhair ni Choneill (Award of Arms, 09/21/1991)
+    It looks like Riobard mac Seosaimh ui Phadraig (Award of Arms, 09/27/1991) might be:
+      8 Riobard McSeosemh an Padraig (Award of Arms, 09/27/1991)
+    It looks like Cailean of Moray (Award of Arms, 09/28/1991) might be:
+      5 Colum of Moray (Award of Arms, 09/28/1991)
+    It looks like Eleanor of Silveroak (Award of Arms, 09/28/1991) might be:
+      2 Eleanor of Silver Oak (Award of Arms, 09/28/1991)
+    It looks like Jorge Johansen (Queen's Courtesy, 09/28/1991) might be:
+      1 Jorg Johansen (Queen's Courtesy, 09/28/1991)
+    It looks like Daryl of Avallon (Mistress of the Laurel, 10/05/1991) might be:
+      1 Daryl of Avalon (Mistress of the Laurel, 10/05/1991)
+    It looks like Irene Lenoir (Award of Arms, 10/05/1991) might be:
+      3 Irene le Noir (Award of Arms, 10/05/1991)
+    It looks like Ariane Baie d'Or (Award of Arms, 12/14/1991) might be:
+      6 Ariane Baccadoro (Award of Arms, 12/14/1991)
+    It looks like Morgana Devereux (Manche, 12/28/1991) might be:
+      1 Morgana Deveraux (Manche, 12/28/1991)
+    It looks like Ceridwen ferch Gruffudd (Award of Arms, 01/04/1992) might be:
+      3 Ceridwen ferch Gurfydd (Award of Arms, 01/04/1992)
+    It looks like Sibán Gallowglass (Award of Arms, 01/04/1992) might be:
+      5 Shannon Gallowglass (Award of Arms, 01/04/1992)
+    It looks like Catherine Ecceles (Award of Arms, 02/29/1992) might be:
+      2 Katherine Eccles (Award of Arms, 02/29/1992)
+    It looks like Charis Accipiter (Award of Arms, 02/29/1992) might be:
+      1 Cheris Accipiter (Award of Arms, 02/29/1992)
+    It looks like Juliana Stafford (Award of Arms, 02/29/1992) might be:
+      1 Julliana Stafford (Award of Arms, 02/29/1992)
+    It looks like Balfar von Gruenwald (Count, 04/04/1992) might be:
+      1 Balfar von Grunwald (Count, 04/04/1992)
+    It looks like Dunstan of Thorun Watch (Burdened Tyger, 04/04/1992) might be:
+      1 Dunstan of Thorum Watch (Burdened Tyger, 04/04/1992)
+    It looks like Gwydion Rhys ap Rhianwen (Award of Arms, 04/04/1992) might be:
+      3 Gwydion ap Rhys ap Rhianwen (Award of Arms, 04/04/1992)
+    It looks like Oglesby Armstrong Smythe (Manche, 04/04/1992) might be:
+      2 Ogelsby Armstrong Smythe (Manche, 04/04/1992)
+    It looks like Gwladys Chittenden (Award of Arms, 04/11/1992) might be:
+      6 Gwaldis Chitaindun (Award of Arms, 04/11/1992)
+    It looks like Màiri ni Raghallaigh (Manche, 04/25/1992) might be:
+      1 Mairi ni Raghallaigh (Manche, 04/25/1992)
+    It looks like Torrin the Wanderer (Tygers Combattant, 05/23/1992) might be:
+      1 Torren the Wanderer (Tygers Combattant, 05/23/1992)
+    It looks like Ailean Mac an Daraich (Award of Arms, 06/13/1992) might be:
+      2 Ailean Mac an Daroch (Award of Arms, 06/13/1992)
+    It looks like Macsen ap Rhys of Wyvern Hall (Award of Arms, 06/13/1992) might be:
+      4 Macsen ap Rhys of Whyverhall (Award of Arms, 06/13/1992)
+    It looks like Otto von Mergenthal (Award of Arms, 06/13/1992) might be:
+      2 Otto von Mergenthaler (Award of Arms, 06/13/1992)
+    It looks like Garth McEwen the Tinker (Award of Arms, 06/27/1992) might be:
+      7 Garth the Tinker (Award of Arms, 06/27/1992)
+    It looks like Rundaeg von Trier (Tygers Combattant, 07/11/1992) might be:
+      1 Runedaeg von Trier (Tygers Combattant, 07/11/1992)
+    It looks like Richard von Alaricsberg (Award of Arms, 07/18/1992) might be:
+      1 Richard von Alaricsburg (Award of Arms, 07/18/1992)
+    It looks like Alaric von Alaricsburg (Award of Arms, 07/18/1992) might be:
+      6 Richard von Alaricsburg (Award of Arms, 07/18/1992)
+    It looks like Caitriona MacDuff (Manche, 07/25/1992) might be:
+      7 Catriona nic Duibh (Manche, 07/25/1992)
+    It looks like Fatima Isabella Villalobos (Award of Arms, 07/25/1992) might be:
+      9 Fatima Villalobos (Award of Arms, 07/25/1992)
+    It looks like Bleiddian ap Cynin (Silver Crescent, 08/12/1992) might be:
+      1 Bleddian ap Cynin (Silver Crescent, 08/12/1992)
+    It looks like Brita Mairi Svensdottir (Golden Rapier, 08/12/1992) might be:
+      2 Brita Marie Svensdottir (High Merit for Fence, 08/12/1992)
+    It looks like Þóra Sharptooth (Mistress of the Laurel, 08/12/1992) might be:
+      3 Thora Sharptooth (Mistress of the Laurel, 08/12/1992)
+    It looks like Torin Ertheshert (Manche, 08/12/1992) might be:
+      1 Torin Erthesheart (Manche, 08/12/1992)
+    It looks like Aetheric Lindberende (Award of Arms, 09/19/1992) might be:
+      3 Aetheric Lindebaerend (Award of Arms, 09/19/1992)
+    It looks like Fujiwara Tamemoto (Award of Arms, 09/19/1992) might be:
+      2 Fujiwara Tametomo (Award of Arms, 09/19/1992)
+    It looks like Boaz of Zarthan (Award of Arms, 10/03/1992) might be:
+      1 Boaz of Zartham (Award of Arms, 10/03/1992)
+    It looks like Cynthia of Oakenwode (Award of Arms, 10/03/1992) might be:
+      2 Cynthia of Oakenwood (Award of Arms, 10/03/1992)
+    It looks like Francesca Laura di Firenze (Burdened Tyger, 10/03/1992) might be:
+      6 Francesca di Firenze (Burdened Tyger, 10/03/1992)
+    It looks like Marcus Blödax (Court Baron, 10/03/1992) might be:
+      5 Magnus Bloodaxe (Court Baron, 10/03/1992)
+    It looks like Padraig Dubh MacEanruig (Tygers Combattant, 10/03/1992) might be:
+      5 Padraig MacEanruig (Tygers Combattant, 10/03/1992)
+    It looks like Cáemgen mac Daill (Award of Arms, 10/31/1992) might be:
+      3 Caemgen MacDaill (Award of Arms, 10/31/1992)
+    It looks like Eleanor atte Knolle (Award of Arms, 10/31/1992) might be:
+      1 Eleanor atte Knoll (Award of Arms, 10/31/1992)
+    It looks like Estrella de los Confines (Award of Arms, 10/31/1992) might be:
+      3 Estreya de los Confinos (Award of Arms, 10/31/1992)
+    It looks like Robert the Doubtfull (Award of Arms, 10/31/1992) might be:
+      1 Robert the Doubtful (Award of Arms, 10/31/1992)
+    It looks like Avelina Perceval (Award of Arms, 11/07/1992) might be:
+      1 Avelina Percival (Award of Arms, 11/07/1992)
+    It looks like Cerridwen Paxton (Award of Arms, 11/21/1992) might be:
+      2 Cyridwen Paxton (Award of Arms, 11/21/1992)
+    It looks like Christence Heiseler (Award of Arms, 11/21/1992) might be:
+      5 Christence von Heisler (Award of Arms, 11/21/1992)
+    It looks like Mary Theophania Hunn (Award of Arms, 11/21/1992) might be:
+      9 Mary the Hun (Award of Arms, 11/21/1992)
+    It looks like Alexandre-Gulber des Chasses (Award of Arms, 12/05/1992) might be:
+      1 Alexandre-fulber des Chasses (Award of Arms, 12/05/1992)
+    It looks like Ulric von der Insel (Award of Arms, 12/19/1992) might be:
+      4 Ulric von Insel (Award of Arms, 12/19/1992)
+    It looks like Browyn Acthor (Silver Crescent, 01/02/1993) might be:
+      4 Bronwyn Achthorne (Silver Crescent, 01/02/1993)
+    It looks like Jean-Edme du Corbeau Blanc (Award of Arms, 01/02/1993) might be:
+      1 Jean Edme du Corbeau Blanc (Award of Arms, 01/02/1993)
+    It looks like Aelfric of Sarisberie (Award of Arms, 01/23/1993) might be:
+      1 Aelfric of Sarisberi (Award of Arms, 01/23/1993)
+    It looks like Anastasia of the Oaks (Award of Arms, 01/23/1993) might be:
+      8 Anastasia of Whispering Oaks (Award of Arms, 01/23/1993)
+    It looks like Irene Lenoir (Manche, 01/23/1993) might be:
+      3 Irene le Noir (Manche, 01/23/1993)
+    It looks like Krakken Gnashbone (Award of Arms, 01/23/1993) might be:
+      1 Krakken Gnoshbone (Award of Arms, 01/23/1993)
+    It looks like Safiya of the Shifting Sands (Award of Arms, 01/23/1993) might be:
+      2 Sofia of the Shifting Sands (Award of Arms, 01/23/1993)
+    It looks like Stephen the Salacious (Award of Arms, 02/27/1993) might be:
+      3 Stephen the Selesious (Award of Arms, 02/27/1993)
+    It looks like Dulcinea from the Moor (Award of Arms, 03/27/1993) might be:
+      4 Dulcinea of the Moors (Award of Arms, 03/27/1993)
+    It looks like Ambrosius Kyriell the Misguided (Award of Arms, 04/03/1993) might be:
+      8 Ambrosius the Misguided (Award of Arms, 04/03/1993)
+    It looks like Karl of Meerstapa (Award of Arms, 04/03/1993) might be:
+      2 Karl of Mierstopa (Award of Arms, 04/03/1993)
+    It looks like Meadhbh Cnoc na Rea (Manche, 04/03/1993) might be:
+      7 Maeve Cnoc na Rae (Manche, 04/03/1993)
+    It looks like Micheal Fledermus (Manche, 04/03/1993) might be:
+      7 Michael die Fledermaus (Manche, 04/03/1993)
+    It looks like Suzanne Neuber de Londres (Award of Arms, 04/03/1993) might be:
+      7 Suzanne de Londres (Award of Arms, 04/03/1993)
+    It looks like Þóra Sharptooth (Silver Crescent, 04/03/1993) might be:
+      3 Thora Sharptooth (Silver Crescent, 04/03/1993)
+    It looks like Pyrophylus (Award of Arms, 04/03/1993) might be:
+      9 Caitlyne (Award of Arms, 04/03/1993)
+    It looks like Caias Milees (Award of Arms, 04/03/1993) might be:
+      8 Caitlyne (Award of Arms, 04/03/1993)
+    It looks like Elizabeth Cameron nic Iain (Manche, 04/24/1993) might be:
+      2 Elizabeth Camerona nic Ian (Manche, 04/24/1993)
+    It looks like Albreda Aylese (Award of Arms, 05/22/1993) might be:
+      3 Albreda Elise (Award of Arms, 05/22/1993)
+    It looks like Lauretta diMondragon (Award of Arms, 05/22/1993) might be:
+      1 Lauretta DiMondragon (Award of Arms, 05/22/1993)
+    It looks like Gunther Englehaus (Award of Arms, 05/29/1993) might be:
+      1 Gunther Anglehaus (Award of Arms, 05/29/1993)
+    It looks like Gunther Englehaus (Terpsichore, 05/29/1993) might be:
+      1 Gunther Anglehaus (Terpsichore, 05/29/1993)
+    It looks like Erich Forester (Award of Arms, 05/30/1993) might be:
+      2 Eric Forrester (Award of Arms, 05/30/1993)
+    It looks like Leandra du Bois (Award of Arms, 05/30/1993) might be:
+      5 Leandra de Boisvert (Award of Arms, 05/30/1993)
+    It looks like Lorcan Dracontius (Award of Arms, 06/05/1993) might be:
+      5 Lorcan Dracularum (Award of Arms, 06/05/1993)
+    It looks like Eva van Oudeachterkol (Manche, 07/10/1993) might be:
+      1 Eva von Oudeachterkol (Manche, 07/10/1993)
+    It looks like Camma an Daraich (Award of Arms, 07/24/1993) might be:
+      2 Camma an Daroch (Award of Arms, 07/24/1993)
+    It looks like Gregor Heiseler (Manche, 07/24/1993) might be:
+      4 Gregor von Heiseler (Manche, 07/24/1993)
+    It looks like Thorvaldr Olafsson (Award of Arms, 07/31/1993) might be:
+      2 Thorvald Olafson (Award of Arms, 07/31/1993)
+    It looks like Caitriona MacDuff (Mistress of the Laurel, 08/19/1993) might be:
+      7 Catriona nic Duibh (Mistress of the Laurel, 08/19/1993)
+    It looks like Geoffrey Fitz Galen (Tygers Combattant, 08/19/1993) might be:
+      1 Geoffrey FitzGalen (Tygers Combattant, 08/19/1993)
+    It looks like Elizabeth Talbot of Meath (Mistress of the Laurel, 08/21/1993) might be:
+      9 Elizabeth Talbot (Mistress of the Laurel, 08/21/1993)
+    It looks like Christopher of Haslingden (Award of Arms, 10/30/1993) might be:
+      2 Christopher of Halflingden (Award of Arms, 10/30/1993)
+    It looks like Brion mac Eideard of Westmoor (Award of Arms, 11/27/1993) might be:
+      1 Brion mac Eidard of Westmoor (Award of Arms, 11/27/1993)
+    It looks like Charles the Indecisive (Tygers Cub, 11/27/1993) might be:
+      5 Charles the Undecided (Tygers Cub, 11/27/1993)
+    It looks like Eleanor of Silveroak (Sagittarius, 11/27/1993) might be:
+      2 Eleanor of Silver Oak (Sagittarius, 11/27/1993)
+    It looks like Lyanna of Kerneough (Mistress of the Pelican, 11/27/1993) might be:
+      1 Lyanna of Kernough (Mistress of the Pelican, 11/27/1993)
+    It looks like Madelyn Catherwood (Silver Crescent, 11/27/1993) might be:
+      1 Madelyne Catherwood (Silver Crescent, 11/27/1993)
+    It looks like Rhiannon y Ddraig (Award of Arms, 11/27/1993) might be:
+      2 Rhiannon y Dragg (Award of Arms, 11/27/1993)
+    It looks like Julyan Lyttleton (Award of Arms, 12/11/1993) might be:
+      1 Julyan Littleton (Award of Arms, 12/11/1993)
+    It looks like Petrus filius Silvein (Award of Arms, 12/11/1993) might be:
+      9 Petrus of the Sylvan (Award of Arms, 12/11/1993)
+    It looks like Allyn Min Teanga (Sagittarius, 01/08/1994) might be:
+      1 Allyn min Teanga (Sagittarius, 01/08/1994)
+    It looks like eLeri of Nefyn (Silver Crescent, 01/08/1994) might be:
+      2 Eleri of Nefyn (Silver Crescent, 01/08/1994)
+    It looks like Amber Stormwolfe (Mistress of the Laurel, 01/15/1994) might be:
+      1 Amber Sturmwolfe (Mistress of the Laurel, 01/15/1994)
+    It looks like Bruinnech Longstrider (Award of Arms, 01/15/1994) might be:
+      6 Bryana Longstrider (Award of Arms, 01/15/1994)
+    It looks like Dughal McCafferty (Award of Arms, 01/15/1994) might be:
+      4 Dougall MacCafferty (Award of Arms, 01/15/1994)
+    It looks like Liana vom Schwarzwald (Award of Arms, 01/15/1994) might be:
+      2 Liana von Schwartzwald (Award of Arms, 01/15/1994)
+    It looks like Richard von Alaricsberg (Manche, 01/15/1994) might be:
+      1 Richard von Alaricsburg (Manche, 01/15/1994)
+    It looks like Andre Kirlov, of House Wilmot (Award of Arms, 01/29/1994) might be:
+      8 Andre of House Wilmot (Award of Arms, 01/29/1994)
+    It looks like Konrad von Ulm (Award of Arms, 01/29/1994) might be:
+      4 Konrad Ulm (Award of Arms, 01/29/1994)
+    It looks like Peregrine de Caerleon (Award of Arms, 01/29/1994) might be:
+      1 Perigrine de Caerleon (Award of Arms, 01/29/1994)
+    It looks like Gabriella La Volpe Rossa (Award of Arms, 02/05/1994) might be:
+      1 Gabriella la Volpe Rossa (Award of Arms, 02/05/1994)
+    It looks like Uther Hardwin (Award of Arms, 03/12/1994) might be:
+      1 Uther Hardwind (Award of Arms, 03/12/1994)
+    It looks like eLeri of Nefyn (Burdened Tyger, 04/09/1994) might be:
+      2 Eleri of Nefyn (Burdened Tyger, 04/09/1994)
+    It looks like Evaine ferch Brangwen (Silver Crescent, 04/09/1994) might be:
+      2 Elaine ferch Brangwyn (Silver Crescent, 04/09/1994)
+    It looks like Serric der Grimmige (Manche, 10/01/1994) might be:
+      1 Serric der Grimmig (Manche, 10/01/1994)
+    It looks like Katerina la Bisbetica (Award of Arms, 10/15/1994) might be:
+      2 Katerina la Bisbiteca (Award of Arms, 10/15/1994)
+    It looks like Cienna of Lyonncourt (Award of Arms, 12/10/1994) might be:
+      3 Cienna Lyonncourt (Award of Arms, 12/10/1994)
+    It looks like Kai Maclane (Sagittarius, 12/10/1994) might be:
+      3 Kai MacLean (Sagittarius, 12/10/1994)
+    It looks like Randal of the Dark (Master of the Pelican, 01/07/1995) might be:
+      1 Randall of the Dark (Pelican, 01/07/1995)
+    It looks like Stephen the Salacious (Manche, 01/07/1995) might be:
+      1 Stephan the Salacious (Manche, 01/07/1995)
+    It looks like Bhlosgaidh O'Dana Mor (Grant of Arms, 01/21/1995) might be:
+      3 Blosgaidh o Dana Mor (Grant of Arms, 01/21/1995)
+    It looks like Bhlosgaidh O'Dana Mor (Court Baron, 01/21/1995) might be:
+      3 Blosgaidh o Dana Mor (Court Baron, 01/21/1995)
+    It looks like Christence Heiseler (Duchess, 04/01/1995) might be:
+      5 Christence von Heisler (Duchess, 04/01/1995)
+    It looks like Gregor Heiseler (Duke, 04/01/1995) might be:
+      5 Gregor von Heisler (Duke, 04/01/1995)
+    It looks like Calum Ó Moráin (Award of Arms, 06/10/1995) might be:
+      3 Calum O’Morain (Award of Arms, 06/10/1995)
+    It looks like Elizabeth Rosa della Morta (Award of Arms, 06/10/1995) might be:
+      4 Elspeth Rosa della Morta (Award of Arms, 06/10/1995)
+    It looks like Mikael McCue (Award of Arms, 06/10/1995) might be:
+      2 Mikeal McCue (Award of Arms, 06/10/1995)
+    It looks like Christian von Jaueregk (Troubadour, 06/24/1995) might be:
+      1 Christian von Jauregk (Troubadour, 06/24/1995)
+    It looks like Dugald the Sheepstealer (Award of Arms, 07/15/1995) might be:
+      7 Douglas Sheepstealer (Award of Arms, 07/15/1995)
+    It looks like Edmund O'Rourke (Tygers Combattant, 07/15/1995) might be:
+      1 Edmund O’Rourke (Tygers Combattant, 07/15/1995)
+    It looks like Elizabeth Elenore Lovell (Award of Arms, 07/29/1995) might be:
+      8 Elizabeth Lovell (Award of Arms, 07/29/1995)
+    It looks like Fine of Clare (Queen's Courtesy, 07/29/1995) might be:
+      2 Fiana of Clare (Queen's Courtesy, 07/29/1995)
+    It looks like Nia Catrin nic Teamhain (Silver Crescent, 07/29/1995) might be:
+      8 Nia nic Teambhain (Silver Crescent, 07/29/1995)
+    It looks like Rose Mary Goodheart (Award of Arms, 07/29/1995) might be:
+      2 Rosemary Goodheart (Award of Arms, 07/29/1995)
+    It looks like Browyn the Cheerful (Award of Arms, 08/17/1995) might be:
+      1 Bronwyn the Cheerful (Award of Arms, 08/17/1995)
+    It looks like Jean Philippe des Bouviers Noirs (Award of Arms, 08/17/1995) might be:
+      5 Jean Phillipe de Bouvier Noir (Award of Arms, 08/17/1995)
+    It looks like Kamilla van Anderlecht (Queen's Courtesy, 08/17/1995) might be:
+      1 Kamilla von Anderlecht (Queen's Courtesy, 08/17/1995)
+    It looks like Niccolo di Palermo (Award of Arms, 08/17/1995) might be:
+      3 Nico di Palermo (Award of Arms, 08/17/1995)
+    It looks like Màiri ni Raghallaigh (Grant of Arms, 08/19/1995) might be:
+      3 Mairi ni Raghalliah (Grant of Arms, 08/19/1995)
+    It looks like Stephen the Salacious (Grant of Arms, 09/16/1995) might be:
+      3 Stefan the Salacious (Grant of Arms, 09/16/1995)
+    It looks like Stephen the Salacious (Court Baron, 09/16/1995) might be:
+      3 Stefan the Salacious (Court Baron, 09/16/1995)
+    It looks like Caitlin Sorcha O’Doghartie (Award of Arms, 09/30/1995) might be:
+      6 Caitlin Sorcha Dochartaigh (Award of Arms, 09/30/1995)
+    It looks like Gabrielle van Nijenrode (Countess, 09/30/1995) might be:
+      2 Gabrielle von Njenrode (Countess, 09/30/1995)
+    It looks like Gabrielle van Nijenrode (Lady of the Rose, 09/30/1995) might be:
+      2 Gabrielle von Njenrode (Lady of the Rose, 09/30/1995)
+    It looks like Rosamund d'Alwareton (Manche, 10/07/1995) might be:
+      1 Rosamund d’Alwareton (Maunche, 10/07/1995)
+    It looks like André l’Épervier (Award of Arms, 01/20/1996) might be:
+      6 Andre le Eterzier (Award of Arms, 01/20/1996)
+    It looks like Murtagh MacKenzie (Award of Arms, 02/10/1996) might be:
+      1 Murtaugh MacKenzie (Award of Arms, 02/10/1996)
+    It looks like Richard von Alaricsberg (Sagittarius, 02/10/1996) might be:
+      1 Richard von Alaricsburg (Sagittarius, 02/10/1996)
+    It looks like Seosamh Ó Chóda (Silver Crescent, 02/10/1996) might be:
+      3 Seosamh O’Choda (Silver Crescent, 02/10/1996)
+    It looks like Balfar von Gruenwald (Duke, 04/13/1996) might be:
+      1 Balfar von Grunwald (Duke, 04/13/1996)
+    It looks like Camma an Daraich (Sagittarius, 04/13/1996) might be:
+      2 Camma an Daroch (Sagittarius, 04/13/1996)
+    It looks like Catrin o'r Rhyd Fôr (Mistress of the Laurel, 04/13/1996) might be:
+      2 Catrin o’r Rhyd For (Mistress of the Laurel, 04/13/1996)
+    It looks like Daryl of Avallon (Mistress of the Pelican, 04/13/1996) might be:
+      1 Daryl of Avalon (Mistress of the Pelican, 04/13/1996)
+    It looks like Hálfdan langleggr (Burdened Tyger, 04/13/1996) might be:
+      5 Halfdan Longlegged (Burdened Tyger, 04/13/1996)
+    It looks like Konrad von Ulm (Tygers Combattant, 04/13/1996) might be:
+      4 Konrad Ulm (Tygers Combattant, 04/13/1996)
+    It looks like Mark Squirrelsbane (Sagittarius, 04/13/1996) might be:
+      1 Marc Squirrelsbane (Sagittarius, 04/13/1996)
+    It looks like Hálfdan langleggr (Award of Arms, 04/20/1996) might be:
+      5 Halfdan Longlegs (Award of Arms, 04/20/1996)
+    It looks like Alexander the Storyteller (Manche, 05/18/1996) might be:
+      4 Alexander Storyteller (Manche, 05/18/1996)
+    It looks like Colin Tyndall de ffrayser (Grant of Arms, 05/18/1996) might be:
+      1 Colin Tyndall de Ffrayser (Grant of Arms, 05/18/1996)
+    It looks like Colin Tyndall de ffrayser (Baron of the Court, 05/18/1996) might be:
+      1 Colin Tyndall de Ffrayser (Court Baron, 05/18/1996)
+    It looks like Marared Llangarron (Award of Arms, 05/18/1996) might be:
+      2 Mairgred Llangarron (Award of Arms, 05/18/1996)
+    It looks like Fionnach nic Shearlais (Award of Arms, 05/26/1996) might be:
+      4 Fiona nic Shearlis (Award of Arms, 05/26/1996)
+    It looks like Harald Ulfson (Master of the Pelican, 05/26/1996) might be:
+      1 Harold Ulfson (Master of the Pelican, 05/26/1996)
+    It looks like Laurel O hAodha (Award of Arms, 07/06/1996) might be:
+      1 Laurel o hAodha (Award of Arms, 07/06/1996)
+      7 Sorcha o hAodha (Award of Arms, 07/06/1996)
+    It looks like Sorcha O hAodha (Award of Arms, 07/06/1996) might be:
+      1 Sorcha o hAodha (Award of Arms, 07/06/1996)
+      7 Laurel o hAodha (Award of Arms, 07/06/1996)
+    It looks like Aelfwyn Marie von Augsburg (Silver Crescent, 07/20/1996) might be:
+      1 Alfwyn Marie von Augsburg (Silver Crescent, 07/20/1996)
+    It looks like Kristell of the Armerie (Grant of Arms, 07/20/1996) might be:
+      9 Kristal Armerie (Grant of Arms, 07/20/1996)
+    It looks like Iseault Blaecstan (Manche, 07/27/1996) might be:
+      1 Iseaulte Blaecstan (Manche, 07/27/1996)
+    It looks like Richenda de Cameron (Mistress of the Laurel, 08/16/1996) might be:
+      3 Richenda Cameron (Mistress of the Laurel, 08/16/1996)
+    It looks like Megan Laine (Mistress of the Pelican, 08/17/1996) might be:
+      3 Megan ni Laine (Mistress of the Pelican, 08/17/1996)
+    It looks like Agnarr Skulason (Award of Arms, 09/07/1996) might be:
+      2 Agnar Skullson (Award of Arms, 09/07/1996)
+    It looks like Eilís ní Bhraonáin (Award of Arms, 09/07/1996) might be:
+      6 Eilis ni Broanin (Award of Arms, 09/07/1996)
+    It looks like Ivan Jarnev (Award of Arms, 09/07/1996) might be:
+      9 Pegan Graham (Award of Arms, 09/07/1996)
+    It looks like Pagan Graeme (Award of Arms, 09/07/1996) might be:
+      4 Pegan Graham (Award of Arms, 09/07/1996)
+    It looks like Rennata MacDougall (Mistress of the Pelican, 09/07/1996) might be:
+      1 Rennata MacDougalls (Mistress of the Pelican, 09/07/1996)
+    It looks like Thorgeirr Bollason (Manche, 09/07/1996) might be:
+      1 Thorgeirr Bollasson (Manche, 09/07/1996)
+    It looks like Morgana Devereux (Burdened Tyger, 09/28/1996) might be:
+      1 Morgana Devereaux (Burdened Tyger, 09/28/1996)
+    It looks like Christence Heiseler (Manche, 10/05/1996) might be:
+      5 Christence von Heisler (Maunche, 10/05/1996)
+    It looks like Conor Ó Ceallaigh (Award of Arms, 10/05/1996) might be:
+      7 Connor O’Caelliegh (Award of Arms, 10/05/1996)
+    It looks like Gregor Heiseler (Queen's Courtesy, 10/05/1996) might be:
+      5 Gregor von Heisler (Queen's Courtesy, 10/05/1996)
+    It looks like Gunnarr the Smith (Manche, 10/05/1996) might be:
+      1 Gunnar the Smith (Maunche, 10/05/1996)
+    It looks like Irene Lenoir (Grant of Arms, 10/05/1996) might be:
+      3 Irene le Noir (Grant of Arms, 10/05/1996)
+    It looks like Irene Lenoir (Court Baroness, 10/05/1996) might be:
+      3 Irene le Noir (Court Baroness, 10/05/1996)
+    It looks like Michal Almond de Champagne (Silver Crescent, 10/05/1996) might be:
+      1 Michel Almond de Champagne (Silver Crescent, 10/05/1996)
+    It looks like Oswald von dem Grünwald (Master of the Laurel, 10/05/1996) might be:
+      1 Oswald von dem Grunwald (Master of the Laurel, 10/05/1996)
+    It looks like Geoffrey de Wygan (Queen's Courtesy, 10/20/1996) might be:
+      1 Geoffrey de Wygand (Queen's Courtesy, 10/20/1996)
+    It looks like Ana Ravaya de Guzmán (Award of Arms, 10/26/1996) might be:
+      4 Anabel Ravaya de Guzman (Award of Arms, 10/26/1996)
+    It looks like Angus Scrymgeoure (Award of Arms, 11/02/1996) might be:
+      1 Angus Scrymgeour (Award of Arms, 11/02/1996)
+    It looks like Logan Mc Tavish (Award of Arms, 11/02/1996) might be:
+      1 Logan McTavish (Award of Arms, 11/02/1996)
+    It looks like Ragnarr Two-Axe of the Swamp (Manche, 11/02/1996) might be:
+      8 Ragnarr Two-Axe of the Reeking Swamp (Manche, 11/02/1996)
+    It looks like Caterina Gioacchini (Award of Arms, 11/23/1996) might be:
+      3 Caterina Giaoccini (Award of Arms, 11/23/1996)
+    It looks like Domhnal MacFhionndara (Award of Arms, 11/23/1996) might be:
+      3 Domnail MacFhiondara (Award of Arms, 11/23/1996)
+    It looks like Adrianna of Aberystwyth (Manche, 11/30/1996) might be:
+      2 Adriana of Aberstwyth (Manche, 11/30/1996)
+    It looks like Elizabeth Darnley (Award of Arms, 11/30/1996) might be:
+      2 Elisabeth Darnsley (Award of Arms, 11/30/1996)
+    It looks like Elkin de Verre (Manche, 11/30/1996) might be:
+      2 Elkin du Vere (Manche, 11/30/1996)
+    It looks like Lyanna of Kerneough (Queen's Courtesy, 11/30/1996) might be:
+      1 Lyanna of Kernough (Queen's Courtesy, 11/30/1996)
+    It looks like Geoffrey de Wygan (Award of Arms, 12/07/1996) might be:
+      1 Geoffrey de Wygand (Award of Arms, 12/07/1996)
+    It looks like Rowan Elvesham (Award of Arms, 12/07/1996) might be:
+      4 Rowan Elfhame (Award of Arms, 12/07/1996)
+    It looks like Adrian Alonzo De Cadiz (Award of Arms, 12/14/1996) might be:
+      8 Adrian de Cadiz (Award of Arms, 12/14/1996)
+    It looks like Cristovau Vasquez (Troubadour, 12/14/1996) might be:
+      1 Christovau Vasquez (Troubadour, 12/14/1996)
+    It looks like Ragnar of Silverlake (Award of Arms, 12/14/1996) might be:
+      6 Ragnar of the Silver Lake (Award of Arms, 12/14/1996)
+    It looks like Harold Longfellow (Troubadour, 01/25/1997) might be:
+      1 Harald Longfellow (Troubadour, 01/25/1997)
+    It looks like Kali Harlansson of Gotland (Queen's Courtesy, 01/25/1997) might be:
+      1 Kale Harlansson of Gotland (Queen's Courtesy, 01/25/1997)
+    It looks like Dughal McCafferty (Terpsichore, 02/01/1997) might be:
+      1 Dugal McCafferty (Terpsichore, 02/01/1997)
+    It looks like Yitzhak ibn Yoshua (Award of Arms, 02/01/1997) might be:
+      1 Yitzhak iben Yoshua (Award of Arms, 02/01/1997)
+    It looks like Aleysia Trelease (Award of Arms, 02/22/1997) might be:
+      2 Alaycia Trelease (Award of Arms, 02/22/1997)
+    It looks like Genevieve de Cauldfont (Manche, 02/22/1997) might be:
+      3 Genevieve de Caulde Font (Manche, 02/22/1997)
+    It looks like eLeri of Nefyn (Queen's Courtesy, 03/08/1997) might be:
+      2 Eleri of Nefyn (Queen's Courtesy, 03/08/1997)
+    It looks like Failtigearna ingen uí Artáin (Troubadour, 03/08/1997) might be:
+      9 Faoiltigearna Muirinn ni Artain (Troubadour, 03/08/1997)
+    It looks like Kyran O’Conghaile (Award of Arms, 03/08/1997) might be:
+      5 Kyran O’Connelly (Award of Arms, 03/08/1997)
+    It looks like Rüdiger Lutz (Award of Arms, 03/08/1997) might be:
+      3 Ruteger Lutz (Award of Arms, 03/08/1997)
+    It looks like Geoffrei St. Albans of Eastwood (Sagittarius, 03/22/1997) might be:
+      1 Geoffrey St. Albans of Eastwood (Sagittarius, 03/22/1997)
+    It looks like Grace Chamberlaine (Award of Arms, 04/05/1997) might be:
+      1 Grace Chamberlain (Award of Arms, 04/05/1997)
+    It looks like Susana del Lago (Grant of Arms, 04/05/1997) might be:
+      1 Susanna del Lago (Grant of Arms, 04/05/1997)
+    It looks like Edward MacGyver (Award of Arms, 05/31/1997) might be:
+      2 Eduard MacGuyver (Award of Arms, 05/31/1997)
+    It looks like Elisheva bas Yehuda ha Cohen (Grant of Arms, 05/31/1997) might be:
+      9 Elisheva bas Yehuda (Grant of Arms, 05/31/1997)
+    It looks like Elisheva bas Yehuda ha Cohen (Court Baroness, 05/31/1997) might be:
+      9 Elisheva bas Yehuda (Court Baroness, 05/31/1997)
+    It looks like Llywelyn Chwith (Award of Arms, 05/31/1997) might be:
+      2 Llewellyn Chwith (Award of Arms, 05/31/1997)
+    It looks like Davíd de Londres (Award of Arms, 07/26/1997) might be:
+      1 David de Londres (Award of Arms, 07/26/1997)
+    It looks like Conor MacKaine (Award of Arms, 09/13/1997) might be:
+      1 Connor MacKaine (Award of Arms, 09/13/1997)
+    It looks like Grímr Víthfari (Award of Arms, 09/13/1997) might be:
+      2 Grimr Vithfari (Award of Arms, 09/13/1997)
+    It looks like Hassan abdul Raschid al-Turki (Award of Arms, 09/13/1997) might be:
+      8 Hassan al Rashid ibn Turki (Award of Arms, 09/13/1997)
+    It looks like Johann the Alchemist (Award of Arms, 09/13/1997) might be:
+      1 Johan the Alchemist (Award of Arms, 09/13/1997)
+    It looks like Thorolf Egillsen (Award of Arms, 09/13/1997) might be:
+      1 Thorolf Egillson (Award of Arms, 09/13/1997)
+    It looks like Alexander ap Talhaearn (Award of Arms, 09/27/1997) might be:
+      1 Alexander ap Talhearn (Award of Arms, 09/27/1997)
+    It looks like Kai Maclane (Manche, 09/27/1997) might be:
+      3 Kai MacLain (Manche, 09/27/1997)
+    It looks like Randall Vihar Farkas (Manche, 09/27/1997) might be:
+      1 Randal Vihar Farkas (Manche, 09/27/1997)
+    It looks like Fine of Clare (Mistress of the Laurel, 10/25/1997) might be:
+      2 Fiana of Clare (Mistress of the Laurel, 10/25/1997)
+    It looks like Nyven Fiak (Award of Arms, 10/25/1997) might be:
+      2 Nyven Fiach (Award of Arms, 10/25/1997)
+    It looks like Brenna nic Adam (Troubadour, 11/08/1997) might be:
+      1 Brynna nic Adam (Troubadour, 11/08/1997)
+    It looks like Elisheva bas Yehuda ha Cohen (Silver Crescent, 01/03/1998) might be:
+      9 Elisheva bas Yehuda (Silver Crescent, 01/03/1998)
+    It looks like Caitlin ni Chinneidigh (Award of Arms, 01/24/1998) might be:
+      2 Caitlin ni Chinnodigh (Award of Arms, 01/24/1998)
+    It looks like Jehanne de Wodeford (Award of Arms, 01/24/1998) might be:
+      2 Jehanne de Woodford (Award of Arms, 01/24/1998)
+    It looks like Joshua Redhawk (Award of Arms, 01/24/1998) might be:
+      1 Joshua Redhawke (Award of Arms, 01/24/1998)
+    It looks like Micaela Annunziata (Award of Arms, 01/24/1998) might be:
+      1 Micaila Annunziata (Award of Arms, 01/24/1998)
+    It looks like Uilleam MacLeòid (Award of Arms, 01/24/1998) might be:
+      1 Uilleam MacLeoid (Award of Arms, 01/24/1998)
+    It looks like Ruaidhri an Cu (Award of Arms, 02/07/1998) might be:
+      3 Rhodhri an Cu (Award of Arms, 02/07/1998)
+    It looks like Averill Danielson (Award of Arms, 02/21/1998) might be:
+      1 Averil Danielson (Award of Arms, 02/21/1998)
+    It looks like Ghazalah al-Badriyyah (Award of Arms, 02/21/1998) might be:
+      1 Ghazallah al-Badriyyah (Award of Arms, 02/21/1998)
+    It looks like Michal Almond de Champagne (Queen's Courtesy, 02/21/1998) might be:
+      1 Michel Almond de Champagne (Queen's Courtesy, 02/21/1998)
+    It looks like Alpin McKinnon (Award of Arms, 02/28/1998) might be:
+      1 Alpin MacKinnon (Award of Arms, 02/28/1998)
+    It looks like Clotilde von der Insel (Court Baroness, 02/28/1998) might be:
+      1 Clothilde von der Insel (Court Baroness, 02/28/1998)
+    It looks like Gustave Frogbeak the Hunter (Award of Arms, 03/28/1998) might be:
+      1 Gustav Frogbeak the Hunter (Award of Arms, 03/28/1998)
+    It looks like Alasdair Stuart Campbell (Manche, 04/04/1998) might be:
+      7 Alasdair of Clan Campbell (Manche, 04/04/1998)
+    It looks like Aurelia du Vrai Coeur (Award of Arms, 04/04/1998) might be:
+      1 Aurelia de Vrai Coeur (Award of Arms, 04/04/1998)
+    It looks like Aurelia du Vrai Coeur (Troubadour, 04/04/1998) might be:
+      1 Aurelia de Vrai Coeur (Troubadour, 04/04/1998)
+    It looks like Caitlin Ó hAodha (Countess, 04/04/1998) might be:
+      1 Caitlin O hAodha (Countess, 04/04/1998)
+    It looks like Caitlin Ó hAodha (Lady of the Rose, 04/04/1998) might be:
+      1 Caitlin O hAodha (Lady of the Rose, 04/04/1998)
+    It looks like Dierdre O’Sidhe (Troubadour, 04/04/1998) might be:
+      3 Deirdre O'Sidhe (Troubadour, 04/04/1998)
+    It looks like Gaufrid Kelson von Heidelberg (Manche, 04/04/1998) might be:
+      1 Gaufred Kelson von Heidelberg (Manche, 04/04/1998)
+    It looks like Janus Paszkewicz (Manche, 04/04/1998) might be:
+      2 Janos Paskewicz (Manche, 04/04/1998)
+    It looks like Julian le Scot (Silver Crescent, 04/04/1998) might be:
+      1 Julien le Scot (Silver Crescent, 04/04/1998)
+    It looks like Teleri the Well Prepared (Award of Arms, 04/04/1998) might be:
+      1 Teleri the Well-Prepared (Award of Arms, 04/04/1998)
+    It looks like Uilliam Twit of Witlow (Court Baron, 04/04/1998) might be:
+      1 Uilliam Twit of Whitlow (Court Baron, 04/04/1998)
+    It looks like Einarr Thorgrimsson (Award of Arms, 04/25/1998) might be:
+      1 Einarr Thorgrimmson (Award of Arms, 04/25/1998)
+    It looks like Andrea Caitlin MacIntyre (Silver Crescent, 05/02/1998) might be:
+      1 Andrea Caitlin McIntyre (Silver Crescent, 05/02/1998)
+    It looks like Ben of Brokenbridge (Award of Arms, 05/02/1998) might be:
+      2 Ben of Broken Bridge (Award of Arms, 05/02/1998)
+    It looks like Branwen of House Raven’s Moon (Troubadour, 05/02/1998) might be:
+      1 Branwen of House Raven's Moon (Troubadour, 05/02/1998)
+    It looks like Jacqueline Helene Loisel (Manche, 05/02/1998) might be:
+      7 Jacqueline Loisel (Manche, 05/02/1998)
+    It looks like Lassar ingen Aeda (Award of Arms, 05/02/1998) might be:
+      2 Lasseir ingen Aeda (Award of Arms, 05/02/1998)
+    It looks like Caranwyn Silveroak (Award of Arms, 05/09/1998) might be:
+      2 Carowyn Silveroak (Award of Arms, 05/09/1998)
+    It looks like Nicola Angelini (Tygers Cub, 05/23/1998) might be:
+      2 Nicola Angelica (Tygers Cub, 05/23/1998)
+    It looks like Roland de Poitier (Award of Arms, 05/23/1998) might be:
+      1 Roland de Poitiers (Award of Arms, 05/23/1998)
+    It looks like Dietrich Schwelgengräber (Award of Arms, 06/06/1998) might be:
+      1 Dietrich Schwelgengruber (Award of Arms, 06/06/1998)
+    It looks like Duncan Mac na Ceardadh (Silver Crescent, 06/06/1998) might be:
+      1 Duncan mac na Ceardadh (Silver Crescent, 06/06/1998)
+    It looks like Thomas delbroc (Award of Arms, 06/06/1998) might be:
+      2 Thomas delBruc (Award of Arms, 06/06/1998)
+    It looks like Thomas delbroc (Burdened Tyger, 06/06/1998) might be:
+      2 Thomas delBruc (Burdened Tyger, 06/06/1998)
+    It looks like Burkhardt von Nürnberg (Award of Arms, 06/13/1998) might be:
+      4 Burkhardt von Neuremberg (Award of Arms, 06/13/1998)
+    It looks like Cadfael ap Madog ap Dafydd (Award of Arms, 06/13/1998) might be:
+      2 Cadfael ap Madoc ap Daffydd (Award of Arms, 06/13/1998)
+    It looks like Genevieve d’Anjou (Queen's Courtesy, 06/13/1998) might be:
+      5 Genevieve d'Anjouleme (Queen's Courtesy, 06/13/1998)
+    It looks like Gruffudd ap Cadfael (Tygers Cub, 06/13/1998) might be:
+      2 Gryffydd ap Cadfael (Tygers Cub, 06/13/1998)
+    It looks like Laurens de Vitrolles (Grant of Arms, 06/13/1998) might be:
+      8 Laurenne des Vitraux (Grant of Arms, 06/13/1998)
+    It looks like Laurens de Vitrolles (Court Baroness, 06/13/1998) might be:
+      8 Laurenne des Vitraux (Court Baroness, 06/13/1998)
+    It looks like Luigi Vascili (Queen's Courtesy, 06/13/1998) might be:
+      1 Luigj Vascili (Queen's Courtesy, 06/13/1998)
+    It looks like William Montagu du Vert (Grant of Arms, 06/13/1998) might be:
+      1 William Montegu du Vert (Grant of Arms, 06/13/1998)
+    It looks like William Montagu du Vert (Court Baron, 06/13/1998) might be:
+      1 William Montegu du Vert (Court Baron, 06/13/1998)
+    It looks like Aidan MacLachlan (Award of Arms, 07/04/1998) might be:
+      2 Aidan MacLochlain (Award of Arms, 07/04/1998)
+    It looks like Failtigearna ingen uí Artáin (Manche, 07/04/1998) might be:
+      9 Faoiltigearna Muirin ni Artain (Manche, 07/04/1998)
+    It looks like Fiona O'Maille ó Chuan Coille (Manche, 07/04/1998) might be:
+      1 Fiona O'Maille o Chuan Coille (Manche, 07/04/1998)
+    It looks like Herian Iarnsmidre (Tygers Combattant, 07/04/1998) might be:
+      1 Herian Iarnsmidr (Tygers Combattant, 07/04/1998)
+    It looks like Kai Maclane (Tygers Combattant, 07/04/1998) might be:
+      3 Kai MacLain (Tygers Combattant, 07/04/1998)
+    It looks like Matthias Tiberius, the Weasel (Award of Arms, 07/04/1998) might be:
+      1 Matthias Tiberius the Weasel (Award of Arms, 07/04/1998)
+    It looks like Robert of Northwood (Award of Arms, 07/04/1998) might be:
+      3 Robert of Northwuda (Award of Arms, 07/04/1998)
+    It looks like Ailean Mac an Daraich (Master of the Pelican, 07/11/1998) might be:
+      3 Ailean mac an Daroch (Master of the Pelican, 07/11/1998)
+    It looks like Eoin Mac Eoghain (Sagittarius, 07/11/1998) might be:
+      1 Eoin MacEoghain (Sagittarius, 07/11/1998)
+    It looks like Gwendolyn Oftputupon (Grant of Arms, 07/11/1998) might be:
+      8 Gwendolyn the Oft-Put-Upon (Grant of Arms, 07/11/1998)
+    It looks like Gwendolyn Oftputupon (Court Baroness, 07/11/1998) might be:
+      8 Gwendolyn the Oft-Put-Upon (Court Baroness, 07/11/1998)
+    It looks like Maria de Miranda (Award of Arms, 07/11/1998) might be:
+      3 Mariah Miranda (Award of Arms, 07/11/1998)
+    It looks like Ohashi Katsutoshi (Silver Crescent, 07/11/1998) might be:
+      1 Oohashi Katsutoshi (Silver Crescent, 07/11/1998)
+    It looks like Kellemetlen Árpád (Manche, 07/18/1998) might be:
+      3 Kellemetlan Arpad (Manche, 07/18/1998)
+    It looks like Michaela Rosana Mirandola (Award of Arms, 07/18/1998) might be:
+      1 Michaele Rosana Mirandola (Award of Arms, 07/18/1998)
+    It looks like Minna of Tintagel (Award of Arms, 07/18/1998) might be:
+      3 Minnagar of Tintagel (Award of Arms, 07/18/1998)
+    It looks like Yaakov Avraham ben Obadiah (Award of Arms, 07/18/1998) might be:
+      1 Yaakov Avraham ben-Obadiah (Award of Arms, 07/18/1998)
+    It looks like Edward Stifhand (Award of Arms, 07/25/1998) might be:
+      1 Edward Stiffhand (Award of Arms, 07/25/1998)
+    It looks like Erec le Clair (Award of Arms, 07/25/1998) might be:
+      9 Erec du Vrai Coeur (Award of Arms, 07/25/1998)
+    It looks like Faolan MacNeill (Award of Arms, 07/25/1998) might be:
+      3 Faolin MacNiel (Award of Arms, 07/25/1998)
+    It looks like Jehan le Batard (Silver Crescent, 07/25/1998) might be:
+      1 Jehan le Batarde (Silver Crescent, 07/25/1998)
+    It looks like Mord Hrutson the Green (Court Baron, 07/25/1998) might be:
+      8 Mord the Green (Court Baron, 07/25/1998)
+    It looks like Angharad FitzHenry (Silver Crescent, 08/12/1998) might be:
+      8 Caitlin Angharad FitzHenry (Silver Crescent, 08/12/1998)
+    It looks like eLeri of Nefyn (Mistress of the Pelican, 08/12/1998) might be:
+      2 Eleri of Nefyn (Mistress of the Pelican, 08/12/1998)
+    It looks like Tirza bithe Reaboughes (Manche, 08/12/1998) might be:
+      1 Tirze bithe Reaboughes (Manche, 08/12/1998)
+    It looks like Feena Bothildardottir (Award of Arms, 08/13/1998) might be:
+      8 Feena Eriksdottir (Award of Arms, 08/13/1998)
+    It looks like Ilana Mazdak (Award of Arms, 08/13/1998) might be:
+      1 Illana Mazdak (Award of Arms, 08/13/1998)
+    It looks like Alexandra the Black Sheep (Manche, 08/29/1998) might be:
+      6 Alexandra Blacksheep (Manche, 08/29/1998)
+    It looks like Heiðrekr Skúlason (Award of Arms, 09/05/1998) might be:
+      4 Heidrik Skulason (Award of Arms, 09/05/1998)
+    It looks like Muriel de Chimay (Award of Arms, 09/05/1998) might be:
+      5 Muireall de Chimey (Award of Arms, 09/05/1998)
+    It looks like Noel Lenginnur (Award of Arms, 09/05/1998) might be:
+      5 Noel Langolier (Award of Arms, 09/05/1998)
+    It looks like Thorkell Óláfsson (Award of Arms, 09/05/1998) might be:
+      6 Thorkild Olaffsen (Award of Arms, 09/05/1998)
+    It looks like Gülüg-jab Tangghudai (Award of Arms, 09/12/1998) might be:
+      2 Gulag-jab Tangghudai (Award of Arms, 09/12/1998)
+    It looks like Michal Almond de Champagne (Manche, 09/12/1998) might be:
+      1 Michel Almond de Champagne (Manche, 09/12/1998)
+    It looks like Ohashi Katsutoshi (Master of the Pelican, 09/12/1998) might be:
+      1 Oohashi Katsutoshi (Master of the Pelican, 09/12/1998)
+    It looks like Suleiman ibn Ghazi abdal Rahim al Andalusi (Award of Arms, 09/12/1998) might be:
+      2 Suleiman ibn Ghazi abd al Rahima al Andalusi (Award of Arms, 09/12/1998)
+    It looks like Anastasia Diaz de Léon (Queen's Courtesy, 09/19/1998) might be:
+      4 Annastassja Diaz de Leon (Queen's Courtesy, 09/19/1998)
+    It looks like Elizabeth Darnley (Manche, 09/19/1998) might be:
+      8 Bess Darnley (Manche, 09/19/1998)
+    It looks like Elwisia Mouche de Voujeaucourt (Silver Crescent, 09/19/1998) might be:
+      2 Elwisia Mouche de Voujecourt (Silver Crescent, 09/19/1998)
+    It looks like Terence the Arcane (Silver Crescent, 09/19/1998) might be:
+      1 Terrence the Arcane (Silver Crescent, 09/19/1998)
+    It looks like Celyn ap Llewelyn (Silver Crescent, 09/20/1998) might be:
+      3 Celyn ap Lywelln (Silver Crescent, 09/20/1998)
+    It looks like Elissa de Marmande (Award of Arms, 09/20/1998) might be:
+      1 Elissa de Marmonde (Award of Arms, 09/20/1998)
+    It looks like Isabeau Leger des Pieds (Award of Arms, 09/26/1998) might be:
+      1 Isabeau Leger de Pieds (Award of Arms, 09/26/1998)
+    It looks like Mellilah bint Yassar (Award of Arms, 09/26/1998) might be:
+      1 Mellilah bint Yasser (Award of Arms, 09/26/1998)
+    It looks like Siobhan inghean ui Dhonnabhain (Award of Arms, 09/26/1998) might be:
+      8 Siobhan ni Dhonnabhain (Award of Arms, 09/26/1998)
+    It looks like Sofia Staritskaia (Silver Crescent, 09/26/1998) might be:
+      9 Sofia Staritskaya a Rhosia (Silver Crescent, 09/26/1998)
+    It looks like Sterling de la Rosa (Award of Arms, 09/26/1998) might be:
+      1 Sterling della Rosa (Award of Arms, 09/26/1998)
+    It looks like Iñez Lopez Cardozo (Award of Arms, 09/27/1998) might be:
+      1 Inez Lopez Cardozo (Award of Arms, 09/27/1998)
+    It looks like Marie Jose de Champain (Award of Arms, 09/27/1998) might be:
+      8 Marie-Jose de Ville Champlain (Award of Arms, 09/27/1998)
+    It looks like Màiri ni Raghallaigh (Burdened Tyger, 10/03/1998) might be:
+      1 Mairi ni Raghallaigh (Burdened Tyger, 10/03/1998)
+    It looks like Adele Krin (Award of Arms, 11/07/1998) might be:
+      2 Adele Krynn (Award of Arms, 11/07/1998)
+    It looks like Briana de Luna (Manche, 11/07/1998) might be:
+      6 Bryn de la Luna (Manche, 11/07/1998)
+    It looks like Ernst Nuss von Kitzengen (Silver Crescent, 11/07/1998) might be:
+      1 Ernst Nuss von Kitzingen (Silver Crescent, 11/07/1998)
+    It looks like Marietta Aurelia da Bari (Award of Arms, 11/07/1998) might be:
+      1 Marietta Aurelia di Bari (Award of Arms, 11/07/1998)
+    It looks like Everard Martel (Queen's Courtesy, 11/14/1998) might be:
+      1 Everard Martell (Queen's Courtesy, 11/14/1998)
+    It looks like Kete Mac Laomain (Award of Arms, 11/14/1998) might be:
+      1 Kete MacLaomain (Award of Arms, 11/14/1998)
+    It looks like Màiri inghean mhic an Toisich (Award of Arms, 11/14/1998) might be:
+      2 Mairi inghean Chic an Toisich (Award of Arms, 11/14/1998)
+    It looks like Allyn Min Teanga (Queen's Courtesy, 11/21/1998) might be:
+      1 Allyn min Teanga (Queen's Courtesy, 11/21/1998)
+    It looks like Cassair ní Dheoráin (Award of Arms, 11/21/1998) might be:
+      4 Cassair ni Deoraine (Award of Arms, 11/21/1998)
+    It looks like David Drake Vandeleer (Award of Arms, 11/21/1998) might be:
+      6 Drake Vandeleer (Award of Arms, 11/21/1998)
+    It looks like Deirdre O'Rourke (Manche, 11/21/1998) might be:
+      1 Deirdre O’Rourke (Maunche, 11/21/1998)
+    It looks like eLeri of Nefyn (Court Baroness, 11/21/1998) might be:
+      2 Eleri of Nefyn (Court Baroness, 11/21/1998)
+    It looks like Elisabeth of Concordia (Award of Arms, 11/21/1998) might be:
+      1 Elizabeth of Concordia (Award of Arms, 11/21/1998)
+      8 Ignatia of Concordia (Award of Arms, 11/21/1998)
+    It looks like Evaine MacGreger (Award of Arms, 11/21/1998) might be:
+      1 Evaine MacGregor (Award of Arms, 11/21/1998)
+    It looks like Katarina la Juste (Award of Arms, 11/21/1998) might be:
+      4 Katherine le Juste (Award of Arms, 11/21/1998)
+    It looks like Mathgamain O'Brien (Silver Crescent, 11/21/1998) might be:
+      1 Mathgamain O’Brien (Silver Crescent, 11/21/1998)
+    It looks like David Gladstone (Award of Arms, 12/05/1998) might be:
+      6 Dafydd ap Gladstone (Award of Arms, 12/05/1998)
+    It looks like Geoffrey Fitz Galen (Master of the Laurel, 12/05/1998) might be:
+      1 Geoffrey fitz Galen (Master of the Laurel, 12/05/1998)
+    It looks like Adhemar de Villarquamada (Master of the Laurel, 01/16/1999) might be:
+      7 Morgan de Villarquemada (Master of the Laurel, 01/16/1999)
+    It looks like Arik Cour de Luttrere (Silver Crescent, 01/16/1999) might be:
+      3 Arik Cour du Lutrer (Silver Crescent, 01/16/1999)
+    It looks like Arnulf Adler (Silver Crescent, 01/16/1999) might be:
+      3 Arnulf Adlerson (Silver Crescent, 01/16/1999)
+    It looks like Marared Llangarron (Queen's Courtesy, 01/16/1999) might be:
+      3 Marared of Llangarron (Queen's Courtesy, 01/16/1999)
+    It looks like Baildrin MacEinri (Award of Arms, 01/23/1999) might be:
+      1 Baildrin MacEnri (Award of Arms, 01/23/1999)
+    It looks like Conrad MacAllyn (Silver Crescent, 01/23/1999) might be:
+      7 Conrad Connor MacAllyn (Silver Crescent, 01/23/1999)
+      9 Kai MacLain (Silver Crescent, 01/23/1999)
+    It looks like Julian le Scot (Burdened Tyger, 01/23/1999) might be:
+      1 Julien le Scot (Burdened Tyger, 01/23/1999)
+    It looks like Kai Maclane (Silver Crescent, 01/23/1999) might be:
+      3 Kai MacLain (Silver Crescent, 01/23/1999)
+    It looks like Katarine Sichling von Nürnberg (Burdened Tyger, 01/23/1999) might be:
+      1 Katarine Sichling von Nurnberg (Burdened Tyger, 01/23/1999)
+    It looks like Myrddin o'r Afon (Silver Crescent, 01/23/1999) might be:
+      1 Myrddin o’r Afon (Silver Crescent, 01/23/1999)
+    It looks like Nona ferch Morgan ap Iefan (Award of Arms, 01/23/1999) might be:
+      3 Nona ferch Morgan ap Iazen (Award of Arms, 01/23/1999)
+    It looks like Stefan Hochreiter (Award of Arms, 01/23/1999) might be:
+      1 Stefan Hochriter (Award of Arms, 01/23/1999)
+    It looks like Aetheric Lindberende (Silver Crescent, 02/20/1999) might be:
+      1 Aetheric Lindeberende (Silver Crescent, 02/20/1999)
+    It looks like Jerryd DeWayne (Golden Rapier, 02/20/1999) might be:
+      2 Jerryd de Wayne (Golden Rapier, 02/20/1999)
+    It looks like Michael Acrensis (Award of Arms, 03/20/1999) might be:
+      3 Michael Akerensus (Award of Arms, 03/20/1999)
+    It looks like Aminah al-Zahara (Award of Arms, 03/27/1999) might be:
+      4 Aaminah al-Hadarah (Award of Arms, 03/27/1999)
+    It looks like Eduard von Konstanz (Award of Arms, 03/27/1999) might be:
+      1 Edward von Konstanz (Award of Arms, 03/27/1999)
+    It looks like Gregor Heiseler (Master of the Pelican, 03/27/1999) might be:
+      4 Gregor von Heiseler (Master of the Pelican, 03/27/1999)
+    It looks like Wilthein Wisbram (Award of Arms, 03/27/1999) might be:
+      4 Wilthan Westbram (Award of Arms, 03/27/1999)
+    It looks like Céleste le Mercier (Award of Arms, 04/10/1999) might be:
+      1 Celeste le Mercier (Award of Arms, 04/10/1999)
+    It looks like Ernst Nuss von Kitzengen (Court Baron, 04/10/1999) might be:
+      1 Ernst Nuss von Kitzingen (Court Baron, 04/10/1999)
+    It looks like Aelfgeorn Harbeard (Award of Arms, 04/24/1999) might be:
+      2 Aelfgeom Harbeard (Award of Arms, 04/24/1999)
+    It looks like Alasdair MacLeod of Durna (Award of Arms, 04/24/1999) might be:
+      9 Alasdair MacLeod (Award of Arms, 04/24/1999)
+    It looks like Alasdair MacLeod of Durna (Queen's Courtesy, 04/24/1999) might be:
+      9 Alasdair MacLeod (Queen's Courtesy, 04/24/1999)
+    It looks like Cian ua’Lochan (Award of Arms, 04/24/1999) might be:
+      3 Cian au’Lochain (Award of Arms, 04/24/1999)
+    It looks like Aetheric Lindberende (Manche, 05/08/1999) might be:
+      1 Aetheric Lindeberende (Manche, 05/08/1999)
+    It looks like Cerdic the Bull (Award of Arms, 05/08/1999) might be:
+      2 Cedric the Bull (Award of Arms, 05/08/1999)
+    It looks like Clara da Mungiovi (Award of Arms, 05/08/1999) might be:
+      1 Clara de Mungiovi (Award of Arms, 05/08/1999)
+    It looks like Elene of Lochcarron (Manche, 05/08/1999) might be:
+      1 Elene of Locharron (Manche, 05/08/1999)
+    It looks like Godfroy de Falaise (Silver Crescent, 05/08/1999) might be:
+      8 Godfroy Garmallon (Silver Crescent, 05/08/1999)
+    It looks like Ludwig von Eisenburg (Award of Arms, 05/08/1999) might be:
+      2 Ludwig von Eisburg (Award of Arms, 05/08/1999)
+    It looks like Marguerite de Fougère (Award of Arms, 05/08/1999) might be:
+      2 Marguerite de Fougeres (Award of Arms, 05/08/1999)
+    It looks like Clotilde von der Insel (Mistress of the Laurel, 05/15/1999) might be:
+      1 Clothilde von der Insel (Mistress of the Laurel, 05/15/1999)
+    It looks like Eibhlín ní Ghallchobair (Award of Arms, 05/15/1999) might be:
+      4 Eibhlin ni Ghallcho Bair (Award of Arms, 05/15/1999)
+    It looks like Nastassiia Ivanova Medvedeva (Award of Arms, 05/15/1999) might be:
+      2 Natassia Ivanova Medvedeva (Award of Arms, 05/15/1999)
+    It looks like Javairia bint Haroun (Award of Arms, 05/29/1999) might be:
+      1 Javaira bint Haroun (Award of Arms, 05/29/1999)
+    It looks like Katharine Slough (Award of Arms, 05/29/1999) might be:
+      1 Katherine Slough (Award of Arms, 05/29/1999)
+    It looks like Ascelinne de Chambord (Award of Arms, 06/05/1999) might be:
+      6 Aislynn du Chambord (Award of Arms, 06/05/1999)
+    It looks like Isabella d'Allaines-le-Comte (Award of Arms, 06/05/1999) might be:
+      5 Isabella de Allaines-sur-Comte (Award of Arms, 06/05/1999)
+    It looks like Sabina Wüterich (Award of Arms, 06/12/1999) might be:
+      1 Sabina Wuterich (Award of Arms, 06/12/1999)
+    It looks like Chiara da Montepulciano (Award of Arms, 07/03/1999) might be:
+      7 Chiara Vincii da Montepulciano (Award of Arms, 07/03/1999)
+    It looks like Joel of Ragnesfolke (Award of Arms, 07/03/1999) might be:
+      1 Joel of Regnesfolke (Award of Arms, 07/03/1999)
+    It looks like Brion mac Eideard of Westmoor (Troubadour, 07/17/1999) might be:
+      3 Brion MacEidard of Westmoor (Troubadour, 07/17/1999)
+    It looks like Ernst Nuss von Kitzengen (Queen's Courtesy, 07/17/1999) might be:
+      1 Ernst Nuss von Kitzingen (Queen's Courtesy, 07/17/1999)
+    It looks like Jacobina of White Moor (Award of Arms, 07/24/1999) might be:
+      4 Jacobina of the White Moor (Award of Arms, 07/24/1999)
+    It looks like Martin Diaz (Award of Arms, 07/24/1999) might be:
+      9 Martin Diaz of Spain (Award of Arms, 07/24/1999)
+    It looks like Eilís ní Bhraonáin (Manche, 09/11/1999) might be:
+      2 Eilís ní Bhraonaín (Manche, 09/11/1999)
+    It looks like Aleksandr Ruslanovich Yevsha (Master of the Laurel, 09/18/1999) might be:
+      2 Alexandr Ruslanovich Yevsha (Master of the Laurel, 09/18/1999)
+    It looks like Anton LaFlamme de Saint Aubin (Award of Arms, 09/18/1999) might be:
+      6 Anton la Flamme de St. Aubin (Award of Arms, 09/18/1999)
+    It looks like Lilie of Eastham (Award of Arms, 09/18/1999) might be:
+      2 Lily of Eastham (Award of Arms, 09/18/1999)
+    It looks like Conrad MacAllyn (Court Baron, 09/25/1999) might be:
+      7 Conrad Connor MacAllyn (Court Baron, 09/25/1999)
+    It looks like Conrad MacAllyn (Troubadour, 09/25/1999) might be:
+      7 Conrad Connor MacAllyn (Troubadour, 09/25/1999)
+    It looks like Stefan Joseph (Award of Arms, 09/25/1999) might be:
+      1 Steffan Joseph (Award of Arms, 09/25/1999)
+    It looks like Blutwache (Blue Tyger Legion, 10/09/1999) might be:
+      8 Bloodguard (Blue Tyger Legion, 10/09/1999)
+    It looks like Alexander Mór MacIan (Award of Arms, 10/30/1999) might be:
+      4 Alexander MacIan (Award of Arms, 10/30/1999)
+    It looks like Alexander Mór MacIan (Terpsichore, 10/30/1999) might be:
+      4 Alexander MacIan (Terpsichore, 10/30/1999)
+    It looks like Connail MacRaibert (Silver Crescent, 11/27/1999) might be:
+      3 Connor MacRaibert (Silver Crescent, 11/27/1999)
+    It looks like Dugald the Sheepstealer (Manche, 11/27/1999) might be:
+      7 Douglas Sheepstealer (Manche, 11/27/1999)
+    It looks like Elise ferch Morgan ap Owen (Silver Crescent, 11/27/1999) might be:
+      8 Elise ferch Morgan (Silver Crescent, 11/27/1999)
+    It looks like Elizabeth Darnley (Mistress of the Laurel, 11/27/1999) might be:
+      1 Elisabeth Darnley (Mistress of the Laurel, 11/27/1999)
+    It looks like Gruffydd the Innocent (Award of Arms, 11/27/1999) might be:
+      1 Gruffyd the Innocent (Award of Arms, 11/27/1999)
+    It looks like Anders Botman (Award of Arms, 02/05/2000) might be:
+      1 Anders Boutman (Award of Arms, 02/05/2000)
+    It looks like Briana de Luna (Mistress of the Laurel, 02/05/2000) might be:
+      6 Bryn de la Luna (Mistress of the Laurel, 02/05/2000)
+    It looks like Catrin o'r Rhyd Fôr (Silver Crescent, 02/05/2000) might be:
+      1 Catrin o'r Rhyd For (Silver Crescent, 02/05/2000)
+    It looks like Degen aus Nierstein (Award of Arms, 02/05/2000) might be:
+      2 Degen aus Nierenstein (Award of Arms, 02/05/2000)
+    It looks like Simric Mailweaver (Manche, 02/05/2000) might be:
+      1 Sinric Mailweaver (Manche, 02/05/2000)
+    It looks like Adhemar de Villarquamada (Silver Crescent, 02/12/2000) might be:
+      7 Morgan de Villarquemada (Silver Crescent, 02/12/2000)
+    It looks like Ariane of Clan O'Choda (Silver Crescent, 02/12/2000) might be:
+      2 Arianne of Clann O'Choda (Silver Crescent, 02/12/2000)
+    It looks like Alric the Blue (Award of Arms, 02/26/2000) might be:
+      1 Alaric the Blue (Award of Arms, 02/26/2000)
+    It looks like Culann mac Cianain (Award of Arms, 02/26/2000) might be:
+      9 Colin MacKinnon (Award of Arms, 02/26/2000)
+    It looks like Torquil ban MacNeil (Award of Arms, 02/26/2000) might be:
+      1 Torquil dan MacNeil (Award of Arms, 02/26/2000)
+    It looks like Aidan MacLachlan (Troubadour, 03/11/2000) might be:
+      3 Aidan MacLochlainn (Troubadour, 03/11/2000)
+    It looks like Aubrée de Gui (Award of Arms, 03/25/2000) might be:
+      1 Aubree de Gui (Award of Arms, 03/25/2000)
+    It looks like Cailean of Moray (Burdened Tyger, 03/25/2000) might be:
+      6 Cealian O'Moray (Burdened Tyger, 03/25/2000)
+    It looks like Elene of Lochcarron (Burdened Tyger, 03/25/2000) might be:
+      2 Elene of Locharran (Burdened Tyger, 03/25/2000)
+    It looks like Godfroy de Falaise (Grant of Arms, 03/25/2000) might be:
+      8 Godfroy Garmallon (Grant of Arms, 03/25/2000)
+    It looks like Godfroy de Falaise (Burdened Tyger, 03/25/2000) might be:
+      8 Godfroy Garmallon (Burdened Tyger, 03/25/2000)
+    It looks like Gruffydd the Innocent (Burdened Tyger, 03/25/2000) might be:
+      1 Gruffyd the Innocent (Burdened Tyger, 03/25/2000)
+    It looks like Marie Jose de Champain (Terpsichore, 03/25/2000) might be:
+      8 Marie-Jose de Ville Champlain (Terpsichore, 03/25/2000)
+    It looks like Marie Jose de Champain (Troubadour, 03/25/2000) might be:
+      8 Marie-Jose de Ville Champlain (Troubadour, 03/25/2000)
+    It looks like Philomène de Narbonne (Award of Arms, 03/25/2000) might be:
+      1 Philomene de Narbonne (Award of Arms, 03/25/2000)
+    It looks like Tristan de la Valière (Award of Arms, 03/25/2000) might be:
+      2 Tristan de la Valliere (Award of Arms, 03/25/2000)
+    It looks like Dylan ap Maelgwn (Master of the Pelican, 04/08/2000) might be:
+      1 Dylan ap Maelgwyn (Master of the Pelican, 04/08/2000)
+    It looks like Garrik Mapmaker (Silver Crescent, 04/08/2000) might be:
+      1 Garrick Mapmaker (Silver Crescent, 04/08/2000)
+    It looks like Mutsura Ishikago no Ishido (Court Baron, 04/08/2000) might be:
+      1 Mutsura Ishikage no Ishido (Court Baroness, 04/08/2000)
+    It looks like Erec Appollinarus (Queen's Courtesy, 05/06/2000) might be:
+      2 Erec Apollinaris (Queen's Courtesy, 05/06/2000)
+    It looks like Philip de Bouillion (Award of Arms, 05/06/2000) might be:
+      2 Philippe de Bouillion (Award of Arms, 05/06/2000)
+    It looks like Njall of Fur (Award of Arms, 06/03/2000) might be:
+      3 Neils of Fur (Award of Arms, 06/03/2000)
+    It looks like Christoffel d'Allaines-sur-Comte (Award of Arms, 06/24/2000) might be:
+      1 Christoffel d'Allains-sur-Comte (Award of Arms, 06/24/2000)
+    It looks like Isabella d'Allaines-le-Comte (Burdened Tyger, 06/24/2000) might be:
+      4 Isabella d'Allains-sur-Comte (Burdened Tyger, 06/24/2000)
+    It looks like Leonhard Schuwert (Award of Arms, 06/24/2000) might be:
+      1 Leonhardt Schuwert (Award of Arms, 06/24/2000)
+    It looks like Tristan de Warrell (Award of Arms, 06/24/2000) might be:
+      1 Tristan de Warrel (Award of Arms, 06/24/2000)
+    It looks like Julienne de La Rochelle (Award of Arms, 07/16/2000) might be:
+      2 Juliene de la Rochelle (Award of Arms, 07/16/2000)
+    It looks like Rosa da Murano (Award of Arms, 07/16/2000) might be:
+      5 Rosa di Oro (Award of Arms, 07/16/2000)
+    It looks like Ruadh Cruid McFroude (Award of Arms, 07/16/2000) might be:
+      2 Ruadh Crude McFroude (Award of Arms, 07/16/2000)
+    It looks like Gyddion yr Penryddyn (Award of Arms, 07/22/2000) might be:
+      1 Gyddion yr Penrhyddyn (Award of Arms, 07/22/2000)
+    It looks like Tommaso Valeriano (Award of Arms, 07/22/2000) might be:
+      2 Tomasso Valeriano (Award of Arms, 07/22/2000)
+    It looks like Browen Carus (Grant of Arms, 08/18/2000) might be:
+      9 Bronwyn ferch Caris (Grant of Arms, 08/18/2000)
+    It looks like Browen Carus (Court Baroness, 08/18/2000) might be:
+      9 Bronwyn ferch Caris (Court Baroness, 08/18/2000)
+    It looks like Chiara of Ravenna (Queen's Courtesy, 09/16/2000) might be:
+      2 Chiara di Ravenna (Queen's Courtesy, 09/16/2000)
+    It looks like Eilís ní Bhraonáin (Grant of Arms, 09/16/2000) might be:
+      2 Eilís ní Bhraonaín (Grant of Arms, 09/16/2000)
+    It looks like Eilís ní Bhraonáin (Court Baroness, 09/16/2000) might be:
+      2 Eilís ní Bhraonaín (Court Baroness, 09/16/2000)
+    It looks like Nikolai Vladimirov (Burdened Tyger, 09/16/2000) might be:
+      9 Nikolai syn Igor Vladimirov (Burdened Tyger, 09/16/2000)
+    It looks like Efa Gath fach (Grant of Arms, 09/30/2000) might be:
+      8 Dyddanwy Gathfach (Grant of Arms, 09/30/2000)
+    It looks like Efa Gath fach (Court Baroness, 09/30/2000) might be:
+      8 Dyddanwy Gathfach (Court Baroness, 09/30/2000)
+    It looks like Lorenzo il Confuso (Sagittarius, 09/30/2000) might be:
+      1 Lorenzo Il Confuso (Sagittarius, 09/30/2000)
+    It looks like Thailyn MacAusland (Award of Arms, 09/30/2000) might be:
+      1 Thailyn Mac Ausland (Award of Arms, 09/30/2000)
+    It looks like Evan Bevan (Tygers Cub, 10/07/2000) might be:
+      3 Ep Evan Bevan (Tygers Cub, 10/07/2000)
+    It looks like Susanna la Fleur (Silver Crescent, 10/07/2000) might be:
+      4 Susanah la Flor (Silver Crescent, 10/07/2000)
+    It looks like Alisay de Falaise (Golden Lyre, 10/14/2000) might be:
+      4 Alienor de Falaise (Golden Lyre, 10/14/2000)
+    It looks like Freya Manslayer Carolsdottir (Queen's Courtesy, 10/14/2000) might be:
+      1 Freya Manslayer Karolsdottir (Queen's Courtesy, 10/14/2000)
+    It looks like eLeri of Nefyn (Manche, 10/28/2000) might be:
+      2 Eleri of Nefyn (Manche, 10/28/2000)
+    It looks like Marcus Blackaert (Award of Arms, 10/28/2000) might be:
+      2 Marcus Blackheart (Award of Arms, 10/28/2000)
+    It looks like Brinwen the Fair (Award of Arms, 11/18/2000) might be:
+      1 Brenwen the Fair (Award of Arms, 11/18/2000)
+    It looks like Gwenhwyfar Dinas Emrys (Queen's Courtesy, 11/25/2000) might be:
+      1 Gwenhwfar Dinas Emrys (Queen's Courtesy, 11/25/2000)
+    It looks like Marsha of Blackwood (Tygers Cub, 11/25/2000) might be:
+      6 Marsha of House Blackwood (Tygers Cub, 11/25/2000)
+    It looks like Eleanor the Faire (Queen's Courtesy, 12/09/2000) might be:
+      1 Eleanor the Fair (Queen's Courtesy, 12/09/2000)
+    It looks like Ervald La Coudre the Unlucky (Queen's Courtesy, 12/09/2000) might be:
+      1 Ervald la Coudre the Unlucky (Queen's Courtesy, 12/09/2000)
+    It looks like Gregorio de Sicilia (Award of Arms, 12/09/2000) might be:
+      2 Gregorio de Sicily (Award of Arms, 12/09/2000)
+    It looks like Marcus Sverre Haakonson de Londres (Award of Arms, 12/09/2000) might be:
+      2 Magnus Sverre Haakonson de Londres (Award of Arms, 12/09/2000)
+    It looks like Emme Attewater (Silver Crescent, 01/13/2001) might be:
+      1 Emma Attewater (Silver Crescent, 01/13/2001)
+    It looks like Gianetta Lucia Allegretta (Manche, 01/13/2001) might be:
+      7 Gianetta Alegretta (Manche, 01/13/2001)
+    It looks like Gunnarr the Smith (King's Excellence, 01/13/2001) might be:
+      1 Gunnar the Smith (King's Excellence, 01/13/2001)
+    It looks like Isabeau d’Orleans (Silver Crescent, 01/13/2001) might be:
+      1 Isabeau d'Orleans (Silver Crescent, 01/13/2001)
+    It looks like Kyran O’Conghaile (Troubadour, 01/13/2001) might be:
+      1 Kyran O'Conghaile (Troubadour, 01/13/2001)
+    It looks like Liesl Lüder (Manche, 01/13/2001) might be:
+      4 Liesl Leuters (Manche, 01/13/2001)
+    It looks like Aaron the Arrowsmith (Award of Arms, 01/27/2001) might be:
+      1 Aarron the Arrowsmith (Award of Arms, 01/27/2001)
+    It looks like Allesandra de Burgos (Award of Arms, 01/27/2001) might be:
+      3 Allesandra aBurgos (Award of Arms, 01/27/2001)
+    It looks like Aminah al-Zahara (Terpsichore, 01/27/2001) might be:
+      2 Aminah al Zahra (Terpsichore, 01/27/2001)
+    It looks like Fergus O Ferrall of Fenwick (Award of Arms, 01/27/2001) might be:
+      3 Fergus O'Farrell of Fenwick (Award of Arms, 01/27/2001)
+    It looks like Gráinne inghean úi Bhraonáin (Award of Arms, 01/27/2001) might be:
+      4 Graine inghean ui Bhraonain (Award of Arms, 01/27/2001)
+    It looks like Safia al-Khansaa (Award of Arms, 01/27/2001) might be:
+      1 Safia al-Khansa (Award of Arms, 01/27/2001)
+    It looks like Ailionora inghean Ronain (Award of Arms, 02/03/2001) might be:
+      1 Ailionora inghean Ronan (Award of Arms, 02/03/2001)
+    It looks like Ailionora inghean Ronain (Burdened Tyger, 02/03/2001) might be:
+      1 Ailionora inghean Ronan (Burdened Tyger, 02/03/2001)
+    It looks like Alexander de Hautville (Tygers Combattant, 02/03/2001) might be:
+      1 Alexander de Hauteville (Tygers Combattant, 02/03/2001)
+    It looks like Catalina d’Orieux (Burdened Tyger, 02/03/2001) might be:
+      5 Catalina d'Oro (Burdened Tyger, 02/03/2001)
+    It looks like Marcus Lucius Casius (Award of Arms, 02/03/2001) might be:
+      3 Magnus Lucius Castus (Award of Arms, 02/03/2001)
+    It looks like Murshida bint Safia al Andalusi (Manche, 02/03/2001) might be:
+      2 Murshida bint Saffiya al Andalusi (Manche, 02/03/2001)
+    It looks like Nicola Angelini (Award of Arms, 02/03/2001) might be:
+      2 Nicola Angelico (Award of Arms, 02/03/2001)
+    It looks like Roger of Blackmoore (Burdened Tyger, 02/03/2001) might be:
+      3 Roger Blackmoore (Burdened Tyger, 02/03/2001)
+    It looks like Seraq Barok's Penance (Burdened Tyger, 02/03/2001) might be:
+      1 Seraq, Barok's Penance (Burdened Tyger, 02/03/2001)
+    It looks like Eleanor Callaghan (Award of Arms, 03/10/2001) might be:
+      1 Elanor Callaghan (Award of Arms, 03/10/2001)
+    It looks like Michael Mac Ian (Queen's Courtesy, 03/10/2001) might be:
+      1 Michael MacIan (Queen's Courtesy, 03/10/2001)
+    It looks like Richard the Poor of Ely (Silver Crescent, 03/10/2001) might be:
+      7 Richard the Poor (Silver Crescent, 03/10/2001)
+    It looks like Alexandre Lerot d'Avignon (Golden Rapier, 03/24/2001) might be:
+      4 Alexander Lerot d'Avigne (Golden Rapier, 03/24/2001)
+    It looks like Margarita Kofinopoia (Silver Crescent, 03/24/2001) might be:
+      1 Margarita Kofinopoeia (Silver Crescent, 03/24/2001)
+    It looks like Ricardo del Costa Verde (Golden Rapier, 03/24/2001) might be:
+      4 Ricardo de Castel Verde (Golden Rapier, 03/24/2001)
+    It looks like Conrad MacAllyn (Tygers Combattant, 03/31/2001) might be:
+      7 Conrad Connor MacAllyn (Tygers Combattant, 03/31/2001)
+    It looks like Quentin de Soissons (Grant of Arms, 03/31/2001) might be:
+      1 Quentin de Soisson (Grant of Arms, 03/31/2001)
+    It looks like Aurora ffolkes (Queen's Courtesy, 04/21/2001) might be:
+      1 Aurora Ffolkes (Queen's Courtesy, 04/21/2001)
+    It looks like Geneviève de Montford (Award of Arms, 04/21/2001) might be:
+      1 Genevieve de Montford (Award of Arms, 04/21/2001)
+    It looks like Karl Aerdigwidder von Zauberberg (Troubadour, 04/21/2001) might be:
+      1 Karl Aerdigwidder van Zauberberg (Troubadour, 04/21/2001)
+    It looks like Viennet de la Mer (Award of Arms, 04/21/2001) might be:
+      5 Vienna de Mer (Award of Arms, 04/21/2001)
+    It looks like Vladimir Báthory (Award of Arms, 04/21/2001) might be:
+      1 Vladimir Bathory (Award of Arms, 04/21/2001)
+    It looks like Maeryk the Rogue (Award of Arms, 04/28/2001) might be:
+      4 Mareyk the Rouge (Award of Arms, 04/28/2001)
+    It looks like William MacKay (Award of Arms, 04/28/2001) might be:
+      1 William McKay (Award of Arms, 04/28/2001)
+    It looks like Garrik Mapmaker (Golden Rapier, 05/05/2001) might be:
+      1 Garrick Mapmaker (Golden Rapier, 05/05/2001)
+    It looks like Apollonia Voss (Award of Arms, 05/19/2001) might be:
+      2 Appolonia Voss (Award of Arms, 05/19/2001)
+    It looks like Deirdre O'Riordan (Award of Arms, 05/19/2001) might be:
+      2 Dierdre O'Riordan (Award of Arms, 05/19/2001)
+    It looks like Isabella of Owl’s Reste (Award of Arms, 05/19/2001) might be:
+      1 Isabella of Owls Reste (Award of Arms, 05/19/2001)
+    It looks like Briana M'Quharg (Award of Arms, 05/26/2001) might be:
+      5 Brianna Mahara (Award of Arms, 05/26/2001)
+    It looks like Ulfr Thorfinnsson (Award of Arms, 05/26/2001) might be:
+      3 Ulf Thorfinson (Award of Arms, 05/26/2001)
+    It looks like Jehannine de Flandres (Award of Arms, 06/16/2001) might be:
+      9 Jeannine de Bordeaux (Award of Arms, 06/16/2001)
+    It looks like Joseph d'Aremand (Award of Arms, 06/16/2001) might be:
+      3 Joseph d'Aramead (Award of Arms, 06/16/2001)
+    It looks like Carolyne de la Pointe (Award of Arms, 07/21/2001) might be:
+      1 Caroline de la Pointe (Award of Arms, 07/21/2001)
+      7 Julian de la Pointe (Award of Arms, 07/21/2001)
+    It looks like Einarr Sælingr (Award of Arms, 07/21/2001) might be:
+      4 Einar Saelinger (Award of Arms, 07/21/2001)
+    It looks like Julien Lapointe (Award of Arms, 07/21/2001) might be:
+      7 Julian de la Pointe (Award of Arms, 07/21/2001)
+    It looks like Jonathan Carver of Dover (Award of Arms, 07/28/2001) might be:
+      9 Jonathan Carver (Award of Arms, 07/28/2001)
+    It looks like Perote Campbell (Burdened Tyger, 07/28/2001) might be:
+      7 Perote Gormal Campbell (Burdened Tyger, 07/28/2001)
+    It looks like Sebastiano Manetti (Award of Arms, 07/28/2001) might be:
+      1 Sebastian Manetti (Award of Arms, 07/28/2001)
+    It looks like Sibán Gallowglass (Silver Crescent, 07/28/2001) might be:
+      3 Robin Gallowglass (Silver Crescent, 07/28/2001)
+      5 Shannon Gallowglass (Silver Crescent, 07/28/2001)
+    It looks like Sophia von Eisental (Tygers Cub, 07/28/2001) might be:
+      2 Sophia of Eisental (Tygers Cub, 07/28/2001)
+    It looks like Balfar von Gruenwald (Master of the Pelican, 09/01/2001) might be:
+      1 Balfar von Grunwald (Master of the Pelican, 09/01/2001)
+    It looks like Tommaltach MacFhiachach (Grant of Arms, 09/01/2001) might be:
+      1 Tommaltach MacFiachach (Grant of Arms, 09/01/2001)
+    It looks like Tommaltach MacFhiachach (Court Baron, 09/01/2001) might be:
+      1 Tommaltach MacFiachach (Court Baron, 09/01/2001)
+    It looks like Tommaltach MacFhiachach (Tygers Combattant, 09/01/2001) might be:
+      1 Tommaltach MacFiachach (Tygers Combattant, 09/01/2001)
+    It looks like Alan of Rosley (Award of Arms, 09/22/2001) might be:
+      3 Alan of Roseleah (Award of Arms, 09/22/2001)
+      8 Isabel of Roseleah (Award of Arms, 09/22/2001)
+    It looks like Briana de Luna (Queen's Courtesy, 09/22/2001) might be:
+      7 Brianna (Queen's Courtesy, 09/22/2001)
+    It looks like Eibhlín ní Ghallchobair (Queen's Courtesy, 09/22/2001) might be:
+      5 Eibhlin ni Gallcho Bair (Queen's Courtesy, 09/22/2001)
+    It looks like Eilís ní Bhraonáin (Mistress of the Laurel, 09/22/2001) might be:
+      3 Eílís ní Bhraonaín (Mistress of the Laurel, 09/22/2001)
+    It looks like Isabel of Rosley (Award of Arms, 09/22/2001) might be:
+      3 Isabel of Roseleah (Award of Arms, 09/22/2001)
+      8 Alan of Roseleah (Award of Arms, 09/22/2001)
+    It looks like Tamar bas Reuven (Award of Arms, 09/22/2001) might be:
+      1 Tamar bat Reuven (Award of Arms, 09/22/2001)
+    It looks like Konrad von Ulm (Queen's Courtesy, 09/29/2001) might be:
+      4 Konrad Ulm (Queen's Courtesy, 09/29/2001)
+    It looks like Olwynn ni Chinnéidigh (Manche, 11/03/2001) might be:
+      2 Olwyn ni Chinnidigh (Manche, 11/03/2001)
+    It looks like Michel Wolffauer (Award of Arms, 11/10/2001) might be:
+      1 Michael Wolffauer (Award of Arms, 11/10/2001)
+    It looks like Roxane Farabi (Manche, 11/10/2001) might be:
+      2 Roxane Farahid (Manche, 11/10/2001)
+    It looks like Safia al-Khansaa (Manche, 11/10/2001) might be:
+      2 Safia al Khansa (Manche, 11/10/2001)
+    It looks like Violet Coleson (Award of Arms, 11/10/2001) might be:
+      7 Amy Collson (Award of Arms, 11/10/2001)
+    It looks like Aetheric Lindberende (Master of the Laurel, 11/24/2001) might be:
+      1 Aetheric Lindeberende (Master of the Laurel, 11/24/2001)
+    It looks like Branwen filia Iohannis de Monmouth (Award of Arms, 11/24/2001) might be:
+      1 Branwen filia Iohannes de Monmouth (Award of Arms, 11/24/2001)
+    It looks like Lyanna of Kerneough (Court Baroness, 11/24/2001) might be:
+      1 Lyanna of Kernough (Court Baroness, 11/24/2001)
+    It looks like Karl of Meerstapa (Grant of Arms, 12/08/2001) might be:
+      3 Karl Meerstapa (Grant of Arms, 12/08/2001)
+    It looks like Emma la Rousse d’Argentan (Silver Crescent, 01/05/2002) might be:
+      1 Emma la Rousse d'Argentan (Silver Crescent, 01/05/2002)
+    It looks like Isabeau de Valle (Award of Arms, 01/05/2002) might be:
+      1 Isabeau du Valle (Award of Arms, 01/05/2002)
+    It looks like Anne Guest (Award of Arms, 02/02/2002) might be:
+      3 Anne de Guest (Award of Arms, 02/02/2002)
+    It looks like Linnet MacHardy (Award of Arms, 02/02/2002) might be:
+      3 Linette MacHardy (Award of Arms, 02/02/2002)
+    It looks like Nikolai Vladimirov (Master of the Pelican, 02/02/2002) might be:
+      9 Nikolai syn Igor Vladimirov (Master of the Pelican, 02/02/2002)
+    It looks like Silvia Wilkinson (Award of Arms, 02/02/2002) might be:
+      1 Silvia Wilkenson (Award of Arms, 02/02/2002)
+    It looks like Bérengère de Cheviney (Award of Arms, 02/09/2002) might be:
+      1 Bérengère de Chevinay (Award of Arms, 02/09/2002)
+    It looks like Bérengère de Cheviney (Terpsichore, 02/09/2002) might be:
+      1 Bérengère de Chevinay (Terpsichore, 02/09/2002)
+    It looks like Cristoforo Donatello dei Visconti (Award of Arms, 02/09/2002) might be:
+      1 Cristoforo Donatello di Visconti (Award of Arms, 02/09/2002)
+    It looks like Ludwig von Eisenburg (Manche, 02/09/2002) might be:
+      2 Ludwig von Eisburg (Manche, 02/09/2002)
+    It looks like Alana of Ramskeep (Award of Arms, 02/16/2002) might be:
+      1 Alanna of Ramskeep (Award of Arms, 02/16/2002)
+    It looks like Ciarán mac Cionaith (Award of Arms, 02/16/2002) might be:
+      6 Ciaran MacCiona (Award of Arms, 02/16/2002)
+    It looks like Brighid ni Chiaráin of Tethba (Troubadour, 03/23/2002) might be:
+      2 Brighid ni Chiaran of Tethba (Troubadour, 03/23/2002)
+    It looks like Gabriel of Maccuswell (Tygers Combattant, 03/23/2002) might be:
+      1 Gabriel of Maccusswell (Tygers Combattant, 03/23/2002)
+    It looks like Mary Theophania Hunn (Silver Crescent, 03/23/2002) might be:
+      9 Mary the Hun (Silver Crescent, 03/23/2002)
+    It looks like Anne Liese Wolkenhaar (Mistress of the Laurel, 04/06/2002) might be:
+      2 Anneliese Wolkenhaar (Mistress of the Laurel, 04/06/2002)
+    It looks like Elizabet Marshall (Award of Arms, 04/06/2002) might be:
+      1 Elizabeth Marshall (Award of Arms, 04/06/2002)
+      8 John Marshall (Award of Arms, 04/06/2002)
+    It looks like Gracia Vazquez de Trillo (Award of Arms, 04/06/2002) might be:
+      2 Gracia Basquez de Trillo (Award of Arms, 04/06/2002)
+    It looks like Michal Almond de Champagne (Court Baroness, 04/06/2002) might be:
+      1 Michel Almond de Champagne (Court Baroness, 04/06/2002)
+    It looks like Uilliam Twit of Witlow (Silver Crescent, 04/06/2002) might be:
+      2 Uillim Twit of Whitlow (Silver Crescent, 04/06/2002)
+    It looks like Adhemar de Villarquamada (King's Excellence, 04/20/2002) might be:
+      7 Morgan de Villarquemada (King's Excellence, 04/20/2002)
+    It looks like Efa Gath fach (Troubadour, 04/20/2002) might be:
+      8 Dyddanwy Gathfach (Troubadour, 04/20/2002)
+    It looks like Cosmano Piero Micheletto da Roma (Silver Crescent, 05/04/2002) might be:
+      2 Cosmano Piero Michelotta da Roma (Silver Crescent, 05/04/2002)
+    It looks like Francesca Laura di Firenze (Mistress of the Pelican, 05/04/2002) might be:
+      8 Francesca della L'Aura di Firenze (Mistress of the Pelican, 05/04/2002)
+    It looks like Katherine Aylwyn de Chaliers (Award of Arms, 05/04/2002) might be:
+      3 Kathryn Aylwyn de Chaliers (Award of Arms, 05/04/2002)
+    It looks like Valgeirr of the Mountain Freehold (Tygers Combattant, 05/04/2002) might be:
+      6 Valgier of Mountain Freehold (Tygers Combattant, 05/04/2002)
+    It looks like Ghislaine Isabella de Lessines (Award of Arms, 05/25/2002) might be:
+      1 Ghislain Isabella de Lessines (Award of Arms, 05/25/2002)
+    It looks like Mairghread NicNeachdainn (Manche, 06/08/2002) might be:
+      2 Mairghread nic Neachdainn (Manche, 06/08/2002)
+    It looks like Maria Beatrice del Mare (Manche, 06/08/2002) might be:
+      1 Maria Beatrice de Mare (Manche, 06/08/2002)
+    It looks like Mwynwen in le Willewys (Award of Arms, 06/08/2002) might be:
+      2 Mwynwen in the Willewys (Award of Arms, 06/08/2002)
+    It looks like Tadatsune of Carolingia (Award of Arms, 06/08/2002) might be:
+      8 Eletarius of Carolingia (Award of Arms, 06/08/2002)
+    It looks like Cett Donegal (Award of Arms, 06/15/2002) might be:
+      2 Cet Donnegal (Award of Arms, 06/15/2002)
+    It looks like Katherine Morrigan O'Griobhtha (Award of Arms, 06/15/2002) might be:
+      3 Katherine Moirigahna O'Griobhtha (Award of Arms, 06/15/2002)
+    It looks like Kat’ryna Neblaga Volchkova (Silver Crescent, 06/15/2002) might be:
+      1 Kat'ryna Neblaga Volchkova (Silver Crescent, 06/15/2002)
+    It looks like Sarah bas Mordechai (Award of Arms, 06/15/2002) might be:
+      2 Sara bas Mordecai (Award of Arms, 06/15/2002)
+    It looks like Gauen Wydefare (Manche, 07/06/2002) might be:
+      1 Gauen Wyefare (Manche, 07/06/2002)
+    It looks like Cosmano Piero Micheletto da Roma (Golden Rapier, 07/20/2002) might be:
+      3 Cosmano Piero Michellota da Roma (Golden Rapier, 07/20/2002)
+    It looks like Eala Bhan ni Aoidh (Award of Arms, 07/20/2002) might be:
+      1 Eala Bhan nic Aoidh (Award of Arms, 07/20/2002)
+    It looks like Gregor McLaughlin (Troubadour, 07/20/2002) might be:
+      1 Gregor MacLaughlin (Troubadour, 07/20/2002)
+    It looks like Jean de la Montagne (Award of Arms, 07/20/2002) might be:
+      4 Jean des Montagnes (Award of Arms, 07/20/2002)
+    It looks like Kassandra Aiantide (Grant of Arms, 07/20/2002) might be:
+      5 Kassandra Ianthos (Grant of Arms, 07/20/2002)
+    It looks like Robert Bury atte Okeforde (Award of Arms, 07/20/2002) might be:
+      4 Robert de Bury atte Okesforde (Award of Arms, 07/20/2002)
+    It looks like Ysabeau de Mortagne (Manche, 07/20/2002) might be:
+      2 Ysabiau de Montagne (Manche, 07/20/2002)
+    It looks like Ekaterina de Chat (Grant of Arms, 07/27/2002) might be:
+      1 Ekaterina du Chat (Grant of Arms, 07/27/2002)
+    It looks like Ekaterina de Chat (Court Baroness, 07/27/2002) might be:
+      1 Ekaterina du Chat (Court Baroness, 07/27/2002)
+    It looks like Fiadhnait inghean Chiaragáin (Award of Arms, 07/27/2002) might be:
+      2 Fiadhnait inghean Ciaragain (Award of Arms, 07/27/2002)
+    It looks like Gülüg-jab Tangghudai (Manche, 07/27/2002) might be:
+      2 Gulug-jab Tangghudai (Manche, 07/27/2002)
+    It looks like Gwenhwyfar of An Dubhaigeainn (Award of Arms, 07/27/2002) might be:
+      1 Gwenhwyvar of An Dubhaigeainn (Award of Arms, 07/27/2002)
+    It looks like Gyßel Adeler (Award of Arms, 07/27/2002) might be:
+      2 Gyzsel Adeler (Award of Arms, 07/27/2002)
+    It looks like Rainillt Leia de Bello Marisco (Award of Arms, 07/27/2002) might be:
+      1 Rainilt Leia de Bello Marisco (Award of Arms, 07/27/2002)
+    It looks like Wilhelm von Ostenbrücke (Tygers Combattant, 07/27/2002) might be:
+      2 Wilhelm von Ostenbruche (Tygers Combattant, 07/27/2002)
+    It looks like Gawyn O'Clery (Award of Arms, 07/27/2002) might be:
+      9 Gyzsel Adeler (Award of Arms, 07/27/2002)
+    It looks like Jocelyn Tarr (Grant of Arms, 08/13/2002) might be:
+      1 Joscelyn Tarr (Grant of Arms, 08/13/2002)
+    It looks like Jocelyn Tarr (Court Baroness, 08/13/2002) might be:
+      1 Joscelyn Tarr (Court Baroness, 08/13/2002)
+    It looks like Ysabella de Draguignan (Award of Arms, 08/13/2002) might be:
+      1 Ysabella du Draguignan (Award of Arms, 08/13/2002)
+    It looks like Kis Mária (Mistress of the Laurel, 08/14/2002) might be:
+      2 Kis Marika (Mistress of the Laurel, 08/14/2002)
+    It looks like Luncanne Di Giovanni (Award of Arms, 09/14/2002) might be:
+      1 Luncanne DiGiovanni (Award of Arms, 09/14/2002)
+    It looks like Yon de la Sèle (Tygers Cub, 09/14/2002) might be:
+      1 Yon de la Sele (Tygers Cub, 09/14/2002)
+    It looks like Bela ot Kaffa (Burdened Tyger, 09/28/2002) might be:
+      3 Bela Kaffa (Burdened Tyger, 09/28/2002)
+      6 Olga Kaffa (Burdened Tyger, 09/28/2002)
+    It looks like Katharine Tuscher (Award of Arms, 09/28/2002) might be:
+      8 Reinhardt Tauscher (Award of Arms, 09/28/2002)
+    It looks like Lazaro Bettencourt de Vega (Queen's Courtesy, 09/28/2002) might be:
+      2 Lazara Bettancourt de Vega (Queen's Courtesy, 09/28/2002)
+    It looks like Ol'ga Kaf'skaia (Burdened Tyger, 09/28/2002) might be:
+      6 Olga Kaffa (Burdened Tyger, 09/28/2002)
+      9 Bela Kaffa (Burdened Tyger, 09/28/2002)
+    It looks like Reinhardt Tuscher (Award of Arms, 09/28/2002) might be:
+      1 Reinhardt Tauscher (Award of Arms, 09/28/2002)
+    It looks like Sancha de Flores (Troubadour, 09/28/2002) might be:
+      1 Sancha des Flores (Troubadour, 09/28/2002)
+    It looks like Gerhard der Rote von Ulm (Award of Arms, 10/12/2002) might be:
+      8 Gerhard der Rote (Award of Arms, 10/12/2002)
+    It looks like Katherine Ashewode (Award of Arms, 10/19/2002) might be:
+      1 Katherine Ashewoode (Award of Arms, 10/19/2002)
+    It looks like Julian Ridley (Award of Arms, 10/26/2002) might be:
+      3 Julienne Ridley (Award of Arms, 10/26/2002)
+    It looks like Lylie of Penhyll (Award of Arms, 10/26/2002) might be:
+      5 Lilly of Pendhill (Award of Arms, 10/26/2002)
+    It looks like Ruadh Cruid McFroude (Troubadour, 10/26/2002) might be:
+      3 Ruadh Cruidh MacFrode (Troubadour, 10/26/2002)
+    It looks like Elizabeta de Ravenna (Award of Arms, 11/23/2002) might be:
+      2 Elizabetta da Ravenna (Award of Arms, 11/23/2002)
+    It looks like Cailean of Moray (Silver Crescent, 11/30/2002) might be:
+      7 Cealain O'Moray (Silver Crescent, 11/30/2002)
+    It looks like Cecilia Attewode (Award of Arms, 11/30/2002) might be:
+      1 Cecelia Attewode (Award of Arms, 11/30/2002)
+    It looks like Constance of Whitebirch (Award of Arms, 11/30/2002) might be:
+      2 Constance of White Birch (Award of Arms, 11/30/2002)
+    It looks like Cristiana ingen Mec-Bead (Award of Arms, 11/30/2002) might be:
+      3 Cristina inghean Mec-Bead (Award of Arms, 11/30/2002)
+    It looks like Donal O’Conghaile (Master of the Pelican, 11/30/2002) might be:
+      1 Donal O'Conghaile (Master of the Pelican, 11/30/2002)
+    It looks like Gruffydd the Innocent (Silver Crescent, 11/30/2002) might be:
+      1 Gruffyd the Innocent (Silver Crescent, 11/30/2002)
+    It looks like Julien Lapointe (Golden Lyre, 11/30/2002) might be:
+      7 Julian de la Pointe (Golden Lyre, 11/30/2002)
+    It looks like Cellach ingen Chernaig (Manche, 01/11/2003) might be:
+      3 Cellach ingen Cearnaigh (Manche, 01/11/2003)
+    It looks like Hrolf Hrafnsen (Terpsichore, 01/11/2003) might be:
+      2 Hrolfr Hrafnson (Terpsichore, 01/11/2003)
+    It looks like Kristinia le Fay (Manche, 01/11/2003) might be:
+      1 Krystinia le Fay (Manche, 01/11/2003)
+    It looks like Patricia of the Tangled Wilds (Silver Crescent, 01/11/2003) might be:
+      6 Patricia of Tangled Wylde (Silver Crescent, 01/11/2003)
+    It looks like Samuel de Bianco (Award of Arms, 01/11/2003) might be:
+      8 Samuel of Florence (Award of Arms, 01/11/2003)
+    It looks like Tiecia O'Scanlan (Award of Arms, 01/11/2003) might be:
+      1 Tiecia O'Scanlon (Award of Arms, 01/11/2003)
+    It looks like Tristen of Lochmor (Silver Crescent, 01/11/2003) might be:
+      1 Tristan of Lochmor (Silver Crescent, 01/11/2003)
+    It looks like Ignacia la Ciega (Silver Crescent, 01/25/2003) might be:
+      3 Ignacia el Ciego (Silver Crescent, 01/25/2003)
+    It looks like Jost von Aichstadt (Golden Rapier, 01/25/2003) might be:
+      1 Jost von Eichstadt (Golden Rapier, 01/25/2003)
+    It looks like Ricardo del Costa Verde (Silver Crescent, 01/25/2003) might be:
+      1 Ricardo del Casta Verde (Silver Crescent, 01/25/2003)
+    It looks like Brianna Yseulte Wynman (Court Baroness, 02/01/2003) might be:
+      2 Brianna Yseult Wyman (Court Baroness, 02/01/2003)
+    It looks like Cailean of Moray (Burdened Tyger, 02/01/2003) might be:
+      7 Cealain O'Moray (Burdened Tyger, 02/01/2003)
+    It looks like Ciarnait ighean Bhroin (Award of Arms, 02/01/2003) might be:
+      1 Ciarnait inghean Bhroin (Award of Arms, 02/01/2003)
+    It looks like Estela du Frayse (Queen's Courtesy, 02/01/2003) might be:
+      1 Estella du Frayse (Queen's Courtesy, 02/01/2003)
+    It looks like Estela du Frayse (Burdened Tyger, 02/01/2003) might be:
+      1 Estella du Frayse (Burdened Tyger, 02/01/2003)
+    It looks like Gwenhwyfar Dinas Emrys (Burdened Tyger, 02/01/2003) might be:
+      1 Gwenwyfar Dinas Emrys (Burdened Tyger, 02/01/2003)
+    It looks like Hiyama no Kufuka Oniko (Silver Crescent, 02/01/2003) might be:
+      3 Hi-Yama no Kufuko Oniko (Silver Crescent, 02/01/2003)
+    It looks like Olaf of Trollheimfjord (Manche, 02/01/2003) might be:
+      4 Olaf Trollheimsfjord (Manche, 02/01/2003)
+    It looks like Christine McDavid (Award of Arms, 02/22/2003) might be:
+      3 Christine McDevitt (Award of Arms, 02/22/2003)
+    It looks like Gregorio de Sicilia (Queen's Courtesy, 02/22/2003) might be:
+      1 Gregorio di Sicilia (Queen's Courtesy, 02/22/2003)
+    It looks like Petrus filius Silvein (Silver Crescent, 02/22/2003) might be:
+      9 Petrus of the Sylvan (Silver Crescent, 02/22/2003)
+    It looks like Siobhan inghean ui Dhonnabhain (Troubadour, 02/22/2003) might be:
+      8 Siobhan ni Dhonnabhain (Troubadour, 02/22/2003)
+    It looks like Alisay de Falaise (Golden Lyre, 03/22/2003) might be:
+      4 Alienor de Falaise (Golden Lyre, 03/22/2003)
+    It looks like Benjamin d'Orb (Award of Arms, 03/22/2003) might be:
+      3 Benjamin de l'Orb (Award of Arms, 03/22/2003)
+    It looks like Cailean of Moray (Manche, 03/22/2003) might be:
+      3 Cailean O'Moray (Manche, 03/22/2003)
+    It looks like Luc de Montnoir (Award of Arms, 03/22/2003) might be:
+      3 Luque de Montnoir (Award of Arms, 03/22/2003)
+    It looks like Brinwen the Fair (Golden Lyre, 03/29/2003) might be:
+      1 Brenwen the Fair (Golden Lyre, 03/29/2003)
+    It looks like Erlandr Nordenskald (Silver Crescent, 03/29/2003) might be:
+      4 Erlan Nordenskol (Silver Crescent, 03/29/2003)
+    It looks like Evan Bevan (Award of Arms, 03/29/2003) might be:
+      3 Ep Evan Bevan (Award of Arms, 03/29/2003)
+    It looks like Kis Mária (Golden Lyre, 03/29/2003) might be:
+      2 Kis Marika (Golden Lyre, 03/29/2003)
+    It looks like Pascual de la Mar (Award of Arms, 03/29/2003) might be:
+      2 Pascual del Mar (Award of Arms, 03/29/2003)
+    It looks like Rennewief van Grunwald (Award of Arms, 03/29/2003) might be:
+      5 Rennewief Gruenwald (Award of Arms, 03/29/2003)
+    It looks like Carolyne de la Pointe (Golden Lyre, 04/12/2003) might be:
+      1 Carolyn de la Pointe (Golden Lyre, 04/12/2003)
+    It looks like Chiara of Ravenna (Golden Lyre, 04/12/2003) might be:
+      2 Chiara da Ravenna (Golden Lyre, 04/12/2003)
+    It looks like Grímr Víthfari (Burdened Tyger, 04/12/2003) might be:
+      7 Grimr Ori (Burdened Tyger, 04/12/2003)
+    It looks like Rhonwen Glyn Conwy (Mistress of the Laurel, 04/12/2003) might be:
+      1 Rhonwen glyn Conwy (Mistress of the Laurel, 04/12/2003)
+    It looks like Ronan Maeblach (Silver Crescent, 04/12/2003) might be:
+      8 Ronan Lynceus (Silver Crescent, 04/12/2003)
+    It looks like Sybilla atte Blakeley (Award of Arms, 04/12/2003) might be:
+      2 Sibylla atte Blakeley (Award of Arms, 04/12/2003)
+    It looks like Christopher Calhoune (Award of Arms, 04/26/2003) might be:
+      2 Christopher Chalchoune (Award of Arms, 04/26/2003)
+    It looks like Gavan MacBane (Award of Arms, 04/26/2003) might be:
+      1 Gavan Macbane (Award of Arms, 04/26/2003)
+    It looks like Cody Rose of House Valkyrie (Tygers Cub, 05/03/2003) might be:
+      1 Cody-Rose of House Valkyrie (Tygers Cub, 05/03/2003)
+    It looks like Durko Vadas (Award of Arms, 05/03/2003) might be:
+      2 Darka Vadas (Award of Arms, 05/03/2003)
+    It looks like Gericke der Keger (Award of Arms, 05/03/2003) might be:
+      3 Gericke von Keger (Award of Arms, 05/03/2003)
+    It looks like Sidonia Zaridina (Award of Arms, 05/03/2003) might be:
+      2 Sidonia Zardinia (Award of Arms, 05/03/2003)
+    It looks like Victoria la Picarde (Award of Arms, 05/03/2003) might be:
+      4 Victoria de Pycard (Award of Arms, 05/03/2003)
+    It looks like Barnabas O’Phelan (Burdened Tyger, 05/17/2003) might be:
+      1 Barnabas O'Phelan (Burdened Tyger, 05/17/2003)
+    It looks like William de Lancton (Burdened Tyger, 05/17/2003) might be:
+      3 William Lancton (Burdened Tyger, 05/17/2003)
+    It looks like Thomas Greycloak of Norseland (Golden Tyger, 05/24/2003) might be:
+      1 Thomas Graycloak of Norseland (Golden Tyger, 05/24/2003)
+    It looks like Caera Cruitire ingen Uaithne (Award of Arms, 06/14/2003) might be:
+      1 Caera Cruitire ingen Uaithnea (Award of Arms, 06/14/2003)
+    It looks like Cassandra Böll von Bayer (Maunche, 06/14/2003) might be:
+      2 Cassandra Boell von Bayer (Maunche, 06/14/2003)
+    It looks like Juan Lázaro Ramirez Xavier (Grant of Arms, 06/14/2003) might be:
+      1 Juan Lazaro Ramirez Xavier (Grant of Arms, 06/14/2003)
+    It looks like Marcus Lucius Casius (Manche, 06/14/2003) might be:
+      8 Magnus Casius Lucius (Maunche, 06/14/2003)
+    It looks like Milesanda de Bourges (Award of Arms, 06/14/2003) might be:
+      3 Melisande de Bourges (Award of Arms, 06/14/2003)
+    It looks like Gryffith FitzWilliam (Troubadour, 06/21/2003) might be:
+      1 Griffith FitzWilliam (Troubadour, 06/21/2003)
+    It looks like Heðinn inn rauði (Award of Arms, 06/21/2003) might be:
+      9 Hedinn the Red (Award of Arms, 06/21/2003)
+    It looks like Hiyama no Kufuka Oniko (Tygers Combattant, 06/21/2003) might be:
+      5 HiYama Kufuku Oniko (Tygers Combattant, 06/21/2003)
+    It looks like Kat’ryna Neblaga Volchkova (Manche, 06/21/2003) might be:
+      1 Kat'ryna Neblaga Volchkova (Maunche, 06/21/2003)
+    It looks like Maria Alegreza Nicoletti (Award of Arms, 06/21/2003) might be:
+      3 Maria Alegreza di Nicoletti (Award of Arms, 06/21/2003)
+    It looks like Nest verch Tangwistel (Award of Arms, 06/21/2003) might be:
+      1 Nest ferch Tangwistel (Award of Arms, 06/21/2003)
+    It looks like Vasilisa Fedorova (Award of Arms, 06/21/2003) might be:
+      6 Vasilia Fedorova doch (Award of Arms, 06/21/2003)
+    It looks like Cian Mac Fhearghuis (Award of Arms, 07/26/2003) might be:
+      3 Cian MacFearguis (Award of Arms, 07/26/2003)
+    It looks like Constancia AElfwinesdottir (Burdened Tyger, 07/26/2003) might be:
+      8 Constancia Aelfwine (Burdened Tyger, 07/26/2003)
+    It looks like Erec le Clair (Burdened Tyger, 07/26/2003) might be:
+      2 Eric le Claire (Burdened Tyger, 07/26/2003)
+    It looks like Johanne i Visby (Award of Arms, 07/26/2003) might be:
+      4 Johanna of Wisby (Award of Arms, 07/26/2003)
+    It looks like Maximilian Delmonico (Tygers Combattant, 07/26/2003) might be:
+      1 Maximillian Delmonico (Tygers Combattant, 07/26/2003)
+    It looks like Owyn Greenwood (Award of Arms, 07/26/2003) might be:
+      1 Owynn Greenwood (Award of Arms, 07/26/2003)
+    It looks like Seán Ó Súilleabháin Beirre (Award of Arms, 07/26/2003) might be:
+      5 Sean O'Suilleabhain Beirre (Award of Arms, 07/26/2003)
+    It looks like Tanczos Ilona (Award of Arms, 07/26/2003) might be:
+      1 Tanczos Illona (Award of Arms, 07/26/2003)
+    It looks like Luigi Vascili (Grant of Arms, 08/12/2003) might be:
+      1 Luigj Vascili (Grant of Arms, 08/12/2003)
+    It looks like Luigi Vascili (Court Baron, 08/12/2003) might be:
+      1 Luigj Vascili (Court Baron, 08/12/2003)
+    It looks like Brunissende Dragonette de Brocéliande (Award of Arms, 08/13/2003) might be:
+      1 Brunissende Dragonette de Broceliande (Award of Arms, 08/13/2003)
+    It looks like Angharad FitzHenry (Mistress of the Pelican, 08/13/2003) might be:
+      8 Caitlin Angharad FitzHenry (Mistress of the Pelican, 08/13/2003)
+    It looks like Oskar of the Wood (Valiant Tyger, 08/13/2003) might be:
+      1 Oskgar of the Wood (Valiant Tyger, 08/13/2003)
+    It looks like Stephen Renwald (Queen's Courtesy, 08/14/2003) might be:
+      2 Steven Renwald (Queen's Courtesy, 08/14/2003)
+    It looks like Agnarr Skulason (Grant of Arms, 09/13/2003) might be:
+      4 Agnar Skullesson (Grant of Arms, 09/13/2003)
+    It looks like Agnarr Skulason (Court Baron, 09/13/2003) might be:
+      4 Agnar Skullesson (Court Baron, 09/13/2003)
+    It looks like Durko Vadas (Burdened Tyger, 09/13/2003) might be:
+      2 Darka Vadas (Burdened Tyger, 09/13/2003)
+    It looks like Olwynn ni Chinnéidigh (Silver Crescent, 09/13/2003) might be:
+      2 Olwyn ni Chinneidigh (Silver Crescent, 09/13/2003)
+    It looks like Tatiana Maria Consuello Esperanza Figueron di Vivar (Burdened Tyger, 09/13/2003) might be:
+      2 Tatiana Maria Consuelo Esperanza Figueron de Vivar (Burdened Tyger, 09/13/2003)
+    It looks like Ivan Ulrickson (Golden Rapier, 09/27/2003) might be:
+      1 Ivan Ulricksson (Golden Rapier, 09/27/2003)
+    It looks like Nataliia Anastasiia Evgenova Sviatoslavina vnuchka (Burdened Tyger, 09/27/2003) might be:
+      1 Nataliia Anastasia Evgenova Sviatoslavina vnuchka (Burdened Tyger, 09/27/2003)
+    It looks like Temair ingen Muiredaich (Silver Crescent, 09/27/2003) might be:
+      2 Temair inghean Muiredaich (Silver Crescent, 09/27/2003)
+    It looks like Sabatina da Valle (Award of Arms, 10/11/2003) might be:
+      2 Sabina da Valle (Award of Arms, 10/11/2003)
+    It looks like Eleanor Lebrun (Manche, 10/25/2003) might be:
+      3 Eleanor le Brun (Maunche, 10/25/2003)
+    It looks like Jibril al Dakhil (Award of Arms, 10/25/2003) might be:
+      3 Jebril al Dakal (Award of Arms, 10/25/2003)
+    It looks like Kiena the Wanderer (Award of Arms, 10/25/2003) might be:
+      1 Kiana the Wanderer (Award of Arms, 10/25/2003)
+    It looks like Holt Kincaid of Hawk Glen (Award of Arms, 11/08/2003) might be:
+      1 Holt Kincad of Hawk Glen (Award of Arms, 11/08/2003)
+    It looks like Mikkel the Builder (Award of Arms, 11/08/2003) might be:
+      1 Mikael the Builder (Award of Arms, 11/08/2003)
+    It looks like Yasmine bint Rasheed (Silver Crescent, 11/08/2003) might be:
+      3 Yasmin bint Rashid (Silver Crescent, 11/08/2003)
+    It looks like Eibhlin inghean ui Choileáin (Award of Arms, 11/22/2003) might be:
+      1 Eibhlin inghean ui Choileain (Award of Arms, 11/22/2003)
+    It looks like Gisele Flambeau (Award of Arms, 11/22/2003) might be:
+      7 Giselle de la Flambeau (Award of Arms, 11/22/2003)
+    It looks like Karl Klauezhan (Award of Arms, 11/22/2003) might be:
+      2 Kerl Klanezhan (Award of Arms, 11/22/2003)
+    It looks like Peter of Hawkwood (Award of Arms, 11/22/2003) might be:
+      1 Peter of Hawkwoods (Award of Arms, 11/22/2003)
+    It looks like Jost von Aichstadt (Queen's Courtesy, 01/03/2004) might be:
+      1 Jost von Eichstadt (Queen's Courtesy, 01/03/2004)
+    It looks like Antony Martin of Sheffield (Award of Arms, 01/31/2004) might be:
+      1 Anthony Martin of Sheffield (Award of Arms, 01/31/2004)
+    It looks like Gülüg-jab Tangghudai (King's Excellence, 01/31/2004) might be:
+      2 Gulag-jab Tangghudai (King's Excellence, 01/31/2004)
+    It looks like Justina Elizabeth Vigilant (Award of Arms, 03/06/2004) might be:
+      1 Justina Elizabeth Vigilante (Award of Arms, 03/06/2004)
+    It looks like Chiara Lucia di Nicolla (Silver Crescent, 03/20/2004) might be:
+      1 Chiara Lucia di Nicola (Silver Crescent, 03/20/2004)
+    It looks like Balfar von Gruenwald (Augmentation of Arms, 04/03/2004) might be:
+      1 Balfar von Grunwald (Augmentation of Arms, 04/03/2004)
+    It looks like Gudrún Gudmundardóttir (Award of Arms, 04/03/2004) might be:
+      3 Gudren Gudmunderdottir (Award of Arms, 04/03/2004)
+    It looks like Robert Hildreth (Award of Arms, 04/03/2004) might be:
+      3 Robert of Hildreth (Award of Arms, 04/03/2004)
+    It looks like Siobhan inghean ui Dhonnabhain (Silver Crescent, 04/03/2004) might be:
+      8 Siobhan ni Dhonnabhain (Silver Crescent, 04/03/2004)
+    It looks like Thomas delbroc (Golden Rapier, 04/03/2004) might be:
+      3 Thomas del Bruc (Golden Rapier, 04/03/2004)
+    It looks like Catriana le Fey of Airley (Award of Arms, 05/01/2004) might be:
+      7 Catriana of Airley (Award of Arms, 05/01/2004)
+    It looks like Dierdre du Champignon (Troubadour, 05/01/2004) might be:
+      1 Diedre du Champignon (Troubadour, 05/01/2004)
+    It looks like Yesunge Altan (Silver Crescent, 05/01/2004) might be:
+      1 Yesungge Altan (Silver Crescent, 05/01/2004)
+    It looks like Isabel Jimenez de Gaucin (Manche, 05/15/2004) might be:
+      2 Isabel Ximinez de Gaucin (Manche, 05/15/2004)
+    It looks like Erik Hemeor von Welzin (Award of Arms, 06/12/2004) might be:
+      2 Erik Nemeor von Welzon (Award of Arms, 06/12/2004)
+    It looks like Bruinnech Longstrider (Silver Crescent, 07/17/2004) might be:
+      1 Bruinneach Longstrider (Silver Crescent, 07/17/2004)
+    It looks like Godric of Hamtun (Award of Arms, 07/17/2004) might be:
+      1 Godric og Hamtun (Award of Arms, 07/17/2004)
+    It looks like Gunnvidr Ormgeirsson (Award of Arms, 07/17/2004) might be:
+      1 Gunnvior Ormgeirsson (Award of Arms, 07/17/2004)
+    It looks like Deiniol filius Gwrgwst (Award of Arms, 07/24/2004) might be:
+      6 Deiniol ap Gwrgwst (Award of Arms, 07/24/2004)
+    It looks like Gianotta dalla Fiora (Award of Arms, 07/24/2004) might be:
+      1 Gianotta dalla Fiore (Award of Arms, 07/24/2004)
+    It looks like Gráinne inghean uí Bhrolacháin (Award of Arms, 07/24/2004) might be:
+      3 Grainne inghean ui Bhrolachain (Award of Arms, 07/24/2004)
+    It looks like Kateline Hicch (Award of Arms, 07/24/2004) might be:
+      2 Katleine Hicch (Award of Arms, 07/24/2004)
+    It looks like Marcus Wolfhunte (Award of Arms, 07/24/2004) might be:
+      2 Magnus Wolfhunte (Award of Arms, 07/24/2004)
+    It looks like Ceawlin Ealhreding (Tygers Combattant, 08/16/2004) might be:
+      7 Ceawlin Alredsson (Tygers Combattant, 08/16/2004)
+    It looks like Kirstyn Mansfeld (Award of Arms, 08/16/2004) might be:
+      2 Kirstan Masfeld (Award of Arms, 08/16/2004)
+    It looks like Étain ingen ui Chommáin (Award of Arms, 08/18/2004) might be:
+      4 Etain ingen ui Comman (Award of Arms, 08/18/2004)
+    It looks like Ronan Maeblach (Grant of Arms, 08/18/2004) might be:
+      8 Ronan Lynceus (Grant of Arms, 08/18/2004)
+    It looks like Ronan Maeblach (Court Baron, 08/18/2004) might be:
+      8 Ronan Lynceus (Court Baron, 08/18/2004)
+    It looks like Sean O'Duinne (Grant of Arms, 08/18/2004) might be:
+      1 Sean O'Duinn (Grant of Arms, 08/18/2004)
+    It looks like Sean O'Duinne (Court Baron, 08/18/2004) might be:
+      1 Sean O'Duinn (Court Baron, 08/18/2004)
+    It looks like Aleksandr Ruslanovich Yevsha (Court Baron, 10/02/2004) might be:
+      7 Aleksandr Ruslanovich (Court Baron, 10/02/2004)
+    It looks like Ernst Nuss von Kitzengen (Tyger of the East, 10/02/2004) might be:
+      1 Ernst Nuss von Kitzingen (Tyger of the East, 10/02/2004)
+    It looks like Gaufrid Kelson von Heidelberg (Count, 10/02/2004) might be:
+      1 Gaufred Kelson von Heidelberg (Count, 10/02/2004)
+    It looks like Seraq Barok's Penance (Silver Crescent, 10/02/2004) might be:
+      1 Seraq, Barok's Penance (Silver Crescent, 10/02/2004)
+    It looks like Vigolfr Agnarsson (Award of Arms, 10/02/2004) might be:
+      1 Vigolf Agnarsson (Award of Arms, 10/02/2004)
+    It looks like Heiðrekr Skúlason (Manche, 10/09/2004) might be:
+      2 Heidrekr Skulason (Maunche, 10/09/2004)
+    It looks like Pádraig Ó Gealagáin (Sagittarius, 10/09/2004) might be:
+      5 Padraig O'Glealagain (Sagittarius, 10/09/2004)
+    It looks like Uther McDermot (Award of Arms, 10/16/2004) might be:
+      3 Uther McThermott (Award of Arms, 10/16/2004)
+    It looks like Fergal the Smith (Award of Arms, 11/06/2004) might be:
+      7 Fergal the Botteler (Award of Arms, 11/06/2004)
+    It looks like Franz Gottfried der Pfalzer (Award of Arms, 11/13/2004) might be:
+      6 Franz Gottfried von der Pfalz (Award of Arms, 11/13/2004)
+    It looks like Raffaella Mascolo (Award of Arms, 11/13/2004) might be:
+      3 Raphaella Mascola (Award of Arms, 11/13/2004)
+    It looks like Steinhard Helmschrot (Award of Arms, 11/13/2004) might be:
+      1 Steinhard Helmscrot (Award of Arms, 11/13/2004)
+    It looks like Cristiana ingen Mec-Bead (Silver Crescent, 11/27/2004) might be:
+      3 Christiana inghen mec-Bead (Silver Crescent, 11/27/2004)
+    It looks like Decimus Furius Maximus (Award of Arms, 11/27/2004) might be:
+      7 Decimus Maximus (Award of Arms, 11/27/2004)
+    It looks like Donal O’Conghaile (Manche, 11/27/2004) might be:
+      1 Donal O'Conghaile (Manche, 11/27/2004)
+    It looks like Katherine Aylwyn de Chaliers (Manche, 11/27/2004) might be:
+      1 Katherine Alwyn de Chaliers (Manche, 11/27/2004)
+    It looks like Katherine Thompson of Melton Mowbray (Silver Crescent, 11/27/2004) might be:
+      2 Katheryne Thompson of Melton-Mowbray (Silver Crescent, 11/27/2004)
+    It looks like Seumas Camshronach an Lochabair (Silver Crescent, 11/27/2004) might be:
+      1 Seumas Camshronnach an Lochabair (Silver Crescent, 11/27/2004)
+    It looks like William de Lancton (Silver Crescent, 11/27/2004) might be:
+      3 William Lancton (Silver Crescent, 11/27/2004)
+    It looks like Yesunge Altan (Tygers Combattant, 11/27/2004) might be:
+      1 Yesungge Altan (Tygers Combattant, 11/27/2004)
+    It looks like Kalliera Laskarina (Award of Arms, 12/11/2004) might be:
+      3 Kaleria Laskarina (Award of Arms, 12/11/2004)
+    It looks like Ormgeirr Ormarrsson (Award of Arms, 12/11/2004) might be:
+      3 Ormgeirr Ormanson (Award of Arms, 12/11/2004)
+    It looks like Rowan de Beauchamp (Manche, 12/11/2004) might be:
+      1 Rowen de Beauchamp (Manche, 12/11/2004)
+    It looks like Kieran Bren of Bannockburn (Master of the Pelican, 01/08/2005) might be:
+      1 Kieran Bren of Banockburn (Master of the Pelican, 01/08/2005)
+    It looks like Muirne ni Cormaic (Mistress of the Pelican, 01/08/2005) might be:
+      2 Muirne nic Cormac (Mistress of the Pelican, 01/08/2005)
+    It looks like Richard del Hauke (Award of Arms, 01/08/2005) might be:
+      2 Richard le Hauke (Award of Arms, 01/08/2005)
+    It looks like Cuthbad a’ Bheithir (Silver Crescent, 01/15/2005) might be:
+      2 Cuthbad a'Bheithir (Silver Crescent, 01/15/2005)
+    It looks like Stefano Ricciuto (Troubadour, 01/15/2005) might be:
+      2 Stephano Ricciuto (Troubadour, 01/15/2005)
+    It looks like Guinemar d'Anglade (Award of Arms, 01/29/2005) might be:
+      1 Guinemer d'Anglade (Award of Arms, 01/29/2005)
+    It looks like Juan Lázaro Ramirez Xavier (Silver Crescent, 01/29/2005) might be:
+      1 Juan Lazaro Ramirez Xavier (Silver Crescent, 01/29/2005)
+    It looks like Rosa da Murano (Silver Crescent, 01/29/2005) might be:
+      7 Rosa di Oro da Murano (Silver Crescent, 01/29/2005)
+    It looks like Brinwen the Fair (Golden Tyger, 02/05/2005) might be:
+      2 Brenwen the Faire (Golden Tyger, 02/05/2005)
+    It looks like Caranwyn Silveroak (Manche, 02/05/2005) might be:
+      2 Carowyn Silveroak (Maunche, 02/05/2005)
+    It looks like Caranwyn Silveroak (Golden Tyger, 02/05/2005) might be:
+      2 Carowyn Silveroak (Golden Tyger, 02/05/2005)
+    It looks like Cateline la Broderesse (Golden Tyger, 02/05/2005) might be:
+      1 Cateline la Broideresse (Golden Tyger, 02/05/2005)
+    It looks like Caterina Gioacchini (Golden Tyger, 02/05/2005) might be:
+      2 Caterina Giaocchini (Golden Tyger, 02/05/2005)
+    It looks like Leofric æt Couæntréé (Golden Tyger, 02/05/2005) might be:
+      6 Leofric Art Cofentree (Golden Tyger, 02/05/2005)
+    It looks like Marietta da Firenze (Golden Tyger, 02/05/2005) might be:
+      2 Mariette de Firenze (Golden Tyger, 02/05/2005)
+    It looks like Palotzi Marta (Golden Tyger, 02/05/2005) might be:
+      1 Palotzi Marti (Golden Tyger, 02/05/2005)
+    It looks like Ysabella de Draguignan (Manche, 02/05/2005) might be:
+      2 Ysabella du Draguinan (Maunche, 02/05/2005)
+    It looks like Browyn Hans Dotter (Award of Arms, 02/27/2005) might be:
+      1 Bronwyn Hans Dotter (Award of Arms, 02/27/2005)
+    It looks like Rónán Mór mac Carthaig (Award of Arms, 02/27/2005) might be:
+      3 Ronan Mor mac Carthaig (Award of Arms, 02/27/2005)
+    It looks like Tegan Dragonsblood ni Conmara (Silver Crescent, 02/27/2005) might be:
+      1 Tegan Dragonsblood ni' Conmara (Silver Crescent, 02/27/2005)
+    It looks like Fionbhar a Bheithir (Award of Arms, 03/05/2005) might be:
+      3 Finebhar an Bheithir (Award of Arms, 03/05/2005)
+    It looks like Giana Gabriella da Milano (Manche, 03/05/2005) might be:
+      1 Giana Gabriella di Milano (Manche, 03/05/2005)
+    It looks like Gruffydd the Innocent (Master of the Pelican, 03/05/2005) might be:
+      1 Gruffyd the Innocent (Master of the Pelican, 03/05/2005)
+    It looks like Þóra Sharptooth (Court Baroness, 03/12/2005) might be:
+      1 Þora Sharptooth (Court Baroness, 03/12/2005)
+    It looks like Dafydd Ó Nuallain (Queen's Courtesy, 03/26/2005) might be:
+      2 Dafydd o Nullain (Queen's Courtesy, 03/26/2005)
+    It looks like Elinor Strangewayes (Award of Arms, 03/26/2005) might be:
+      1 Elinor Strangeways (Award of Arms, 03/26/2005)
+    It looks like Gwenllian Wreic Bleddyn (Golden Tyger, 03/26/2005) might be:
+      3 Gwenllian wriec Bleddyn (Golden Tyger, 03/26/2005)
+    It looks like Ruadhnait ingen Ruaidhri (Manche, 03/26/2005) might be:
+      1 Ruadhnait inghen Ruaidhri (Manche, 03/26/2005)
+    It looks like Eleanor Lebrun (Grant of Arms, 04/02/2005) might be:
+      3 Eleanor le Brun (Grant of Arms, 04/02/2005)
+    It looks like Eleanor Lebrun (Court Baroness, 04/02/2005) might be:
+      3 Eleanor le Brun (Court Baroness, 04/02/2005)
+    It looks like Kyttle the Lazy (Award of Arms, 04/02/2005) might be:
+      3 Kittel the Lazy (Award of Arms, 04/02/2005)
+    It looks like Svava Þorgeirsdóttir (Countess, 04/02/2005) might be:
+      3 Svava Thorgeirsdottir (Countess, 04/02/2005)
+    It looks like Svava Þorgeirsdóttir (Lady of the Rose, 04/02/2005) might be:
+      3 Svava Thorgeirsdottir (Lady of the Rose, 04/02/2005)
+    It looks like Genevieve Charbonneau (Golden Tyger, 04/30/2005) might be:
+      3 Genevieve de Charbonneau (Golden Tyger, 04/30/2005)
+    It looks like Rowen Cloteworthy (Queen's Courtesy, 04/30/2005) might be:
+      1 Rowan Cloteworthy (Queen's Courtesy, 04/30/2005)
+    It looks like Isabel Jimenez de Gaucin (Golden Tyger, 05/28/2005) might be:
+      1 Isabel Ximenez de Gaucin (Golden Tyger, 05/28/2005)
+    It looks like Seraq Barok's Penance (Golden Tyger, 05/28/2005) might be:
+      1 Seraq, Barok's Penance (Golden Tyger, 05/28/2005)
+    It looks like Kiena Steward (Award of Arms, 06/11/2005) might be:
+      1 Kiena Stewart (Award of Arms, 06/11/2005)
+    It looks like Isabel Jimenez de Gaucin (Golden Tyger, 06/18/2005) might be:
+      1 Isabel Ximenez de Gaucin (Golden Tyger, 06/18/2005)
+    It looks like Yesunge Altan (Manche, 07/02/2005) might be:
+      1 Yesungge Altan (Maunche, 07/02/2005)
+    It looks like Morgan Faraday (Award of Arms, 07/16/2005) might be:
+      1 Morgan Farraday (Award of Arms, 07/16/2005)
+    It looks like Olwynn ni Chinnéidigh (Mistress of the Laurel, 07/23/2005) might be:
+      2 Olwyn ni Chinneidigh (Mistress of the Laurel, 07/23/2005)
+    It looks like Ronan Maeblach (Golden Rapier, 07/23/2005) might be:
+      8 Ronan Lynceus (Golden Rapier, 07/23/2005)
+    It looks like Valentina Barrow (Award of Arms, 07/23/2005) might be:
+      1 Valentina Barrows (Award of Arms, 07/23/2005)
+    It looks like Owen de Hudelesdun (Award of Arms, 08/15/2005) might be:
+      6 Owen Huddleston (Award of Arms, 08/15/2005)
+    It looks like Safia al-Khansaa (Terpsichore, 08/16/2005) might be:
+      1 Safia al Khansaa (Terpsichore, 08/16/2005)
+    It looks like Lylie of Penhyll (Silver Crescent, 08/17/2005) might be:
+      5 Lily of Penhille (Silver Crescent, 08/17/2005)
+    It looks like Pascual de la Mar (Golden Rapier, 08/17/2005) might be:
+      2 Pascual del Mar (Golden Rapier, 08/17/2005)
+    It looks like Rosa da Murano (Troubadour, 08/17/2005) might be:
+      7 Rosa di Oro da Murano (Troubadour, 08/17/2005)
+    It looks like Medb ingen Muiredaich (Award of Arms, 09/10/2005) might be:
+      1 Medb ingen Muiredach (Award of Arms, 09/10/2005)
+    It looks like Ceawlin Ealhreding (Queen's Courtesy, 09/24/2005) might be:
+      6 Colin Alreding (Queen's Courtesy, 09/24/2005)
+    It looks like Collin Monro of Tadcaster (Queen's Courtesy, 09/24/2005) might be:
+      1 Collin Monroe of Tadcaster (Queen's Courtesy, 09/24/2005)
+    It looks like Culann mac Cianain (Foreign Tyger, 09/24/2005) might be:
+      7 Cullyn Mac Kinnon (Foreign Tyger, 09/24/2005)
+    It looks like Elysabeth Underhill (Award of Arms, 09/24/2005) might be:
+      7 Lissa Underhill (Award of Arms, 09/24/2005)
+    It looks like Emeline Patterson (Queen's Courtesy, 09/24/2005) might be:
+      1 Emeline Paterson (Queen's Courtesy, 09/24/2005)
+    It looks like Ernst Nuss von Kitzengen (Kingdom Augmentation of Arms, 09/24/2005) might be:
+      1 Ernst Nuss von Kitzingen (Kingdom Augmentation of Arms, 09/24/2005)
+    It looks like Gaufrid Kelson von Heidelberg (Duke, 09/24/2005) might be:
+      1 Gaufred Kelson von Heidelberg (Duke, 09/24/2005)
+    It looks like Gülüg-jab Tangghudai (Foreign Tyger, 09/24/2005) might be:
+      3 Gulugjab Tangghudai (Foreign Tyger, 09/24/2005)
+    It looks like Luis de Castilla (Foreign Tyger, 09/24/2005) might be:
+      1 Luis de Castillo (Foreign Tyger, 09/24/2005)
+    It looks like Mord Hrutson the Green (Foreign Tyger, 09/24/2005) might be:
+      8 Mord the Green (Foreign Tyger, 09/24/2005)
+    It looks like Olwynn ni Chinnéidigh (Mistress of the Pelican, 09/24/2005) might be:
+      2 Olwyn ni Chinneidigh (Mistress of the Pelican, 09/24/2005)
+    It looks like Philip of the Furrowed Fields (Queen's Courtesy, 09/24/2005) might be:
+      1 Phillip of the Furrowed Fields (Queen's Courtesy, 09/24/2005)
+    It looks like Turc MacKinnon (Foreign Tyger, 09/24/2005) might be:
+      1 Turc Mac Kinnon (Foreign Tyger, 09/24/2005)
+      6 Cullyn Mac Kinnon (Foreign Tyger, 09/24/2005)
+    It looks like Valentina Barrow (Grant of Arms, 09/24/2005) might be:
+      1 Valentina Barrows (Grant of Arms, 09/24/2005)
+    It looks like Valentina Barrow (Court Baroness, 09/24/2005) might be:
+      1 Valentina Barrows (Court Baroness, 09/24/2005)
+    It looks like Henry Balsac Dumas (Award of Arms, 10/15/2005) might be:
+      1 Henry Balzac Dumas (Award of Arms, 10/15/2005)
+    It looks like Katerina Iliovna Vladimirov (Manche, 10/15/2005) might be:
+      1 Katerina Illiovna Vladimirov (Manche, 10/15/2005)
+    It looks like Michael McGoun (Award of Arms, 10/15/2005) might be:
+      3 Michael MacGowan (Award of Arms, 10/15/2005)
+    It looks like Michal Almond de Champagne (Mistress of the Pelican, 10/15/2005) might be:
+      1 Michel Almond de Champagne (Mistress of the Pelican, 10/15/2005)
+    It looks like Manfred Albrecht von Halsstern (Valiant Tyger, 11/05/2005) might be:
+      9 Manfred von Halsstern (Valiant Tyger, 11/05/2005)
+    It looks like Saikhan fn (Award of Arms, 11/19/2005) might be:
+      4 Saikhan Saran (Award of Arms, 11/19/2005)
+    It looks like Wulfwyn aet Maeldun (Tygers Cub, 11/19/2005) might be:
+      8 Wolfwinn atte Maledon (Tygers Cub, 11/19/2005)
+    It looks like Adèle de Lyon (Manche, 11/26/2005) might be:
+      1 Adele de Lyon (Manche, 11/26/2005)
+    It looks like Cornelia VandeBrugge (Award of Arms, 11/26/2005) might be:
+      4 Cornelia van de Brugg (Award of Arms, 11/26/2005)
+    It looks like Guthfrith Yrlingsson (Queen's Courtesy, 11/26/2005) might be:
+      1 Guthfrith Yrlingson (Queen's Courtesy, 11/26/2005)
+    It looks like Mártoni Szarvas Kató (Award of Arms, 11/26/2005) might be:
+      2 Martoni Szarvas Kato (Award of Arms, 11/26/2005)
+    It looks like Zaneta Angiolieri (Silver Crescent, 11/26/2005) might be:
+      9 Zaneta Gavlinne Angiolieri (Silver Crescent, 11/26/2005)
+    It looks like Yaacov ben haRev Elieser (Award of Arms, 12/03/2005) might be:
+      8 Ya'akov ben ha Rav Eleazar (Award of Arms, 12/03/2005)
+    It looks like Theobald Hauoc (Award of Arms, 12/10/2005) might be:
+      1 Theobald Hafoc (Award of Arms, 12/10/2005)
+    It looks like Marguerite de Saint Nazaire (Queen's Courtesy, 01/14/2006) might be:
+      4 Marguerite of Saint-Nazarre (Queen's Courtesy, 01/14/2006)
+    It looks like Jocelyn della Spada (Award of Arms, 01/28/2006) might be:
+      4 Jocelyn del Espada (Award of Arms, 01/28/2006)
+    It looks like Leandra de León (Silver Crescent, 01/28/2006) might be:
+      1 Leandra de Leon (Silver Crescent, 01/28/2006)
+    It looks like Skye na Ruadh (Manche, 01/28/2006) might be:
+      1 Skya na Ruadh (Manche, 01/28/2006)
+    It looks like Uilliam Twit of Witlow (Master of the Laurel, 01/28/2006) might be:
+      1 Uilliam Twit of Whitlow (Master of the Laurel, 01/28/2006)
+    It looks like Elisabeth Greenleaf (Silver Crescent, 02/25/2006) might be:
+      1 Elizabeth Greenleaf (Silver Crescent, 02/25/2006)
+    It looks like Berric Grayveson (Award of Arms, 03/04/2006) might be:
+      1 Berrick Grayveson (Award of Arms, 03/04/2006)
+    It looks like Brigit Comyn (Award of Arms, 03/18/2006) might be:
+      2 Bridget Comyn (Award of Arms, 03/18/2006)
+    It looks like Christopher Calhoune (Burdened Tyger, 03/18/2006) might be:
+      1 Christopher Calchoune (Burdened Tyger, 03/18/2006)
+    It looks like Creatura Christi of Oakes (Award of Arms, 03/18/2006) might be:
+      1 Creatura Christi of Oaks (Award of Arms, 03/18/2006)
+    It looks like Brid nic Shéarlais (Tyger of the East, 03/25/2006) might be:
+      1 Brid nic Shearlais (Tyger of the East, 03/25/2006)
+    It looks like Collin Monro of Tadcaster (Burdened Tyger, 03/25/2006) might be:
+      1 Collin Monroe of Tadcaster (Burdened Tyger, 03/25/2006)
+    It looks like Cron Grossenfussen (Burdened Tyger, 03/25/2006) might be:
+      4 Cronis Grossen Fussen (Burdened Tyger, 03/25/2006)
+    It looks like Jocelyn Tarr (Silver Crescent, 03/25/2006) might be:
+      1 Joscelyn Tarr (Silver Crescent, 03/25/2006)
+    It looks like Hrelgar den Igelkottson (Burdened Tyger, 04/01/2006) might be:
+      1 Hrelgar den Ingelkottson (Burdened Tyger, 04/01/2006)
+    It looks like Marcus Sigurdsson (Award of Arms, 04/22/2006) might be:
+      2 Magnus Sigurdsson (Award of Arms, 04/22/2006)
+    It looks like Merewyn del Grenewode (Award of Arms, 04/22/2006) might be:
+      2 Merewyn del Greenwode (Award of Arms, 04/22/2006)
+    It looks like Raffaella da Napoli (Award of Arms, 04/22/2006) might be:
+      1 Raffaella di Napoli (Award of Arms, 04/22/2006)
+    It looks like Severio Santangelo (Award of Arms, 04/22/2006) might be:
+      3 Servio Santangelo (Award of Arms, 04/22/2006)
+    It looks like Juliana Osborne (Award of Arms, 04/30/2006) might be:
+      8 Juliana Osborne of Kent (Award of Arms, 04/30/2006)
+    It looks like Nest verch Tangwistel (Manche, 04/30/2006) might be:
+      1 Nest ferch Tangwistel (Manche, 04/30/2006)
+    It looks like Margaret Twygge of Skye Hill (Silver Crescent, 05/06/2006) might be:
+      4 Margaret Twygg of Skyhill (Silver Crescent, 05/06/2006)
+    It looks like Eol na Tadhg (Award of Arms, 05/28/2006) might be:
+      1 Eol ua Tadhg (Award of Arms, 05/28/2006)
+    It looks like Erik Herlgarson (Tygers Cub, 05/28/2006) might be:
+      2 Erik Hrelgarson (Tygers Cub, 05/28/2006)
+    It looks like Katharine Whytton (Silver Crescent, 05/28/2006) might be:
+      1 Katherine Whytton (Silver Crescent, 05/28/2006)
+    It looks like Tiberivs Ivlivs Rvfvs (Award of Arms, 05/28/2006) might be:
+      5 Tiberius Iulius Rufus (Award of Arms, 05/28/2006)
+    It looks like Eleanor Lebrun (Mistress of the Laurel, 06/03/2006) might be:
+      3 Eleanor le Brun (Mistress of the Laurel, 06/03/2006)
+    It looks like Geoffrey Blesedale (Award of Arms, 06/03/2006) might be:
+      3 Geoffrey of Blesedale (Award of Arms, 06/03/2006)
+    It looks like Eleanor Catlyn (Manche, 06/10/2006) might be:
+      1 Eleanor Catlyng (Manche, 06/10/2006)
+    It looks like Isabel of Rosley (Silver Crescent, 06/24/2006) might be:
+      1 Isobel of Rosley (Silver Crescent, 06/24/2006)
+    It looks like Conrad MacAllyn (Master of the Pelican, 07/15/2006) might be:
+      7 Conrad Connor MacAllyn (Master of the Pelican, 07/15/2006)
+    It looks like Matthäus Plattnersohn (Manche, 07/15/2006) might be:
+      3 Mattuau Plattnersohn (Manche, 07/15/2006)
+    It looks like John Marshall atte Ford (Manche, 07/22/2006) might be:
+      1 John Marshall ate Ford (Manche, 07/22/2006)
+    It looks like Melodia de Westbrok (Award of Arms, 07/22/2006) might be:
+      1 Melodia de Westbrook (Award of Arms, 07/22/2006)
+    It looks like Dietrich Schwelgengräber (Tygers Combattant, 08/14/2006) might be:
+      1 Dietrich Schwelgengraber (Tygers Combattant, 08/14/2006)
+    It looks like Caitlin Sorcha O’Doghartie (Mistress of the Laurel, 08/16/2006) might be:
+      1 Caitlin Sorcha O'Doghartie (Mistress of the Laurel, 08/16/2006)
+    It looks like Constancia AElfwinesdottir (Silver Crescent, 08/16/2006) might be:
+      1 Constancia Aelfwinesdottir (Silver Crescent, 08/16/2006)
+    It looks like Rachel of Barony Bhakail (Manche, 08/16/2006) might be:
+      7 Rachel of Bhakail (Manche, 08/16/2006)
+    It looks like Tristan de Chanticleer de Champagne (Manche, 08/16/2006) might be:
+      1 Tristan le Chanticleer de Champagne (Manche, 08/16/2006)
+    It looks like Robert de Bardoulf (Queen's Courtesy, 08/17/2006) might be:
+      2 Robear de Bardoulf (Queen's Courtesy, 08/17/2006)
+    It looks like Katherine Gilliesfleur (Augmentation of Arms, 09/09/2006) might be:
+      1 Katherine Gillesfleur (Augmentation of Arms, 09/09/2006)
+    It looks like Browen Carus (Royal Augmentation of Arms, 09/30/2006) might be:
+      1 Bronwen Carus (Royal Augmentation of Arms, 09/30/2006)
+    It looks like Ciarán mac Cionaith (Terpsichore, 09/30/2006) might be:
+      2 Ciaran mac Cionath (Terpsichore, 09/30/2006)
+    It looks like Kiena Steward (Grant of Arms, 09/30/2006) might be:
+      1 Kiena Stewart (Grant of Arms, 09/30/2006)
+    It looks like Muirne ni Cormaic (Burdened Tyger, 09/30/2006) might be:
+      1 Muirne ni Cormac (Burdened Tyger, 09/30/2006)
+    It looks like Nigell Tarragon (Award of Arms, 09/30/2006) might be:
+      1 Nigel Tarragon (Award of Arms, 09/30/2006)
+    It looks like Padair Mac Gille Ruaidh (Silver Crescent, 11/04/2006) might be:
+      2 Padair MacGilleRuaidh (Silver Crescent, 11/04/2006)
+    It looks like Alfonso Pontelli (Award of Arms, 11/11/2006) might be:
+      2 Alphonso Pontelli (Award of Arms, 11/11/2006)
+    It looks like Dzguinte of Dragonship Haven (Award of Arms, 01/06/2007) might be:
+      2 Dzuginte of Dragonship Haven (Award of Arms, 01/06/2007)
+    It looks like Brianna inghean Douglas (Terpsichore, 01/27/2007) might be:
+      2 Brianna inghen Douglass (Terpsichore, 01/27/2007)
+    It looks like Vittorio Antonello (Award of Arms, 02/17/2007) might be:
+      1 Vittorio Antonelli (Award of Arms, 02/17/2007)
+    It looks like Jayme Hume of Berwick (Queen's Courtesy, 02/24/2007) might be:
+      2 Jayme Hume of Berwyk (Queen's Courtesy, 02/24/2007)
+    It looks like Sibán Gallowglass (Mistress of the Pelican, 02/24/2007) might be:
+      5 Shannon Gallowglass (Mistress of the Pelican, 02/24/2007)
+    It looks like Culann mac Cianain (Grant of Arms, 03/24/2007) might be:
+      8 Cullyn MacKinnon (Grant of Arms, 03/24/2007)
+    It looks like Culann mac Cianain (Court Baron, 03/24/2007) might be:
+      8 Cullyn MacKinnon (Court Baron, 03/24/2007)
+    It looks like Edana Mackinnon (Grant of Arms, 03/24/2007) might be:
+      2 Edanna MacKinnon (Grant of Arms, 03/24/2007)
+      7 Cullyn MacKinnon (Grant of Arms, 03/24/2007)
+    It looks like Edana Mackinnon (Court Baroness, 03/24/2007) might be:
+      2 Edanna MacKinnon (Court Baroness, 03/24/2007)
+      7 Cullyn MacKinnon (Court Baron, 03/24/2007)
+    It looks like Fianachet Karmen (Mistress of the Pelican, 03/24/2007) might be:
+      8 Fia Kareman (Mistress of the Pelican, 03/24/2007)
+    It looks like Johanne i Visby (Grant of Arms, 03/24/2007) might be:
+      5 Johanna aff Wisby (Grant of Arms, 03/24/2007)
+    It looks like Johanne i Visby (Court Baroness, 03/24/2007) might be:
+      5 Johanna aff Wisby (Court Baroness, 03/24/2007)
+    It looks like Caitlin Fraser (Manche, 04/14/2007) might be:
+      1 Caitlin Frazer (Manche, 04/14/2007)
+    It looks like Diarmait Ó Meachair (Award of Arms, 04/14/2007) might be:
+      4 Daimait O'Meachair (Award of Arms, 04/14/2007)
+    It looks like Edana Mackinnon (Silver Crescent, 04/14/2007) might be:
+      1 Edana MacKinnon (Silver Crescent, 04/14/2007)
+    It looks like Étain ingen ui Bróenáin (Award of Arms, 04/14/2007) might be:
+      3 Etain ingen ui Broenain (Award of Arms, 04/14/2007)
+    It looks like Marcus of Bergental (Award of Arms, 04/14/2007) might be:
+      2 Magnus of Bergental (Award of Arms, 04/14/2007)
+    It looks like Tamsin Whitlock (Silver Crescent, 04/14/2007) might be:
+      1 Tamsin Whitlocke (Silver Crescent, 04/14/2007)
+    It looks like Gabriella de Bas Serra (Award of Arms, 04/21/2007) might be:
+      4 Gabriella da Bassera (Award of Arms, 04/21/2007)
+    It looks like Johanna de Glastingburi (Award of Arms, 04/21/2007) might be:
+      5 Johanna of Glastonbury (Award of Arms, 04/21/2007)
+    It looks like Nicholas Poissonier (Tygers Cub, 04/21/2007) might be:
+      1 Nicholas Poissoniere (Tygers Cub, 04/21/2007)
+    It looks like Merrick of Winterbourne (Award of Arms, 04/28/2007) might be:
+      1 Merricke of Winterbourne (Award of Arms, 04/28/2007)
+    It looks like Genevra d'Angouleme (Award of Arms, 05/05/2007) might be:
+      1 Ginevra d'Angouleme (Award of Arms, 05/05/2007)
+    It looks like Joachim Liechtenauwer (Award of Arms, 05/12/2007) might be:
+      1 Joachim Liechtenauer (Award of Arms, 05/12/2007)
+    It looks like Eoghan Bastard mac Lachlainn of Lochleven (Award of Arms, 05/26/2007) might be:
+      2 Eoghan Bastard MacLachlainn of Lochleven (Award of Arms, 05/26/2007)
+    It looks like Tiberivs Ivlivs Rvfvs (King's Excellence, 05/26/2007) might be:
+      1 Tiberius Ivlivs Rvfvs (King's Excellence, 05/26/2007)
+    It looks like Edvall tvi Stangir (Tygers Combattant, 06/16/2007) might be:
+      1 Edvall tvi Stangiir (Tygers Combattant, 06/16/2007)
+    It looks like Sof'ia Zhirinskaia (Award of Arms, 06/23/2007) might be:
+      7 Sofia Serafimskaia (Award of Arms, 06/23/2007)
+    It looks like Conrad MacAllyn (Manche, 07/14/2007) might be:
+      7 Conrad Connor MacAllyn (Manche, 07/14/2007)
+    It looks like Cynthia of Oakenwode (Artemis, 07/14/2007) might be:
+      4 Cynder of Oakenwode (Artemis, 07/14/2007)
+    It looks like Marguerite ingen Lachlainn (Queen's Courtesy, 07/14/2007) might be:
+      9 Meggie inghean Lochlainn (Queen's Courtesy, 07/14/2007)
+    It looks like Matthias Grunwold (Award of Arms, 07/14/2007) might be:
+      5 Matthias Greenway (Award of Arms, 07/14/2007)
+    It looks like Orlando dei Medici (Terpsichore, 07/14/2007) might be:
+      1 Orlando de Medici (Terpsichore, 07/14/2007)
+    It looks like Roland de Endeweard (Award of Arms, 07/14/2007) might be:
+      1 Roland de Endewearde (Award of Arms, 07/14/2007)
+    It looks like Cassandra de Matise (Award of Arms, 08/08/2007) might be:
+      1 Cassandra de Matisse (Award of Arms, 08/08/2007)
+    It looks like Iulianiia Trieskova (Award of Arms, 08/08/2007) might be:
+      2 Iulianna Trieskova (Award of Arms, 08/08/2007)
+    It looks like Brigid ingen Loingsigh (Award of Arms, 09/15/2007) might be:
+      7 Bryg ni Loingsigh (Award of Arms, 09/15/2007)
+    It looks like Francesca Teresa Giani (Silver Crescent, 09/15/2007) might be:
+      1 Francesca Teresca Giani (Silver Crescent, 09/15/2007)
+    It looks like Kiena Steward (Court Baroness, 09/15/2007) might be:
+      1 Kiena Stewart (Court Baroness, 09/15/2007)
+    It looks like Dietrich Schwelgengräber (Burdened Tyger, 09/29/2007) might be:
+      1 Dietrich Schwelgengraber (Burdened Tyger, 09/29/2007)
+    It looks like Gryffith FitzWilliam (Count, 09/29/2007) might be:
+      2 Griffyth FitzWilliam (Count, 09/29/2007)
+    It looks like Gryffith FitzWilliam (Queen's Courtesy, 09/29/2007) might be:
+      2 Griffyth FitzWilliam (Queen's Courtesy, 09/29/2007)
+    It looks like Leah Hundemann (Award of Arms, 09/29/2007) might be:
+      1 Leah Hunndemann (Award of Arms, 09/29/2007)
+    It looks like Gülüg-jab Tangghudai (Queen's Courtesy, 10/20/2007) might be:
+      2 Gulug-jab Tangghudai (Queen's Courtesy, 10/20/2007)
+    It looks like Hassan abdul Raschid al-Turki (Grant of Arms, 11/10/2007) might be:
+      1 Hassan Abdul Raschid al-Turki (Grant of Arms, 11/10/2007)
+    It looks like Jean Xavier Boullier (Court Baron, 11/10/2007) might be:
+      1 Jean Xavier Bouillier (Court Baron, 11/10/2007)
+    It looks like Sibán Gallowglass (Burdened Tyger, 12/15/2007) might be:
+      5 Shannon Gallowglass (Burdened Tyger, 12/15/2007)
+    It looks like Johanne i Visby (Manche, 01/05/2008) might be:
+      5 Johanna aff Wisby (Manche, 01/05/2008)
+    It looks like Elen Alswith of Eriskay (Manche, 01/26/2008) might be:
+      1 Elen Alswyth of Eriskay (Manche, 01/26/2008)
+    It looks like Harald Orn (Silver Crescent, 01/26/2008) might be:
+      1 Harold Orn (Silver Crescent, 01/26/2008)
+    It looks like Jivette d'Angoumois (Award of Arms, 01/26/2008) might be:
+      2 Jivette du Angoumois (Award of Arms, 01/26/2008)
+    It looks like Lucien de Pontivi (Troubadour, 01/26/2008) might be:
+      1 Lucien de Pontivy (Troubadour, 01/26/2008)
+    It looks like Donal O'Neill (Award of Arms, 03/22/2008) might be:
+      1 Donal O'Neil (Award of Arms, 03/22/2008)
+    It looks like Estela du Frayse (Grant of Arms, 03/22/2008) might be:
+      1 Estella du Frayse (Grant of Arms, 03/22/2008)
+    It looks like Siobhan MacRoberts (Award of Arms, 03/22/2008) might be:
+      1 Siobhan Mac Roberts (Award of Arms, 03/22/2008)
+    It looks like Cedric of Armorica (Grant of Arms, 03/29/2008) might be:
+      1 Cedric of Amorica (Grant of Arms, 03/29/2008)
+    It looks like Cedric of Armorica (Court Baron, 03/29/2008) might be:
+      1 Cedric of Amorica (Court Baron, 03/29/2008)
+    It looks like Rainillt Leia de Bello Marisco (Golden Lyre, 03/29/2008) might be:
+      5 Rainillt de Bello Marisco (Golden Lyre, 03/29/2008)
+    It looks like Susanna Lockheart (Golden Lyre, 03/29/2008) might be:
+      1 Susanna Lockhart (Golden Lyre, 03/29/2008)
+    It looks like Þórlæifr hvitskegg (Award of Arms, 03/29/2008) might be:
+      6 Thorlaeifr Hvitskegg (Award of Arms, 03/29/2008)
+    It looks like Gwenhwyvar of Ravenhill (Burdened Tyger, 04/12/2008) might be:
+      1 Gwenhwyfar of Ravenhill (Burdened Tyger, 04/12/2008)
+    It looks like Joachim Liechtenauwer (Grant of Arms, 04/12/2008) might be:
+      1 Joachim Liechtenauer (Grant of Arms, 04/12/2008)
+    It looks like Joachim Liechtenauwer (Court Baron, 04/12/2008) might be:
+      1 Joachim Liechtenauer (Court Baron, 04/12/2008)
+    It looks like Hedewigis Ockenfüßin (Queen's Courtesy, 05/03/2008) might be:
+      3 Hedewigis Ockenfuß (Queen's Courtesy, 05/03/2008)
+    It looks like John of Concordia (Tygers Cub, 05/24/2008) might be:
+      7 Little John of Concordia (Tygers Cub, 05/24/2008)
+    It looks like André l’Épervier (Golden Rapier, 06/07/2008) might be:
+      3 Andre l'Epervier (Golden Rapier, 06/07/2008)
+    It looks like Kolosvári Arpádne Julia (Silver Crescent, 06/28/2008) might be:
+      2 Kolosvari Arpadne Julia (Silver Crescent, 06/28/2008)
+    It looks like Isabel de Bayonne (Award of Arms, 07/05/2008) might be:
+      1 Isobel de Bayonne (Award of Arms, 07/05/2008)
+    It looks like Leifr rella (Award of Arms, 07/05/2008) might be:
+      1 Leifr Rella (Award of Arms, 07/05/2008)
+    It looks like Gavin von Abentrot (Award of Arms, 07/12/2008) might be:
+      2 Gavin von Abendroth (Award of Arms, 07/12/2008)
+    It looks like Karl of Meerstapa (Tygers Combattant, 08/07/2008) might be:
+      3 Karl Meerstapa (Tygers Combattant, 08/07/2008)
+    It looks like Kiena Steward (Silver Crescent, 08/07/2008) might be:
+      1 Kiena Stewart (Silver Crescent, 08/07/2008)
+    It looks like Pádraig Ó Gealagáin (Silver Crescent, 08/07/2008) might be:
+      3 Padraig O Gealagain (Silver Crescent, 08/07/2008)
+    It looks like Brinwen the Fair (Countess, 09/27/2008) might be:
+      2 Brenwen the Faire (Countess, 09/27/2008)
+    It looks like Brinwen the Fair (Lady of the Rose, 09/27/2008) might be:
+      2 Brenwen the Faire (Lady of the Rose, 09/27/2008)
+    It looks like Lucien de Pontivi (Silver Crescent, 09/27/2008) might be:
+      1 Lucien de Pontivy (Silver Crescent, 09/27/2008)
+    It looks like Rhonwen Glyn Conwy (Silver Crescent, 09/27/2008) might be:
+      1 Rhonwen glyn Conwy (Silver Crescent, 09/27/2008)
+    It looks like Lucien de Pontivi (Golden Lyre, 10/04/2008) might be:
+      1 Lucien de Pontivy (Golden Lyre, 10/04/2008)
+    It looks like Deacon de Chatillon (Tygers Combattant, 10/25/2008) might be:
+      1 Deacon de Chatillion (Tygers Combattant, 10/25/2008)
+    It looks like Matilde DeCadenet (Grant of Arms, 11/22/2008) might be:
+      5 Natavia DeCadenet (Grant of Arms, 11/22/2008)
+    It looks like Matilde DeCadenet (Court Baroness, 11/22/2008) might be:
+      5 Natavia DeCadenet (Court Baroness, 11/22/2008)
+    It looks like Simon Red Beard (Award of Arms, 12/13/2008) might be:
+      2 Simon Redbeard (Award of Arms, 12/13/2008)
+    It looks like Lylie of Penhyll (Grant of Arms, 01/17/2009) might be:
+      1 Lylie of Penhill (Grant of Arms, 01/17/2009)
+    It looks like Lylie of Penhyll (Court Baroness, 01/17/2009) might be:
+      1 Lylie of Penhill (Court Baroness, 01/17/2009)
+    It looks like Tamsin Whitlock (Mistress of the Pelican, 01/17/2009) might be:
+      1 Tamsin Whitlocke (Mistress of the Pelican, 01/17/2009)
+    It looks like Katrusha the Skomorokh (Troubadour, 01/24/2009) might be:
+      4 Katrusha Skomorokh (Troubadour, 01/24/2009)
+    It looks like Renatta of Concordia (Troubadour, 01/24/2009) might be:
+      1 Renata of Concordia (Troubadour, 01/24/2009)
+    It looks like Altani Khatagidai (Award of Arms, 01/31/2009) might be:
+      3 Altani Khatagi (Award of Arms, 01/31/2009)
+    It looks like Lucien de Pontivi (Maunche, 01/31/2009) might be:
+      1 Lucien de Pontivy (Maunche, 01/31/2009)
+    It looks like Jean de la Montagne (Queen's Courtesy, 02/14/2009) might be:
+      3 Jean de Montagne (Queen's Courtesy, 02/14/2009)
+    It looks like Michael Stewart Graham (Master of the Laurel, 03/28/2009) might be:
+      2 Michael Stuart Graham (Master of the Laurel, 03/28/2009)
+    It looks like Renne Wyrm (Mistress of the Laurel, 03/28/2009) might be:
+      1 Renye Wyrm (Mistress of the Laurel, 03/28/2009)
+    It looks like Gunvar in hausakljuft (Award of Arms, 04/11/2009) might be:
+      2 Gunvar in hausafljufr (Award of Arms, 04/11/2009)
+    It looks like Caradog Ó Broin (Silver Rapier, 07/04/2009) might be:
+      1 Caradog O Broin (Silver Rapier, 07/04/2009)
+    It looks like Lilie Dubh inghean uí Mórdha (Silver Crescent, 07/04/2009) might be:
+      3 Lilie Dubh ingean ui Mordha (Silver Crescent, 07/04/2009)
+    It looks like Birna Rauð (Award of Arms, 08/02/2009) might be:
+      9 Ty Kieva (Award of Arms, 08/02/2009)
+    It looks like Tysha z Kieva (Award of Arms, 08/02/2009) might be:
+      5 Ty Kieva (Award of Arms, 08/02/2009)
+    It looks like Donnan Fitzgerald (Queen's Courtesy, 08/06/2009) might be:
+      1 Donnan FitzGerald (Queen's Courtesy, 08/06/2009)
+    It looks like Jayme Hume of Berwick (Manche, 08/06/2009) might be:
+      1 Jayme Hume of Berwyck (Maunche, 08/06/2009)
+    It looks like Zannas Autumn Amentet Ka (Burdened Tyger, 08/06/2009) might be:
+      1 Zanas Autumn Amentet Ka (Burdened Tyger, 08/06/2009)
+    It looks like William de Lancton (Grant of Arms, 08/29/2009) might be:
+      3 William Lancton (Grant of Arms, 08/29/2009)
+    It looks like William de Lancton (Court Baron, 08/29/2009) might be:
+      3 William Lancton (Court Baron, 08/29/2009)
+    It looks like Cristoforo Donatello dei Visconti (Grant of Arms, 09/05/2009) might be:
+      1 Christoforo Donatello dei Visconti (Grant of Arms, 09/05/2009)
+    It looks like Cristoforo Donatello dei Visconti (Court Baron, 09/05/2009) might be:
+      1 Christoforo Donatello dei Visconti (Court Baron, 09/05/2009)
+    It looks like Edmund O'Rourke (Tyger of Valor, 09/05/2009) might be:
+      1 Edmond O'Rourke (Tyger of Valor, 09/05/2009)
+    It looks like Pádraig Ó Gealagáin (Grant of Arms, 09/12/2009) might be:
+      4 Padraig O'Gealagain (Grant of Arms, 09/12/2009)
+    It looks like Pádraig Ó Gealagáin (Court Baron, 09/12/2009) might be:
+      4 Padraig O'Gealagain (Court Baron, 09/12/2009)
+    It looks like Hedewigis Ockenfüßin (Burdened Tyger, 09/26/2009) might be:
+      1 Hedewigis Ockenfußin (Burdened Tyger, 09/26/2009)
+    It looks like Eirikr Thórisson (Maunche, 10/03/2009) might be:
+      1 Eirikr Thorisson (Maunche, 10/03/2009)
+    It looks like Liesl Lüder (Silver Crescent, 10/03/2009) might be:
+      1 Liesl Luder (Silver Crescent, 10/03/2009)
+    It looks like Katarina Zuvovolok (Award of Arms, 10/24/2009) might be:
+      1 Katarina Zubovolok (Award of Arms, 10/24/2009)
+    It looks like Brianna inghean Douglas (Silver Crescent, 11/28/2009) might be:
+      1 Briana inghean Douglas (Silver Crescent, 11/28/2009)
+    It looks like Dunstable Peregrinator (Manche, 11/28/2009) might be:
+      2 D'Unstable Peregrinator (Maunche, 11/28/2009)
+    It looks like Juliana d’Avignon (Burdened Tyger, 11/28/2009) might be:
+      1 Juliana d'Avignon (Burdened Tyger, 11/28/2009)
+    It looks like Boya Samafujan (Golden Lyre, 03/27/2010) might be:
+      1 Biya Samafujan (Golden Lyre, 03/27/2010)
+    It looks like Perote Campbell (Award of Arms, 03/27/2010) might be:
+      7 Perote Gormal Campbell (Award of Arms, 03/27/2010)
+    It looks like Brinwen the Fair (Duchess, 04/10/2010) might be:
+      2 Brenwen the Faire (Duchess, 04/10/2010)
+    It looks like Vibeke Dejlie Steinnsdottir (Manche, 05/01/2010) might be:
+      9 Vibeke Steensdottir (Manche, 05/01/2010)
+    It looks like Richard of Whitehall (Queen's Courtesy, 05/08/2010) might be:
+      2 Richard de Whitehall (Queen's Courtesy, 05/08/2010)
+    It looks like Merrick of Winterbourne (Silver Rapier, 06/05/2010) might be:
+      7 Meryke Wynterbourne (Silver Rapier, 06/05/2010)
+    It looks like Browyn of the King's Field (Award of Arms, 06/19/2010) might be:
+      1 Bronwyn of the King's Field (Award of Arms, 06/19/2010)
+    It looks like Heather Rose Mac Gordon (Manche, 07/03/2010) might be:
+      1 Heather Rose MacGordon (Manche, 07/03/2010)
+    It looks like Ulfr Stinson (Queen's Courtesy, 07/03/2010) might be:
+      2 Ulfr Steinsson (Queen's Courtesy, 07/03/2010)
+    It looks like Brinwen the Fair (Mistress of the Laurel, 08/11/2010) might be:
+      2 Brenwen the Faire (Mistress of the Laurel, 08/11/2010)
+    It looks like Kiena Steward (Mistress of the Pelican, 08/11/2010) might be:
+      1 Kiena Stiward (Mistress of the Pelican, 08/11/2010)
+    It looks like Olaf Haraldson inn orvi (King's Excellence, 08/11/2010) might be:
+      1 Olaf Haraldson inn Orvi (King's Excellence, 08/11/2010)
+    It looks like Erik Hemeor von Welzin (Manche, 08/12/2010) might be:
+      9 Eric von Hemeor Welzin (Maunche, 08/12/2010)
+    It looks like Moi the Moldavian (Award of Arms, 09/18/2010) might be:
+      1 Mol the Moldavian (Award of Arms, 09/18/2010)
+    It looks like Cassandra Grey of Loch Leven (Grant of Arms, 09/25/2010) might be:
+      2 Cassandra Grey of Lochleven (Grant of Arms, 09/25/2010)
+    It looks like Cassandra Grey of Loch Leven (Court Barony, 09/25/2010) might be:
+      2 Cassandra Grey of Lochleven (Court Barony, 09/25/2010)
+    It looks like Elizabeth mac Neachtan (Award of Arms, 09/25/2010) might be:
+      1 Elizabeth mac Neachtain (Award of Arms, 09/25/2010)
+      9 Seamus mac Neachtain (Award of Arms, 09/25/2010)
+    It looks like Richard of Woodbridge (Maunche, 09/25/2010) might be:
+      5 Richard Woodenbridge (Maunche, 09/25/2010)
+    It looks like Robert Toxophilus of Werchsope (Silver Crescent, 09/25/2010) might be:
+      1 Robert Toxophilus of Werchesope (Sliver Crescent, 09/25/2010)
+    It looks like Seamus mac Neachtan (Award of Arms, 09/25/2010) might be:
+      1 Seamus mac Neachtain (Award of Arms, 09/25/2010)
+      9 Elizabeth mac Neachtain (Award of Arms, 09/25/2010)
+    It looks like Burnechilde de Ravenel (Award of Arms, 11/13/2010) might be:
+      2 Brunechilde de Ravenel (Award of Arms, 11/13/2010)
+    It looks like Jovonne d'Espirit (Pelican, 12/04/2010) might be:
+      1 Jovonne d'Esprit (Pelican, 12/04/2010)
+    It looks like Bruno Cavavello (Award of Arms, 01/22/2011) might be:
+      1 Bruno Caravello (Award of Arms, 01/22/2011)
+    It looks like John Radburne (Golden Rapier, 01/22/2011) might be:
+      1 John Radbourne (Golden Rapier, 01/22/2011)
+    It looks like Céleste le Mercier (Silver Crescent, 01/29/2011) might be:
+      1 Celeste le Mercier (Silver Crescent, 01/29/2011)
+    It looks like Friderich Grimm (Silver Crescent, 01/29/2011) might be:
+      1 Friderich Grimme (Silver Crescent, 01/29/2011)
+    It looks like Jean de la Montagne (Silver Crescent, 02/05/2011) might be:
+      3 Jean de Montagne (Silver Crescent, 02/05/2011)
+    It looks like Ambre Milhert (Award of Arms, 03/??/2011) might be:
+      1 Ambre Milhent (Award of Arms, 03/05/2011)
+    It looks like Bleiddwn Emrya (Award of Arms, 03/26/2011) might be:
+      1 Bleiddwn Emrys (Award of Arms, 03/26/2011)
+    It looks like Jibril al Dakhil (Grant of Arms, 03/26/2011) might be:
+      1 Jibril al-Dakhil (Grant of Arms, 03/26/2011)
+    It looks like Jibril al Dakhil (Court Barony, 03/26/2011) might be:
+      1 Jibril al-Dakhil (Court Barony, 03/26/2011)
+    It looks like Jozef Ludwiczck (Grant of Arms, 04/02/2011) might be:
+      1 Jozef Ludwiczak (Grant of Arms, 04/02/2011)
+    It looks like Jozef Ludwiczck (Court Barony, 04/02/2011) might be:
+      1 Jozef Ludwiczak (Court Barony, 04/02/2011)
+    It looks like Julien Lapointe (Queen's Courtesy, 04/02/2011) might be:
+      6 Julien de la Pointe (Queen's Courtesy, 04/02/2011)
+    It looks like Webbe (Maunche, 04/30/2011) might be:
+      4 Amy Webbe (Maunche, 04/30/2011)
+    It looks like Ronald Wilmot (Shield of Chivalry, 05/07/2011) might be:
+      1 Ronald Wilmont (Shield of Chivalry, 05/07/2011)
+    It looks like Anna Dauzzano da Siracusa (Burdened Tyger, 06/11/2011) might be:
+      1 Anna dauzzano da Siracusa (Burdened Tyger, 06/11/2011)
+    It looks like Marcus fra Iorvik (Award of Arms, 06/25/2011) might be:
+      2 Magnus fra Iorvik (Award of Arms, 06/25/2011)
+    It looks like Demi la Roux d'Avignon (Silver Crescent, 08/08/2011) might be:
+      8 Damiana d'Avignon (Silver Crescent, 08/08/2011)
+    It looks like Eleanor atte Knolle (Maunche, 08/10/2011) might be:
+      1 Eleanor Atte Knolle (Mauche, 08/10/2011)
+    It looks like Matthew Moraveous Avdenmork (Grant of Arms, 08/11/2011) might be:
+      2 Matthew Moraveaous Avedenmork (Grant of Arms, 08/11/2011)
+    It looks like Matthew Moraveous Avdenmork (Court Barony, 08/11/2011) might be:
+      2 Matthew Moraveaous Avedenmork (Court Barony, 08/11/2011)
+    It looks like Joan of Coggeshall (Silver Crescent, 09/10/2011) might be:
+      1 Joan of Coggshall (Silver Crescent, 09/10/2011)
+    It looks like Browyn Acthor (Pelican, 10/01/2011) might be:
+      3 Bronwen Acthorn (Pelican, 10/01/2011)
+    It looks like Dugan MacKinnon (Grant of Arms, 10/01/2011) might be:
+      2 Dugan mac Kinnon (Grant of Arms, 10/01/2011)
+    It looks like Dugan MacKinnon (Court Barony, 10/01/2011) might be:
+      2 Dugan mac Kinnon (Court Barony, 10/01/2011)
+    It looks like Esa Gray (Award of Arms, 10/01/2011) might be:
+      1 Esa Grey (Award of Arms, 10/01/2011)
+    It looks like Roderick of Basing (Court Barony, 10/01/2011) might be:
+      1 Roderic of Basing (Court Barony, 10/01/2011)
+    It looks like Saerlaith ingen Cinneide (Laurel, 10/01/2011) might be:
+      5 Saerlaith ingen Chennetig (Laurel, 10/01/2011)
+    It looks like Isabella d'Allaines-le-Comte (Silver Crescent, 11/05/2011) might be:
+      1 Isabelle d'Allaines-le-Comte (Silver Crescent, 11/05/2011)
+    It looks like Charis Accipiter (Burdened Tyger, 11/19/2011) might be:
+      1 Charis Accipter (Burdened Tyger, 11/19/2011)
+    It looks like Matthias Grunwold (Tygers Combatant, 11/19/2011) might be:
+      2 Matthias Grunewald (Tygers Combatant, 11/19/2011)
+    It looks like Llewellyn ab Olwyn (Tygers Combatant, 11/26/2011) might be:
+      2 Llywelyn ab Olwyn (Tygers Combattant, 11/26/2011)
+    It looks like Padraig Dubh MacEanruig (Troubadour, 01/28/2012) might be:
+      2 Padraig dubh macEanruig (Troubadour, 01/28/2012)
+    It looks like Runa Thorbjonsdottir (Award of Arms, 01/28/2012) might be:
+      1 Runa Thorbjornsdottir (Award of Arms, 01/28/2012)
+    It looks like Vissevald Selkirksson (Tyger of the East, 01/28/2012) might be:
+      1 Vissevald Selkirkson (Tyger of the East, 01/28/2012)
+    It looks like Heather Rose Mac Gordon (Silver Crescent, 02/04/2012) might be:
+      4 Heather Rose de Gordoun (Silver Crescent, 02/04/2012)
+    It looks like Tola knytir (Maunche, 02/04/2012) might be:
+      1 Tola Knytir (Manche, 02/04/2012)
+    It looks like Jacob Serpentius (Tygers Cub, 03/24/2012) might be:
+      3 Jacob of Serpentius (Tygers Cub, 03/24/2012)
+    It looks like Svanhildr Karlsdottir (Mistress of the Pelican, 03/24/2012) might be:
+      1 Svanhldr Karlsdottir (Pelican, 03/24/2012)
+    It looks like Cezilia Reposa (Award of Arms, 04/07/2012) might be:
+      1 Cezilia Raposa (Award of Arms, 04/07/2012)
+    It looks like Jibril al Dakhil (Queen's Courtesy, 04/14/2012) might be:
+      1 Jibril al-Dakhil (Queen's Courtesy, 04/14/2012)
+}
 Alpha List {
   == "Artorious" ==
     SEE: Arthur Watson
