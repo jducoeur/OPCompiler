@@ -45142,9 +45142,9 @@ Award Listings {
   }
 }
 Deduplicating {
-  Starting with 23807 recognitions
+  Starting with 23807 recognitions: 
     Of those, 23762 are real
-    Of those, 18514 are incomplete
+    Of those, 17032 are incomplete
     It looks like El of the Two Knives (Master of the Pelican, 11/17/1973) might be:
       4 El of Two Knives (Master of the Pelican, 11/17/1973)
     It looks like Alaric of Owef (Award of Arms, 04/20/1974) might be:
@@ -99880,6 +99880,954 @@ Alpha List {
   == “Widefarer” ==
     SEE: William FitzGerald
   
+}
+All Awards {
+  Acorn (Steppes, 20) is Baronial isn't Eastern
+  Acorn's Glade (Darkwater, 20) is Baronial isn't Eastern
+  Admiral of the Armies (East, 18) isn't Baronial is Eastern
+  Aegis (Northshield, 18) isn't Baronial isn't Eastern
+  Argent Estoile (Trimaris, 18) isn't Baronial isn't Eastern
+  Argent Hart (Outlands, 18) isn't Baronial isn't Eastern
+  Argent Morningstar (Trimaris, 18) isn't Baronial isn't Eastern
+  Argent Palm (Trimaris, 18) isn't Baronial isn't Eastern
+  Argent Scales (Trimaris, 18) isn't Baronial isn't Eastern
+  Armorer to the Crown (East, 18) isn't Baronial is Eastern
+  Artemis (East, 18) isn't Baronial is Eastern
+  Aspen of Caerthe (Caerthe, 20) is Baronial isn't Eastern
+  Attic Helm (Far West, 20) is Baronial isn't Eastern
+  Augmented Seahorse (Ostgardr, 20) is Baronial is Eastern
+  Award of Arms (SCA, 17) isn't Baronial is Eastern
+  Award of Arms - Backlog (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Award of Protectors of the Chalice (Rising Waters, 20) is Baronial isn't Eastern
+  Award of Tangwystyl's Favor (Ealdormere, 18) isn't Baronial isn't Eastern
+  Azure Keystone (Elfsea, 20) is Baronial isn't Eastern
+  Bannthegn (Loch Salaan, 20) is Baronial isn't Eastern
+  Bards Laureate (Trimaris, 18) isn't Baronial isn't Eastern
+  Baron Adiantum (An Tir, 10) isn't Baronial isn't Eastern
+  Baron An Dubhaigeainn (East, 10) isn't Baronial is Eastern
+  Baron An Dubhaingeainn (East, 10) isn't Baronial is Eastern
+  Baron Andelcrag (Middle, 10) isn't Baronial isn't Eastern
+  Baron Arn Hold (Artemisia, 10) isn't Baronial isn't Eastern
+  Baron Atenveldt (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baron BBM (East, 10) isn't Baronial is Eastern
+  Baron BMDL (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of Adiantum (An Tir, 10) isn't Baronial isn't Eastern
+  Baron Barony of An Dubhaigeainn (East, 10) isn't Baronial is Eastern
+  Baron Barony of Andelcrag (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of Arn Hold (Artemisia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Atenveldt (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baron Barony of BMDL (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of Bergental (East, 10) isn't Baronial is Eastern
+  Baron Barony of Beyond the Mountain (East, 10) isn't Baronial is Eastern
+  Baron Barony of Bhakail (East, 10) isn't Baronial is Eastern
+  Baron Barony of Black Diamond (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Bonwicke (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of Bordermarch (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Bridge (East, 10) isn't Baronial is Eastern
+  Baron Barony of Bright Hills (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Bryn Gwlad (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of Caer Mear (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Caerthe (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of Calafia (Caid, 10) isn't Baronial isn't Eastern
+  Baron Barony of Carillion (East, 10) isn't Baronial is Eastern
+  Baron Barony of Carolingia (East, 10) isn't Baronial is Eastern
+  Baron Barony of Concordia of the Snows (East, 10) isn't Baronial is Eastern
+  Baron Barony of Conn (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Barony of Darkwater (Trimaris, 10) isn't Baronial isn't Eastern
+  Baron Barony of Delftwood (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of Dragonship Haven (East, 10) isn't Baronial is Eastern
+  Baron Barony of Dragonsspine (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of Dreiburgen (Caid, 10) isn't Baronial isn't Eastern
+  Baron Barony of Elfsea (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of Ered Sul (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of Eskalya (Oertha, 10) isn't Baronial isn't Eastern
+  Baron Barony of Far West (West, 10) isn't Baronial isn't Eastern
+  Baron Barony of Hammerhold (Meridies, 10) isn't Baronial isn't Eastern
+  Baron Barony of Havre des Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Barony of Highland Foorde (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Irel (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of Iron Bog (East, 10) isn't Baronial is Eastern
+  Baron Barony of Knight's Crossing (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baron Barony of L'Ile du Dragon Dormant (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Barony of Loch Salaan (Artemisia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Lochmere (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Lonely Tower (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Barony of Middle Marches (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of Mountain Freehold (East, 10) isn't Baronial is Eastern
+  Baron Barony of Myrkwood (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Namron (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of Nordmark (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baron Barony of Nordskogen (Northshield, 10) isn't Baronial isn't Eastern
+  Baron Barony of North Woods (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of Nottinghill Coil (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Ostgardr (East, 10) isn't Baronial is Eastern
+  Baron Barony of Ponto Alto (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Rhydderich Hael (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of Rising Waters (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of Rivenstar (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of Ruantallan (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Barony of Settmour Swamp (East, 10) isn't Baronial is Eastern
+  Baron Barony of Skraeling Althing (Ealdormere, 10) isn't Baronial isn't Eastern
+  Baron Barony of Smoking Rocks (East, 10) isn't Baronial is Eastern
+  Baron Barony of Starkhafn (Caid, 10) isn't Baronial isn't Eastern
+  Baron Barony of Steppes (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of Stierbach (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Stonemarche (East, 10) isn't Baronial is Eastern
+  Baron Barony of Storvik (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Sun Dragon (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baron Barony of Thescorre (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of Tir Ysgithr (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of Tree-Girt-Sea (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of Vatavia (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Barony of Western Seas (Caid, 10) isn't Baronial isn't Eastern
+  Baron Barony of Windmaster's Hill (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of Winter's Gate (Oertha, 10) isn't Baronial isn't Eastern
+  Baron Barony of Wyvernwood (Trimaris, 10) isn't Baronial isn't Eastern
+  Baron Barony of al-Barran (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Adiantum (An Tir, 10) isn't Baronial isn't Eastern
+  Baron Barony of the An Dubhaigeainn (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Andelcrag (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Arn Hold (Artemisia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Atenveldt (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baron Barony of the BMDL (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Bergental (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Beyond the Mountain (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Bhakail (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Black Diamond (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Bonwicke (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Bordermarch (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Bridge (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Bright Hills (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Bryn Gwlad (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Caer Mear (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Caerthe (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Calafia (Caid, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Carillion (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Carolingia (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Concordia of the Snows (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Conn (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Darkwater (Trimaris, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Delftwood (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Dragonship Haven (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Dragonsspine (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Dreiburgen (Caid, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Elfsea (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Ered Sul (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Eskalya (Oertha, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Far West (West, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Hammerhold (Meridies, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Havre des Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Highland Foorde (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Irel (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Iron Bog (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Knight's Crossing (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baron Barony of the L'Ile du Dragon Dormant (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Loch Salaan (Artemisia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Lochmere (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Lonely Tower (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Middle Marches (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Mountain Freehold (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Myrkwood (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Namron (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Nordmark (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Nordskogen (Northshield, 10) isn't Baronial isn't Eastern
+  Baron Barony of the North Woods (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Nottinghill Coil (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Ostgardr (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Ponto Alto (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Rhydderich Hael (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Rising Waters (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Rivenstar (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Ruantallan (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Settmour Swamp (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Skraeling Althing (Ealdormere, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Smoking Rocks (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Starkhafn (Caid, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Steppes (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Stierbach (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Stonemarche (East, 10) isn't Baronial is Eastern
+  Baron Barony of the Storvik (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Sun Dragon (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Thescorre (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Tir Ysgithr (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Tree-Girt-Sea (Middle, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Vatavia (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Western Seas (Caid, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Windmaster's Hill (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Winter's Gate (Oertha, 10) isn't Baronial isn't Eastern
+  Baron Barony of the Wyvernwood (Trimaris, 10) isn't Baronial isn't Eastern
+  Baron Barony of the al-Barran (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Bergental (East, 10) isn't Baronial is Eastern
+  Baron Beyond the Mountain (East, 10) isn't Baronial is Eastern
+  Baron Bhakail (East, 10) isn't Baronial is Eastern
+  Baron Black Diamond (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Bonwicke (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Bordermarch (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Bridge (East, 10) isn't Baronial is Eastern
+  Baron Bright Hills (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Bryn Gwlad (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Caer Mear (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Caerthe (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Calafia (Caid, 10) isn't Baronial isn't Eastern
+  Baron Carillion (East, 10) isn't Baronial is Eastern
+  Baron Carillon (East, 10) isn't Baronial is Eastern
+  Baron Carolingia (East, 10) isn't Baronial is Eastern
+  Baron Concordia (East, 10) isn't Baronial is Eastern
+  Baron Concordia of the Snows (East, 10) isn't Baronial is Eastern
+  Baron Conn (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Darkwater (Trimaris, 10) isn't Baronial isn't Eastern
+  Baron Debatable Lands (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Delftwood (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Dragonship Haven (East, 10) isn't Baronial is Eastern
+  Baron Dragonsspine (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Dreiburgen (Caid, 10) isn't Baronial isn't Eastern
+  Baron Elfsea (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Ered Sul (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Eskalya (Oertha, 10) isn't Baronial isn't Eastern
+  Baron Far West (West, 10) isn't Baronial isn't Eastern
+  Baron Hammerhold (Meridies, 10) isn't Baronial isn't Eastern
+  Baron Havre de Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Havre des Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Havres des Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Highland Foorde (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Irel (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Iron Bog (East, 10) isn't Baronial is Eastern
+  Baron Knight's Crossing (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baron L'Ile du Dragon Dormant (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Loch Salaan (Artemisia, 10) isn't Baronial isn't Eastern
+  Baron Lochmere (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Lonely Tower (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Middle Marches (Middle, 10) isn't Baronial isn't Eastern
+  Baron Mirkwude (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Mountain Freehold (East, 10) isn't Baronial is Eastern
+  Baron Myrkwood (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Myrquehood (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Namron (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Nordmark (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baron Nordskogen (Northshield, 10) isn't Baronial isn't Eastern
+  Baron North Woods (Middle, 10) isn't Baronial isn't Eastern
+  Baron Nottinghill Coil (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Ostgardr (East, 10) isn't Baronial is Eastern
+  Baron Ponto Alto (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Rhydderich Hael (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Rising Waters (Middle, 10) isn't Baronial isn't Eastern
+  Baron Rivenstar (Middle, 10) isn't Baronial isn't Eastern
+  Baron Ruantallan (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baron Settmour Swamp (East, 10) isn't Baronial is Eastern
+  Baron Skraeling Althing (Ealdormere, 10) isn't Baronial isn't Eastern
+  Baron Smoking Rocks (East, 10) isn't Baronial is Eastern
+  Baron Starkhafn (Caid, 10) isn't Baronial isn't Eastern
+  Baron Steppes (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baron Stierbach (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Stonemarche (East, 10) isn't Baronial is Eastern
+  Baron Storvik (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Sun Dragon (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baron Swamp (East, 10) isn't Baronial is Eastern
+  Baron Thescorre (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron Tir Ysgithr (Outlands, 10) isn't Baronial isn't Eastern
+  Baron Tree-Girt-Sea (Middle, 10) isn't Baronial isn't Eastern
+  Baron Vatavia (Calontir, 10) isn't Baronial isn't Eastern
+  Baron Western Seas (Caid, 10) isn't Baronial isn't Eastern
+  Baron Windmaster's Hill (Atlantia, 10) isn't Baronial isn't Eastern
+  Baron Winter's Gate (Oertha, 10) isn't Baronial isn't Eastern
+  Baron Wyvernwood (Trimaris, 10) isn't Baronial isn't Eastern
+  Baron al-Barran (Outlands, 10) isn't Baronial isn't Eastern
+  Baron the Bridge (East, 10) isn't Baronial is Eastern
+  Baron the Debateable Lands (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baron the Rhydderich Hael (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Adiantum (An Tir, 10) isn't Baronial isn't Eastern
+  Baroness An Dubhaigeainn (East, 10) isn't Baronial is Eastern
+  Baroness An Dubhaingeainn (East, 10) isn't Baronial is Eastern
+  Baroness Andelcrag (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Arn Hold (Artemisia, 10) isn't Baronial isn't Eastern
+  Baroness Atenveldt (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baroness BBM (East, 10) isn't Baronial is Eastern
+  Baroness BMDL (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Adiantum (An Tir, 10) isn't Baronial isn't Eastern
+  Baroness Barony of An Dubhaigeainn (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Andelcrag (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Arn Hold (Artemisia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Atenveldt (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baroness Barony of BMDL (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Bergental (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Beyond the Mountain (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Bhakail (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Black Diamond (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Bonwicke (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Bordermarch (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Bridge (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Bright Hills (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Bryn Gwlad (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Caer Mear (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Caerthe (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Calafia (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Carillion (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Carolingia (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Concordia of the Snows (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Conn (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Darkwater (Trimaris, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Delftwood (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Dragonship Haven (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Dragonsspine (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Dreiburgen (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Elfsea (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Ered Sul (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Eskalya (Oertha, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Far West (West, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Hammerhold (Meridies, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Havre des Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Highland Foorde (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Irel (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Iron Bog (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Knight's Crossing (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baroness Barony of L'Ile du Dragon Dormant (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Loch Salaan (Artemisia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Lochmere (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Lonely Tower (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Middle Marches (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Mountain Freehold (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Myrkwood (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Namron (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Nordmark (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Nordskogen (Northshield, 10) isn't Baronial isn't Eastern
+  Baroness Barony of North Woods (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Nottinghill Coil (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Ostgardr (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Ponto Alto (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Rhydderich Hael (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Rising Waters (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Rivenstar (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Ruantallan (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Settmour Swamp (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Skraeling Althing (Ealdormere, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Smoking Rocks (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Starkhafn (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Steppes (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Stierbach (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Stonemarche (East, 10) isn't Baronial is Eastern
+  Baroness Barony of Storvik (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Sun Dragon (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Thescorre (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Tir Ysgithr (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Tree-Girt-Sea (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Vatavia (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Western Seas (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Windmaster's Hill (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Winter's Gate (Oertha, 10) isn't Baronial isn't Eastern
+  Baroness Barony of Wyvernwood (Trimaris, 10) isn't Baronial isn't Eastern
+  Baroness Barony of al-Barran (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Adiantum (An Tir, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the An Dubhaigeainn (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Andelcrag (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Arn Hold (Artemisia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Atenveldt (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the BMDL (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Bergental (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Beyond the Mountain (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Bhakail (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Black Diamond (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Bonwicke (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Bordermarch (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Bridge (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Bright Hills (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Bryn Gwlad (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Caer Mear (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Caerthe (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Calafia (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Carillion (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Carolingia (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Concordia of the Snows (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Conn (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Darkwater (Trimaris, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Delftwood (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Dragonship Haven (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Dragonsspine (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Dreiburgen (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Elfsea (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Ered Sul (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Eskalya (Oertha, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Far West (West, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Hammerhold (Meridies, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Havre des Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Highland Foorde (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Irel (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Iron Bog (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Knight's Crossing (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the L'Ile du Dragon Dormant (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Loch Salaan (Artemisia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Lochmere (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Lonely Tower (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Middle Marches (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Mountain Freehold (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Myrkwood (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Namron (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Nordmark (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Nordskogen (Northshield, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the North Woods (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Nottinghill Coil (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Ostgardr (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Ponto Alto (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Rhydderich Hael (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Rising Waters (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Rivenstar (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Ruantallan (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Settmour Swamp (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Skraeling Althing (Ealdormere, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Smoking Rocks (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Starkhafn (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Steppes (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Stierbach (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Stonemarche (East, 10) isn't Baronial is Eastern
+  Baroness Barony of the Storvik (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Sun Dragon (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Thescorre (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Tir Ysgithr (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Tree-Girt-Sea (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Vatavia (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Western Seas (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Windmaster's Hill (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Winter's Gate (Oertha, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the Wyvernwood (Trimaris, 10) isn't Baronial isn't Eastern
+  Baroness Barony of the al-Barran (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Bergental (East, 10) isn't Baronial is Eastern
+  Baroness Beyond the Mountain (East, 10) isn't Baronial is Eastern
+  Baroness Bhakail (East, 10) isn't Baronial is Eastern
+  Baroness Black Diamond (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Bonwicke (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Bordermarch (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Bridge (East, 10) isn't Baronial is Eastern
+  Baroness Bright Hills (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Bryn Gwlad (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Caer Mear (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Caerthe (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Calafia (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Carillion (East, 10) isn't Baronial is Eastern
+  Baroness Carillon (East, 10) isn't Baronial is Eastern
+  Baroness Carolingia (East, 10) isn't Baronial is Eastern
+  Baroness Concordia (East, 10) isn't Baronial is Eastern
+  Baroness Concordia of the Snows (East, 10) isn't Baronial is Eastern
+  Baroness Conn (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Darkwater (Trimaris, 10) isn't Baronial isn't Eastern
+  Baroness Debatable Lands (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Delftwood (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Dragonship Haven (East, 10) isn't Baronial is Eastern
+  Baroness Dragonsspine (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Dreiburgen (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Elfsea (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Ered Sul (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Eskalya (Oertha, 10) isn't Baronial isn't Eastern
+  Baroness Far West (West, 10) isn't Baronial isn't Eastern
+  Baroness Hammerhold (Meridies, 10) isn't Baronial isn't Eastern
+  Baroness Havre de Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Havre des Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Havres des Glaces (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Highland Foorde (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Irel (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Iron Bog (East, 10) isn't Baronial is Eastern
+  Baroness Knight's Crossing (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baroness L'Ile du Dragon Dormant (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Loch Salaan (Artemisia, 10) isn't Baronial isn't Eastern
+  Baroness Lochmere (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Lonely Tower (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Middle Marches (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Mirkwude (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Mountain Freehold (East, 10) isn't Baronial is Eastern
+  Baroness Myrkwood (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Myrquehood (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Namron (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Nordmark (Drachenwald, 10) isn't Baronial isn't Eastern
+  Baroness Nordskogen (Northshield, 10) isn't Baronial isn't Eastern
+  Baroness North Woods (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Nottinghill Coil (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Ostgardr (East, 10) isn't Baronial is Eastern
+  Baroness Ponto Alto (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Rhydderich Hael (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Rising Waters (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Rivenstar (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Ruantallan (Tir Mara, 10) isn't Baronial isn't Eastern
+  Baroness Settmour Swamp (East, 10) isn't Baronial is Eastern
+  Baroness Skraeling Althing (Ealdormere, 10) isn't Baronial isn't Eastern
+  Baroness Smoking Rocks (East, 10) isn't Baronial is Eastern
+  Baroness Starkhafn (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Steppes (Ansteorra, 10) isn't Baronial isn't Eastern
+  Baroness Stierbach (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Stonemarche (East, 10) isn't Baronial is Eastern
+  Baroness Storvik (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Sun Dragon (Atenveldt, 10) isn't Baronial isn't Eastern
+  Baroness Swamp (East, 10) isn't Baronial is Eastern
+  Baroness Thescorre (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness Tir Ysgithr (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness Tree-Girt-Sea (Middle, 10) isn't Baronial isn't Eastern
+  Baroness Vatavia (Calontir, 10) isn't Baronial isn't Eastern
+  Baroness Western Seas (Caid, 10) isn't Baronial isn't Eastern
+  Baroness Windmaster's Hill (Atlantia, 10) isn't Baronial isn't Eastern
+  Baroness Winter's Gate (Oertha, 10) isn't Baronial isn't Eastern
+  Baroness Wyvernwood (Trimaris, 10) isn't Baronial isn't Eastern
+  Baroness al-Barran (Outlands, 10) isn't Baronial isn't Eastern
+  Baroness the Bridge (East, 10) isn't Baronial is Eastern
+  Baroness the Debateable Lands (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness the Rhydderich Hael (AEthelmearc, 10) isn't Baronial isn't Eastern
+  Baroness' Favour (Rising Waters, 20) is Baronial isn't Eastern
+  Baroness's Silver Ring (Iron Bog, 20) is Baronial is Eastern
+  Baronial Broom (Nordskogen, 20) is Baronial isn't Eastern
+  Baronial Brownie (Adiantum, 20) is Baronial isn't Eastern
+  Baronial Gallant (Far West, 20) is Baronial isn't Eastern
+  Baronial Label (Western Seas, 20) is Baronial isn't Eastern
+  Baronial award of Excellence (Bright Hills, 20) is Baronial isn't Eastern
+  Baton Gules (Nordskogen, 20) is Baronial isn't Eastern
+  Battered Wrench (Hammerhold, 20) is Baronial isn't Eastern
+  Beacon of the Desert (Atenveldt, 18) isn't Baronial isn't Eastern
+  Bee (Ealdormere, 18) isn't Baronial isn't Eastern
+  Bhakail Order of Fence (Bhakail, 20) is Baronial is Eastern
+  Black Swan (Cynagua, 19) isn't Baronial isn't Eastern
+  Blasted Oak (Lochmere, 20) is Baronial isn't Eastern
+  Bloody Tower (Settmour Swamp, 20) is Baronial is Eastern
+  Blue Collar (Bright Hills, 20) is Baronial isn't Eastern
+  Blue Comet (BMDL, 20) is Baronial isn't Eastern
+  Blue Tyger Legion (East, 18) isn't Baronial is Eastern
+  Boreas (Windmaster's Hill, 20) is Baronial isn't Eastern
+  Bronze Tower (Settmour Swamp, 20) is Baronial is Eastern
+  Burdened Bouget (Far West, 20) is Baronial isn't Eastern
+  Burdened Tyger (East, 18) isn't Baronial is Eastern
+  Cat's Paw (Bright Hills, 20) is Baronial isn't Eastern
+  Chalice's Crystal (Rising Waters, 20) is Baronial isn't Eastern
+  Champion on the Manche (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Charter for the Known World players (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Chiffre du Baron (Havre des Glaces, 20) is Baronial isn't Eastern
+  Chime (Carillion, 20) is Baronial is Eastern
+  Chivalry (SCA, 8) isn't Baronial is Eastern
+  Commendabilis (West, 18) isn't Baronial isn't Eastern
+  Compass Rose (Ansteorra, 18) isn't Baronial isn't Eastern
+  Confirmation of Gentility (East, 18) isn't Baronial is Eastern
+  Corde de Guerre of Caid (Caid, 18) isn't Baronial isn't Eastern
+  Cordon Royale (Irel, 20) is Baronial isn't Eastern
+  Cornelian (AEthelmearc, 18) isn't Baronial isn't Eastern
+  Corolla Muralis (Mists, 19) isn't Baronial isn't Eastern
+  Corolla Nebularum (Mists, 19) isn't Baronial isn't Eastern
+  Coronet's Appreciation (Far West, 20) is Baronial isn't Eastern
+  Count (SCA, 6) isn't Baronial is Eastern
+  Court Barony (SCA, 16) isn't Baronial is Eastern
+  Court Count (SCA, 8) isn't Baronial is Eastern
+  Court Duke (SCA, 8) isn't Baronial is Eastern
+  Court Jester (East, 18) isn't Baronial is Eastern
+  Cross of Lochac (Lochac, 18) isn't Baronial isn't Eastern
+  Crossed Swords (Caid, 18) isn't Baronial isn't Eastern
+  Crown Prince (East, 18) isn't Baronial is Eastern
+  Crown Prince of AEthelmearc (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Crown Princess (East, 18) isn't Baronial is Eastern
+  Crown Princess of AEthelmearc (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Crown's Gratitude (Trimaris, 18) isn't Baronial isn't Eastern
+  Crowned (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Crystal of the Salt Wastes (Loch Salaan, 20) is Baronial isn't Eastern
+  Cynaguan Guard (Cynagua, 19) isn't Baronial isn't Eastern
+  Daystar (Carolingia, 20) is Baronial is Eastern
+  Defender of the West (West, 18) isn't Baronial isn't Eastern
+  Desert Flower (Atenveldt, 18) isn't Baronial isn't Eastern
+  Devoted and Unique Company of Keepers (Loch Salaan, 20) is Baronial isn't Eastern
+  Doe's Grace (Middle, 18) isn't Baronial isn't Eastern
+  Dolphin (Caid, 18) isn't Baronial isn't Eastern
+  Dragon's Barb (Middle, 18) isn't Baronial isn't Eastern
+  Dragon's Blood (Dragonsspine, 20) is Baronial isn't Eastern
+  Dragon's Heart (Middle, 18) isn't Baronial isn't Eastern
+  Dragon's Scale (Sun Dragon, 20) is Baronial isn't Eastern
+  Dragon's Teeth (Middle, 18) isn't Baronial isn't Eastern
+  Dragon's Tooth (Middle, 18) isn't Baronial isn't Eastern
+  Dragons Pride (Drachenwald, 18) isn't Baronial isn't Eastern
+  Dragons Tear (Drachenwald, 18) isn't Baronial isn't Eastern
+  Drake's Spur (An Dubhaigeainn, 20) is Baronial is Eastern
+  Duck (Iron Bog, 20) is Baronial is Eastern
+  Duke (SCA, 5) isn't Baronial is Eastern
+  Dwarven Hammer (Hammerhold, 20) is Baronial isn't Eastern
+  Eagle's Feather (Lochmere, 20) is Baronial isn't Eastern
+  Eastern Tower (Elfsea, 20) is Baronial isn't Eastern
+  Elder of Avacal (Avacal, 19) isn't Baronial isn't Eastern
+  Embroideress to the Crown (East, 18) isn't Baronial is Eastern
+  Emerald Seas (Trimaris, 18) isn't Baronial isn't Eastern
+  Empty Shell (Far West, 20) is Baronial isn't Eastern
+  Esprit de Soleil (Sun, 19) isn't Baronial isn't Eastern
+  Estoille (Winter's Gate, 20) is Baronial isn't Eastern
+  Evergreen (Middle, 18) isn't Baronial isn't Eastern
+  Falcon of Loch Salaan (Loch Salaan, 20) is Baronial isn't Eastern
+  Fatima (East, 18) isn't Baronial is Eastern
+  Fealty (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Feather (Concordia of the Snows, 20) is Baronial is Eastern
+  Fettered Crane (Black Diamond, 20) is Baronial isn't Eastern
+  Fish (Carillion, 20) is Baronial is Eastern
+  Flame (Starkhafn, 20) is Baronial isn't Eastern
+  Flame of Bhakail (Bhakail, 20) is Baronial is Eastern
+  Fleur de Soleil (Atenveldt, 18) isn't Baronial isn't Eastern
+  Flower (Outlands, 18) isn't Baronial isn't Eastern
+  Flower of Chivalry (Loch Salaan, 20) is Baronial isn't Eastern
+  Forget-Me-Not (An Tir, 18) isn't Baronial isn't Eastern
+  Fountain (Atlantia, 18) isn't Baronial isn't Eastern
+  Fountain of Bergental (Bergental, 20) is Baronial is Eastern
+  Free Griffin (Carolingia, 20) is Baronial is Eastern
+  Freedom of the Bridge (Bridge, 20) is Baronial is Eastern
+  Friendly Castle (Cynagua, 19) isn't Baronial isn't Eastern
+  Friends (Concordia of the Snows, 20) is Baronial is Eastern
+  Furison (Stonemarche, 20) is Baronial is Eastern
+  Gaping Wound (Middle, 18) isn't Baronial isn't Eastern
+  Garnet (AEthelmearc, 18) isn't Baronial isn't Eastern
+  Gauntlet (Caid, 18) isn't Baronial isn't Eastern
+  Gawain (East, 18) isn't Baronial is Eastern
+  Gilded Heart of Ered Sul (Ered Sul, 20) is Baronial isn't Eastern
+  Gilded Leaf (Caerthe, 20) is Baronial isn't Eastern
+  Gilded Reed (Middle Marches, 20) is Baronial isn't Eastern
+  Ginger Flower (Far West, 20) is Baronial isn't Eastern
+  Gold Comet (BMDL, 20) is Baronial isn't Eastern
+  Gold Mace (Middle, 18) isn't Baronial isn't Eastern
+  Golden Alce (AEthelmearc, 18) isn't Baronial isn't Eastern
+  Golden Branch (Mists, 19) isn't Baronial isn't Eastern
+  Golden Calon Swan (Calontir, 18) isn't Baronial isn't Eastern
+  Golden Chalice (Rising Waters, 20) is Baronial isn't Eastern
+  Golden Dolphin (Atlantia, 18) isn't Baronial isn't Eastern
+  Golden Feather of Artemisia (Artemisia, 18) isn't Baronial isn't Eastern
+  Golden Lyre (East, 18) isn't Baronial is Eastern
+  Golden Mantle (East, 18) isn't Baronial is Eastern
+  Golden Otter (Ealdormere, 18) isn't Baronial isn't Eastern
+  Golden Rapier (East, 18) isn't Baronial is Eastern
+  Golden Reflection (Outlands, 18) isn't Baronial isn't Eastern
+  Golden Stirrup (AEthelmearc, 18) isn't Baronial isn't Eastern
+  Golden Trident (Calafia, 20) is Baronial isn't Eastern
+  Golden Unicorn (An Tir, 18) isn't Baronial isn't Eastern
+  Goutte de Sang (An Tir, 18) isn't Baronial isn't Eastern
+  Grace of Artemisia (Artemisia, 18) isn't Baronial isn't Eastern
+  Grandmaster Bowman (East, 18) isn't Baronial is Eastern
+  Grant of Arms (SCA, 14) isn't Baronial is Eastern
+  Green Comet (BMDL, 20) is Baronial isn't Eastern
+  Green Cord (Vatavia, 20) is Baronial isn't Eastern
+  Griffin's Heart (Artemisia, 18) isn't Baronial isn't Eastern
+  Griffin's Talon (Artemisia, 18) isn't Baronial isn't Eastern
+  Guardsman (East, 18) isn't Baronial is Eastern
+  Halberd (Bryn Gwlad, 20) is Baronial isn't Eastern
+  Hare Salient (Skraeling Althing, 20) is Baronial isn't Eastern
+  Harlequin (Bhakail, 20) is Baronial is Eastern
+  Harp Argent (Caid, 18) isn't Baronial isn't Eastern
+  Hawk's Bell (Dragonship Haven, 20) is Baronial is Eastern
+  Hawk's Lure (Atenveldt, 18) isn't Baronial isn't Eastern
+  Healer's Lamp (Trimaris, 18) isn't Baronial isn't Eastern
+  Heart of the Sable Storm (Namron, 20) is Baronial isn't Eastern
+  Hearthstone (Cynagua, 19) isn't Baronial isn't Eastern
+  Heavy Cross (Nordskogen, 20) is Baronial isn't Eastern
+  Heliotrope (Nordskogen, 20) is Baronial isn't Eastern
+  Herald Extraordinaire (SCA, 18) isn't Baronial is Eastern
+  Herald's Tressure (Trimaris, 18) isn't Baronial isn't Eastern
+  Holly (Beyond the Mountain, 20) is Baronial is Eastern
+  Honneur de la Chanson (Caid, 18) isn't Baronial isn't Eastern
+  Honor of Sun Dragon (Sun Dragon, 20) is Baronial isn't Eastern
+  Horse's Head (Carillion, 20) is Baronial is Eastern
+  Hourglass (Bergental, 20) is Baronial is Eastern
+  Iceburg (Ruantallan, 20) is Baronial isn't Eastern
+  Illuminated Tower (Dreiburgen, 20) is Baronial isn't Eastern
+  Iren Fera (Calontir, 18) isn't Baronial isn't Eastern
+  Iren Fyrd (Calontir, 18) isn't Baronial isn't Eastern
+  Iren Hirth (Calontir, 18) isn't Baronial isn't Eastern
+  Iris of Merit (Ansteorra, 18) isn't Baronial isn't Eastern
+  Iron Comet (BMDL, 20) is Baronial isn't Eastern
+  Iron Punk (Iron Bog, 20) is Baronial is Eastern
+  Iron Tower (Settmour Swamp, 20) is Baronial is Eastern
+  Ivory Tower (Settmour Swamp, 20) is Baronial is Eastern
+  Jambe de Lion (An Tir, 18) isn't Baronial isn't Eastern
+  Keel (Dragonship Haven, 20) is Baronial is Eastern
+  Keeper of the Flames (Stonemarche, 20) is Baronial is Eastern
+  Keystone (AEthelmearc, 18) isn't Baronial isn't Eastern
+  King of the East (East, 18) isn't Baronial is Eastern
+  King's Arts and Sciences Rattan Champion - Outgoing (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  King's Award of Excellence (Atlantia, 18) isn't Baronial isn't Eastern
+  King's Champion of Archery (SCA, 18) isn't Baronial is Eastern
+  King's Champion of Arms (SCA, 18) isn't Baronial is Eastern
+  King's Champion of Arts and Sciences (SCA, 18) isn't Baronial is Eastern
+  King's Champion of Bardic (SCA, 18) isn't Baronial is Eastern
+  King's Champion of Horse (SCA, 18) isn't Baronial is Eastern
+  King's Champion of Rapier (SCA, 18) isn't Baronial is Eastern
+  King's Council (Artemisia, 18) isn't Baronial isn't Eastern
+  King's Cypher (SCA, 18) isn't Baronial is Eastern
+  King's Esteem of Merit (East, 18) isn't Baronial is Eastern
+  King's Favor (Conn, 20) is Baronial isn't Eastern
+  King's Gauntlet (Ansteorra, 18) isn't Baronial isn't Eastern
+  King's Huscarls (West, 18) isn't Baronial isn't Eastern
+  King's Order of Excellence (East, 18) isn't Baronial is Eastern
+  King's Sigil (Atenveldt, 18) isn't Baronial isn't Eastern
+  Kingdom Augmentation of Arms (East, 18) isn't Baronial is Eastern
+  Kingdom Marshal of Fence (East, 18) isn't Baronial is Eastern
+  Kingdom Rattan Champion (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Kings Bardic Rattan Champion - Out going (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Knight (SCA, 8) isn't Baronial is Eastern
+  Knight Bannerette (West, 18) isn't Baronial isn't Eastern
+  Krakken (Atlantia, 18) isn't Baronial isn't Eastern
+  LUST (Artemisia, 18) isn't Baronial isn't Eastern
+  La Brise de Mer (Caer Mear, 20) is Baronial isn't Eastern
+  La Courtesia (Cynagua, 19) isn't Baronial isn't Eastern
+  Lady Protector of Aethelmearc (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Lady of the Edelweiss (Drachenwald, 18) isn't Baronial isn't Eastern
+  Lady of the Papillon (Artemisia, 18) isn't Baronial isn't Eastern
+  Lamp of Apollo (Stonemarche, 20) is Baronial is Eastern
+  Lamp of Tir Ysgithr (Tir Ysgithr, 20) is Baronial isn't Eastern
+  Laurel (SCA, 8) isn't Baronial is Eastern
+  Leaf of Merit (West, 18) isn't Baronial isn't Eastern
+  Leaping Dolphin (Far West, 20) is Baronial isn't Eastern
+  Leaping Stag (Outlands, 18) isn't Baronial isn't Eastern
+  Leather Mallet (Calontir, 18) isn't Baronial isn't Eastern
+  Legion of Courtesy (Caid, 18) isn't Baronial isn't Eastern
+  Letters of Mark (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Level 2 Banishment (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Level One Banishment (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Leviathan (Smoking Rocks, 20) is Baronial is Eastern
+  Light of Atenveldt (Atenveldt, 18) isn't Baronial isn't Eastern
+  Light of Carillion (Carillion, 20) is Baronial is Eastern
+  Lindquistrings (Drachenwald, 18) isn't Baronial isn't Eastern
+  Lion of Ansteorra (Ansteorra, 18) isn't Baronial isn't Eastern
+  Lion of Atenveldt (Atenveldt, 18) isn't Baronial isn't Eastern
+  Lodestone (Smoking Rocks, 20) is Baronial is Eastern
+  Lonely Tower (Lonely Tower, 20) is Baronial isn't Eastern
+  Lord Defender of Cynagua (Cynagua, 19) isn't Baronial isn't Eastern
+  Lord Protector of Aethelmearc (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Lux Caidis (Caid, 18) isn't Baronial isn't Eastern
+  Lys d'Argent (Havre des Glaces, 20) is Baronial isn't Eastern
+  Maple Leaf of Artemisia (Artemisia, 18) isn't Baronial isn't Eastern
+  Marble Chalice (Gleann Abhann, 18) isn't Baronial isn't Eastern
+  Master Bowman (East, 18) isn't Baronial is Eastern
+  Master at Arms (SCA, 8) isn't Baronial is Eastern
+  Master of Horse (Bhakail, 20) is Baronial is Eastern
+  Maunche (East, 18) isn't Baronial is Eastern
+  Meridian Cross (Meridies, 18) isn't Baronial isn't Eastern
+  Meriti Martialis (Havre des Glaces, 20) is Baronial isn't Eastern
+  Millstone (Stonemarche, 20) is Baronial is Eastern
+  Moon (Carolingia, 20) is Baronial is Eastern
+  Moose Combatant of Arn Hold (Arn Hold, 20) is Baronial isn't Eastern
+  Mountain Hawk (Highland Foorde, 20) is Baronial isn't Eastern
+  Muckin' Great Clubbe (West, 18) isn't Baronial isn't Eastern
+  Named Principal of the Pelican (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Northshield Cross (Northshield, 18) isn't Baronial isn't Eastern
+  OHS (Ealdormere, 18) isn't Baronial isn't Eastern
+  Oak (Steppes, 20) is Baronial isn't Eastern
+  Oar (Dragonship Haven, 20) is Baronial is Eastern
+  Oerthan Order of Grace (Oertha, 19) isn't Baronial isn't Eastern
+  Old Battered Helm (West, 18) isn't Baronial isn't Eastern
+  Onyx Chalice (Gleann Abhann, 18) isn't Baronial isn't Eastern
+  Opal (Atlantia, 18) isn't Baronial isn't Eastern
+  Ordre de Mai (Havre des Glaces, 20) is Baronial isn't Eastern
+  Orion (Ealdormere, 18) isn't Baronial isn't Eastern
+  Out going Baroness of Iron Bog (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Outgoing Baron of Concordia (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Outgoing King's Rattan Champion of Arms (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Outgoing Kingdom Marshal of Fence (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Outgoing Queen's Rattan Champion of Arms (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Outgoing Vicerene of Ostgardr (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Outgoing Viceroy of Ostgardr (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Palm of Barony Atenveldt (Atenveldt, 20) is Baronial isn't Eastern
+  Panache (Drachenwald, 18) isn't Baronial isn't Eastern
+  Patent of Arms (SCA, 8) isn't Baronial is Eastern
+  Peacock (BMDL, 20) is Baronial isn't Eastern
+  Pearl (Atlantia, 18) isn't Baronial isn't Eastern
+  Pelican (SCA, 8) isn't Baronial is Eastern
+  Perseus (Carolingia, 20) is Baronial is Eastern
+  Pharos (Caer Mear, 20) is Baronial isn't Eastern
+  Pheon (East, 18) isn't Baronial is Eastern
+  Pied d'Argent (West, 18) isn't Baronial isn't Eastern
+  Pillar of Artemisia (Artemisia, 18) isn't Baronial isn't Eastern
+  Pillar of the Bridge (Bridge, 20) is Baronial is Eastern
+  Pine (Concordia of the Snows, 20) is Baronial is Eastern
+  Polished Mirror (Black Diamond, 20) is Baronial isn't Eastern
+  Ponte di Ferro (Ponto Alto, 20) is Baronial isn't Eastern
+  Popular Company of Sojourners (Drachenwald, 18) isn't Baronial isn't Eastern
+  Portcullis (Elfsea, 20) is Baronial isn't Eastern
+  Prince of Atlantia (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Prince's Champion of Archery (SCA, 18) isn't Baronial is Eastern
+  Prince's Champion of Arms (SCA, 18) isn't Baronial is Eastern
+  Prince's Champion of Arts and Sciences (SCA, 18) isn't Baronial is Eastern
+  Prince's Champion of Bardic (SCA, 18) isn't Baronial is Eastern
+  Prince's Champion of Horse (SCA, 18) isn't Baronial is Eastern
+  Prince's Champion of Rapier (SCA, 18) isn't Baronial is Eastern
+  Prince's Companions of Albion (Drachenwald, 18) isn't Baronial isn't Eastern
+  Prince's Cypher (SCA, 18) isn't Baronial is Eastern
+  Princess of Atlantia (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Princess' Favor (Mists, 19) isn't Baronial isn't Eastern
+  Princess's Champion of Archery (SCA, 18) isn't Baronial is Eastern
+  Princess's Champion of Arms (SCA, 18) isn't Baronial is Eastern
+  Princess's Champion of Arts and Sciences (SCA, 18) isn't Baronial is Eastern
+  Princess's Champion of Bardic (SCA, 18) isn't Baronial is Eastern
+  Princess's Champion of Horse (SCA, 18) isn't Baronial is Eastern
+  Princess's Champion of Rapier (SCA, 18) isn't Baronial is Eastern
+  Princess's Grace (Mists, 19) isn't Baronial isn't Eastern
+  Princess's Order of Courtesy (Drachenwald, 18) isn't Baronial isn't Eastern
+  Princess's Riband (Oertha, 19) isn't Baronial isn't Eastern
+  Princess's Token (Cynagua, 19) isn't Baronial isn't Eastern
+  Purple Fret (Middle, 18) isn't Baronial isn't Eastern
+  Purple Fretty (Middle, 18) isn't Baronial isn't Eastern
+  Pèlerin (Havre des Glaces, 20) is Baronial isn't Eastern
+  Quadrant (Smoking Rocks, 20) is Baronial is Eastern
+  Queen of the East Kingdom (East, 18) isn't Baronial is Eastern
+  Queen's Arts and Sciences Rattan Champion - Outgoing (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Queen's Award of Courtesy (Atlantia, 18) isn't Baronial isn't Eastern
+  Queen's Bardic Rattan Champion - Out Going (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Queen's Champion of Archery (SCA, 18) isn't Baronial is Eastern
+  Queen's Champion of Arms (SCA, 18) isn't Baronial is Eastern
+  Queen's Champion of Arts and Sciences (SCA, 18) isn't Baronial is Eastern
+  Queen's Champion of Bardic (SCA, 18) isn't Baronial is Eastern
+  Queen's Champion of Horse (SCA, 18) isn't Baronial is Eastern
+  Queen's Champion of Rapier (SCA, 18) isn't Baronial is Eastern
+  Queen's Cypher (SCA, 18) isn't Baronial is Eastern
+  Queen's Favor (Middle, 18) isn't Baronial isn't Eastern
+  Queen's Glove (Ansteorra, 18) isn't Baronial isn't Eastern
+  Queen's Grace (West, 18) isn't Baronial isn't Eastern
+  Queen's Grace of Atenveldt (Atenveldt, 18) isn't Baronial isn't Eastern
+  Queen's Guard (SCA, 18) isn't Baronial is Eastern
+  Queen's Honor of Distinction (East, 18) isn't Baronial is Eastern
+  Queen's Order of Courtesy (East, 18) isn't Baronial is Eastern
+  Radiant Rose (Atenveldt, 18) isn't Baronial isn't Eastern
+  Rainbows Gold (Sun Dragon, 20) is Baronial isn't Eastern
+  Ram's Horn (Concordia of the Snows, 20) is Baronial is Eastern
+  Raven's Feather (Thescorre, 20) is Baronial isn't Eastern
+  Red Comet (BMDL, 20) is Baronial isn't Eastern
+  Red Company (Middle, 18) isn't Baronial isn't Eastern
+  Renewal of Treaty between Kingdoms (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Rivenstar (Rivenstar, 20) is Baronial isn't Eastern
+  Roasted Duck (An Dubhaigeainn, 20) is Baronial is Eastern
+  Rock (Smoking Rocks, 20) is Baronial is Eastern
+  Rose (SCA, 8) isn't Baronial is Eastern
+  Rose Leaf (Mists, 19) isn't Baronial isn't Eastern
+  Rose des Glaces (Havre des Glaces, 20) is Baronial isn't Eastern
+  Rouge Bend (Nordskogen, 20) is Baronial isn't Eastern
+  Royal Augmentation of Arms (East, 18) isn't Baronial is Eastern
+  Royal Cypher (SCA, 18) isn't Baronial is Eastern
+  Royal Nudge (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Royal Vanguard (Middle, 18) isn't Baronial isn't Eastern
+  Russian Thistle (al-Barran, 20) is Baronial isn't Eastern
+  Ruxton (Cynagua, 19) isn't Baronial isn't Eastern
+  S.P.U.D. (Arn Hold, 20) is Baronial isn't Eastern
+  Sable Bear (Bergental, 20) is Baronial is Eastern
+  Sable Bell (Carillion, 20) is Baronial is Eastern
+  Sable Blade (Atlantia, 18) isn't Baronial isn't Eastern
+  Sable Clarion (Western Seas, 20) is Baronial isn't Eastern
+  Sable Comet (Ansteorra, 18) isn't Baronial isn't Eastern
+  Sable Compass (Iron Bog, 20) is Baronial is Eastern
+  Sable Crane (Ansteorra, 18) isn't Baronial isn't Eastern
+  Sable Falcon (Ansteorra, 18) isn't Baronial isn't Eastern
+  Sable Gauntlet (Iron Bog, 20) is Baronial is Eastern
+  Sable Martlet (Iron Bog, 20) is Baronial is Eastern
+  Sable Thistle (Ansteorra, 18) isn't Baronial isn't Eastern
+  Sagittarius (East, 18) isn't Baronial is Eastern
+  Salamander (Bhakail, 20) is Baronial is Eastern
+  Salamander's Tear (Bhakail, 20) is Baronial is Eastern
+  Sapphire (Concordia of the Snows, 20) is Baronial is Eastern
+  Scales of Dragonsspine (Dragonsspine, 20) is Baronial isn't Eastern
+  Scorpion (al-Barran, 20) is Baronial isn't Eastern
+  Sea Griffon (Far West, 20) is Baronial isn't Eastern
+  Sea Stag (Atlantia, 18) isn't Baronial isn't Eastern
+  Sea Star (Ostgardr, 20) is Baronial is Eastern
+  Seadog (Ostgardr, 20) is Baronial is Eastern
+  Seahorse (Ostgardr, 20) is Baronial is Eastern
+  Seamstress to the Crown (East, 18) isn't Baronial is Eastern
+  Seamstress to the Princess Royal (East, 18) isn't Baronial is Eastern
+  Sent on Vigil (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Serpent's Flame (Calafia, 20) is Baronial isn't Eastern
+  Shark's Tooth (Atlantia, 18) isn't Baronial isn't Eastern
+  Sheriff of Smoking Rocks (East, 18) isn't Baronial is Eastern
+  Sheriff of the Smoking Rocks (Smoking Rocks, 20) is Baronial is Eastern
+  Shield of Chivalry (East, 18) isn't Baronial is Eastern
+  Shrouded Bell (Carillion, 20) is Baronial is Eastern
+  Sigil of AEthelmearc (AEthelmearc, 18) isn't Baronial isn't Eastern
+  Sigillum Coronae (Drachenwald, 18) isn't Baronial isn't Eastern
+  Signum Regina (Caid, 18) isn't Baronial isn't Eastern
+  Silent Trumpet (Bordermarch, 20) is Baronial isn't Eastern
+  Silvanus Doke (An Dubhaigeainn, 20) is Baronial is Eastern
+  Silver Bough (Eskalya, 20) is Baronial isn't Eastern
+  Silver Cattail (Iron Bog, 20) is Baronial is Eastern
+  Silver Chalice (Black Diamond, 20) is Baronial isn't Eastern
+  Silver Comet (BMDL, 20) is Baronial isn't Eastern
+  Silver Compass (Iron Bog, 20) is Baronial is Eastern
+  Silver Crescent (East, 18) isn't Baronial is Eastern
+  Silver Crocus (Black Diamond, 20) is Baronial isn't Eastern
+  Silver Feather (An Dubhaigeainn, 20) is Baronial is Eastern
+  Silver Gauntlet (Iron Bog, 20) is Baronial is Eastern
+  Silver Guard (Drachenwald, 18) isn't Baronial isn't Eastern
+  Silver Helm (Lochac, 18) isn't Baronial isn't Eastern
+  Silver Mantle (West, 18) isn't Baronial isn't Eastern
+  Silver Martlet (Iron Bog, 20) is Baronial is Eastern
+  Silver Molet (West, 18) isn't Baronial isn't Eastern
+  Silver Oak (Middle, 18) isn't Baronial isn't Eastern
+  Silver Rapier (East, 18) isn't Baronial is Eastern
+  Silver Scroll (Bright Hills, 20) is Baronial isn't Eastern
+  Silver Sea-Lion (Ostgardr, 20) is Baronial is Eastern
+  Silver Snowflake (Concordia of the Snows, 20) is Baronial is Eastern
+  Silver Tower (Settmour Swamp, 20) is Baronial is Eastern
+  Silver Trident (Trimaris, 18) isn't Baronial isn't Eastern
+  Snow Hare (Concordia of the Snows, 20) is Baronial is Eastern
+  Solar Heart (Sun, 19) isn't Baronial isn't Eastern
+  Solar Phoenix (Atenveldt, 20) is Baronial isn't Eastern
+  Spider (Rising Waters, 20) is Baronial isn't Eastern
+  St Nicholas (Windmaster's Hill, 20) is Baronial isn't Eastern
+  St. Crispin (Ealdormere, 18) isn't Baronial isn't Eastern
+  St. Martin (Dragonship Haven, 20) is Baronial is Eastern
+  St. Roche (Stierbach, 20) is Baronial isn't Eastern
+  Stag (Outlands, 18) isn't Baronial isn't Eastern
+  Stag's Blood (Outlands, 18) isn't Baronial isn't Eastern
+  Stag's Heart (Outlands, 18) isn't Baronial isn't Eastern
+  Stag's Tynes (Outlands, 18) isn't Baronial isn't Eastern
+  Star of Merit (Ansteorra, 18) isn't Baronial isn't Eastern
+  Sun and Soil (Beyond the Mountain, 20) is Baronial is Eastern
+  Sycamore (AEthelmearc, 18) isn't Baronial isn't Eastern
+  Tempered Steel (Hammerhold, 20) is Baronial isn't Eastern
+  Tempest (Windmaster's Hill, 20) is Baronial isn't Eastern
+  Tempest Tossed Traveller Argent (Far West, 20) is Baronial isn't Eastern
+  Tempest Tossed Traveller Gules (Far West, 20) is Baronial isn't Eastern
+  Terpsichore (East, 18) isn't Baronial is Eastern
+  Thegn (Atenveldt, 18) isn't Baronial isn't Eastern
+  Thorbjorn's Hammer (Ealdormere, 18) isn't Baronial isn't Eastern
+  Torse (Calontir, 18) isn't Baronial isn't Eastern
+  Tower (Dreiburgen, 20) is Baronial isn't Eastern
+  Toymaker to the Queen (East, 18) isn't Baronial is Eastern
+  Trade Winds (Trimaris, 18) isn't Baronial isn't Eastern
+  Trefoil (Outlands, 18) isn't Baronial isn't Eastern
+  Trident Keype (Darkwater, 20) is Baronial isn't Eastern
+  Tripsichore's Mouffle (Arn Hold, 20) is Baronial isn't Eastern
+  Troubadour (East, 18) isn't Baronial is Eastern
+  Tyger of Foreign Legions (East, 18) isn't Baronial is Eastern
+  Tyger of Valor (East, 18) isn't Baronial is Eastern
+  Tyger of the East (East, 18) isn't Baronial is Eastern
+  Tygers Combattant (East, 18) isn't Baronial is Eastern
+  Tygers Cub (East, 18) isn't Baronial is Eastern
+  Unbalanced (Carillion, 20) is Baronial is Eastern
+  Undine (Atlantia, 18) isn't Baronial isn't Eastern
+  Valor (West, 18) isn't Baronial isn't Eastern
+  Vanguard of Honor (Caid, 18) isn't Baronial isn't Eastern
+  Vicar of Bergental (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Vicar of Carillion (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Vicereine Ostgardr (East, 10) isn't Baronial is Eastern
+  Vicerene Ostgardr (East, 10) isn't Baronial is Eastern
+  Vicerine Ostgardr - elect (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Viceroy Ostgardr (East, 10) isn't Baronial is Eastern
+  Viceroy of Ostgardr - elect (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Vigil for Chivalry (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Vigil for Laurel (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Viscount (SCA, 7) isn't Baronial is Eastern
+  Wain (Ealdormere, 18) isn't Baronial isn't Eastern
+  Wandering Wolves (Oertha, 19) isn't Baronial isn't Eastern
+  Warriors of the Chalice (Rising Waters, 20) is Baronial isn't Eastern
+  Watchful Tower (Middle Marches, 20) is Baronial isn't Eastern
+  Western Cross of Bonwicke (Bonwicke, 20) is Baronial isn't Eastern
+  White Cord (Vatavia, 20) is Baronial isn't Eastern
+  White Oak (Beyond the Mountain, 20) is Baronial is Eastern
+  White Scarf (SCA, 18) isn't Baronial is Eastern
+  White Wolf (North Woods, 20) is Baronial isn't Eastern
+  Willow (Middle, 18) isn't Baronial isn't Eastern
+  Windblown Leaf (Myrkwood, 20) is Baronial isn't Eastern
+  Windmill (Delftwood, 20) is Baronial isn't Eastern
+  Wolf's Tooth (Ealdormere, 18) isn't Baronial isn't Eastern
+  Wooden Spoon (West, 18) isn't Baronial isn't Eastern
+  Worshipful Company of Artificers (Dragonship Haven, 20) is Baronial is Eastern
+  Wreath of Chivalry (West, 18) isn't Baronial isn't Eastern
+  Writ doe Pelican (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Writ for Chivalry (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Writ for Chivalry at Barleycorn (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Writ for Laurel (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Writ for Pelican (Unknown Branch, 18)  comment isn't Baronial isn't Eastern
+  Wyvern's Claw (Wyvernwood, 20) is Baronial isn't Eastern
+  Wyvern's Scale (Wyvernwood, 20) is Baronial isn't Eastern
+  Yale (Dragonship Haven, 20) is Baronial is Eastern
+  Yew Bow (Atlantia, 18) isn't Baronial isn't Eastern
+  Youth Archery Champion (East, 18) isn't Baronial is Eastern
 }
 PHP define Branch Output {
   $WEST = 98;

@@ -58,7 +58,25 @@ case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq
   
   val shouldEmit = !commentary
   
+  lazy val isBaronial = level == AwardLevel.Baronial
+
+  lazy val isEastern = {
+    branch match {
+      case SCA => true
+      case k:SCAKingdom => k == Kingdom.East
+      case b:Barony => b.parent == Kingdom.East
+      case _ => false
+    }
+  }
+  
   val id = Award.nextId()
+  
+  def fullDesc = {
+    name.name + " (" + branch.name + ", " + level + ") " +
+    (if (commentary) " comment " else "") +
+    (if (isBaronial) "is" else "isn't") + " Baronial " +
+    (if (isEastern) "is" else "isn't") + " Eastern"
+  }
   
   Award.allAwards += this
 }

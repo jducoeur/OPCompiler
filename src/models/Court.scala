@@ -41,7 +41,17 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
   
   def inCourt:Boolean = when.isDefined
   
-  def isComplete:Boolean = inAlpha && inList && inCourt
+  def isComplete:Boolean = {
+    inAlpha && 
+    // If the award isn't Eastern, we don't expect either a Court Report or a List entry:
+    (!isEastern ||
+      (inList && 
+        // If an award is Baronial, we don't actually expect a Court Report entry.
+        (inCourt || isBaronial)))
+  }
+  
+  def isBaronial = award.isBaronial
+  def isEastern = award.isEastern
   
   // True iff this item of business is *just* a comment
   def isCommentary:Boolean = award.commentary

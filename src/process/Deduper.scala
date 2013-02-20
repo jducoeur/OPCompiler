@@ -46,12 +46,47 @@ object Deduper {
     }
   }
   
+  // TODO: expand this algorithm to work with any gaps. It is trying to match a record that
+  // is lacking a characteristic with those that have it. It should work with any combination
+  // of alpha, court and list.
+  //
+  // TODO: enhance recognition.isComplete to not worry about the cases we don't expect to
+  // find. In particular:
+  // xx If the award is Baronial, we don't expect a Court Report.
+  // xx If the award is out-Kingdom, we don't expect a Court Report.
+  // -- If the award doesn't have a List that was read in, we don't expect a List record.
+  // These should slice out a lot of falsely incomplete records.
+  //
+  // TODO: now that we are identifying candidates, build them up. Collect all the candidate
+  // pairings into a multimap. For each pairing, we maintain a list of candidate joins,
+  // sorted by edit distance. (This goes in both directions.)
+  // Then, once we have all the candidates, we go through and merge the candidates. If we
+  // have multiple independent relationships between two names, that makes a much higher-scoring
+  // relationship. "Independent" is tricky to define, but is likely multiple pairings on
+  // different dates.
+  // Then turn each grouped pair into a proposal for names.conf. The head name should come
+  // from the "best" record: Alpha if possible, Court if not. Whether it counts as a typo or
+  // alternate depends on the edit distance between names -- a low edit distance means it
+  // probably should count as a typo; a high edit distance means an alternate name.
+  // Make sure that these proposals include all the current information: all currently-known
+  // alternate names should be included in the proposed entry in the appropriate spot.
+  //
+  // TODO: once that is done, run it successive times. Each time, take the good-looking proposals,
+  // and iterate. We should be able to refine the list pretty fast, with some public inquiries
+  // about the iffy cases.
+  //
+  // TODO: introduce a mechanism to say that two names are *not* synonymous, so that we can
+  // weed out the false positives once we know about them. This is probably at the end of the
+  // names.conf entry, a "!" operator followed by these.
+  
   import scala.annotation.tailrec
   @tailrec def doWindowing(l:List[Recognition], f:Iterable[Recognition] => Unit):Unit = {
     l match {
       case head :: rest => {
         val curDate = head.bestDate
         val candidates = rest.takeWhile(_.bestDate.matches(curDate))
+        // TODO: this whole clause should be pulled out into the f() callback, and should
+        // return the collected candidate list to the top:
         if (head.inAlpha && !head.inCourt) {
           val plausible = candidates filter { candidate =>
             candidate.inCourt && !candidate.inAlpha && candidate.award == head.award
@@ -79,14 +114,14 @@ object Deduper {
     Log.pushContext("Deduplicating")
     
     val recs = allRecs
-    Log.print("Starting with " + recs.size + " recognitions")
+    Log.print("Starting with " + recs.size + " recognitions: ")
     val realRecs = allRecs.filterNot(_.isCommentary).toArray
     Log.print("  Of those, " + realRecs.size + " are real")
     val incomplete = realRecs.filterNot(_.isComplete)
     Log.print("  Of those, " + incomplete.size + " are incomplete")
     
-    quickSort(realRecs)
-    val startList = realRecs.toList
+    quickSort(incomplete)
+    val startList = incomplete.toList
     doWindowing(startList, (_ => Unit))
     
     Log.popContext

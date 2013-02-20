@@ -21,6 +21,12 @@ object OPCompiler extends App {
 		})
 		Log.popContext
 		
+		Log.pushContext("All Awards")
+		models.Award.allAwards.foreach { award =>
+		  Log.print(award.fullDesc)
+		}
+		Log.popContext
+		
 		// Emit the results:
 		Emitter.emitAll
 
