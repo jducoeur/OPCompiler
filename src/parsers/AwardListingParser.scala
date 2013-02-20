@@ -46,6 +46,7 @@ class AwardListingParser extends OPFileParser {
     val award = Award.findOne(name)
     val body = fileNode \\ "body"
     processNodes(body.head.child, award)
+    Award.awardsWithListings += award.award
   }
   
 }

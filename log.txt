@@ -45144,7 +45144,7 @@ Award Listings {
 Deduplicating {
   Starting with 23807 recognitions: 
     Of those, 23762 are real
-    Of those, 17032 are incomplete
+    Of those, 16244 are incomplete
     It looks like El of the Two Knives (Master of the Pelican, 11/17/1973) might be:
       4 El of Two Knives (Master of the Pelican, 11/17/1973)
     It looks like Alaric of Owef (Award of Arms, 04/20/1974) might be:

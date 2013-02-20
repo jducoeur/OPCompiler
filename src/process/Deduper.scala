@@ -50,12 +50,12 @@ object Deduper {
   // is lacking a characteristic with those that have it. It should work with any combination
   // of alpha, court and list.
   //
-  // TODO: enhance recognition.isComplete to not worry about the cases we don't expect to
+  // XXXX: enhance recognition.isComplete to not worry about the cases we don't expect to
   // find. In particular:
   // xx If the award is Baronial, we don't expect a Court Report.
   // xx If the award is out-Kingdom, we don't expect a Court Report.
-  // -- If the award doesn't have a List that was read in, we don't expect a List record.
-  // These should slice out a lot of falsely incomplete records.
+  // xx If the award doesn't have a List that was read in, we don't expect a List record.
+  // These should slice out a lot of falsely incomplete records. (Actually removed 2000+.)
   //
   // TODO: now that we are identifying candidates, build them up. Collect all the candidate
   // pairings into a multimap. For each pairing, we maintain a list of candidate joins,
@@ -80,34 +80,35 @@ object Deduper {
   // names.conf entry, a "!" operator followed by these.
   
   import scala.annotation.tailrec
-  @tailrec def doWindowing(l:List[Recognition], f:Iterable[Recognition] => Unit):Unit = {
+  @tailrec def doWindowing(l:List[Recognition], f:(Recognition, List[Recognition]) => Unit):Unit = {
     l match {
       case head :: rest => {
         val curDate = head.bestDate
         val candidates = rest.takeWhile(_.bestDate.matches(curDate))
-        // TODO: this whole clause should be pulled out into the f() callback, and should
-        // return the collected candidate list to the top:
-        if (head.inAlpha && !head.inCourt) {
-          val plausible = candidates filter { candidate =>
-            candidate.inCourt && !candidate.inAlpha && candidate.award == head.award
-          }
-          if (plausible.length > 0) {
-            val withDists = plausible.map(candidate => WithDist(head, candidate)).toArray
-            quickSort(withDists)
-            val good = withDists filter (_.dist < 10)
-            if (good.size > 0) {
-              Log.print("  It looks like " + printCandidate(head) + " might be:")
-              good.foreach { pair => 
-                Log.print("    " + pair.dist + " " + printCandidate(pair.candidate)) 
-              }
-            }
-          }
-        }
-        
+        f(head, candidates)
         doWindowing(rest, f)
       }
       case Nil => {}
     }
+  }
+  
+  def checkCandidateMatches(head:Recognition, candidates:List[Recognition]) = {
+    if (head.inAlpha && !head.inCourt) {
+      val plausible = candidates filter { candidate =>
+        candidate.inCourt && !candidate.inAlpha && candidate.award == head.award
+      }
+      if (plausible.length > 0) {
+        val withDists = plausible.map(candidate => WithDist(head, candidate)).toArray
+        quickSort(withDists)
+        val good = withDists filter (_.dist < 10)
+        if (good.size > 0) {
+          Log.print("  It looks like " + printCandidate(head) + " might be:")
+          good.foreach { pair => 
+            Log.print("    " + pair.dist + " " + printCandidate(pair.candidate)) 
+          }
+        }
+      }
+    }    
   }
   
   def dedupe = {
@@ -122,7 +123,7 @@ object Deduper {
     
     quickSort(incomplete)
     val startList = incomplete.toList
-    doWindowing(startList, (_ => Unit))
+    doWindowing(startList, checkCandidateMatches)
     
     Log.popContext
   }

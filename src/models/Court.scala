@@ -45,7 +45,7 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
     inAlpha && 
     // If the award isn't Eastern, we don't expect either a Court Report or a List entry:
     (!isEastern ||
-      (inList && 
+      ((inList || !award.hasListingFile) && 
         // If an award is Baronial, we don't actually expect a Court Report entry.
         (inCourt || isBaronial)))
   }

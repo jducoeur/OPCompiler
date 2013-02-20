@@ -69,6 +69,8 @@ case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq
     }
   }
   
+  lazy val hasListingFile = Award.awardsWithListings.contains(this)
+  
   val id = Award.nextId()
   
   def fullDesc = {
@@ -140,6 +142,8 @@ object Award extends IdGenerator {
   var knownAwards:Map[String,AwardAs] = Map.empty
   import collection.immutable.SortedSet
   var allAwards:SortedSet[Award] = SortedSet.empty
+  
+  var awardsWithListings = Set.empty[Award]
 
   implicit def string2AwardInfo(name:String) = AwardInfo(AwardName(name, Gender.Unknown))
  
