@@ -54,19 +54,16 @@ object Deduper {
     val comparisons:List[Comparer]
   }
   implicit object DistOrdering extends MultiOrdering[CandidatePair] {
-    val comparisons = List(
-      ((x:CandidatePair, y:CandidatePair) => x.dist compare y.dist),
-      ((x:CandidatePair, y:CandidatePair) => x.candidate.recipient.scaName compare y.candidate.recipient.scaName)
+    val comparisons = List[Comparer](
+      (_.dist compare _.dist),
+      (_.candidate.recipient.scaName compare _.candidate.recipient.scaName)
       )
   }
-  object TargetOrdering extends Ordering[CandidatePair] {
-    def compare(x:CandidatePair, y:CandidatePair) = {
-      val byName = x.candidate.recipient.scaName compare y.candidate.recipient.scaName
-      if (byName == 0)
-        x.dist compare y.dist
-      else
-        byName
-    }
+  object TargetOrdering extends MultiOrdering[CandidatePair] {
+    val comparisons = List[Comparer](
+        (_.candidate.recipient.scaName compare _.candidate.recipient.scaName),
+        (_.dist compare _.dist)
+        )
   }
   
   // TODO: expand this algorithm to work with any gaps. It is trying to match a record that
