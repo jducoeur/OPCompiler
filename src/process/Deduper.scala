@@ -37,6 +37,15 @@ object Deduper {
     (pair.candidate.recipient.scaName, pair.dist)
   }
   
+  case class MergeOptions(target:Persona, candidates:Seq[CandidatePair]) {
+    lazy val bestMatch:Seq[CandidatePair] = {
+      val groups = candidates.groupBy(_.candidate.recipient)
+      val withSizes = groups.values.map( pairs => (pairs.length, pairs) ).toArray
+      quickSort(withSizes)(Ordering.by(_._1))
+      withSizes(0)._2
+    }
+  }
+  
   // TODO: expand this algorithm to work with any gaps. It is trying to match a record that
   // is lacking a characteristic with those that have it. It should work with any combination
   // of alpha, court and list.
@@ -123,7 +132,19 @@ object Deduper {
     val startList = incomplete.toList
     val allCandidates = doWindowing(startList, checkCandidateMatches)
     
-    
+    Log.print("Best Candidates:")
+    val byTarget = allCandidates.groupBy(_.target.recipient)
+    val merges = byTarget.collect({ case pair => MergeOptions(pair._1, pair._2) }).toArray
+    val byMostMatched = Ordering.by { merge:MergeOptions => merge.bestMatch.length }
+    quickSort(merges)(byMostMatched.reverse)
+    merges.foreach { merge =>
+      val best = merge.bestMatch
+      Log.print("  " + merge.target.scaName + " (" + best.length + ", " +
+          "dist: " + best.head.dist + ":" +
+          (if (best.head.dist < 5) "typo" else "alternate") +
+          "):")
+      best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
+    }
     
     Log.popContext
   }
