@@ -33,16 +33,39 @@ object Deduper {
     rec.recipient.scaName + " (" + rec.as.name + ", " + rec.bestDate.shortString + ")"
   }
   
-  case class WithDist(target:Recognition, candidate:Recognition) {
+  case class CandidatePair(target:Recognition, candidate:Recognition) {
     val dist = editDist(target.recipient.scaName, candidate.recipient.scaName)
   }
-  implicit object DistOrdering extends Ordering[WithDist] {
-    def compare(x:WithDist, y:WithDist) = {
-      val byDist = x.dist compare y.dist
-      if (byDist == 0)
-        x.candidate.recipient.scaName compare y.candidate.recipient.scaName
+  trait MultiOrdering[T] extends Ordering[T] {
+    def compare(x:T, y:T):Int = doCompare(x, y, comparisons)
+    def doCompare(x:T, y:T, comps:List[Comparer]):Int = {
+      comps match {
+        case comp :: rest => {
+          val byComp = comp(x,y)
+          if (byComp == 0)
+            doCompare(x, y, rest)
+          else
+            byComp
+        }
+        case Nil => 0
+      }
+    }
+    type Comparer = (T, T) => Int
+    val comparisons:List[Comparer]
+  }
+  implicit object DistOrdering extends MultiOrdering[CandidatePair] {
+    val comparisons = List(
+      ((x:CandidatePair, y:CandidatePair) => x.dist compare y.dist),
+      ((x:CandidatePair, y:CandidatePair) => x.candidate.recipient.scaName compare y.candidate.recipient.scaName)
+      )
+  }
+  object TargetOrdering extends Ordering[CandidatePair] {
+    def compare(x:CandidatePair, y:CandidatePair) = {
+      val byName = x.candidate.recipient.scaName compare y.candidate.recipient.scaName
+      if (byName == 0)
+        x.dist compare y.dist
       else
-        byDist
+        byName
     }
   }
   
@@ -80,25 +103,30 @@ object Deduper {
   // names.conf entry, a "!" operator followed by these.
   
   import scala.annotation.tailrec
-  @tailrec def doWindowing(l:List[Recognition], f:(Recognition, List[Recognition]) => Unit):Unit = {
+  @tailrec def doWindowing(
+      l:List[Recognition], 
+      f:(Recognition, List[Recognition]) => Seq[CandidatePair], 
+      soFar:Seq[CandidatePair] = Seq.empty):Seq[CandidatePair] = 
+  {
     l match {
       case head :: rest => {
         val curDate = head.bestDate
         val candidates = rest.takeWhile(_.bestDate.matches(curDate))
-        f(head, candidates)
-        doWindowing(rest, f)
+        val newCandidates = f(head, candidates)
+        doWindowing(rest, f, soFar ++ newCandidates)
       }
-      case Nil => {}
+      case Nil => soFar
     }
   }
   
-  def checkCandidateMatches(head:Recognition, candidates:List[Recognition]) = {
+  def checkCandidateMatches(head:Recognition, candidates:List[Recognition]):Seq[CandidatePair] = {
+    var ret = Seq.empty[CandidatePair]
     if (head.inAlpha && !head.inCourt) {
       val plausible = candidates filter { candidate =>
         candidate.inCourt && !candidate.inAlpha && candidate.award == head.award
       }
       if (plausible.length > 0) {
-        val withDists = plausible.map(candidate => WithDist(head, candidate)).toArray
+        val withDists = plausible.map(candidate => CandidatePair(head, candidate)).toArray
         quickSort(withDists)
         val good = withDists filter (_.dist < 10)
         if (good.size > 0) {
@@ -106,9 +134,11 @@ object Deduper {
           good.foreach { pair => 
             Log.print("    " + pair.dist + " " + printCandidate(pair.candidate)) 
           }
+          ret = good
         }
       }
-    }    
+    }
+    ret
   }
   
   def dedupe = {
@@ -123,7 +153,9 @@ object Deduper {
     
     quickSort(incomplete)
     val startList = incomplete.toList
-    doWindowing(startList, checkCandidateMatches)
+    val allCandidates = doWindowing(startList, checkCandidateMatches)
+    
+    
     
     Log.popContext
   }

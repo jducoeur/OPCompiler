@@ -22,7 +22,7 @@ object Emitter {
           else
             q(str)
         }
-        case opt:Option[Any] => {
+        case opt:Option[_] => {
           opt match {
             case Some(s) => sqlStr(s)
             case None => "NULL"
