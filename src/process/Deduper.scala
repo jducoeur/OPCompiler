@@ -19,14 +19,11 @@ object Deduper {
           case (h, ((d, v), y)) => min(min(h + 1, v + 1), d + (if (x == y) 0 else 1))
         }) last
   
-  implicit object RecOrdering extends Ordering[Recognition] {
-    def compare(x:Recognition, y:Recognition) = {
-      val byDate = x.bestDate compare y.bestDate
-      if (byDate == 0)
-        x.id compare y.id
-      else
-        byDate
-    }
+  implicit object RecOrdering extends MultiOrdering[Recognition] {
+    val transforms = List[CompF[_]](
+      t(_.bestDate),
+      t(_.id)
+    )
   }
   
   def printCandidate(rec:Recognition):String = {
@@ -35,33 +32,6 @@ object Deduper {
   
   case class CandidatePair(target:Recognition, candidate:Recognition) {
     val dist = editDist(target.recipient.scaName, candidate.recipient.scaName)
-  }
-  
-  trait MultiOrdering[T] extends Ordering[T] {
-    def compare(x:T, y:T):Int = doCompare(x, y, transforms)
-    def doCompare(x:T, y:T, comps:List[CompF[_]]):Int = {
-      comps match {
-        case comp :: rest => {
-          val byComp = compareOne(x, y, comp)
-          if (byComp == 0)
-            doCompare(x, y, rest)
-          else
-            byComp
-        }
-        case Nil => 0
-      }
-    }
-    
-    type Transformer[U] = (T => U)
-    type CompF[U] = (T => U, Ordering[U])
-    def t[U](t:Transformer[U])(implicit arg0:math.Ordering[U]):CompF[U] = (t, arg0)
-    val transforms:List[CompF[_]]
-    def compareOne[U](x:T, y:T, pair:CompF[U]):Int = {
-      comp(x, y, pair._1)(pair._2)
-    }
-    def comp[U](x:T, y:T, f:T => U)(implicit arg0:math.Ordering[U]):Int = {
-      arg0.compare(f(x), f(y))
-    }
   }
   implicit object DistOrdering extends MultiOrdering[CandidatePair] {
     val transforms = List[CompF[_]](
