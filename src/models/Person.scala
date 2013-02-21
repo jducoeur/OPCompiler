@@ -212,11 +212,7 @@ object Persona {
 }
 
 object Person extends IdGenerator {
-  implicit object PersonOrdering extends Ordering[Person] {
-    def compare(x:Person, y:Person) = {
-      x.mainPersona.scaName compare y.mainPersona.scaName
-    }
-  }  
+  implicit val PersonOrdering = Ordering.by { person:Person => (person.mainPersona.scaName) }
   
   import collection.immutable.SortedSet
   var allPeople:SortedSet[Person] = SortedSet.empty

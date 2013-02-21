@@ -199,12 +199,5 @@ object OPDate {
 	val Unknown = -1
 	val Invalid = new InvalidOPDate
 	
-	import process.MultiOrdering
-	implicit object OPDateOrdering extends MultiOrdering[OPDate] {
-	  val transforms = List[CompF[_]](
-	    t(_.year),
-	    t(_.month),
-	    t(_.day)
-	  )
-	}
+	implicit val OPDateOrdering = Ordering.by { date:OPDate => (date.year, date.month, date.day) }
 }

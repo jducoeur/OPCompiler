@@ -134,11 +134,8 @@ object Champion {
 }
 
 object Award extends IdGenerator {
-  implicit object AwardOrdering extends Ordering[Award] {
-    def compare(x:Award, y:Award) = {
-      x.name.name compare y.name.name
-    }
-  }
+  implicit val AwardOrdering = Ordering.by { award:Award => (award.name.name) }
+
   var knownAwards:Map[String,AwardAs] = Map.empty
   import collection.immutable.SortedSet
   var allAwards:SortedSet[Award] = SortedSet.empty

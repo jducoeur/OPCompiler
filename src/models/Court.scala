@@ -116,14 +116,8 @@ class Court(val title:String, val date:OPDate, val reign:Reign) {
   }
 }
 
-import process.MultiOrdering
 object Court extends IdGenerator {
-  implicit object CourtDateOrdering extends MultiOrdering[Court] {
-    val transforms = List[CompF[_]](
-      t(_.date),
-      t(_.id)
-    )
-  }
+  implicit val CourtDateOrdering = Ordering.by { court:Court => (court.date, court.id) }
   
   import collection.immutable.SortedSet
   var allCourts = SortedSet.empty[Court]

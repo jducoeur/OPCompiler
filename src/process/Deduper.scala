@@ -19,11 +19,8 @@ object Deduper {
           case (h, ((d, v), y)) => min(min(h + 1, v + 1), d + (if (x == y) 0 else 1))
         }) last
   
-  implicit object RecOrdering extends MultiOrdering[Recognition] {
-    val transforms = List[CompF[_]](
-      t(_.bestDate),
-      t(_.id)
-    )
+  implicit val RecOrdering = Ordering.by{ rec:Recognition =>
+    (rec.bestDate, rec.id)
   }
   
   def printCandidate(rec:Recognition):String = {
@@ -33,17 +30,11 @@ object Deduper {
   case class CandidatePair(target:Recognition, candidate:Recognition) {
     val dist = editDist(target.recipient.scaName, candidate.recipient.scaName)
   }
-  implicit object DistOrdering extends MultiOrdering[CandidatePair] {
-    val transforms = List[CompF[_]](
-      t(_.dist),
-      t(_.candidate.recipient.scaName)
-      )
+  implicit val DistOrdering = Ordering.by { pair:CandidatePair =>
+    (pair.dist, pair.candidate.recipient.scaName)
   }
-  object TargetOrdering extends MultiOrdering[CandidatePair] {
-    val transforms = List[CompF[_]](
-      t(_.candidate.recipient.scaName),
-      t(_.dist)
-    )
+  val TargetOrdering = Ordering.by { pair:CandidatePair =>
+    (pair.candidate.recipient.scaName, pair.dist)
   }
   
   // TODO: expand this algorithm to work with any gaps. It is trying to match a record that

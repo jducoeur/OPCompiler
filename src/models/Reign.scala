@@ -15,9 +15,7 @@ case class Reign(id:Int, king:Persona, queen:Persona, start:OPDate, filename:Str
 }
 
 object Reign extends IdGenerator {
-  implicit object ReignOrdering extends Ordering[Reign] {
-    def compare(x:Reign, y:Reign) = x.id compare y.id
-  }
+  implicit val ReignOrdering = Ordering.by { reign:Reign => (reign.id) }
   
   import collection.immutable.SortedMap
   var allReigns = SortedMap.empty[Int,Reign]
