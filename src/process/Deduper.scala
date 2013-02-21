@@ -145,6 +145,8 @@ object Deduper {
       best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
     }
     
+    writeNameConfig()
+    
     Log.popContext
   }
   
@@ -155,5 +157,28 @@ object Deduper {
       rec <- persona.awards
         )
       yield rec;
+  }
+  
+  import java.io._
+  
+  def formatPerson(person:Person) = {
+    val mainPersona = person.mainPersona
+    val nonMain = person.personae.filterNot(_.isMain)
+    val (typos,alternates) = nonMain.partition(_.isTypo)
+    mainPersona.scaName + " == " +
+      (if (alternates.length > 0) alternates.map(_.scaName).mkString("; ") else "") +
+      (if (typos.length > 0) " || " + typos.map(_.scaName).mkString("; ") else "")
+  }
+  
+  def writeNameConfig() = {
+    val writer = new PrintWriter(new File("names.conf.proposed"), "UTF-8")
+    def print(msg:String) = writer.print(msg)
+    def println(msg:String) = writer.println(msg)
+    
+    val complexPeople = Person.allPeople.filter(_.hasAlternates)
+    complexPeople.foreach(person => println(formatPerson(person)))
+    
+    writer.flush
+    writer.close
   }
 }

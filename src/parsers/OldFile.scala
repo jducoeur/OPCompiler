@@ -45,8 +45,8 @@ object FilesToProcess {
     reigns.parser.handleFile(reigns)
     Log.popContext
     
-    processOneType(courtReports, "Court Reports")
     processOneType(alphas, "Alphabetical")
+    processOneType(courtReports, "Court Reports")
     processOneType(awards, "Award Listings")
   }  
 }

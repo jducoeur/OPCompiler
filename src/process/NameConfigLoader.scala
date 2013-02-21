@@ -41,7 +41,7 @@ trait NameConfigLoader {
   def load(fileName:String) = {
     Log.pushContext("Loading names")
     val fileInput = Source.fromFile(fileName)
-    val lines = fileInput.getLines
+    val lines = fileInput.getLines.filterNot(_(0) == '#')
     lines.foreach(processLine(_))
     fileInput.close()
     Log.popContext

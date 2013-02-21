@@ -120,6 +120,8 @@ class Person(mainPersonaName:String) extends Gendered {
   
   val id = Person.nextId()
   
+  def hasAlternates = personae.size > 1
+  
   // Note that this is subject to change, especially if we wind up merging:
   val mainPersona:Persona = new Persona(mainPersonaName, this)
   
@@ -152,6 +154,8 @@ class Person(mainPersonaName:String) extends Gendered {
   def getPersona(name:String) = {
 	personae.find(_.scaName == Persona.scrub(name)).getOrElse(throw new Exception("Can't find persona " + name))
   }
+  
+  def hasAlphas = personae.exists(_.awards.exists(_.inAlpha))
   
   def addAward(personaName:String, award:Recognition) = getPersona(personaName).addAward(award)
   
@@ -200,14 +204,26 @@ object Persona {
   // Note that this can add the personaName to byPersona as a side-effect:
   def find(personaName:String, otherNames:Seq[String] = Seq.empty) = {
     val name = scrub(personaName)
-    val mainPersona = byPersona.getOrElse(name, new Person(name).mainPersona)
-    val mainPerson = mainPersona.person
+    val scrubbedOthers = otherNames map scrub
+    
+    // For all of the names that *do* exist, merge them:
+    val candidatePersonae = (personaName +: scrubbedOthers).map(byPersona.get(_)).filter(_.isDefined).map(_.get)
+    val persons = candidatePersonae.map(_.person).toSet
+    // The best candidate is the name that shows up in the alpha list, if any:
+    val bestPerson = 
+      if (persons.size == 0)
+        new Person(name)
+      else
+        persons.find(_.hasAlphas).getOrElse(persons.head)
+    val otherPersons = persons.filterNot(_ == bestPerson)
+    otherPersons.foreach(bestPerson.merge(_))
+    
+    // Now, create anything that doesn't exist yet:
+    val currentPersona = byPersona.getOrElse(name, new Persona(name, bestPerson))
     otherNames.foreach(otherName => {
-      val otherPersona = byPersona.getOrElse(otherName, new Persona(otherName, mainPerson))
-      if (otherPersona.person != mainPerson)
-        mainPerson.merge(otherPersona.person)
+      val otherPersona = byPersona.getOrElse(otherName, new Persona(otherName, bestPerson))
     })
-    mainPersona
+    currentPersona
   }
 }
 
