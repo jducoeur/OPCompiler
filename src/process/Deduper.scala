@@ -12,7 +12,7 @@ import scala.util.Sorting._
  * additions to names.conf.
  */
 object Deduper {
-  
+
   def editDist[A](a: Iterable[A], b: Iterable[A]) =
     ((0 to b.size).toList /: a)((prev, x) =>
       (prev zip prev.tail zip b).scanLeft(prev.head + 1) {
@@ -44,6 +44,10 @@ object Deduper {
       quickSort(withSizes)(Ordering.by(_._1))
       withSizes(0)._2
     }
+    
+    lazy val num = bestMatch.length
+    
+    lazy val dist = bestMatch(0).dist
   }
   
   // TODO: expand this algorithm to work with any gaps. It is trying to match a record that
@@ -103,16 +107,7 @@ object Deduper {
         candidate.inCourt && !candidate.inAlpha && candidate.award == head.award
       }
       if (plausible.length > 0) {
-        val withDists = plausible.map(candidate => CandidatePair(head, candidate)).toArray
-        quickSort(withDists)
-        val good = withDists filter (_.dist < 10)
-        if (good.size > 0) {
-          Log.print("  It looks like " + printCandidate(head) + " might be:")
-          good.foreach { pair => 
-            Log.print("    " + pair.dist + " " + printCandidate(pair.candidate)) 
-          }
-          ret = good
-        }
+        ret = plausible.map(candidate => CandidatePair(head, candidate))
       }
     }
     ret
@@ -135,8 +130,12 @@ object Deduper {
     Log.print("Best Candidates:")
     val byTarget = allCandidates.groupBy(_.target.recipient)
     val merges = byTarget.collect({ case pair => MergeOptions(pair._1, pair._2) }).toArray
-    val byMostMatched = Ordering.by { merge:MergeOptions => merge.bestMatch.length }
-    quickSort(merges)(byMostMatched.reverse)
+    val byMostMatched = (Ordering.by { merge:MergeOptions => merge.num }).reverse
+    val byTargetName = Ordering.by { merge:MergeOptions => merge.target.scaName }
+    val byDist = Ordering.by { merge:MergeOptions => merge.dist }
+    val byAll = Ordering.by{ merge:MergeOptions => (merge, merge, merge) }(Ordering.Tuple3(byMostMatched, byDist, byTargetName))
+    Log.print("Sorting " + merges.length + " merge candidates")
+    quickSort(merges)(byAll)
     merges.foreach { merge =>
       val best = merge.bestMatch
       Log.print("  " + merge.target.scaName + " (" + best.length + ", " +
