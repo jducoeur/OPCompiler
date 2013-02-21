@@ -36,12 +36,13 @@ object Deduper {
   case class CandidatePair(target:Recognition, candidate:Recognition) {
     val dist = editDist(target.recipient.scaName, candidate.recipient.scaName)
   }
+  
   trait MultiOrdering[T] extends Ordering[T] {
-    def compare(x:T, y:T):Int = doCompare(x, y, comparisons)
-    def doCompare(x:T, y:T, comps:List[Comparer]):Int = {
+    def compare(x:T, y:T):Int = doCompare(x, y, transforms)
+    def doCompare(x:T, y:T, comps:List[CompF[_]]):Int = {
       comps match {
         case comp :: rest => {
-          val byComp = comp(x,y)
+          val byComp = compareOne(x, y, comp)
           if (byComp == 0)
             doCompare(x, y, rest)
           else
@@ -50,20 +51,29 @@ object Deduper {
         case Nil => 0
       }
     }
-    type Comparer = (T, T) => Int
-    val comparisons:List[Comparer]
+    
+    type Transformer[U] = (T => U)
+    type CompF[U] = (T => U, Ordering[U])
+    def t[U](t:Transformer[U])(implicit arg0:math.Ordering[U]):CompF[U] = (t, arg0)
+    val transforms:List[CompF[_]]
+    def compareOne[U](x:T, y:T, pair:CompF[U]):Int = {
+      comp(x, y, pair._1)(pair._2)
+    }
+    def comp[U](x:T, y:T, f:T => U)(implicit arg0:math.Ordering[U]):Int = {
+      arg0.compare(f(x), f(y))
+    }
   }
   implicit object DistOrdering extends MultiOrdering[CandidatePair] {
-    val comparisons = List[Comparer](
-      (_.dist compare _.dist),
-      (_.candidate.recipient.scaName compare _.candidate.recipient.scaName)
+    val transforms = List[CompF[_]](
+      t(_.dist),
+      t(_.candidate.recipient.scaName)
       )
   }
   object TargetOrdering extends MultiOrdering[CandidatePair] {
-    val comparisons = List[Comparer](
-        (_.candidate.recipient.scaName compare _.candidate.recipient.scaName),
-        (_.dist compare _.dist)
-        )
+    val transforms = List[CompF[_]](
+      t(_.candidate.recipient.scaName),
+      t(_.dist)
+    )
   }
   
   // TODO: expand this algorithm to work with any gaps. It is trying to match a record that
