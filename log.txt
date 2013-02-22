@@ -45366,7 +45366,7 @@ Deduplicating {
     Caradog Ó Broin (1, dist: 1:typo):
       Caradog O Broin (Silver Rapier, 07/04/2009)
     Carolyne de la Pointe (1, dist: 1:typo):
-      Caroline de la Pointe (Award of Arms, 07/21/2001)
+      Carolyn de la Pointe (Golden Lyre, 04/12/2003)
     Cassandra de Matise (1, dist: 1:typo):
       Cassandra de Matisse (Award of Arms, 08/08/2007)
     Cateline la Broderesse (1, dist: 1:typo):
@@ -45382,7 +45382,7 @@ Deduplicating {
     Cezilia Reposa (1, dist: 1:typo):
       Cezilia Raposa (Award of Arms, 04/07/2012)
     Charis Accipiter (1, dist: 1:typo):
-      Charis Accipter (Burdened Tyger, 11/19/2011)
+      Cheris Accipiter (Award of Arms, 02/29/1992)
     Chiara Lucia di Nicolla (1, dist: 1:typo):
       Chiara Lucia di Nicola (Silver Crescent, 03/20/2004)
     Christence Heiseler (1, dist: 1:typo):
@@ -45448,7 +45448,7 @@ Deduplicating {
     Duncan Thorfinn (1, dist: 1:typo):
       Duncan Thorfin (Award of Arms, 03/26/1988)
     Duncan Thorfinnsson (1, dist: 1:typo):
-      Duncan Thorfinsson (King's Cypher, 09/25/1999)
+      Duncan Thorfinnson (Silver Crescent, 05/04/1996)
     Dunstan of Thorun Watch (1, dist: 1:typo):
       Dunstan of Thorum Watch (Burdened Tyger, 04/04/1992)
     Dunstin le Noie (1, dist: 1:typo):
@@ -45458,7 +45458,7 @@ Deduplicating {
     Eala Bhan ni Aoidh (1, dist: 1:typo):
       Eala Bhan nic Aoidh (Award of Arms, 07/20/2002)
     Edmund O'Rourke (1, dist: 1:typo):
-      Edmund O’Rourke (Tygers Combattant, 07/15/1995)
+      Edmond O'Rourke (Tyger of Valor, 09/05/2009)
     Eduard von Konstanz (1, dist: 1:typo):
       Edward von Konstanz (Award of Arms, 03/27/1999)
     Edward Grey of Lochleven (1, dist: 1:typo):
@@ -45562,11 +45562,11 @@ Deduplicating {
     Genevra d'Angouleme (1, dist: 1:typo):
       Ginevra d'Angouleme (Award of Arms, 05/05/2007)
     Geoffrei St. Albans of Eastwood (1, dist: 1:typo):
-      Geoffrey St. Albans of Eastwood (Sagittarius, 03/22/1997)
+      Geoffrei St. Alban of Eastwood (Award of Arms, 07/13/1996)
     Geoffrey Chamberlain (1, dist: 1:typo):
       Goffrey Chamberlain (Award of Arms, 01/13/1990)
     Geoffrey Fitz Galen (1, dist: 1:typo):
-      Geofrey Fitz Galen (Award of Arms, 02/08/1986)
+      Geoffrey fitz Galen (Master of the Laurel, 12/05/1998)
     Ghazalah al-Badriyyah (1, dist: 1:typo):
       Ghazallah al-Badriyyah (Award of Arms, 02/21/1998)
     Ghislaine Isabella de Lessines (1, dist: 1:typo):
@@ -45662,13 +45662,13 @@ Deduplicating {
     Isabel de Bayonne (1, dist: 1:typo):
       Isabele de Bayonne (Golden Lyre, 10/03/2009)
     Isabella d'Allaines-le-Comte (1, dist: 1:typo):
-      Isabelle d'Allaines-le-Comte (Silver Crescent, 11/05/2011)
+      Isabella d'Aillaines-le-Comte (Queen's Honor of Distinction, 11/14/2009)
     Isabella of Owl’s Reste (1, dist: 1:typo):
       Isabella of Owls Reste (Award of Arms, 05/19/2001)
     Iseault Blaecstan (1, dist: 1:typo):
       Iseaulte Blaecstan (Manche, 07/27/1996)
     Ivan Ulrickson (1, dist: 1:typo):
-      Ivan Ulricksson (Golden Rapier, 09/27/2003)
+      Ivan Ulrichson (Knight, 07/20/1996)
     Iñez Lopez Cardozo (1, dist: 1:typo):
       Inez Lopez Cardozo (Award of Arms, 09/27/1998)
     Jacobus Jaeger Draake (1, dist: 1:typo):
@@ -45886,7 +45886,7 @@ Deduplicating {
     Nastassiia Ivanova Medvedeva (1, dist: 1:typo):
       Nastassia Ivanova Medvedeva (Queen's Honor of Distinction, 09/29/2007)
     Nataliia Anastasiia Evgenova Sviatoslavina vnuchka (1, dist: 1:typo):
-      Natallia Anastasiia Evgenova Sviatoslavina vnuchka (Valiant Tyger, 09/29/2007)
+      Nataliia Anastasia Evgenova Sviatoslavina vnuchka (Burdened Tyger, 09/27/2003)
     Niccolo de Verona (1, dist: 1:typo):
       Niccolo da Verona (Award of Arms, 10/29/1988)
     Nicholas Poissonier (1, dist: 1:typo):
@@ -45900,7 +45900,7 @@ Deduplicating {
     Oriana Greycloak (1, dist: 1:typo):
       Orianna Greycloak (Award of Arms, 11/04/1989)
     Orlando dei Medici (1, dist: 1:typo):
-      Orlando di Medici (Manche, 11/15/2003)
+      Orlando de Medici (Terpsichore, 07/14/2007)
     Oscad de Segovia (1, dist: 1:typo):
       Oscad de Sesovia (Tygers Combattant, 09/25/2010)
     Oskar of the Wood (1, dist: 1:typo):
@@ -45928,7 +45928,7 @@ Deduplicating {
     Rainillt Leia de Bello Marisco (1, dist: 1:typo):
       Rainillt Leig de Bello Marisco (Queen's Cypher, 03/24/2012)
     Randall Vihar Farkas (1, dist: 1:typo):
-      Randal Vihar Farkas (Manche, 09/27/1997)
+      Randall vihar Farkas (Award of Arms, 01/05/1991)
     Redhawk Clemont (1, dist: 1:typo):
       Redhawk Clamont (Award of Arms, 03/05/1983)
     Reinhardt Tuscher (1, dist: 1:typo):
@@ -45970,13 +45970,13 @@ Deduplicating {
     Sabina Wüterich (1, dist: 1:typo):
       Sabina Wuterich (Award of Arms, 06/12/1999)
     Safia al-Khansaa (1, dist: 1:typo):
-      Safia al-Khansa (Award of Arms, 01/27/2001)
+      Safia al Khansaa (Terpsichore, 08/16/2005)
     Sancha de Flores (1, dist: 1:typo):
       Sancha des Flores (Troubadour, 09/28/2002)
     Seamus mac Neachtan (1, dist: 1:typo):
       Seamus mac Neachtain (Award of Arms, 09/25/2010)
     Sebastian Estevan de Xavier (1, dist: 1:typo):
-      Sebastian Esteban de Xavier (Golden Rapier, 08/06/2007)
+      Sebasian Estevan de Xavier (Queen's Honor of Distinction, 03/25/2006)
     Sebastiano Manetti (1, dist: 1:typo):
       Sebastian Manetti (Award of Arms, 07/28/2001)
     Sebastiano da Pachino (1, dist: 1:typo):
@@ -46070,7 +46070,7 @@ Deduplicating {
     Uther Hardwin (1, dist: 1:typo):
       Uther Hardwind (Award of Arms, 03/12/1994)
     Vigolfr Agnarsson (1, dist: 1:typo):
-      Vigolf Agnarsson (Award of Arms, 10/02/2004)
+      Vigolfr Agnarrson (King's Cypher, 09/30/2006)
     Vissevald Selkirksson (1, dist: 1:typo):
       Vissevald Selkirkson (Tyger of the East, 01/28/2012)
     Vittorio Antonello (1, dist: 1:typo):
@@ -46444,7 +46444,7 @@ Deduplicating {
     Mártoni Szarvas Kató (1, dist: 2:typo):
       Martoni Szarvas Kato (Award of Arms, 11/26/2005)
     Nicola Angelini (1, dist: 2:typo):
-      Nicola Angelica (Tygers Cub, 05/23/1998)
+      Nicola Angelico (Award of Arms, 02/03/2001)
     Nyven Fiak (1, dist: 2:typo):
       Nyven Fiach (Award of Arms, 10/25/1997)
     Oglesby Armstrong Smythe (1, dist: 2:typo):
@@ -46672,7 +46672,7 @@ Deduplicating {
     Edana Mackinnon (1, dist: 3:typo):
       Edana mac Kinnon (Queen's Cypher, 10/01/2011)
     Eilís ní Bhraonáin (1, dist: 3:typo):
-      Eilis ni Bhraonain (Silver Crescent, 04/20/2002)
+      Eílís ní Bhraonaín (Mistress of the Laurel, 09/22/2001)
     Eirikr Thórisson (1, dist: 3:typo):
       Eirikr Thorson (Queen's Honor of Distinction, 09/27/2008)
     Eirík Gunnarson (1, dist: 3:typo):
@@ -46896,7 +46896,7 @@ Deduplicating {
     Cassair ní Dheoráin (1, dist: 4:typo):
       Cassair ni Deoraine (Award of Arms, 11/21/1998)
     Colin mac Eoain mec Lachlainn (1, dist: 4:typo):
-      Colin MacEoin mac Lachlainn (Queen's Cypher, 09/30/2006)
+      Colin mec Eoain Mac Lochlainn (King's Cypher, 04/02/2011)
     Cornelia VandeBrugge (1, dist: 4:typo):
       Cornelia van de Brugg (Award of Arms, 11/26/2005)
     Cron Grossenfussen (1, dist: 4:typo):
@@ -46928,7 +46928,7 @@ Deduplicating {
     Ginevra d'Altieri (1, dist: 4:typo):
       Ginevra d’Alatri (Award of Arms, 12/28/1991)
     Gráinne inghean úi Bhraonáin (1, dist: 4:typo):
-      Grainne inghen ui Bhraonain (Queen's Honor of Distinction, 02/22/2003)
+      Graine inghean ui Bhraonain (Award of Arms, 01/27/2001)
     Guenevere of Saint Kilda (1, dist: 4:typo):
       Guenevere of St. Kilda (Award of Arms, 08/18/1988)
     Gwennyth of Tanglewood (1, dist: 4:typo):
@@ -47050,7 +47050,7 @@ Deduplicating {
     Genevieve d’Anjou (1, dist: 5:alternate):
       Genevieve d'Anjouleme (Queen's Courtesy, 06/13/1998)
     Hálfdan langleggr (1, dist: 5:alternate):
-      Halfdan Longlegged (Burdened Tyger, 04/13/1996)
+      Halfdan Longlegs (Award of Arms, 04/20/1996)
     Isobel Mowbray (1, dist: 5:alternate):
       Isobel of Mobrey (Queen's Honor of Distinction, 05/17/2003)
     Jacobina of White Moor (1, dist: 5:alternate):
@@ -47300,7 +47300,7 @@ Deduplicating {
     Richard Stanley Bowmaker (1, dist: 8:alternate):
       Stanley Bowmaker (Sagittarius, 08/18/1988)
     Riobard mac Seosaimh ui Phadraig (1, dist: 8:alternate):
-      Riobard McSeosemh an Padraig (Award of Arms, 09/27/1991)
+      Riobard McSeosemh O Padraig (Manche, 11/26/1994)
     Robin [of Carillion] (1, dist: 8:alternate):
       Robin of Maclean (Award of Arms, 09/16/1995)
     Roderick of Basing (1, dist: 8:alternate):
@@ -47326,7 +47326,7 @@ Deduplicating {
     Elizabeth Hawkwood of Northumberland (1, dist: 9:alternate):
       Elizabeth of Northumberland (Queen's Cypher, 04/09/1994)
     Failtigearna ingen uí Artáin (1, dist: 9:alternate):
-      Faoiltigearna Muirinn ni Artain (Troubadour, 03/08/1997)
+      Faoiltigearna Muirin ni Artain (Manche, 07/04/1998)
     Fatima Isabella Villalobos (1, dist: 9:alternate):
       Fatima Villalobos (Award of Arms, 07/25/1992)
     Faílenn Dubshúlech (1, dist: 9:alternate):
@@ -47528,7 +47528,7 @@ Deduplicating {
     Rowena ni Dhonnchaidh (1, dist: 11:alternate):
       Rowena of the Woods (Award of Arms, 05/23/1987)
     Seanan an Chasur (1, dist: 11:alternate):
-      Aidan ni Leir (Countess, 10/06/1979)
+      Barak Carthalo (Knight, 08/15/1987)
     Simon Kenric (1, dist: 11:alternate):
       Logan McTavish (Award of Arms, 11/02/1996)
     Stuart Martin MacDonnell (1, dist: 11:alternate):
@@ -47612,7 +47612,7 @@ Deduplicating {
     Giles de Macei (1, dist: 12:alternate):
       Sirhan al Sian (Award of Arms, 08/16/1985)
     Greta Obermanns (1, dist: 12:alternate):
-      Randal the Dark (Award of Arms, 02/06/1982)
+      Sean O’Wode (Award of Arms, 02/06/1982)
     Gyllian Sprigg (1, dist: 12:alternate):
       Raul MacClaron (Award of Arms, 12/02/1989)
     Isabella de Surmount of Haus von Halstern (1, dist: 12:alternate):
@@ -47658,7 +47658,7 @@ Deduplicating {
     Skafte Waghorne (1, dist: 12:alternate):
       Edmund O’Rourke (Award of Arms, 05/22/1993)
     Su'ad al-Raqqasah (1, dist: 12:alternate):
-      Su'ad (Mistress of the Laurel, 08/12/1998)
+      Su’ad of BBM (Award of Arms, 07/24/1993)
     Tanya von Sussen (1, dist: 12:alternate):
       Eleri of Nefyn (Award of Arms, 11/05/1988)
     Tegan Silverwolf (1, dist: 12:alternate):
@@ -47704,7 +47704,7 @@ Deduplicating {
     Bridget of Atenveldt (1, dist: 13:alternate):
       Elspeth of the Dale (Award of Arms, 03/19/1983)
     Brinwen the Fair (1, dist: 13:alternate):
-      Brynn nic Neachdainn (Golden Tyger, 02/05/2005)
+      Mariette de Firenze (Golden Tyger, 02/05/2005)
     Broch (1, dist: 13:alternate):
       Broch of Anglespur (Award of Arms, 05/24/2003)
     Brynhilde (1, dist: 13:alternate):
@@ -47716,7 +47716,7 @@ Deduplicating {
     Caoilinn Buchanon (1, dist: 13:alternate):
       Godric og Hamtun (Award of Arms, 07/17/2004)
     Caranwyn Silveroak (1, dist: 13:alternate):
-      Rhiannon Bassett (Queen's Honor of Distinction, 09/24/2005)
+      Brenwen the Faire (Golden Tyger, 02/05/2005)
     Crystal of the Wood (1, dist: 13:alternate):
       Karl of Mierstopa (Award of Arms, 04/03/1993)
     Danpira Snowsong of Skyhaven (1, dist: 13:alternate):
@@ -47736,11 +47736,11 @@ Deduplicating {
     Evan Hardrada (1, dist: 13:alternate):
       Halfdan Longlegs (Award of Arms, 04/20/1996)
     Federach mac Cian (1, dist: 13:alternate):
-      Lakshmi Amman (Award of Arms, 02/03/2001)
+      Cedric of Amorica (Queen's Honor of Distinction, 09/28/2002)
     Galen MacByrne (1, dist: 13:alternate):
-      Alyce Vespasia (Award of Arms, 10/09/1993)
+      Ceara ni Kiernan (Award of Arms, 10/09/1993)
     Griffith Davion (1, dist: 13:alternate):
-      Dugan MacGowan (Award of Arms, 08/13/1997)
+      Jerryd de Wayne (Award of Arms, 08/13/1997)
     Guy le Provençal (1, dist: 13:alternate):
       Cori Ghora (Award of Arms, 03/16/1985)
     Gwynedd of Allendorf (1, dist: 13:alternate):
@@ -47818,15 +47818,15 @@ Deduplicating {
     Sorcha of Stonegrave (1, dist: 13:alternate):
       Sorcha of An Dubhaigeainn (Award of Arms, 02/22/2003)
     Stephan of Silverforge (1, dist: 13:alternate):
-      Sylvia of Endewearde (Award of Arms, 02/20/1999)
+      Joel of Regnesfolke (Award of Arms, 07/03/1999)
     Sunniva Ormstung (1, dist: 13:alternate):
       Karl Meerstapa (Queen's Honor of Distinction, 04/14/2007)
     Susana del Lago (1, dist: 13:alternate):
-      A’isha bint Jamil (Queen's Honor of Distinction, 04/05/1997)
+      Aveline Keyes (Queen's Honor of Distinction, 04/05/1997)
     Talon of the Shadowed Loch (1, dist: 13:alternate):
       Talon Shadowlok (Award of Arms, 06/02/1990)
     Tamsin Whitlock (1, dist: 13:alternate):
-      Edana MacKinnon (Silver Crescent, 04/14/2007)
+      Pegan Graham (Award of Arms, 09/07/1996)
     Tanczos Istvan (1, dist: 13:alternate):
       Batujin Ba'adur (Award of Arms, 07/26/1997)
     Thorfinn Jarlsson (1, dist: 13:alternate):
@@ -47898,7 +47898,7 @@ Deduplicating {
     Eleanor Lebrun (1, dist: 14:alternate):
       Ginevra d’Alatri (Award of Arms, 12/28/1991)
     Elisabeth Borden (1, dist: 14:alternate):
-      Torin mac Kinnon (Queen's Honor of Distinction, 04/14/2007)
+      DeVos Abendroth (Queen's Honor of Distinction, 04/14/2007)
     Engraçia de Madrigal (1, dist: 14:alternate):
       Katerina de la Mere (Queen's Courtesy, 03/29/2008)
     Erik Makefriend (1, dist: 14:alternate):
@@ -47906,7 +47906,7 @@ Deduplicating {
     Ernst Skaptisson (1, dist: 14:alternate):
       Vuong Manh (Award of Arms, 01/03/1976)
     Eva Woderose (1, dist: 14:alternate):
-      Friderich Grimme (Silver Crescent, 01/29/2011)
+      Celeste le Mercier (Silver Crescent, 01/29/2011)
     Francois Thibault (1, dist: 14:alternate):
       Marcel d'Armand (Award of Arms, 09/12/1998)
     Frydherik Eysenkopf (1, dist: 14:alternate):
@@ -47922,13 +47922,13 @@ Deduplicating {
     James of Lion's End (1, dist: 14:alternate):
       Julyan Littleton (Award of Arms, 12/11/1993)
     Kai de Ravenglas (1, dist: 14:alternate):
-      Genevieve de Blois (Countess, 10/09/1993)
+      Kikuchi Tsuranaga (Count, 10/09/1993)
     Katherine Gilliesfleur (1, dist: 14:alternate):
       Aetheric Lindeberende (Queen's Honor of Distinction, 04/21/2001)
     Katya Nachtraven (1, dist: 14:alternate):
       Agnar Skullson (Award of Arms, 09/07/1996)
     Khavi bint Rozakii (1, dist: 14:alternate):
-      Khatife-al-Nameer (Queen's Honor of Distinction, 10/01/2011)
+      Khatife al-Nameer (Silver Crescent, 04/02/2011)
     Krystiana Nikoliovna Vladimirov (1, dist: 14:alternate):
       Krystiana Nikolaeva (Tygers Cub, 07/18/1998)
     Lachlan Mac an Toisich of Benchar (1, dist: 14:alternate):
@@ -47964,7 +47964,7 @@ Deduplicating {
     Raistlin the Quiet (1, dist: 14:alternate):
       Karl Meerstapa (Queen's Honor of Distinction, 04/14/2007)
     Rashid al-Gyanji (1, dist: 14:alternate):
-      Caitlyn MacKenzie (Queen's Honor of Distinction, 04/12/2003)
+      Ronan Lynceus (Queen's Honor of Distinction, 04/12/2003)
     Rhys of Harlech (1, dist: 14:alternate):
       Zulaika (Award of Arms, 12/21/1985)
     Robert Blackwood, the Pirate (1, dist: 14:alternate):
@@ -47992,7 +47992,7 @@ Deduplicating {
     Aedan MacCormac (1, dist: 15:alternate):
       Aedan “The Provider” MacCormac (Award of Arms, 08/19/1993)
     Aife ingen ui'Lochain (1, dist: 15:alternate):
-      Aife of Ostgardr (Silver Crescent, 09/09/2006)
+      Lasseir ingen Aeda (Award of Arms, 05/02/1998)
     Aleksandra de Accipitre (1, dist: 15:alternate):
       Elena de Bruges (Award of Arms, 07/02/1983)
     Alida dei Conti (1, dist: 15:alternate):
@@ -48032,13 +48032,13 @@ Deduplicating {
     Elisabetta Maldestro (1, dist: 15:alternate):
       Sabina von Wettin (Award of Arms, 04/04/1998)
     Ellen du Grandchamp (1, dist: 15:alternate):
-      Edwin Beerslayer (Award of Arms, 04/05/1986)
+      Eldorane de Edolo (Award of Arms, 04/05/1986)
     Fiona Duncan (1, dist: 15:alternate):
       Joana of Black Rose (Award of Arms, 07/01/1989)
     Galleron de Cressy (1, dist: 15:alternate):
       Dyfan ap Iago (Manche, 05/23/1992)
     Geoffrey de Wygan (1, dist: 15:alternate):
-      Brianna of Bywater (Award of Arms, 12/07/1996)
+      Rowan Elfhame (Award of Arms, 12/07/1996)
     Giovanna del Penna (1, dist: 15:alternate):
       Irene leNoir (Queen's Honor of Distinction, 10/01/2011)
     Godfroy de Falaise (1, dist: 15:alternate):
@@ -48050,7 +48050,7 @@ Deduplicating {
     Gwalchmai Dinas Emrys (1, dist: 15:alternate):
       Katherine Eccles (Award of Arms, 02/29/1992)
     Jehanne l'Enragee (1, dist: 15:alternate):
-      Katherine Goodwyn (Award of Arms, 10/11/1975)
+      Margaruete la Folle (Award of Arms, 10/11/1975)
     Joram Goldspoons (1, dist: 15:alternate):
       Cadell ap Hobart (Queen's Cypher, 10/05/1996)
     Justinian Timagenes (1, dist: 15:alternate):
@@ -48086,9 +48086,9 @@ Deduplicating {
     Michel l'Espiegle (1, dist: 15:alternate):
       Rian Gortyroyan (High Merit for Fence, 08/12/1992)
     Millicent Heath (1, dist: 15:alternate):
-      Gennevote du Lac (Award of Arms, 09/28/2002)
+      Reinhardt Tauscher (Award of Arms, 09/28/2002)
     Morgan Gil Liunmir (1, dist: 15:alternate):
-      Morton of Merry Mount (Award of Arms, 08/16/1989)
+      Thomas Goodfellow (Award of Arms, 08/16/1989)
     Morgana O’Seanasaigh (1, dist: 15:alternate):
       Minnagar of Tintagel (Award of Arms, 07/18/1998)
     Periac (1, dist: 15:alternate):
@@ -48142,7 +48142,7 @@ Deduplicating {
     Alfred of Blackledge (1, dist: 16:alternate):
       Wystan of Readingwood (Award of Arms, 12/06/1981)
     Angharad verch Rees (1, dist: 16:alternate):
-      Angharad o'r Rhosyn ferch Rhain (Queen's Honor of Distinction, 11/06/1999)
+      Angharad o’r Rhosyn ferch Rhain (Award of Arms, 05/29/1999)
     Anson Gleowyn (1, dist: 16:alternate):
       Katherine de la Mer (Award of Arms, 06/23/1990)
     Arthur Rivers (1, dist: 16:alternate):
@@ -48180,7 +48180,7 @@ Deduplicating {
     Dylan Fitzgerald (1, dist: 16:alternate):
       Nicetas of Antioch (Maunche, 03/10/1990)
     Eleanor FitzPatrick (1, dist: 16:alternate):
-      Mahliqa bint Ali (Queen's Cypher, 04/10/1999)
+      Baildrin MacEnri (Queen's Cypher, 04/10/1999)
     Elglin of House Eagle (1, dist: 16:alternate):
       Gaston d’Amberville (Award of Arms, 01/04/1992)
     Emmanuelle de Chenonceaux (1, dist: 16:alternate):
@@ -48188,7 +48188,7 @@ Deduplicating {
     Eowulf the Innocent (1, dist: 16:alternate):
       Joana of Black Rose (Award of Arms, 07/01/1989)
     Ernst Nuss von Kitzengen (1, dist: 16:alternate):
-      Clothilde von der Insel (King's Cypher, 04/13/1996)
+      Christence von Heisler (Queen's Cypher, 09/24/2005)
     Faoiltighearna inghean mhic Ghuaire (1, dist: 16:alternate):
       Faoiltigearna MacQuarrie (Manche, 09/19/1998)
     Felecia Miguelez di Milano (1, dist: 16:alternate):
@@ -48222,13 +48222,13 @@ Deduplicating {
     Katherine Fletcher of Stonemarche (1, dist: 16:alternate):
       Catherine Fletcher (Award of Arms, 07/09/1988)
     Katherynne Driscoll (1, dist: 16:alternate):
-      Seonhaid McKay (Award of Arms, 10/03/1987)
+      Kathrynne Driscoll of Stonemarche (Award of Arms, 10/03/1987)
     Kilin of Carolingia (1, dist: 16:alternate):
       Christian Woolfe (Silver Crescent, 02/01/2003)
     Killian the Black (1, dist: 16:alternate):
       Danica of Stonemarch (Award of Arms, 08/11/2011)
     Laurensa de Chambord (1, dist: 16:alternate):
-      Karl Meerstapa (Queen's Honor of Distinction, 04/14/2007)
+      Torin mac Kinnon (Queen's Honor of Distinction, 04/14/2007)
     Leandra Plumieg (1, dist: 16:alternate):
       Donncharch McDougall (Award of Arms, 12/05/1992)
     Liam O’Fiaranghan (1, dist: 16:alternate):
@@ -48242,7 +48242,7 @@ Deduplicating {
     Molly Schofield (1, dist: 16:alternate):
       Gavin von Abendroth (Award of Arms, 07/12/2008)
     Mord Hrutson the Green (1, dist: 16:alternate):
-      Jairus of the Darklands (Queen's Courtesy, 03/21/1992)
+      Feral von Halstern (Foreign Tyger, 09/24/2005)
     Morgan Charbonneau (1, dist: 16:alternate):
       Joana of Black Rose (Award of Arms, 07/01/1989)
     Morgan ap Rhys ap Bran (1, dist: 16:alternate):
@@ -48250,7 +48250,7 @@ Deduplicating {
     Munemasa Kosempu (1, dist: 16:alternate):
       Giovanni of Settmour (Award of Arms, 01/13/1990)
     Ohashi Katsutoshi (1, dist: 16:alternate):
-      Iheronimus Bruckner (King's Esteem of Merit, 09/25/2010)
+      Selena d'Ambra (Silver Crescent, 07/11/1998)
     Peregrynne Wyndrider (1, dist: 16:alternate):
       John the Rhymer (Award of Arms, 04/01/1978)
     Peter Bog (1, dist: 16:alternate):
@@ -48282,7 +48282,7 @@ Deduplicating {
     Tomas an Bhogha o Neil (1, dist: 16:alternate):
       Easa Jotunsbane (Award of Arms, 09/18/2010)
     Victorie de Florette (1, dist: 16:alternate):
-      Magnus Wolfhunte (Award of Arms, 07/24/2004)
+      Deiniol ap Gwrgwst (Award of Arms, 07/24/2004)
     William O'Ryan (1, dist: 16:alternate):
       Kristen Kensister (Award of Arms, 02/03/1990)
     William de Lancton (1, dist: 16:alternate):
@@ -48328,7 +48328,7 @@ Deduplicating {
     Duncan McKinnon of Strathardale (1, dist: 17:alternate):
       Duncan MacKinnon (Award of Arms, 09/27/1997)
     El of the Two Knives (1, dist: 17:alternate):
-      Ernst Nuss von Kitzingen (Queen's Honor of Distinction, 04/21/2001)
+      Morgan du Val (Court Baroness, 01/05/1991)
     Elke Vulpone (1, dist: 17:alternate):
       Elke of Mountain Freehold (Award of Arms, 12/13/1997)
     Genevieve de Chanteloup (1, dist: 17:alternate):
@@ -48356,7 +48356,7 @@ Deduplicating {
     Melisande de Tours (1, dist: 17:alternate):
       Uther Hardwind (Award of Arms, 03/12/1994)
     Mergriet van Wijenhorst (1, dist: 17:alternate):
-      Lachlan Macentoisch (Award of Arms, 11/30/2002)
+      Cecelia Attewode (Award of Arms, 11/30/2002)
     Nest verch Tangwistel (1, dist: 17:alternate):
       Torin mac Kinnon (Queen's Honor of Distinction, 04/14/2007)
     Petrus filius Silvein (1, dist: 17:alternate):
@@ -48384,7 +48384,7 @@ Deduplicating {
     Spvrivs Ivliva Flavivs (1, dist: 17:alternate):
       Mol the Moldavian (Award of Arms, 09/18/2010)
     Svea the Shortsighted (1, dist: 17:alternate):
-      DeVos Abendroth (Queen's Honor of Distinction, 04/14/2007)
+      Karl Meerstapa (Queen's Honor of Distinction, 04/14/2007)
     Temair nic UiNiann (1, dist: 17:alternate):
       Esperis of the Wood (Award of Arms, 05/14/1988)
     Trygge fråm Holmgård (1, dist: 17:alternate):
@@ -48408,7 +48408,7 @@ Deduplicating {
     Ann Woods (1, dist: 18:alternate):
       Anna dauzzano da Siracusa (Burdened Tyger, 06/11/2011)
     Anna Dimitriova Belokon (1, dist: 18:alternate):
-      Conrad Connor MacAllyn (Silver Crescent, 01/23/1999)
+      Myrddin o’r Afon (Silver Crescent, 01/23/1999)
     Arianwen ferch Gawaine (1, dist: 18:alternate):
       Dakaimota Saigo (Award of Arms, 03/15/1986)
     Ariella of Devonshire (1, dist: 18:alternate):
@@ -48454,7 +48454,7 @@ Deduplicating {
     Luigi Vascili (1, dist: 18:alternate):
       Genevieve d'Anjouleme (Queen's Courtesy, 06/13/1998)
     Luna dei Gatti (1, dist: 18:alternate):
-      Anna dauzzano da Siracusa (Burdened Tyger, 06/11/2011)
+      House of Casa de Buraco (Burdened Tyger, 06/11/2011)
     Mark Feuergeist (1, dist: 18:alternate):
       Erling of Regnus Folc (Tygers Combattant, 08/13/1992)
     Meruit Kieransdottir of Dragon's Aerie (1, dist: 18:alternate):
@@ -48468,7 +48468,7 @@ Deduplicating {
     Nige of the Cleftlands (1, dist: 18:alternate):
       Ysar de la Nuit Blanche (Award of Arms, 02/19/1977)
     Njorbjorn Jorgesson (1, dist: 18:alternate):
-      Katherine Gillesfleur (Award of Arms, 01/12/1980)
+      Ian of Clan Mitchell (Award of Arms, 01/12/1980)
     Padric Kilirn O'Ryan (1, dist: 18:alternate):
       Konner MacPhearson (Award of Arms, 06/15/1991)
     Penelope de Plympton (1, dist: 18:alternate):
@@ -48484,7 +48484,7 @@ Deduplicating {
     Robin Argyll du Coeur Ailé (1, dist: 18:alternate):
       Isobel de Cordoba (Award of Arms, 01/11/1986)
     Roderick Ian O'Connell (1, dist: 18:alternate):
-      Konner MacPhearson (Award of Arms, 06/15/1991)
+      Dougall of Golden Hill (Award of Arms, 06/15/1991)
     Rorik Harcourt of the Axe (1, dist: 18:alternate):
       Maria of Oxenford (Award of Arms, 04/20/1974)
     Rowan of the Quintain (1, dist: 18:alternate):
@@ -48502,9 +48502,9 @@ Deduplicating {
     Warin Sørenssen Smith (1, dist: 18:alternate):
       Petrus of the Sylvan (Award of Arms, 12/11/1993)
     AEthelhawk Keyfinder (1, dist: 19:alternate):
-      Kormakr Ulfshofuth (Award of Arms, 04/25/1981)
+      Aikaterine Fitzwilliam (King's Cypher, 04/07/2012)
     Adhemar de Villarquamada (1, dist: 19:alternate):
-      Arianne of Clann O'Choda (Silver Crescent, 02/12/2000)
+      Osgkar of the Wood (King's Cypher, 09/30/2000)
     Alywen Teranlin Ythganeth (1, dist: 19:alternate):
       Brynna nic Adam (Award of Arms, 05/29/1993)
     Angus Ge Fhiana (1, dist: 19:alternate):
@@ -48550,7 +48550,7 @@ Deduplicating {
     Maucolum de Duueglas (1, dist: 19:alternate):
       Uther Hardwind (Award of Arms, 03/12/1994)
     Maurin Lessault (1, dist: 19:alternate):
-      Anna dauzzano da Siracusa (Burdened Tyger, 06/11/2011)
+      House of Casa de Buraco (Burdened Tyger, 06/11/2011)
     Nicolette de Mathieu (1, dist: 19:alternate):
       House of Casa de Buraco (Burdened Tyger, 06/11/2011)
     Niniae of Witch’s Oak (1, dist: 19:alternate):
@@ -48606,9 +48606,9 @@ Deduplicating {
     Kelli of Whispering Oaks (1, dist: 20:alternate):
       Jocelyn del Espada (Award of Arms, 01/28/2006)
     Laurel O hAodha (1, dist: 20:alternate):
-      Clothilde von der Insel (Queen's Cypher, 04/04/1998)
+      Michel Almond de Champagne (Queen's Cypher, 04/04/1998)
     Lucia Francesca de Valencia (1, dist: 20:alternate):
-      Manus hvalmagi (Award of Arms, 11/05/2011)
+      Lucie Lovegood of Ramisgate (Award of Arms, 11/05/2011)
     Marco Palladio di Soncino (1, dist: 20:alternate):
       Ariane Baccadoro (Award of Arms, 12/14/1991)
     Marguérite de Bordeaux (1, dist: 20:alternate):
@@ -48630,7 +48630,7 @@ Deduplicating {
     Sorcha O hAodha (1, dist: 20:alternate):
       Clothilde von der Insel (Queen's Cypher, 04/04/1998)
     Suhayma bint Rasheed (1, dist: 20:alternate):
-      Anna dauzzano da Siracusa (Burdened Tyger, 06/11/2011)
+      House of Casa de Buraco (Burdened Tyger, 06/11/2011)
     Thorkel of Neville's Cross (1, dist: 20:alternate):
       Donald MacAerod (Award of Arms, 09/29/1984)
     Timothy MacIntyre (1, dist: 20:alternate):
@@ -48654,7 +48654,7 @@ Deduplicating {
     Dideyon (1, dist: 21:alternate):
       House of Casa de Buraco (Burdened Tyger, 06/11/2011)
     Eoin of the Torriloc Moors (1, dist: 21:alternate):
-      Magnus Bloodax (Award of Arms, 07/03/1982)
+      Manfred von Halstern (Award of Arms, 07/03/1982)
     Erich Ridlon (1, dist: 21:alternate):
       House of Casa de Buraco (Burdened Tyger, 06/11/2011)
     Ferall von Halstern “Kingmaker” (1, dist: 21:alternate):
@@ -48758,7 +48758,7 @@ Deduplicating {
     Connor MacSeamus O'Neal (1, dist: 24:alternate):
       Urshag Verminssun Veassllurd (Award of Arms, 07/21/1990)
     Deirdre MacNamara of Trollhaven (1, dist: 24:alternate):
-      Liam O’Donnabuhain (Award of Arms, 09/07/1996)
+      Eilis ni Broanin (Award of Arms, 09/07/1996)
     Eowyn Eilonwy of Alewife Brook (1, dist: 24:alternate):
       Torin mac Kinnon (Queen's Honor of Distinction, 04/14/2007)
     Jehan Yves de Chateau Thierry (1, dist: 24:alternate):
@@ -48804,7 +48804,7 @@ Deduplicating {
     Marcus Atheniou (1, dist: 26:alternate):
       Corwyn of Gleann nam Feorag Dubh (Award of Arms, 10/09/2004)
     Matteo Alessandro Ulisse Rugieri (1, dist: 26:alternate):
-      Jean Phillipe de Bouvier Noir (Award of Arms, 08/17/1995)
+      Nico di Palermo (Award of Arms, 08/17/1995)
     Alayne Alexandra Nyvern, Nightwatcher (1, dist: 27:alternate):
       Hrelgar den Ingelkottson (Burdened Tyger, 04/01/2006)
     Gwyneth ferch Meredydd Ynys Mon (1, dist: 27:alternate):
@@ -102728,6 +102728,7 @@ PHP define Awards {
   $YEW_BOW_ID = 522;
   $YOUTH_ARCHERY_CHAMPION_ID = 216;
 }
+Emitted 12924 distinct Person records
 
 ERROR LOG:
 

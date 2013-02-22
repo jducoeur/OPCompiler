@@ -174,12 +174,25 @@ object Deduper {
   import java.io._
   
   def formatPerson(person:Person) = {
-    val mainPersona = person.mainPersona
-    val nonMain = person.personae.filterNot(_.isMain)
+    var ret = ""
+    // Note that we intentionally do not rely on the isMain flag any more! That can get easily
+    // corrupted by the process.
+    val alphaPersonae = person.personae.filter(_.hasAlphas)
+    val mainPersona = 
+      (if (alphaPersonae.length > 1) {
+        ret += "# Multiple Alpha entries! " + alphaPersonae.map(_.scaName).mkString(", ") + "\n"
+        alphaPersonae(0)
+      } else if (alphaPersonae.length == 1)
+        alphaPersonae(0)
+      else
+        person.mainPersona)
+//    val mainPersona = person.personae.find(_.hasAlphas).getOrElse(person.mainPersona)
+    val nonMain = person.personae.filterNot(_ == mainPersona)
     val (typos,alternates) = nonMain.partition(_.isTypo)
-    mainPersona.scaName + " == " +
+    ret += mainPersona.scaName + " == " +
       (if (alternates.length > 0) alternates.map(_.scaName).mkString("; ") else "") +
       (if (typos.length > 0) " || " + typos.map(_.scaName).mkString("; ") else "")
+    ret
   }
   
   def writeNameConfig() = {

@@ -63,6 +63,8 @@ object Emitter {
     
     writer.flush
     writer.close
+    
+    Log.print("Emitted " + Person.allPeople.size + " distinct Person records")
   }
   
   case class SqlField[T](fieldName:String, extractor:T => Any)

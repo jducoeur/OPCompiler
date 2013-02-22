@@ -99,6 +99,8 @@ class Persona(val scaName:String, var person:Person, val isTypo:Boolean = false)
   
   def refStr = "  SEE: " + person.mainPersona.scaName
   
+  def hasAlphas = awards.exists(_.inAlpha)
+  
   override def toString = {
     if (isTypo) ""
     else {
@@ -155,7 +157,7 @@ class Person(mainPersonaName:String) extends Gendered {
 	personae.find(_.scaName == Persona.scrub(name)).getOrElse(throw new Exception("Can't find persona " + name))
   }
   
-  def hasAlphas = personae.exists(_.awards.exists(_.inAlpha))
+  def hasAlphas = personae.exists(_.hasAlphas)
   
   def addAward(personaName:String, award:Recognition) = getPersona(personaName).addAward(award)
   
