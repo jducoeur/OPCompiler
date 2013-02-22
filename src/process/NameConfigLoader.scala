@@ -40,9 +40,11 @@ trait NameConfigLoader {
   
   def load(fileName:String) = {
     Log.pushContext("Loading names")
-    val fileInput = Source.fromFile(fileName)
-    val lines = fileInput.getLines.filterNot(_(0) == '#')
-    lines.foreach(processLine(_))
+    val fileInput = Source.fromFile(fileName, "UTF8")
+    val lines = fileInput.getLines.filterNot(_(0) == '#').zipWithIndex
+    lines.foreach { pair => 
+      processLine(pair._1)
+    }
     fileInput.close()
     Log.popContext
   }

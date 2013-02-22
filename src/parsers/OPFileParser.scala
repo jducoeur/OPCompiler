@@ -88,7 +88,7 @@ abstract trait OPFileParser {
   }
 
     
-  def getPersona(nameEntry:String):Persona = {
+  def getPersona(nameEntry:String, inCourt:Boolean = false):Persona = {
     val breakdown = checkReferences(nameEntry)
     val name = breakdown.curName.trim
     // The current name is current iff none of the others are
@@ -97,7 +97,12 @@ abstract trait OPFileParser {
     val others = breakdown.others map (_.name)
     // Get a person that has the correct "main" name, then get the current persona from it:
     val persona =
-      (if (isCurrent)
+      (if (inCourt)
+        // By and large, we need to be more skeptical about parentheticals in Court Reports,
+        // which usually are *not* alternate names, and tend to mess up the data. We will
+        // let the Deduper find these later:
+        Persona.find(name, Seq.empty)
+      else if (isCurrent)
         Persona.find(name, others)
       else
         Persona.find(currentName.get.name, name +: others)).person.getPersona(name)

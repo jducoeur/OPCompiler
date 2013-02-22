@@ -2,6 +2,8 @@ package process
 
 import models._
 
+import collection.SortedSet
+
 import scala.math.min
 
 import scala.util.Sorting._
@@ -44,6 +46,8 @@ object Deduper {
       quickSort(withSizes)(Ordering.by(_._1))
       withSizes(0)._2
     }
+    
+    lazy val bestPersona = bestMatch(0).candidate
     
     lazy val num = bestMatch.length
     
@@ -143,6 +147,14 @@ object Deduper {
           (if (best.head.dist < 5) "typo" else "alternate") +
           "):")
       best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
+      
+      def isStrong = {
+        merge.num > 1 || merge.dist < 10
+      }
+      
+      val person = merge.target.person
+      if (person.merges.isEmpty && isStrong)
+        person.merges = Some(merge)
     }
     
     writeNameConfig()
@@ -175,8 +187,14 @@ object Deduper {
     def print(msg:String) = writer.print(msg)
     def println(msg:String) = writer.println(msg)
     
-    val complexPeople = Person.allPeople.filter(_.hasAlternates)
-    complexPeople.foreach(person => println(formatPerson(person)))
+    Person.allPeople.foreach { person => 
+      if (person.hasAlternates) {
+        println(formatPerson(person))
+      }
+      if (person.merges.isDefined) {
+        println("# " + person.mainPersona.scaName + " <- " + person.merges.get.bestPersona.recipient.scaName)
+      }
+    }
     
     writer.flush
     writer.close

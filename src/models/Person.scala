@@ -171,6 +171,8 @@ class Person(mainPersonaName:String) extends Gendered {
       
     Person.allPeople -= otherPerson
   }
+
+  var merges:Option[process.Deduper.MergeOptions] = None
   
   def recognitions:Seq[Recognition] =
     for (persona <- personae;
