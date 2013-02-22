@@ -44,8 +44,7 @@ Al-Faris Mohammad Sevim Oglu Gowan Oglu == Morgan MacGowan
 # Alain Longship <- Ailean Longship
 # Alan of Rosley <- Alan of Roseleah
 # Alana of Ramskeep <- Alanna of Ramskeep
-# Multiple Alpha entries! Alaric Jager von Bermen, Alarich Jager von Bremen
-Alaric Jager von Bermen == Alaric Jager von Bremen || Alarich Jager von Bremen
+Alarich Jager von Bremen == Alaric Jager von Bremen || Alaric Jager von Bermen
 # Alaric of Owef <- Maria of Oxenford
 # Alaric von Alaricsburg <- Richard von Alaricsburg
 # Alasdair Stuart Campbell <- Alasdair of Clan Campbell
@@ -347,8 +346,7 @@ Caterina Gioacchini == Kasia One-sleeve
 # Caterina Gioacchini <- Caterina Giaocchini
 # Catherine Ecceles <- Katherine Eccles
 # Catherine Greene <- Catheryne Greene
-# Multiple Alpha entries! Catherine de Sant Marti - see Katherine atte Wyshe, Katerine atte Wyshe de la Rye
-Catherine de Sant Marti - see Katherine atte Wyshe == Katryne Blak; Katerine atte Wyshe de la Rye; Catherine de Sant Marti
+Katerine atte Wyshe de la Rye == Catherine de Sant Marti - see Katherine atte Wyshe; Katryne Blak; Catherine de Sant Marti; Katherine atte Wyshe
 # Catheryn Shadwell <- Catherine Shadwell
 # Catriana le Fey of Airley <- Catriana of Airley
 # Catrin o'r Rhyd Fôr <- Catrin o'r Rhyd For
@@ -399,7 +397,7 @@ Coalan an Panga Dubh == Kellan; "Cat"
 # Cody Rose of House Valkyrie <- Cody-Rose of House Valkyrie
 Colin Fraser MacLeod == Frasier McCloud
 # Colin Tyndall de ffrayser <- Colin Tyndall de Ffrayser
-# Colin mac Eoain mec Lachlainn <- Colin mec Eoain Mac Lochlainn
+# Colin mac Eoain mec Lachlainn <- Colin MacEoin mac Lachlainn
 # Collach O Choda <- Collach O’Choda
 # Connail MacRaibert <- Connor MacRaibert
 # Connell an Doire <- Connall an Doire
@@ -422,7 +420,7 @@ Cormac the Teeth == Tanna-Kormakr Makansson
 # Cosmano Piero Micheletto da Roma <- Cosmano Piero Michelotta da Roma
 # Cramine the Oud Player <- Carmine the Oud Payer
 # Creatura Christi of Oakes <- Creatura Christi of Oaks
-# Cristiana ingen Mec-Bead <- Cristina inghean Mec-Bead
+# Cristiana ingen Mec-Bead <- Christiana inghen mec-Bead
 Cristoff Glocherean von Loch == Christoph the Clockwork
 # Cristoforo Donatello dei Visconti <- Cristoforo Donatello di Visconti
 # Cristovau Vasquez <- Christovau Vasquez
@@ -497,7 +495,7 @@ Dumain de Voebon == Jimmu
 # Duncan MacBain <- Duncan Stuart MacBain
 Duncan McKinnon of Strathardale == Duncan of the Bridge
 # Duncan Thorfinn <- Duncan Thorfin
-# Duncan Thorfinnsson <- Duncan Thorfinnson
+# Duncan Thorfinnsson <- Duncan Thorfinsson
 # Duncan of Carolingia <- Federach of Carolingia
 Duncan of Wessex == Duncan von Halstern
 # Dunstable Peregrinator <- D'Unstable Peregrinator
@@ -520,7 +518,7 @@ Efa Gath fach == Parsley
 Efeilian Gathfach ferch Owain ap Bleddyn == Dyddanwy Gathfach
 # Eibhlin inghean ui Choileáin <- Eibhlin inghean ui Choileain
 # Eibhlín ní Ghallchobair <- Eibhlin ni Ghallcho Bair
-# Eilís ní Bhraonáin <- Eílís ní Bhraonaín
+# Eilís ní Bhraonáin <- Eilis ni Bhraonain
 # Einarr Sælingr <- Einar Saelinger
 # Einarr Thorgrimsson <- Einarr Thorgrimmson
 # Eirikr Thórisson <- Eirikr Thorson
@@ -536,7 +534,6 @@ Eleanor Lebrun == Lorin the Not Much
 # Eleanor the Faire <- Eleanor the Fair
 Eleanora Stewart == Nora
 # Eleazar ha Levi <- Eleazor ha-Levi
-# Multiple Alpha entries! Elen Alswith of Eriskay, Alsvid Annarin
 Elen Alswith of Eriskay == Alsvid Annarin; Alsvith Annarin
 # Elen Alswith of Eriskay <- Elen Alswyth of Eriskay
 # Elena Norreys <- Elena Norrys
@@ -603,7 +600,6 @@ Ernst Nuss von Kitzengen == Erno Scrumahli
 # Ervald La Coudre the Unlucky <- Ervald la Coudre the Unlucky
 # Erzulie of Carolingia <- Erzuile of Carolingia
 # Esa Gray <- Esa Grey
-# Multiple Alpha entries! Esmeralda la Sabia, Sol la Cantor
 Esmeralda la Sabia == Sol la Cantor
 # Esmeralda la Sabia <- Esmerelda de Sabia
 # Estrella de los Confines <- Estreya de los Confinos
@@ -620,7 +616,7 @@ Eva van Oudeachterkol == Embla Willsdottir
 # Everard Martel <- Everard Martell
 # Ewen Ericsson <- Ewan Ericsson
 Fabrisse of Owlsherst == Carol Bair
-# Failtigearna ingen uí Artáin <- Faoiltigearna Muirin ni Artain
+# Failtigearna ingen uí Artáin <- Faoiltigearna Muirinn ni Artain
 # Faolan MacNeill <- Faolin MacNiel
 # Faolchadh of Dubh Linn <- Faolchadh of Duhb Linn
 # Fatima Isabella Villalobos <- Fatima Villalobos
@@ -689,7 +685,7 @@ Geirr Ragnarsson == Guillaume d'Essonne
 Geoffrey Blesedale == Gisfried of House Bloodguard
 # Geoffrey Blesedale <- Geoffrey of Blesedale
 # Geoffrey Chamberlain <- Goffrey Chamberlain
-# Geoffrey Fitz Galen <- Geoffrey fitz Galen
+# Geoffrey Fitz Galen <- Geofrey Fitz Galen
 Georg Kopman == Georges Tolbarry
 # Gerhard der Rote von Ulm <- Gerhard der Rote
 # Gericke der Keger <- Gericke von Keger
@@ -731,7 +727,7 @@ Gregorian Hawke == Smorgasbord
 Gryffith FitzWilliam == of Green Mountain
 # Gryphon du Forte Epee <- Gryphon du Fort Epee
 # Gráinne inghean uí Bhrolacháin <- Grainne inghean ui Bhrolachain
-# Gráinne inghean úi Bhraonáin <- Graine inghean ui Bhraonain
+# Gráinne inghean úi Bhraonáin <- Grainne inghen ui Bhraonain
 Grímr Víthfari == Grimr Ori Vithfari
 # Grímr Víthfari <- Grimr Vithfari
 # Gudrún Gudmundardóttir <- Gudren Gudmunderdottir
@@ -747,7 +743,7 @@ Guy Cheveux de Guise == Gui avec cheval de Guise
 # Guy Cheveux de Guise <- Guy avec Cheval de Guise
 # Guy Lourance <- Guy Laurence
 # Gwendolyn Oftputupon <- Gwendolyn the Oft-Put-Upon
-# Gwenhwyfar Dinas Emrys <- Gwenhwfar Dinas Emrys
+# Gwenhwyfar Dinas Emrys <- Gwenwyfar Dinas Emrys
 # Gwenhwyfar of An Dubhaigeainn <- Gwenhwyvar of An Dubhaigeainn
 # Gwenhwyvar of Ravenhill <- Gwenhwyfar of Ravenhill
 Gwenllian Bassett == Rhiannan Bassett; Silverwheel, Ravensong
@@ -765,7 +761,7 @@ Gülüg-jab Tangghudai == “Puppy”
 # Gülüg-jab Tangghudai <- Gulugjab Tangghudai
 # Haleric Poleskowna <- Haleric Polescovna
 # Harald Orn <- Harold Orn
-# Harald Ulfson <- Harald Ulfsson
+# Harald Ulfson <- Harold Ulfson
 # Harold Longfellow <- Harald Longfellow
 Hasdrubal == Barak Hasdrubal
 # Hassan abdul Raschid al-Turki <- Hassan Abdul Raschid al-Turki
@@ -791,14 +787,13 @@ Hrut Skumsonner == Pondskum
 George == Hrymgnar Aeulfson
 Hubert d'Avignon == Ayden Pathfinder
 # Hussein Stefan Halaby <- Hussein Hallaby
-# Hálfdan langleggr <- Halfdan Longlegs
+# Hálfdan langleggr <- Halfdan Longlegged
 # Ian Saint Clair <- Ian St. Clare
 # Ignacia la Ciega <- Ignacia el Ciego
 Igor Rostislavitch == Ygor Rotislav
 # Ilana Mazdak <- Illana Mazdak
 Ilse von Schönau == Annora de Sylveaston
-# Multiple Alpha entries! Imigla Venture, Irayari Vairavi
-Imigla Venture == Irayari Vairavi; Bhairavi of Thescorre; Vairavi
+Irayari Vairavi == Imigla Venture; Bhairavi of Thescorre; Vairavi
 # Ina Rowena of the Mist <- Ina Roweena of the Mists
 Ingvar Thorsteinsson == Critter; “Critter”
 Irene Lassin == Irene von Lassan
@@ -853,7 +848,7 @@ Jehannine de Flandres == Jehannine de Bordeu
 # Jenne McGill <- Jenna McGill
 Jeremiah MacCoull == of Brunswick
 # Jerryd DeWayne <- Jerryd de Wayne
-# Jessa of Avondale <- Jessa d'Avondale
+# Jessa of Avondale <- Jessa d’Avondale
 Jessica Buckley == Jessica ingen ui Buachalla
 # Jibril al Dakhil <- Jebril al Dakal
 # Jivette d'Angoumois <- Jivette du Angoumois
@@ -935,8 +930,7 @@ Katerine Fitzwilliam == Ekaterina von Drachenklaue
 # Katharine Whytton <- Katherine Whytton
 # Katherine Ashewode <- Katherine Ashewoode
 # Katherine Aylwyn de Chaliers <- Katherine Alwyn de Chaliers
-# Multiple Alpha entries! Katherine Long, Kathrine Delong
-Katherine Long == Kathrine Delong; Fern
+Kathrine Delong == Katherine Long; Fern
 # Katherine Morrigan O'Griobhtha <- Katherine Moirigahna O'Griobhtha
 # Katherine Thompson of Melton Mowbray <- Katheryne Thompson of Melton-Mowbray
 # Katrusha the Skomorokh <- Katrusha Skomorokh
@@ -1042,7 +1036,7 @@ Mairghread NicNeachdainn == “Devon”
 # Manfred Albrecht von Halsstern <- Manfred von Halsstern
 # Marared Llangarron <- Mairgred Llangarron
 Marcus Atheniou == Corwyn of Gleann nam Feorag Dhuibhe
-# Marcus Blackaert <- Marcus Blackheart
+# Marcus Blackaert <- Marcus Blackeart
 # Marcus Blödax <- Magnus Blodax
 Marcus Lucius Casius == Magnus Casius Lucius
 # Marcus Lucius Casius <- Magnus Lucius Castus
@@ -1178,7 +1172,7 @@ Nathaniel Wyatt == Wyatt; of Beyond the Mountain
 # Niccolo di Palermo <- Nico di Palermo
 # Nicholas Poissonier <- Nicholas Poissoniere
 Nicola Angelini == Leonete d'Angely
-# Nicola Angelini <- Nicola Angelico
+# Nicola Angelini <- Nicola Angelica
 Nigel of Castle West == Westcastle
 # Nigel of Castle West <- Nigel Westcastle
 # Nigell Tarragon <- Nigel Tarragon
@@ -1270,7 +1264,7 @@ Richard Dumfries == known as Carl Amulgane
 # Richard of Woodbridge <- Richard Woodenbridge
 # Richard the Poor of Ely <- Richard the Poor
 # Richenda de Cameron <- Richenda Cameron
-# Riobard mac Seosaimh ui Phadraig <- Riobard McSeosemh O Padraig
+# Riobard mac Seosaimh ui Phadraig <- Riobard McSeosemh an Padraig
 # Robert Bury atte Okeforde <- Robert de Bury atte Okesforde
 # Robert Hildreth <- Robert of Hildreth
 # Robert Toxophilus of Werchsope <- Robert Toxophilus of Werchesope
@@ -1326,7 +1320,7 @@ Sabine de Kerbriant == Sabine Kerbriant de Lanvaux
 Saerlaith ingen Cinneide == Clodagh inghen Cinneide
 # Saerlaith ingen Cinneide <- Saerlaith ingen Chennetig
 Saerlaith inghen Cinneide == Tzitzakion of Atil
-# Safia al-Khansaa <- Safia al Khansaa
+# Safia al-Khansaa <- Safia al-Khansa
 # Safiya of the Shifting Sands <- Sofia of the Shifting Sands
 # Saikhan fn <- Saikhan Saran
 Sakurai no Kesame == Kei
@@ -1345,7 +1339,7 @@ Sarah Elizabeth Dubh Sidhe == The Lacemaker
 # Seamus mac Neachtan <- Seamus mac Neachtain
 # Sean Gobha <- Sean Goublinne
 Sebastian Estevan de Xavier == Xavier Matejka
-# Sebastian Estevan de Xavier <- Sebasian Estevan de Xavier
+# Sebastian Estevan de Xavier <- Sebastian Esteban de Xavier
 # Sebastiano Manetti <- Sebastian Manetti
 # Sebastiano da Pachino <- Sebastiano da Pacino
 # Sebastien de la Main Gauche <- Sebastian de la Main Gauche
@@ -1426,7 +1420,7 @@ Tanczos Istvan == Istvan Tanczos
 # Teleri the Well Prepared <- Teleri the Well-Prepared
 Temair ingen Muiredaich == Tamarrion di Sidana
 # Temair ingen Muiredaich <- Temair inghen Muiredaich
-# Terence the Arcane <- Terance the Arcane
+# Terence the Arcane <- Terrence the Arcane
 # Teric Gwynedd <- Terric Gwynedd
 # Tescotickle flint Aterrimus <- Tescotickle flint Atterimus
 # Thailyn MacAusland <- Thailyn Mac Ausland
@@ -1453,7 +1447,7 @@ Thorvald Halversson == “Thorson”
 Tigar of Toddington == "Tygart"
 # Tigar of Toddington <- Tygart Toddington
 # Tigellen der Auslander <- T’Gellen der Auslander
-# Tirza bithe Reaboughes <- Tirza bhithe Reaboughes
+# Tirza bithe Reaboughes <- Tirze bithe Reaboughes
 Toki Redbeard == Garth Fairchild
 # Toki Redbeard <- Toki Red Beard
 # Tola knytir <- Tola Knytir
@@ -1503,7 +1497,7 @@ Valerius Fidelis Camerinus == Sir Cameron; "Cameron"
 # Vibeke Dejlie Steinnsdottir <- Vibeke Steensdottir
 # Victoria la Picarde <- Victoria de Pycard
 # Viennet de la Mer <- Vienna de Mer
-# Vigolfr Agnarsson <- Vigolfr Agnarrson
+# Vigolfr Agnarsson <- Vigolf Agnarsson
 # Viktor von dem Kleinflüsse <- Viktor von dem Kleinefluesse
 Violante de Rojas == Althea de Grimm || Althea de Grimm -
 Violeante de Rojas == called Althea de Grimm
@@ -1572,7 +1566,7 @@ Aethelthryth Kenricsdohtor == Æðelðryð (Aethelthryth) Kenricing; AEdeldryd (
 # Étain ingen ui Chommáin <- Etain ingen ui Comman
 # Étienne de Lyons <- Etienne de Lyons
 Þóra Eiríksdóttir == Thyra.; Thyra
-# Þóra Eiríksdóttir <- Pora Eiriksdottir
+# Þóra Eiríksdóttir <- Dora Eiriksdottir
 # Þóra Sharptooth <- Þora Sharptooth
 # Þórlæifr hvitskegg <- Þórlaeifr hvitskegg
 # Þórmunr Inn Landverski <- Þórmundr Inn Landverski
