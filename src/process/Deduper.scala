@@ -42,9 +42,9 @@ object Deduper {
   case class MergeOptions(target:Persona, candidates:Seq[CandidatePair]) {
     lazy val bestMatch:Seq[CandidatePair] = {
       val groups = candidates.groupBy(_.candidate.recipient)
-      val withSizes = groups.values.map( pairs => (pairs.length, pairs) ).toArray
-      quickSort(withSizes)(Ordering.by(_._1))
-      withSizes(0)._2
+      val withSizes = groups.values.map( pairs => (pairs.length, pairs(0).dist, pairs) ).toArray
+      quickSort(withSizes)(Ordering.by { info => (info._1, info._2) })
+      withSizes(0)._3
     }
     
     lazy val bestPersona = bestMatch(0).candidate
