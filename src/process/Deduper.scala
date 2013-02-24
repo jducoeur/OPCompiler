@@ -108,7 +108,8 @@ object Deduper {
     var ret = Seq.empty[CandidatePair]
     if (head.inAlpha && !head.inCourt) {
       val plausible = candidates filter { candidate =>
-        candidate.inCourt && !candidate.inAlpha && candidate.award == head.award
+        candidate.inCourt && !candidate.inAlpha && candidate.award == head.award &&
+        (if (head.inList) !candidate.inList else true)
       }
       if (plausible.length > 0) {
         ret = plausible.map(candidate => CandidatePair(head, candidate))
@@ -210,7 +211,7 @@ object Deduper {
         val matchStrs = matches map { pair:CandidatePair =>
           "#   <- " + pair.candidate.toString
         }
-        println("# " + person.mainPersona.scaName + 
+        println("#      " + matches(0).target.toString + 
             " (" + person.merges.get.num + " matches, dist: " + person.merges.get.dist + ")\n" +
             matchStrs.mkString("\n")
             )
