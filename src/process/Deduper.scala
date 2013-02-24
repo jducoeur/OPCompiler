@@ -186,11 +186,15 @@ object Deduper {
         alphaPersonae(0)
       else
         person.mainPersona)
-//    val mainPersona = person.personae.find(_.hasAlphas).getOrElse(person.mainPersona)
     val nonMain = person.personae.filterNot(_ == mainPersona)
     val (typos,alternates) = nonMain.partition(_.isTypo)
+    val altsPlusMerge =
+      (if (person.merges.isDefined)
+         alternates :+ person.merges.get.bestPersona.recipient
+       else
+         alternates)
     ret += mainPersona.scaName + " == " +
-      (if (alternates.length > 0) alternates.map(_.scaName).mkString("; ") else "") +
+      (if (altsPlusMerge.length > 0) altsPlusMerge.map(_.scaName).mkString("; ") else "") +
       (if (typos.length > 0) " || " + typos.map(_.scaName).mkString("; ") else "")
     ret
   }
@@ -201,11 +205,13 @@ object Deduper {
     def println(msg:String) = writer.println(msg)
     
     Person.allPeople.foreach { person => 
-      if (person.hasAlternates) {
-        println(formatPerson(person))
-      }
       if (person.merges.isDefined) {
-        println("# " + person.mainPersona.scaName + " <- " + person.merges.get.bestPersona.recipient.scaName)
+        println("# " + person.mainPersona.scaName + 
+            " <- " + person.merges.get.bestPersona.recipient.scaName +
+            " (" + person.merges.get.num + " matches, dist: " + person.merges.get.dist + ")")
+      }
+      if (person.hasAlternates || person.merges.isDefined) {
+        println(formatPerson(person))
       }
     }
     
