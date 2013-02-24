@@ -203,12 +203,17 @@ object Deduper {
     val writer = new PrintWriter(new File("names.conf.proposed"), "UTF-8")
     def print(msg:String) = writer.print(msg)
     def println(msg:String) = writer.println(msg)
-    
+
     Person.allPeople.foreach { person => 
       if (person.merges.isDefined) {
+        val matches = person.merges.get.bestMatch
+        val matchStrs = matches map { pair:CandidatePair =>
+          "#   <- " + pair.candidate.toString
+        }
         println("# " + person.mainPersona.scaName + 
-            " <- " + person.merges.get.bestPersona.recipient.scaName +
-            " (" + person.merges.get.num + " matches, dist: " + person.merges.get.dist + ")")
+            " (" + person.merges.get.num + " matches, dist: " + person.merges.get.dist + ")\n" +
+            matchStrs.mkString("\n")
+            )
       }
       if (person.hasAlternates || person.merges.isDefined) {
         println(formatPerson(person))
