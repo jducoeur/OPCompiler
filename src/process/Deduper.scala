@@ -39,7 +39,9 @@ object Deduper {
     (pair.candidate.recipient.scaName, pair.dist)
   }
   
-  case class MergeOptions(target:Persona, candidates:Seq[CandidatePair]) {
+  case class MergeOptions(target:Persona, candidatesIn:Seq[CandidatePair]) {
+    val candidates = candidatesIn.distinct
+    
     lazy val bestMatch:Seq[CandidatePair] = {
       val groups = candidates.groupBy(_.candidate.recipient)
       val withSizes = groups.values.map( pairs => (pairs.length, pairs(0).dist, pairs) ).toArray
