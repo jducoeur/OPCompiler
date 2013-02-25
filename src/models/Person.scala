@@ -197,8 +197,11 @@ object Persona {
   // full person, with synonyms, with fewer sanity-checks, so it assumes clean data
   def addPerson(mainName:String, syns:Seq[String], typos:Seq[String]) = {
     val person = new Person(mainName)
-    syns.foreach(new Persona(_, person, false))
-    typos.foreach(new Persona(_, person, true))
+    def addOtherName(name:String, isTypo:Boolean) = {
+      byPersona.getOrElse(name, new Persona(name, person, isTypo))
+    }
+    syns.foreach(addOtherName(_, false))
+    typos.foreach(addOtherName(_, true))
   }
   
   def scrub(name:String) = {

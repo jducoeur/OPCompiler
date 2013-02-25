@@ -104,18 +104,26 @@ object Deduper {
     }
   }
   
-  def checkCandidateMatches(head:Recognition, candidates:List[Recognition]):Seq[CandidatePair] = {
+  def checkCandidateType(head:Recognition, candidates:List[Recognition],
+      in:Recognition => Boolean, against:Recognition => Boolean, other:Recognition => Boolean,
+      andAlso:Recognition => Boolean = (_ => true)):Seq[CandidatePair] = {
     var ret = Seq.empty[CandidatePair]
-    if (head.inAlpha && !head.inCourt) {
+    if (in(head) && !against(head) && andAlso(head)) {
       val plausible = candidates filter { candidate =>
-        candidate.inCourt && !candidate.inAlpha && candidate.award == head.award &&
-        (if (head.inList) !candidate.inList else true)
+        against(candidate) && !in(candidate) && candidate.award == head.award &&
+        (if (other(head)) !other(candidate) else true)
       }
       if (plausible.length > 0) {
         ret = plausible.map(candidate => CandidatePair(head, candidate))
       }
     }
-    ret
+    ret    
+  }
+  
+  def checkCandidateMatches(head:Recognition, candidates:List[Recognition]):Seq[CandidatePair] = {
+    // If the head is from somewhere else, we don't expect to find a match:
+    checkCandidateType(head, candidates, (_.inAlpha), (_.inCourt), (_.inList), (_.where.isEmpty)) ++
+    checkCandidateType(head, candidates, (_.inAlpha), (_.inList), (_.inCourt))
   }
   
   def dedupe = {
