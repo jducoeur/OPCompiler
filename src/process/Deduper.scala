@@ -106,6 +106,10 @@ object Deduper {
     }
   }
   
+  def excluded(head:Recognition, candidate:Recognition) = {
+    head.recipient.person.falsePositives.contains(candidate.recipient.scaName)
+  }
+  
   def checkCandidateType(head:Recognition, candidates:List[Recognition],
       in:Recognition => Boolean, against:Recognition => Boolean, other:Recognition => Boolean,
       andAlso:Recognition => Boolean = (_ => true)):Seq[CandidatePair] = {
@@ -122,7 +126,8 @@ object Deduper {
     ret    
   }
   
-  def checkCandidateMatches(head:Recognition, candidates:List[Recognition]):Seq[CandidatePair] = {
+  def checkCandidateMatches(head:Recognition, candidatesIn:List[Recognition]):Seq[CandidatePair] = {
+    val candidates = candidatesIn.filterNot(excluded(head, _))
     // If the head is from somewhere else, we don't expect to find a match:
     checkCandidateType(head, candidates, (_.inAlpha), (_.inCourt), (_.inList), (_.where.isEmpty)) ++
     checkCandidateType(head, candidates, (_.inAlpha), (_.inList), (_.inCourt))
@@ -153,19 +158,43 @@ object Deduper {
     quickSort(merges)(byAll)
     merges.foreach { merge =>
       val best = merge.bestMatch
-      Log.print("  " + merge.target.scaName + " (" + best.length + ", " +
-          "dist: " + best.head.dist + ":" +
-          (if (best.head.dist < 5) "typo" else "alternate") +
-          "):")
-      best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
+//      Log.print("  " + merge.target.scaName + " (" + best.length + ", " +
+//          "dist: " + best.head.dist + ":" +
+//          (if (best.head.dist < 5) "typo" else "alternate") +
+//          "):")
+//      best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
       
       def isStrong = {
-        merge.num > 1 || merge.dist < 10
+        merge.num > 1 || merge.dist < 12
       }
       
       val person = merge.target.person
       if (person.merges.isEmpty && isStrong)
         person.merges = Some(merge)
+        
+      def newlineIf(it:Seq[_]) = {
+        if (it.length > 0)
+          "\n"
+        else
+          ""
+      }
+      
+      val matchStrs = best map { pair:CandidatePair =>
+        "#   <- " + pair.candidate.toString + " (person: " + pair.candidate.recipient.person.hashCode() + ", persona: " + pair.candidate.recipient.hashCode() + ")" 
+      }
+      val targetPersonaStrs = best(0).target.recipient.person.personae map { persona =>
+        "#           " + persona.scaName + ": " + persona.hashCode()
+      }
+      val falseStrs = best(0).target.recipient.person.falsePositives map { notName =>
+        "#           NOT " + notName
+      }
+      Log.print("#      " + best(0).target.toString + 
+          " (person: " + best(0).target.recipient.person.hashCode() + "; " + merge.num + " matches, dist: " + merge.dist + ")\n" +
+          targetPersonaStrs.mkString("\n") + newlineIf(targetPersonaStrs) +
+          falseStrs.mkString("\n") + newlineIf(falseStrs) +
+          matchStrs.mkString("\n")
+          )
+      Log.print(formatPerson(person, true))
     }
     
     writeNameConfig()
@@ -184,7 +213,7 @@ object Deduper {
   
   import java.io._
   
-  def formatPerson(person:Person) = {
+  def formatPerson(person:Person, allowMerges:Boolean) = {
     var ret = ""
     // Note that we intentionally do not rely on the isMain flag any more! That can get easily
     // corrupted by the process.
@@ -200,13 +229,19 @@ object Deduper {
     val nonMain = person.personae.filterNot(_ == mainPersona)
     val (typos,alternates) = nonMain.partition(_.isTypo)
     val altsPlusMerge =
-      (if (person.merges.isDefined)
+      (if (allowMerges && person.merges.isDefined)
          alternates :+ person.merges.get.bestPersona.recipient
        else
          alternates)
+    val falsePositives =
+      (if (!allowMerges && person.merges.isDefined)
+         person.falsePositives :+ person.merges.get.bestPersona.recipient.scaName
+        else
+         person.falsePositives)
     ret += mainPersona.scaName + " == " +
       (if (altsPlusMerge.length > 0) altsPlusMerge.map(_.scaName).mkString("; ") else "") +
-      (if (typos.length > 0) " || " + typos.map(_.scaName).mkString("; ") else "")
+      (if (typos.length > 0) " || " + typos.map(_.scaName).mkString("; ") else "") +
+      (if (falsePositives.length > 0) " ! " + falsePositives.mkString("; ") else "")
     ret
   }
   
@@ -225,9 +260,10 @@ object Deduper {
             " (" + person.merges.get.num + " matches, dist: " + person.merges.get.dist + ")\n" +
             matchStrs.mkString("\n")
             )
-      }
-      if (person.hasAlternates || person.merges.isDefined) {
-        println(formatPerson(person))
+        println("+ " + formatPerson(person, true))
+        println("- " + formatPerson(person, false))
+      } else if (person.hasAlternates) {
+        println(formatPerson(person, false))
       }
     }
     

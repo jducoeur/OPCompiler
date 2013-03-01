@@ -1,5 +1,7 @@
 package models
 
+import process.Log
+
 object Gender extends Enumeration {
   type Gender = Value
   val Unknown, Male, Female, Conflict = Value
@@ -176,6 +178,8 @@ class Person(mainPersonaName:String) extends Gendered {
 
   var merges:Option[process.Deduper.MergeOptions] = None
   
+  var falsePositives:Seq[String] = Seq.empty
+  
   def recognitions:Seq[Recognition] =
     for (persona <- personae;
          award <- persona.awards)
@@ -195,13 +199,9 @@ object Persona {
  
   // This is solely intended for use at config time, from the Names file. It adds a
   // full person, with synonyms, with fewer sanity-checks, so it assumes clean data
-  def addPerson(mainName:String, syns:Seq[String], typos:Seq[String]) = {
-    val person = new Person(mainName)
-    def addOtherName(name:String, isTypo:Boolean) = {
-      byPersona.getOrElse(name, new Persona(name, person, isTypo))
-    }
-    syns.foreach(addOtherName(_, false))
-    typos.foreach(addOtherName(_, true))
+  def addPerson(mainName:String, syns:Seq[String], typos:Seq[String], falsePositives:Seq[String]) = {
+    val persona = find(mainName, syns ++ typos)
+    persona.person.falsePositives = falsePositives
   }
   
   def scrub(name:String) = {
@@ -214,7 +214,7 @@ object Persona {
     val scrubbedOthers = otherNames map scrub
     
     // For all of the names that *do* exist, merge them:
-    val candidatePersonae = (personaName +: scrubbedOthers).map(byPersona.get(_)).filter(_.isDefined).map(_.get)
+    val candidatePersonae = (name +: scrubbedOthers).map(byPersona.get(_)).filter(_.isDefined).map(_.get)
     val persons = candidatePersonae.map(_.person).toSet
     // The best candidate is the name that shows up in the alpha list, if any:
     val bestPerson = 

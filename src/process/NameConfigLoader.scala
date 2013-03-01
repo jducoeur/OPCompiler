@@ -8,12 +8,14 @@ import models.Persona
 // the name data. This file is flat text, where each line contains an entry that represents
 // a Person. The format is:
 //
-//   [primary] == [syn[; syn]*] || [typo [; typo*]]
+//   [primary] == [syn[; syn]*] || [typo [; typo*]] ! [falsepos [;falsepos]]
 //
 // where "primary" is the name for the main entry (registered name if possible); "syn"s are
 // the publicly-visible synonyms that should each get a cross-reference enter; and "typo"s
 // are misspelling and tweaks found in the data that are too minor to be worth exposing
-// visibly.
+// visibly. (NOTE: typos are being deprecated at this point, in favor of just using edit
+// distance to decide automatically.) "falsepos" are names that the deduper is hypothesizing
+// might be synonyms, but which I think are incorrect.
 //
 // This information is used to pre-populate the Persona table. It is not expected to be
 // comprehensive -- other names will be added as we find them in the data -- but it is used
@@ -23,7 +25,9 @@ trait NameConfigLoader {
     val primaryVsOthers = line.split("==")
     val primary = primaryVsOthers(0).trim
     val others = primaryVsOthers(1)
-    val synVsTypo = others.split("""\|\|""")
+    val synsVsNot = others.split("""!""")
+    val allSyns = synsVsNot(0)
+    val synVsTypo = allSyns.split("""\|\|""")
     def pullApartSection(section:String) = {
       val str = section.trim
       if (str.length == 0)
@@ -35,7 +39,8 @@ trait NameConfigLoader {
     }
     val syns = pullApartSection(synVsTypo(0))
     val typos = (if (synVsTypo.length > 1) pullApartSection(synVsTypo(1)) else pullApartSection(""))
-    Persona.addPerson(primary, syns, typos)
+    val falsePositives = (if (synsVsNot.length > 1) pullApartSection(synsVsNot(1)) else pullApartSection(""))
+    Persona.addPerson(primary, syns, typos, falsePositives)
   }
   
   def load(fileName:String) = {
