@@ -119,7 +119,11 @@ object Emitter {
       SqlInfo[Award]("award", None,
         SqlField("award_id", (_.id)),
         SqlField("award_name", (_.name.name)),
+        SqlField("collective_name", ("Order of the " + _.name.name)),
+        SqlField("award_name_male", ("Companion of the " + _.name.name)),
+        SqlField("award_name_female", ("Companion of the " + _.name.name)),
         SqlField("select_branch", (_.branch.requiresBranchSelect)),
+        SqlField("award_file_name", (_.imageFile)),
         SqlField("type_id", (_.level)),
         SqlField("branch_id", (_.branch.id))
         ))
@@ -172,6 +176,8 @@ object Emitter {
           SqlField("event_id", (_.id)),
           SqlField("reign_id", (_.reign.id)),
           SqlField("court_date", (_.date)),
+          SqlField("received_date", (_.date)),
+          SqlField("entered_date", (_.date)),
           SqlField("kingdom_id", (_ => Kingdom.East.id))
         ))
   }

@@ -42,7 +42,9 @@ object AwardName {
     def canonName(name:String) = name.toLowerCase.replaceAll("'", "")
 }
 
-case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq[AwardName], level:AwardLevel) {
+case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq[AwardName], 
+    level:AwardLevel, imageFile:Option[String]) 
+{
   def awardKeys:Seq[AwardName] = name +: synonyms
   
   def as(s:String):AwardAs = {
@@ -84,7 +86,12 @@ case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq
 }
 
 // Temporary holder so that we can retain the info during Config2 declaration
-case class AwardInfo(name:AwardName, commentary:Boolean = false, synonyms:Seq[AwardName] = Seq.empty, level:Option[AwardLevel] = None)
+case class AwardInfo(
+    name:AwardName, 
+    commentary:Boolean = false, 
+    synonyms:Seq[AwardName] = Seq.empty, 
+    level:Option[AwardLevel] = None,
+    image:String = "")
 
 // Wrapper to preserve the knowledge of which name this award was given under
 case class AwardAs(award:Award, name:AwardName)
@@ -153,8 +160,9 @@ object Award extends IdGenerator {
   def apply(name:String, 
       gender:Gender = Gender.Unknown, 
       isCommentary:Boolean = false, 
-      synonyms:Seq[AwardName] = Seq.empty) = {
-    AwardInfo(AwardName(name, gender), isCommentary, synonyms)
+      synonyms:Seq[AwardName] = Seq.empty,
+      image:String = "") = {
+    AwardInfo(AwardName(name, gender), isCommentary, synonyms, None, image)
   }
   def build(info:AwardInfo, branch:Branch) = {
     addAward(new Award(branch, info.name, info.commentary, info.synonyms, 
@@ -162,7 +170,11 @@ object Award extends IdGenerator {
         case Some(level) => level
         case None if branch.defaultAwardLevel.isDefined => branch.defaultAwardLevel.get
         case _ => AwardLevel.Unknown
-    }))
+      },
+      info.image match {
+        case "" => None
+        case im:String => Some(im)
+      }))
   }
   
   // This is a horribly ad-hoc but critical method, that examines a piece of business and
@@ -198,7 +210,7 @@ object Award extends IdGenerator {
   def addUnknownAward(rawName:String) = {
     val (awardIsCommentary, name) = markedBusiness(rawName)
     val awardName = AwardName(name, Gender.Unknown)
-    val newAward = Award(UnknownBranch, awardName, awardIsCommentary, noSynonyms, AwardLevel.Unknown)
+    val newAward = Award(UnknownBranch, awardName, awardIsCommentary, noSynonyms, AwardLevel.Unknown, None)
     val as = newAward.as(name)
     if (newAward.commentary)
       Log.info("Adding commentary \"" + name + "\"")

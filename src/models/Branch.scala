@@ -134,7 +134,7 @@ class Barony(val name:String) extends Branch {
     val synNames = Seq(AwardName(term + " of " + nameVariant, gender),
     				   AwardName("Founding " + term + " " + nameVariant, gender),
     				   AwardName("Founding " + term + " of " + nameVariant, gender))
-    Award(parent, primaryName, false, synNames, AwardLevel.TerritorialBaron)
+    Award(parent, primaryName, false, synNames, AwardLevel.TerritorialBaron, Some("baron.gif"))
   }
   // Do the Canadian Baronies have French titles instead? If so, I may need to
   // come up with something more general for this.

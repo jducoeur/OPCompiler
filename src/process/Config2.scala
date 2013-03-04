@@ -32,8 +32,8 @@ object Config2 {
       awards = TSeq(
           Award("Queen's Guard"),
           Award("Royal Cypher"),
-          Award("King's Cypher"),
-          Award("Queen's Cypher"),
+          Award("King's Cypher", image = "kcypher.gif"),
+          Award("Queen's Cypher", image = "qcypher.gif"),
           Award("Prince's Cypher"),
           
           Award("Herald Extraordinaire"),
@@ -42,7 +42,7 @@ object Config2 {
               Award("Award of Arms", "Award of Arm", "AOA")),
           
           AwardGroup(AwardLevel.CourtBaron,
-	          Award("Court Barony", synonyms = Seq(
+	          Award("Court Barony", image = "baron.gif", synonyms = Seq(
 	            AwardName("Court Baroness", Female),
 	            AwardName("Court Baron", Male),
 	            AwardName("Baroness of the Court", Female),
@@ -56,35 +56,39 @@ object Config2 {
           
           AwardGroup(AwardLevel.Peerage,
 	          Award("Patent of Arms", "Patent"),
-	          Award("Knight", "Chivalry (knight)", "Order of Chivalry (Knight)", "KSCA", "Knighthood"),
+	          Award("Knight", image = "knight.gif", synonyms = Seq(
+	              AwardName("Chivalry (knight)"), 
+	              AwardName("Order of Chivalry (Knight)"), 
+	              AwardName("KSCA"), 
+	              AwardName("Knighthood"))),
 	          // Yes, sometimes the choice didn't get recorded:
 	          Award("Chivalry", "Member of the Chivalry"),
-	          Award("Laurel", synonyms = Seq(
+	          Award("Laurel", image = "laurel.gif", synonyms = Seq(
 	            AwardName("Mistress of the Laurel", Female),
 	            AwardName("Master of the Laurel", Male)
 	          )),
-	          Award("Master at Arms", "Master of Arms"),
-	          Award("Pelican", synonyms = Seq(
+	          Award("Master at Arms", image = "m_at_arms.gif", synonyms = Seq(AwardName("Master of Arms"))),
+	          Award("Pelican", image = "pelican.gif", synonyms = Seq(
 	            AwardName("Mistress of the Pelican", Female),
 	            AwardName("Master of the Pelican", Male)
 	          )),
-	          Award("Rose", synonyms = Seq(AwardName("Lady of the Rose", Female))),          
+	          Award("Rose", image = "rose.gif", synonyms = Seq(AwardName("Lady of the Rose", Female))),          
 	          // Yes, there exists exactly one Court Count:
 	          Award("Court Count"),
 	          // And Seanan is a Court Duke:
 	          Award("Court Duke")),
           
 	      AwardGroup(AwardLevel.Viscounty,
-	    	  Award("Viscount", gender = Male, synonyms = Seq(AwardName("Viscountess", Female)))),
+	    	  Award("Viscount", gender = Male, image = "viscounty.gif", synonyms = Seq(AwardName("Viscountess", Female)))),
 	    	  
 	      AwardGroup(AwardLevel.County,
-	          Award("Count", gender = Male, synonyms = Seq(
+	          Award("Count", image = "county.gif", gender = Male, synonyms = Seq(
 	            AwardName("Countess", Female),
 	            AwardName("Jarl", Male),
 	            AwardName("Earl", Male)))),
 	      
 	      AwardGroup(AwardLevel.Ducal,
-	          Award("Duke", gender = Male, synonyms = Seq(AwardName("Duchess", Female))))
+	          Award("Duke", image = "duchy.gif", gender = Male, synonyms = Seq(AwardName("Duchess", Female))))
       ).toSeq
       // Each of these is a Seq[AwardInfo], so they don't fit neatly into the above list
       ++ Champion("Archery", "Archer")
