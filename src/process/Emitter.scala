@@ -125,7 +125,7 @@ object Emitter {
         SqlField("select_branch", (_.branch.requiresBranchSelect)),
         SqlField("award_file_name", (_.imageFile)),
         SqlField("type_id", (_.level)),
-        SqlField("branch_id", (_.branch.id))
+        SqlField("branch_id", (_.branch.emitId))
         ))
     
     Log.pushContext("PHP define Awards")
@@ -152,6 +152,7 @@ object Emitter {
         SqlField("reign_id", (_.id)),
         SqlField("king_id", (_.king.person.id)),
         SqlField("queen_id", (_.queen.person.id)),
+        SqlField("monarchs_display", (_.emitDisplay)),
         SqlField("reign_start_sequence", (_.id)),
         SqlField("reign_start_date", (_.start)),
         SqlField("reign_end_date", (_.end))

@@ -9,6 +9,8 @@ case class Reign(id:Int, king:Persona, queen:Persona, start:OPDate, filename:Str
       OPDate.Invalid
   }
   
+  def emitDisplay = king.scaName + " and " + queen.scaName
+  
   override def toString = {
     id.toString + ": " + king.scaName + " / " + queen.scaName + " - from " + start + " to " + end + " (" + filename + ")"
   }
