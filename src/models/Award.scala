@@ -82,6 +82,18 @@ case class Award(branch:Branch, name:AwardName, commentary:Boolean, synonyms:Seq
     (if (isEastern) "is" else "isn't") + " Eastern"
   }
   
+  def nameForGender(g:Gender):String = {
+    if (name.gender == g) 
+      name.name
+    else {
+      val syn = synonyms.find(_.gender == g)
+      syn match {
+        case Some(n) => n.name
+        case None => "Companion of the " + name.name
+      }
+    }
+  }
+  
   Award.allAwards += this
 }
 
