@@ -192,7 +192,7 @@ object Emitter {
           SqlField("atlantian_award_id", (_.id)),
           SqlField("atlantian_id", (_.recipient.person.id)),
           SqlField("award_id", (_.award.id)),
-          SqlField("award_date", (_.date)),
+          SqlField("award_date", (_.emitDate)),
           SqlField("event_id", (_.when map (_.id))),
           SqlField("sequence", (_.index.getOrElse(0))),
           SqlField("comments", (_.comment)),

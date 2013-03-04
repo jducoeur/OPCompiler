@@ -807,9 +807,9 @@ Elspeth FitzHugh == Elspeth Fitzhugh
 Elspeth Keyf of Neddingham == Elspeth of Neddingham
 Elspeth Livingston == Elspeth Livingstone; Elizabeth Livingstone
 #        10/24/1987 A   Award of Arms -- Elspeth y Gweledydd (1 matches, dist: 10)
-#   <-   10/24/1987  C  Award of Arms -- Elspeth ap Myrrdin
-+ Elspeth y Gweledydd == Elspeth ap Myrrdin
-- Elspeth y Gweledydd ==  ! Elspeth ap Myrrdin
+#   <-   10/24/1987   L AOA -- Elspeth ap Myrddin
++ Elspeth y Gweledydd == Elspeth ap Myrddin
+- Elspeth y Gweledydd ==  ! Elspeth ap Myrddin
 Elwisia Mouche de Voujeaucourt == Elwisia Mouche de Voujecourt; Elwisia Mouche de Voujeacourt
 Elwynne Rowenna of Wentworth == Elwynne Rowena of Wentworth
 Elysabeth Underhill == Lissa Underhill
@@ -872,10 +872,10 @@ Faolan MacNeill == Faolin MacNiel
 Faolchadh of Dubh Linn == Faolchadh of Duhb Linn; Faolchad of Duhblinn
 Farasha Joralemon == Farasha Jorlemon
 Fatima Isabella Villalobos == Fatima Villalobos
-#        04/04/1998 AC  Award of Arms -- Faílenn Dubshúlech (1 matches, dist: 10)
-#   <-   04/04/1998   L AOA -- Fai Lenn Dbubh
-+ Faílenn Dubshúlech == Fai Lenn Dubh; Fai'lenn Duhbh; Fai Lenn Dbubh
-- Faílenn Dubshúlech == Fai Lenn Dubh; Fai'lenn Duhbh ! Fai Lenn Dbubh
+#        03/18/2000 A   Bronze Tower (Settmour Swamp) -- Faílenn Dubshúlech (1 matches, dist: 10)
+#   <-   03/18/2000   L Bronze Tower (Settmour Swamp) -- Fai lyn Dubh
++ Faílenn Dubshúlech == Fai Lenn Dubh; Fai'lenn Duhbh; Fai lyn Dubh
+- Faílenn Dubshúlech == Fai Lenn Dubh; Fai'lenn Duhbh ! Fai lyn Dubh
 Fearghus of Buckland Cross == Fearghus of Buckland Crodd; Fearghus of Buchland Cross
 Feena Bothildardottir == Feena Eriksdottir; Feena Iriksdottir
 Feirefiz ag Zygmund == Feirifiz ac Zygmundt; Feirefiz ag Zigmund
@@ -1378,9 +1378,9 @@ Lea Grarvargr == Lea Grarvargar; Lea Gravargr
 Leah Hundemann == Leah Hunndemann
 Leah di Estera == Leah de Estera
 #        12/05/1992 A   Award of Arms -- Leandra Plumieg (1 matches, dist: 11)
-#   <-   12/05/1992   L AOA -- Eva de Barri
-+ Leandra Plumieg == Eva de Barri
-- Leandra Plumieg ==  ! Eva de Barri
+#   <-   12/05/1992   L AOA -- Sean de Lear
++ Leandra Plumieg == Sean de Lear
+- Leandra Plumieg ==  ! Sean de Lear
 Leandra de León == Leandra de Leon
 Leandra du Bois == Leandra de Boisvert
 Leifr rella == Leifr Rella
@@ -1460,9 +1460,9 @@ Maire inghean ui Mheardha == Meara of Havre des Glaces AKA Maera; Meara of Havre
 Maire nic Ardhghail == Maire ni Ardhghail
 Mairghread Ghearr == Mairghread of Carillion
 #        07/15/1995 A   Award of Arms -- Mairghread NicNeachdainn (1 matches, dist: 10)
-#   <-   07/15/1995   L AOA -- Mairghread (“Devon”) NicNeachdainn
-+ Mairghread NicNeachdainn == “Devon”; Mairghread nic Neachdainn; Mairghread (“Devon”) NicNeachdainn
-- Mairghread NicNeachdainn == “Devon”; Mairghread nic Neachdainn ! Mairghread (“Devon”) NicNeachdainn
+#   <-   07/15/1995  C  Award of Arms -- Mairghread “Devon” MacNeachdainn
++ Mairghread NicNeachdainn == “Devon”; Mairghread nic Neachdainn; Mairghread “Devon” MacNeachdainn
+- Mairghread NicNeachdainn == “Devon”; Mairghread nic Neachdainn ! Mairghread “Devon” MacNeachdainn
 Mairgret of Carrigart == Mairgret of Carriagart
 Malachi Olthursson Veasslurd == Malachi Olthursson Veassllurd
 Malagrog Badgeron Veasslurd == Malagrog Badgeron Veassllurd
@@ -1901,10 +1901,10 @@ Saikhan fn == Saikhan Saran; Saikhan
 #   <-   09/22/2012   L AOA -- Sakurai no Kesame called Kei
 + Sakurai no Kesame == Kei; Sakurai no Kesame called Kei
 - Sakurai no Kesame == Kei ! Sakurai no Kesame called Kei
-#        10/03/1981 AC  Master of the Pelican -- Salaamallah the Corpulent (1 matches, dist: 1)
-#   <-   10/03/1981   L Pelican -- Salaamallah the Corpulant
-+ Salaamallah the Corpulent == Salaamallah the Corpulant
-- Salaamallah the Corpulent ==  ! Salaamallah the Corpulant
+#        01/04/1986 A   Baron Beyond the Mountain -- Salaamallah the Corpulent [ret.] (1 matches, dist: 1)
+#   <-   01/04/1986  C  Baron of Beyond the Mountain -- Sallamallah the Corpulent
++ Salaamallah the Corpulent == Sallamallah the Corpulent
+- Salaamallah the Corpulent ==  ! Sallamallah the Corpulent
 Salvatore del Rosposcuro == Salvatore de Rosposcuro
 Samirah al Mansur == Samirah al-Mansour; Sameerah al Manseur; Samirah al Mansour
 Samuel de Bianco == Samuel of Florence
@@ -1947,9 +1947,9 @@ Severio Santangelo == Servio Santangelo
 Seán Ó Súilleabháin Beirre == Sean O'Suilleabhain Beirre
 Shadiyah al-Zahra == Shadiyah al-Zahra'
 #        06/20/1987 A   Award of Arms -- Sheppa Badgeron Veasslurd (1 matches, dist: 10)
-#   <-   06/20/1987  C  Award of Arms -- Sheppa Veasllurd
-+ Sheppa Badgeron Veasslurd == Sheppa Veasllurd
-- Sheppa Badgeron Veasslurd ==  ! Sheppa Veasllurd
+#   <-   06/20/1987   L AOA -- Sheppa Veassllurd
++ Sheppa Badgeron Veasslurd == Sheppa Veassllurd
+- Sheppa Badgeron Veasslurd ==  ! Sheppa Veassllurd
 Shi-lung of Dragon’s Aerie == Shilung (of Dragon’s Aerie)
 Sibilla d'Angers == Tat'iana Negoshka Danilova
 Sibon of the Bridge == Sibon of Bridge
@@ -2214,10 +2214,10 @@ Ysabeth la Fée == Ysabeth La Fee; Ysabeth la Fee
 Ysolde of Summerhall == Ysolde Summerhall
 Yvan Wolvesbane == Yvan Wolfesbane
 Zacharias Flamebeard of Eastmark == Zacharius Flamebeard of Eastmark
-#        06/30/2007 A   Grant of Arms -- Zaneta Angiolieri (1 matches, dist: 11)
-#   <-   06/30/2007  CL Grant of Arms -- Janet Kempe
-+ Zaneta Angiolieri == Gavlinne; Janet Kempe
-- Zaneta Angiolieri == Gavlinne ! Janet Kempe
+#        04/01/2006 A   Burdened Tyger -- Zaneta Angiolieri (1 matches, dist: 11)
+#   <-   04/01/2006  CL Burdened Tyger -- Zanetta Gavlinne Angioliere
++ Zaneta Angiolieri == Gavlinne; Zanetta Gavlinne Angioliere
+- Zaneta Angiolieri == Gavlinne ! Zanetta Gavlinne Angioliere
 Zannas Autumn Amentet Ka == Zanas Autumn Amentet Ka
 Zena al-Raks Beledi == Zanya al Raks Beledi
 Zenobia Blake == Zea; Zenobia (Zea) Blake
