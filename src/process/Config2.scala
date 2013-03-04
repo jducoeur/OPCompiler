@@ -52,7 +52,7 @@ object Config2 {
 	      AwardGroup(AwardLevel.Grants,
 	    		Award("Grant of Arms", "Grand of Arms", "GOA")),
           
-          Award("White Scarf", "Defender of the White Scarf"),
+          Award("White Scarf", image = "white_scarf.gif", synonyms = Seq(AwardName("Defender of the White Scarf"))),
           
           AwardGroup(AwardLevel.Peerage,
 	          Award("Patent of Arms", "Patent"),
@@ -149,27 +149,45 @@ object Config2 {
             
             // Orders of Honor
             Award("Artemis"),
-            Award("Burdened Tyger", "Brudened Tyger", "Budened Tyger", "Burden Tyger"),
-            Award("Gawain", "Gawan"),
+            Award("Burdened Tyger", image = "burdened_tiger.gif", synonyms = Seq(
+                AwardName("Brudened Tyger"), 
+                AwardName("Budened Tyger"), 
+                AwardName("Burden Tyger"))),
+            Award("Gawain", image = "gawain.gif", synonyms = Seq(AwardName("Gawan"))),
             Award("Golden Mantle"),
-            Award("Queen's Order of Courtesy", "Queen's Courtesy", "QOC"),
+            Award("Queen's Order of Courtesy", image = "qoc.gif", synonyms = Seq(
+                AwardName("Queen's Courtesy"), 
+                AwardName("QOC"))),
             Award("King's Order of Excellence", "King's Excellence", "KOE"),
-            Award("Silver Rapier"),
-            Award("Terpsichore", "Trepsichore"),
-            Award("Troubadour", "Troubadours", "Troubadors", "Troubador"),
-            Award("Tygers Cub", "Tyger Cub"),
+            Award("Silver Rapier", image = "silver_rapier.gif"),
+            Award("Terpsichore", image = "terp.gif", synonyms = Seq(AwardName("Trepsichore"))),
+            Award("Troubadour", image = "troub.gif", synonyms = Seq(
+                AwardName("Troubadours"), 
+                AwardName("Troubadors"), 
+                AwardName("Troubador"))),
+            Award("Tygers Cub", image = "tiger_cub.gif", synonyms = Seq(AwardName("Tyger Cub"))),
             
             // Orders of High Merit
             // Figuring out which terms mean the Guardsman and which the OGR is tricky:
-            Award("Golden Rapier", "High Merit for Fence", "Kingdom Fence", "Fence"),
-            Award("Maunche", "Mauche", "Manche", "Manch"),
-            Award("Sagittarius", "Sagitarius"),
+            Award("Golden Rapier", image = "ogr.gif", synonyms = Seq(
+                AwardName("High Merit for Fence"), 
+                AwardName("Kingdom Fence"), 
+                AwardName("Fence"))),
+            Award("Maunche", image = "maunche.gif", synonyms = Seq(
+                AwardName("Mauche"), 
+                AwardName("Manche"), 
+                AwardName("Manch"))),
+            Award("Sagittarius", image = "sagitarius.gif", synonyms = Seq(AwardName("Sagitarius"))),
             // What? What's the Golden Dragon, I hear you say. From the Chron files of Akbar III:
             // "(This order has absorbed the previous Order of the Golden Dragon, and members of the O.G.D. 
             // were therefore awarded the O.S.C.  These included El of the Two Knives, Seneschal, and 
             // Aravis Del Clare, Foreign Minister.)"  Pikestaff, Vol 2, No. 1, 10 March 1973 
-            Award("Silver Crescent", "Sliver Crescent", "Golden Dragon"),
-            Award("Tygers Combattant", "Tygers Combatant", "Tyger Combatant"),
+            Award("Silver Crescent", image = "silver_crescent.gif", synonyms = Seq(
+                AwardName("Sliver Crescent"), 
+                AwardName("Golden Dragon"))),
+            Award("Tygers Combattant", image = "otc.gif", synonyms = Seq(
+                AwardName("Tygers Combatant"), 
+                AwardName("Tyger Combatant"))),
             
             // Royalty -- not awards, but frequently recorded in the OP
             Award("Queen of the East Kingdom", gender = Female),

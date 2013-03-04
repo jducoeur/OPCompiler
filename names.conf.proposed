@@ -7,9 +7,9 @@ Abu Mohammed Hassan == Ivan Boychenko; Jean Honnête le Bouquiniste
 Aceline Barrett of Seven Oaks == Aceline Barratt of Seven Oaks
 Achilles son Asia == Achilles (von Drachenklaue); Hanse von Drachenklaue
 #        ??/??/1984 A L Award of Arms -- Adela de Warren (1 matches, dist: 11)
-#   <-   01/21/1984  C  Award of Arms -- Rhea na Beantann
-+ Adela de Warren == Rhea na Beantann
-- Adela de Warren ==  ! Rhea na Beantann
+#   <-   03/17/1984  C  Award of Arms -- Tengu Date
++ Adela de Warren == Tengu Date
+- Adela de Warren ==  ! Tengu Date
 Adelaide the Grey == Adelaide the Gray
 Adele Krin == Adele Krynn
 Adhemar de Villarquamada == Morgan de Villarquamada; Adhemar (formerly Morgan) de Villarquamada; Adhemar de Villarquemada
@@ -714,9 +714,9 @@ Dunstin le Noie == Dunstin Le Noie; Dustin le Noie
 - Durko Vadas ==  ! Aoefe
 Dwynwen of Padstowe == Danabren Madadh-Mara; Danabren
 #        04/16/1988 A   Queen's Courtesy -- Dyan O'Choda (1 matches, dist: 10)
-#   <-   04/16/1988  C  Queen's Courtesy -- Dyan of Clann O’Choda
-+ Dyan O'Choda == Dyan of Clann O’Choda
-- Dyan O'Choda ==  ! Dyan of Clann O’Choda
+#   <-   04/16/1988  C  Queen's Courtesy -- Justin Meteora
++ Dyan O'Choda == Justin Meteora
+- Dyan O'Choda ==  ! Justin Meteora
 Dylan ap Maelgwn == Dylan ap Maelgwyn
 Dzguinte of Dragonship Haven == Dzuginte of Dragonship Haven
 Eadric Wiglafes sunu == Eadric Wiglafson
@@ -749,9 +749,9 @@ Eiríkr Lambason == Eric Lambsson; Eirikr Lambson
 Ekaterina de Chat == Ekaterina du Chat
 Elaine Courtenay == Elayne Courtney; Elayne Courtenay
 #        03/08/1997 A   Award of Arms -- Elazar ben Shmuel (1 matches, dist: 10)
-#   <-   03/08/1997  C  Award of Arms -- Eleazar the Zealot
-+ Elazar ben Shmuel == Eleazar the Zealot
-- Elazar ben Shmuel ==  ! Eleazar the Zealot
+#   <-   03/08/1997   L AOA -- Elazar ben Shemuel ha Kanay
++ Elazar ben Shmuel == Elazar ben Shemuel ha Kanay
+- Elazar ben Shmuel ==  ! Elazar ben Shemuel ha Kanay
 Eldrich Gaiman == Eldritch of Sylvan Glen; Eldritch Gaiman
 Eleanor Callaghan == Elanor Callaghan
 #        02/03/1996 A   Award of Arms -- Eleanor Catlyn (1 matches, dist: 11)
@@ -1929,10 +1929,10 @@ Sebastiano Manetti == Sebastian Manetti
 Sebastiano da Pachino == Sebastiano da Pacino
 Sebastien de la Main Gauche == Sebastian de la Main Gauche
 Seoras Dubh mac Gordon == Seoras Dubh Mac Gordon; Seoras Dubh MacGordon
-#        09/27/2008 A   Knight -- Seosamh Tadhg an Crúca O'Maille (1 matches, dist: 10)
-#   <-   09/27/2008  C  Knight -- Seosamh mac Donald an Cruca O'Maille
-+ Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille; Seosamh mac Donald an Cruca O'Maille
-- Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille ! Seosamh mac Donald an Cruca O'Maille
+#        04/03/1999 A   Daystar (Carolingia) -- Seosamh Tadhg an Crúca O'Maille (1 matches, dist: 10)
+#   <-   04/03/1999   L Daystar (Carolingia) -- Seosamh MacDonald an Cruca O Maille
++ Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille; Seosamh MacDonald an Cruca O Maille
+- Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille ! Seosamh MacDonald an Cruca O Maille
 Seosamh Ó Chóda == Seosamh O’Choda; Seosainh O’Choda; Seosamh O Choda; Seosamh O'Choda
 Sepharah Dryden == Sepharah Sryden
 Serafime Madnikova == Serafime Mednikova
@@ -2214,10 +2214,10 @@ Ysabeth la Fée == Ysabeth La Fee; Ysabeth la Fee
 Ysolde of Summerhall == Ysolde Summerhall
 Yvan Wolvesbane == Yvan Wolfesbane
 Zacharias Flamebeard of Eastmark == Zacharius Flamebeard of Eastmark
-#        04/01/2006 A   Burdened Tyger -- Zaneta Angiolieri (1 matches, dist: 11)
-#   <-   04/01/2006  CL Burdened Tyger -- Zanetta Gavlinne Angioliere
-+ Zaneta Angiolieri == Gavlinne; Zanetta Gavlinne Angioliere
-- Zaneta Angiolieri == Gavlinne ! Zanetta Gavlinne Angioliere
+#        06/30/2007 A   Grant of Arms -- Zaneta Angiolieri (1 matches, dist: 11)
+#   <-   06/30/2007  CL Grant of Arms -- Janet Kempe
++ Zaneta Angiolieri == Gavlinne; Janet Kempe
+- Zaneta Angiolieri == Gavlinne ! Janet Kempe
 Zannas Autumn Amentet Ka == Zanas Autumn Amentet Ka
 Zena al-Raks Beledi == Zanya al Raks Beledi
 Zenobia Blake == Zea; Zenobia (Zea) Blake
