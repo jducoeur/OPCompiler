@@ -38,6 +38,13 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
     }
   }
   
+  def emitWhere = {
+    where match {
+      case Some(b) => b.emitId
+      case None => Kingdom.East.emitId
+    }
+  }
+  
   // Note that two recognitions are considered equivalent if they were given to the same
   // *person*, but possibly recorded under different names in different places
   def matches(other:Recognition):Boolean = {

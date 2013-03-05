@@ -807,9 +807,9 @@ Elspeth FitzHugh == Elspeth Fitzhugh
 Elspeth Keyf of Neddingham == Elspeth of Neddingham
 Elspeth Livingston == Elspeth Livingstone; Elizabeth Livingstone
 #        10/24/1987 A   Award of Arms -- Elspeth y Gweledydd (1 matches, dist: 10)
-#   <-   10/24/1987   L AOA -- Elspeth ap Myrddin
-+ Elspeth y Gweledydd == Elspeth ap Myrddin
-- Elspeth y Gweledydd ==  ! Elspeth ap Myrddin
+#   <-   10/24/1987  C  Award of Arms -- Elspeth ap Myrrdin
++ Elspeth y Gweledydd == Elspeth ap Myrrdin
+- Elspeth y Gweledydd ==  ! Elspeth ap Myrrdin
 Elwisia Mouche de Voujeaucourt == Elwisia Mouche de Voujecourt; Elwisia Mouche de Voujeacourt
 Elwynne Rowenna of Wentworth == Elwynne Rowena of Wentworth
 Elysabeth Underhill == Lissa Underhill
@@ -1348,9 +1348,9 @@ Kolosvári Arpádne Julia == Kolosvari Arpadne Julia; Julia Palotay Szent Gyorgy
 Kolozsvári Árpád == Arpad of Riddlemark; Kolozsvart Arpad; Kolozvart Arpad
 Konner MacPherson == Konner MacPhearson
 #        01/29/1994 A   Award of Arms -- Konrad von Ulm (1 matches, dist: 11)
-#   <-   01/29/1994  C  Award of Arms -- Icabod the Tall
-+ Konrad von Ulm == Konrad der Lowe von Ulm; Icabod the Tall
-- Konrad von Ulm == Konrad der Lowe von Ulm ! Icabod the Tall
+#   <-   01/29/1994   L AOA -- Sophia Poleski
++ Konrad von Ulm == Konrad der Lowe von Ulm; Sophia Poleski
+- Konrad von Ulm == Konrad der Lowe von Ulm ! Sophia Poleski
 Korgan the Young == the Baker
 Krakken Gnashbone == Kraken Gnashbone; Krakken Gnoshbone
 Kresenz von Württemberg == Zenzi
@@ -1460,9 +1460,9 @@ Maire inghean ui Mheardha == Meara of Havre des Glaces AKA Maera; Meara of Havre
 Maire nic Ardhghail == Maire ni Ardhghail
 Mairghread Ghearr == Mairghread of Carillion
 #        07/15/1995 A   Award of Arms -- Mairghread NicNeachdainn (1 matches, dist: 10)
-#   <-   07/15/1995  C  Award of Arms -- Mairghread “Devon” MacNeachdainn
-+ Mairghread NicNeachdainn == “Devon”; Mairghread nic Neachdainn; Mairghread “Devon” MacNeachdainn
-- Mairghread NicNeachdainn == “Devon”; Mairghread nic Neachdainn ! Mairghread “Devon” MacNeachdainn
+#   <-   07/15/1995   L AOA -- Mairghread (“Devon”) NicNeachdainn
++ Mairghread NicNeachdainn == “Devon”; Mairghread nic Neachdainn; Mairghread (“Devon”) NicNeachdainn
+- Mairghread NicNeachdainn == “Devon”; Mairghread nic Neachdainn ! Mairghread (“Devon”) NicNeachdainn
 Mairgret of Carrigart == Mairgret of Carriagart
 Malachi Olthursson Veasslurd == Malachi Olthursson Veassllurd
 Malagrog Badgeron Veasslurd == Malagrog Badgeron Veassllurd
@@ -1901,10 +1901,10 @@ Saikhan fn == Saikhan Saran; Saikhan
 #   <-   09/22/2012   L AOA -- Sakurai no Kesame called Kei
 + Sakurai no Kesame == Kei; Sakurai no Kesame called Kei
 - Sakurai no Kesame == Kei ! Sakurai no Kesame called Kei
-#        01/04/1986 A   Baron Beyond the Mountain -- Salaamallah the Corpulent [ret.] (1 matches, dist: 1)
-#   <-   01/04/1986  C  Baron of Beyond the Mountain -- Sallamallah the Corpulent
-+ Salaamallah the Corpulent == Sallamallah the Corpulent
-- Salaamallah the Corpulent ==  ! Sallamallah the Corpulent
+#        10/03/1981 AC  Master of the Pelican -- Salaamallah the Corpulent (1 matches, dist: 1)
+#   <-   10/03/1981   L Pelican -- Salaamallah the Corpulant
++ Salaamallah the Corpulent == Salaamallah the Corpulant
+- Salaamallah the Corpulent ==  ! Salaamallah the Corpulant
 Salvatore del Rosposcuro == Salvatore de Rosposcuro
 Samirah al Mansur == Samirah al-Mansour; Sameerah al Manseur; Samirah al Mansour
 Samuel de Bianco == Samuel of Florence
@@ -1929,10 +1929,10 @@ Sebastiano Manetti == Sebastian Manetti
 Sebastiano da Pachino == Sebastiano da Pacino
 Sebastien de la Main Gauche == Sebastian de la Main Gauche
 Seoras Dubh mac Gordon == Seoras Dubh Mac Gordon; Seoras Dubh MacGordon
-#        04/03/1999 A   Daystar (Carolingia) -- Seosamh Tadhg an Crúca O'Maille (1 matches, dist: 10)
-#   <-   04/03/1999   L Daystar (Carolingia) -- Seosamh MacDonald an Cruca O Maille
-+ Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille; Seosamh MacDonald an Cruca O Maille
-- Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille ! Seosamh MacDonald an Cruca O Maille
+#        09/27/2008 A   Knight -- Seosamh Tadhg an Crúca O'Maille (1 matches, dist: 10)
+#   <-   09/27/2008  C  Knight -- Seosamh mac Donald an Cruca O'Maille
++ Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille; Seosamh mac Donald an Cruca O'Maille
+- Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille ! Seosamh mac Donald an Cruca O'Maille
 Seosamh Ó Chóda == Seosamh O’Choda; Seosainh O’Choda; Seosamh O Choda; Seosamh O'Choda
 Sepharah Dryden == Sepharah Sryden
 Serafime Madnikova == Serafime Mednikova
@@ -1947,9 +1947,9 @@ Severio Santangelo == Servio Santangelo
 Seán Ó Súilleabháin Beirre == Sean O'Suilleabhain Beirre
 Shadiyah al-Zahra == Shadiyah al-Zahra'
 #        06/20/1987 A   Award of Arms -- Sheppa Badgeron Veasslurd (1 matches, dist: 10)
-#   <-   06/20/1987   L AOA -- Sheppa Veassllurd
-+ Sheppa Badgeron Veasslurd == Sheppa Veassllurd
-- Sheppa Badgeron Veasslurd ==  ! Sheppa Veassllurd
+#   <-   06/20/1987  C  Award of Arms -- Sheppa Veasllurd
++ Sheppa Badgeron Veasslurd == Sheppa Veasllurd
+- Sheppa Badgeron Veasslurd ==  ! Sheppa Veasllurd
 Shi-lung of Dragon’s Aerie == Shilung (of Dragon’s Aerie)
 Sibilla d'Angers == Tat'iana Negoshka Danilova
 Sibon of the Bridge == Sibon of Bridge
@@ -2214,10 +2214,10 @@ Ysabeth la Fée == Ysabeth La Fee; Ysabeth la Fee
 Ysolde of Summerhall == Ysolde Summerhall
 Yvan Wolvesbane == Yvan Wolfesbane
 Zacharias Flamebeard of Eastmark == Zacharius Flamebeard of Eastmark
-#        04/01/2006 A   Burdened Tyger -- Zaneta Angiolieri (1 matches, dist: 11)
-#   <-   04/01/2006  CL Burdened Tyger -- Zanetta Gavlinne Angioliere
-+ Zaneta Angiolieri == Gavlinne; Zanetta Gavlinne Angioliere
-- Zaneta Angiolieri == Gavlinne ! Zanetta Gavlinne Angioliere
+#        06/30/2007 A   Grant of Arms -- Zaneta Angiolieri (1 matches, dist: 11)
+#   <-   06/30/2007  CL Grant of Arms -- Janet Kempe
++ Zaneta Angiolieri == Gavlinne; Janet Kempe
+- Zaneta Angiolieri == Gavlinne ! Janet Kempe
 Zannas Autumn Amentet Ka == Zanas Autumn Amentet Ka
 Zena al-Raks Beledi == Zanya al Raks Beledi
 Zenobia Blake == Zea; Zenobia (Zea) Blake
