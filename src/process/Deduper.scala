@@ -44,8 +44,11 @@ object Deduper {
     
     lazy val bestMatch:Seq[CandidatePair] = {
       val groups = candidates.groupBy(_.candidate.recipient)
+      val byMostMatched = (Ordering.by { info:(Int, Int, Seq[CandidatePair]) => info._1 }).reverse
+      val byDist = Ordering.by { info:(Int, Int, Seq[CandidatePair]) => info._2 }
+      val byAll = Ordering.by{ info:(Int, Int, Seq[CandidatePair]) => (info, info) }(Ordering.Tuple2(byMostMatched, byDist))
       val withSizes = groups.values.map( pairs => (pairs.length, pairs(0).dist, pairs) ).toArray
-      quickSort(withSizes)(Ordering.by { info => (info._1, info._2) })
+      quickSort(withSizes)(byAll)
       withSizes(0)._3
     }
     
@@ -128,9 +131,17 @@ object Deduper {
   
   def checkCandidateMatches(head:Recognition, candidatesIn:List[Recognition]):Seq[CandidatePair] = {
     val candidates = candidatesIn.filterNot(excluded(head, _))
+    
+    //Log.print("\nChecking against " + head.toString + "; candidates:")
+    //candidates.foreach(rec => Log.print("    " + rec.toString))
+    
     // If the head is from somewhere else, we don't expect to find a match:
-    checkCandidateType(head, candidates, (_.inAlpha), (_.inCourt), (_.inList), (_.where.isEmpty)) ++
-    checkCandidateType(head, candidates, (_.inAlpha), (_.inList), (_.inCourt))
+    val result = checkCandidateType(head, candidates, (_.inAlpha), (_.inCourt), (_.inList), (_.where.isEmpty)) ++
+    	checkCandidateType(head, candidates, (_.inAlpha), (_.inList), (_.inCourt))
+    	
+    //Log.print("  Filtered:")
+    //result.foreach(pair => Log.print("    " + pair.candidate.toString + " (dist: " + pair.dist + ")"))
+    result
   }
   
   def dedupe = {
@@ -188,8 +199,12 @@ object Deduper {
       val falseStrs = best(0).target.recipient.person.falsePositives map { notName =>
         "#           NOT " + notName
       }
+      //val allStrs = merge.candidates map { candidate =>
+      //  "#         ? " + candidate.candidate.toString
+      //}
       Log.print("#      " + best(0).target.toString + 
           " (person: " + best(0).target.recipient.person.hashCode() + "; " + merge.num + " matches, dist: " + merge.dist + ")\n" +
+          //allStrs.mkString("\n") + newlineIf(allStrs) +
           targetPersonaStrs.mkString("\n") + newlineIf(targetPersonaStrs) +
           falseStrs.mkString("\n") + newlineIf(falseStrs) +
           matchStrs.mkString("\n")
