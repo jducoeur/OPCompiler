@@ -176,7 +176,7 @@ object Deduper {
 //      best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
       
       def isStrong = {
-        merge.num > 1 || merge.dist < 14
+        merge.num > 1 || merge.dist < 16
       }
       
       val person = merge.target.person
