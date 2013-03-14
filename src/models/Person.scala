@@ -125,6 +125,7 @@ class Person(mainPersonaName:String) extends Gendered {
   val id = Person.nextId()
   
   def hasAlternates = personae.size > 1
+  def hasFalsePositives = !falsePositives.isEmpty
   
   // Note that this is subject to change, especially if we wind up merging:
   val mainPersona:Persona = new Persona(mainPersonaName, this)

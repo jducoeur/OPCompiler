@@ -30,7 +30,13 @@ object Deduper {
   }
   
   case class CandidatePair(target:Recognition, candidate:Recognition) {
-    val dist = editDist(target.recipient.scaName, candidate.recipient.scaName)
+    val dist = {
+      // Find the closest distance between *any* of the target's names and the candidate:
+      (1000 /: target.recipient.person.personae) { (best, persona) =>
+        math.min(best, editDist(persona.scaName, candidate.recipient.scaName))
+      }
+      //editDist(target.recipient.scaName, candidate.recipient.scaName)
+    }
   }
   implicit val DistOrdering = Ordering.by { pair:CandidatePair =>
     (pair.dist, pair.candidate.recipient.scaName)
@@ -176,7 +182,7 @@ object Deduper {
 //      best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
       
       def isStrong = {
-        merge.num > 1 || merge.dist < 16
+        merge.num > 1 || merge.dist < 18
       }
       
       val person = merge.target.person
@@ -277,7 +283,7 @@ object Deduper {
             )
         println("+ " + formatPerson(person, true))
         println("- " + formatPerson(person, false))
-      } else if (person.hasAlternates) {
+      } else if (person.hasAlternates || person.hasFalsePositives) {
         println(formatPerson(person, false))
       }
     }
