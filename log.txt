@@ -8069,27 +8069,25 @@ Alphabetical {
   }
   Magnus Morte {
   }
-  Marcus Atheniou {
+  Magnus of Bergental {
   }
-  Marcus of Bergental {
+  Magnus Blödax {
   }
-  Marcus Blödax {
+  Magnus fra Iorvik {
   }
-  Marcus fra Iorvik {
+  Magnus hvalmagi {
   }
-  Marcus hvalmagi {
+  Magnus of House Bedford {
   }
-  Marcus of House Bedford {
+  Magnus Lucius Casius {
   }
-  Marcus Lucius Casius {
+  Magnus the Oarman {
   }
-  Marcus the Oarman {
+  Magnus Sigurdsson {
   }
-  Marcus Sigurdsson {
+  Magnus Sverre Haakonson de Londres {
   }
-  Marcus Sverre Haakonson de Londres {
-  }
-  Marcus Wolfhunte {
+  Magnus Wolfhunte {
   }
   Marek Casimir of Kracow {
   }
@@ -45204,135 +45202,135 @@ Deduplicating {
     Of those, 9188 are incomplete
   Best Candidates:
   Sorting 113 merge candidates
-  #        04/05/1997 AC  Queen's Courtesy -- Alaric Wolfgang von Melinthin und Drachenklaue (person: 19309730; 1 matches, dist: 1)
-  #           Alaric von Drachenklaue: 28894583
-  #           Alarick Wolfgang von Milthan: 31520479
+  #        04/05/1997 AC  Queen's Courtesy -- Alaric Wolfgang von Melinthin und Drachenklaue (person: 31520479; 1 matches, dist: 1)
+  #           Alaric von Drachenklaue: 9811994
+  #           Alarick Wolfgang von Milthan: 23719618
   #           Alaric Wolfgang von Melinthin und Drachenklaue: 3500100
-  #   <-   04/05/1997   L QOC -- Alaric Wolfgang von Menlinthin und Drachenklaue (person: 23719618, persona: 15949207)
+  #   <-   04/05/1997   L QOC -- Alaric Wolfgang von Menlinthin und Drachenklaue (person: 16890319, persona: 15949207)
   Alaric von Drachenklaue == Alarick Wolfgang von Milthan; Alaric Wolfgang von Melinthin und Drachenklaue; Alaric Wolfgang von Menlinthin und Drachenklaue
-  #        07/15/1989 AC  Award of Arms -- Dresden Pennello de Quadro Voce (person: 27663966; 1 matches, dist: 1)
-  #           Giovanna del Penna: 10331154
-  #           Desideria del Penna: 25088371
-  #           Dresden Pennello di Quadro Voce: 15271686
-  #           Dresden: 13386332
+  #        07/15/1989 AC  Award of Arms -- Dresden Pennello de Quadro Voce (person: 10331154; 1 matches, dist: 1)
+  #           Giovanna del Penna: 10939829
+  #           Desideria del Penna: 20988917
+  #           Dresden Pennello di Quadro Voce: 2987455
+  #           Dresden: 12742218
   #           Dresden Pennello de Quadro Voce: 17359949
-  #           Dresden Penello de Quadro Voce: 1626760
+  #           Dresden Penello de Quadro Voce: 14075627
   #           NOT Morgana Kyncayd
-  #   <-   07/15/1989   L AOA -- Dresden Pennello de Quardro Voce (person: 14075627, persona: 2602292)
+  #   <-   07/15/1989   L AOA -- Dresden Pennello de Quardro Voce (person: 20372485, persona: 2602292)
   Giovanna del Penna == Desideria del Penna; Dresden Pennello di Quadro Voce; Dresden; Dresden Pennello de Quadro Voce; Dresden Penello de Quadro Voce; Dresden Pennello de Quardro Voce ! Morgana Kyncayd
-  #        02/17/1990 AC  Award of Arms -- Meriadoc Annoeth (person: 17019034; 1 matches, dist: 1)
-  #           Meriadoc Annoeth of the Towers Fells: 24806975
+  #        02/17/1990 AC  Award of Arms -- Meriadoc Annoeth (person: 13386332; 1 matches, dist: 1)
+  #           Meriadoc Annoeth of the Towers Fells: 15271686
   #           Meriadoc Annoeth: 10865932
-  #   <-   02/17/1990   L AOA -- Meriadoc Andoeth (person: 18075390, persona: 15033815)
+  #   <-   02/17/1990   L AOA -- Meriadoc Andoeth (person: 25088371, persona: 15033815)
   Meriadoc Annoeth of the Towers Fells == Meriadoc Annoeth; Meriadoc Andoeth
-  #        07/17/2004 AC  Tygers Combattant -- Paul Andre Jacques (person: 9077757; 1 matches, dist: 1)
+  #        07/17/2004 AC  Tygers Combattant -- Paul Andre Jacques (person: 17019034; 1 matches, dist: 1)
   #           Paul André Jacques: 5888527
-  #           Pellandres dit le Frère: 17325460
+  #           Pellandres dit le Frère: 27663966
   #           Paul Andre Jacques: 11415568
-  #           Pellandres dit le Frere: 3645459
-  #           Pellandres dit le frere: 32401020
+  #           Pellandres dit le Frere: 18075390
+  #           Pellandres dit le frere: 24806975
   #           Paul Andre Jacques, called Pellandres: 571715
-  #   <-   07/17/2004   L Tygers Combattant -- Paul André Jacques, called Pellandres (person: 20939858, persona: 31297396)
+  #   <-   07/17/2004   L Tygers Combattant -- Paul André Jacques, called Pellandres (person: 1626760, persona: 31297396)
   Paul André Jacques == Pellandres dit le Frère; Paul Andre Jacques; Pellandres dit le Frere; Pellandres dit le frere; Paul Andre Jacques, called Pellandres; Paul André Jacques, called Pellandres
-  #        02/20/2010 AC  Golden Lyre -- Sol la Cantor (person: 9322206; 1 matches, dist: 1)
-  #           Esmeralda la Sabia: 17115533
+  #        02/20/2010 AC  Golden Lyre -- Sol la Cantor (person: 31427228; 1 matches, dist: 1)
+  #           Esmeralda la Sabia: 17325460
   #           Sol la Cantor: 8700607
-  #           Esmerelda de Sabia: 32179776
-  #           Dona Sol de la Cantor: 15170749
-  #           Esmeralda la Sabia called Sol la Cantor: 28214467
-  #   <-   02/20/2010   L Golden Lyre -- Esmeralda la Sabia, called Sol la Cantor (person: 31427228, persona: 32246685)
+  #           Esmerelda de Sabia: 3645459
+  #           Dona Sol de la Cantor: 32401020
+  #           Esmeralda la Sabia called Sol la Cantor: 9077757
+  #   <-   02/20/2010   L Golden Lyre -- Esmeralda la Sabia, called Sol la Cantor (person: 20939858, persona: 32246685)
   Esmeralda la Sabia == Sol la Cantor; Esmerelda de Sabia; Dona Sol de la Cantor; Esmeralda la Sabia called Sol la Cantor; Esmeralda la Sabia, called Sol la Cantor
-  #        02/23/1991 AC  Award of Arms -- Tatiana Maria Consuello di Bivar (person: 32445179; 1 matches, dist: 1)
+  #        02/23/1991 AC  Award of Arms -- Tatiana Maria Consuello di Bivar (person: 15170749; 1 matches, dist: 1)
   #           Tatiana Maria Consuello Esperanza Figueron di Vivar: 30768185
-  #           Tatiana Maria Consuelo Esperanza Figueron de Vivar: 27578973
+  #           Tatiana Maria Consuelo Esperanza Figueron de Vivar: 32179776
   #           Tatiana Maria Consuello di Bivar: 1600210
-  #   <-   02/23/1991   L AOA -- Tatiana Maria Consuello di Bivan (person: 12685124, persona: 3684282)
+  #   <-   02/23/1991   L AOA -- Tatiana Maria Consuello di Bivan (person: 17115533, persona: 3684282)
   Tatiana Maria Consuello Esperanza Figueron di Vivar == Tatiana Maria Consuelo Esperanza Figueron de Vivar; Tatiana Maria Consuello di Bivar; Tatiana Maria Consuello di Bivan
-  #        12/13/1997 A   Award of Arms -- Alisay de Falaise (person: 23579151; 1 matches, dist: 2)
+  #        12/13/1997 A   Award of Arms -- Alisay de Falaise (person: 32445179; 1 matches, dist: 2)
   #           Alisay de Falaise: 16716759
-  #           Alienor LeGier, dite des Trois Maisons: 32070761
-  #           Alienor de Falaise: 28450979
+  #           Alienor LeGier, dite des Trois Maisons: 9322206
+  #           Alienor de Falaise: 12685124
   #           Alienor LeGier dites des Trois Maisons: 31509433
-  #           Alienor leGier dites des Trois Maisons: 24955103
-  #   <-   12/13/1997  CL Award of Arms -- Alienor LeGier dit des Trois Maisons (person: 13058728, persona: 30677207)
+  #           Alienor leGier dites des Trois Maisons: 27578973
+  #   <-   12/13/1997  CL Award of Arms -- Alienor LeGier dit des Trois Maisons (person: 28214467, persona: 30677207)
   Alisay de Falaise == Alienor LeGier, dite des Trois Maisons; Alienor de Falaise; Alienor LeGier dites des Trois Maisons; Alienor leGier dites des Trois Maisons; Alienor LeGier dit des Trois Maisons
-  #        10/30/2004 AC  Mistress of the Pelican -- Eifeilian Gathfach ferch Owain ap Bleddyn (person: 13576596; 1 matches, dist: 2)
+  #        10/30/2004 AC  Mistress of the Pelican -- Eifeilian Gathfach ferch Owain ap Bleddyn (person: 10528900; 1 matches, dist: 2)
   #           Efa Gath fach: 26234107
-  #           Parsley: 10528900
-  #           Diddanwy Gathfac: 26711112
-  #           Dyddanwy Gathfach: 8922268
-  #           Efeilian Gathfach ferch Owain ap Bleddyn: 1810929
+  #           Parsley: 32070761
+  #           Diddanwy Gathfac: 28450979
+  #           Dyddanwy Gathfach: 24955103
+  #           Efeilian Gathfach ferch Owain ap Bleddyn: 23579151
   #           Eifeilian Gathfach ferch Owain ap Bleddyn: 826883
-  #           Efelilian Gathfach ferch Owain ap Bleddyn: 2416519
-  #   <-   10/30/2004   L Pelican -- Eifeilian Gathfach ferch Owain ap Belddyn (person: 16962514, persona: 19166103)
+  #           Efelilian Gathfach ferch Owain ap Bleddyn: 16962514
+  #   <-   10/30/2004   L Pelican -- Eifeilian Gathfach ferch Owain ap Belddyn (person: 13058728, persona: 19166103)
   Efa Gath fach == Parsley; Diddanwy Gathfac; Dyddanwy Gathfach; Efeilian Gathfach ferch Owain ap Bleddyn; Eifeilian Gathfach ferch Owain ap Bleddyn; Efelilian Gathfach ferch Owain ap Bleddyn; Eifeilian Gathfach ferch Owain ap Belddyn
-  #        07/21/2001 AC  Mistress of the Laurel -- Alienor LeGier dites des Trois Maisons (person: 23579151; 1 matches, dist: 3)
+  #        07/21/2001 AC  Mistress of the Laurel -- Alienor LeGier dites des Trois Maisons (person: 32445179; 1 matches, dist: 3)
   #           Alisay de Falaise: 16716759
-  #           Alienor LeGier, dite des Trois Maisons: 32070761
-  #           Alienor de Falaise: 28450979
+  #           Alienor LeGier, dite des Trois Maisons: 9322206
+  #           Alienor de Falaise: 12685124
   #           Alienor LeGier dites des Trois Maisons: 31509433
-  #           Alienor leGier dites des Trois Maisons: 24955103
-  #   <-   07/21/2001   L Laurel -- Alienor le Gier dit des Trois Maisons (person: 11715942, persona: 2170432)
+  #           Alienor leGier dites des Trois Maisons: 27578973
+  #   <-   07/21/2001   L Laurel -- Alienor le Gier dit des Trois Maisons (person: 26711112, persona: 2170432)
   Alisay de Falaise == Alienor LeGier, dite des Trois Maisons; Alienor de Falaise; Alienor LeGier dites des Trois Maisons; Alienor leGier dites des Trois Maisons; Alienor LeGier dit des Trois Maisons
-  #        02/27/1993 AC  Award of Arms -- Fiammetta Adalieti de Demano Leo (person: 25877854; 1 matches, dist: 4)
-  #           Fiametta di Antonio di Donato Adimari: 10682578
+  #        02/27/1993 AC  Award of Arms -- Fiammetta Adalieti de Demano Leo (person: 2416519; 1 matches, dist: 4)
+  #           Fiametta di Antonio di Donato Adimari: 1810929
   #           Fiammetta Adalieti de Demano Leo: 6943517
-  #   <-   02/27/1993   L AOA -- Fiammetta Adalieta di Damiano Leo (person: 12440551, persona: 14228576)
+  #   <-   02/27/1993   L AOA -- Fiammetta Adalieta di Damiano Leo (person: 8922268, persona: 14228576)
   Fiametta di Antonio di Donato Adimari == Fiammetta Adalieti de Demano Leo; Fiammetta Adalieta di Damiano Leo
-  #        01/02/1993 A   Knight -- Darius Aurelius [resigned] (person: 21295199; 1 matches, dist: 8)
+  #        01/02/1993 A   Knight -- Darius Aurelius [resigned] (person: 31982318; 1 matches, dist: 8)
   #           Darius Aurelius: 8371552
-  #           Serpentius: 5747181
-  #           Gunther de Milo: 23225795
-  #           the Disciple: 17231391
-  #           Pathwarden: 33251278
-  #           Darius Orientalis: 5178564
-  #           Darius Aurelius Serpentius: 29491941
-  #           Johan Kronenwache: 4987052
-  #           : 31982318
-  #           Johan Kronenwacke: 18375819
-  #           Gunther Pathwarden: 7408190
-  #           Gunther de Milo; the Disciple; Pathwarden: 22516384
-  #           the Disciple;: 5990634
+  #           Serpentius: 11715942
+  #           Gunther de Milo: 12440551
+  #           the Disciple: 10682578
+  #           Pathwarden: 25877854
+  #           Darius Orientalis: 30112884
+  #           Darius Aurelius Serpentius: 5747181
+  #           Johan Kronenwache: 23225795
+  #           : 17231391
+  #           Johan Kronenwacke: 33251278
+  #           Gunther Pathwarden: 5178564
+  #           Gunther de Milo; the Disciple; Pathwarden: 29491941
+  #           the Disciple;: 4987052
   #           NOT Marian O'Néill
   #           NOT Dan Hornblower
   #           NOT Veleda of Dalriata
-  #   <-   01/02/1993  C  Knight -- Gunther Kronnewache (person: 30112884, persona: 30388561)
+  #   <-   01/02/1993  C  Knight -- Gunther Kronnewache (person: 13576596, persona: 30388561)
   Darius Aurelius == Serpentius; Gunther de Milo; the Disciple; Pathwarden; Darius Orientalis; Darius Aurelius Serpentius; Johan Kronenwache; ; Johan Kronenwacke; Gunther Pathwarden; Gunther de Milo; the Disciple; Pathwarden; the Disciple;; Gunther Kronnewache ! Marian O'Néill; Dan Hornblower; Veleda of Dalriata
-  #        04/03/2004 A   Queen's Cypher -- Efa Gath fach [Luna IV] (person: 13576596; 1 matches, dist: 9)
+  #        04/03/2004 A   Queen's Cypher -- Efa Gath fach [Luna IV] (person: 10528900; 1 matches, dist: 9)
   #           Efa Gath fach: 26234107
-  #           Parsley: 10528900
-  #           Diddanwy Gathfac: 26711112
-  #           Dyddanwy Gathfach: 8922268
-  #           Efeilian Gathfach ferch Owain ap Bleddyn: 1810929
+  #           Parsley: 32070761
+  #           Diddanwy Gathfac: 28450979
+  #           Dyddanwy Gathfach: 24955103
+  #           Efeilian Gathfach ferch Owain ap Bleddyn: 23579151
   #           Eifeilian Gathfach ferch Owain ap Bleddyn: 826883
-  #           Efelilian Gathfach ferch Owain ap Bleddyn: 2416519
-  #   <-   04/03/2004  C  Queen's Cypher -- Efeilian ferch Owain ap Bleddyn (person: 16849339, persona: 19373442)
+  #           Efelilian Gathfach ferch Owain ap Bleddyn: 16962514
+  #   <-   04/03/2004  C  Queen's Cypher -- Efeilian ferch Owain ap Bleddyn (person: 18375819, persona: 19373442)
   Efa Gath fach == Parsley; Diddanwy Gathfac; Dyddanwy Gathfach; Efeilian Gathfach ferch Owain ap Bleddyn; Eifeilian Gathfach ferch Owain ap Bleddyn; Efelilian Gathfach ferch Owain ap Bleddyn; Eifeilian Gathfach ferch Owain ap Belddyn
-  #        09/20/1998 A   Burdened Tyger -- Berelindis filia Cunowulfi (person: 10582134; 1 matches, dist: 10)
+  #        09/20/1998 A   Burdened Tyger -- Berelindis filia Cunowulfi (person: 29724744; 1 matches, dist: 10)
   #           Berelindis filia Cunowulfi: 19731174
-  #           Cynewulfdohtor: 13206327
-  #           an Bheithir: 29724744
-  #           Berelinde Cynewulfdohtor: 25394802
-  #           Berelinda an Bheithir: 31617329
-  #           Berelinde an Bheithir: 24479617
-  #           Berelinde Cynewulfsdohtor: 18042600
-  #   <-   09/20/1998  CL Burdened Tyger -- Berlinde (person: 21003500, persona: 6162001)
+  #           Cynewulfdohtor: 22516384
+  #           an Bheithir: 5990634
+  #           Berelinde Cynewulfdohtor: 21295199
+  #           Berelinda an Bheithir: 16849339
+  #           Berelinde an Bheithir: 21003500
+  #           Berelinde Cynewulfsdohtor: 13206327
+  #   <-   09/20/1998  CL Burdened Tyger -- Berlinde (person: 7408190, persona: 6162001)
   Berelindis filia Cunowulfi == Cynewulfdohtor; an Bheithir; Berelinde Cynewulfdohtor; Berelinda an Bheithir; Berelinde an Bheithir; Berelinde Cynewulfsdohtor; Berlinde
-  #        10/03/1987 AC  Award of Arms -- Kathrynne Driscoll of Stonemarche (person: 26366823; 1 matches, dist: 10)
-  #           Katherynne Driscoll: 4779087
+  #        10/03/1987 AC  Award of Arms -- Kathrynne Driscoll of Stonemarche (person: 24479617; 1 matches, dist: 10)
+  #           Katherynne Driscoll: 31617329
   #           Kathrynne Driscoll of Stonemarche: 8229894
-  #   <-   10/03/1987   L AOA -- Katherine Fletcher of Stonemarche (person: 15446862, persona: 7891524)
+  #   <-   10/03/1987   L AOA -- Katherine Fletcher of Stonemarche (person: 25394802, persona: 7891524)
   Katherynne Driscoll == Kathrynne Driscoll of Stonemarche; Katherine Fletcher of Stonemarche
-  #        08/17/1991 A   Mistress of the Laurel -- Sarra Elisabeth Graeham of Birnham [from Middle] (person: 11935873; 1 matches, dist: 11)
+  #        08/17/1991 A   Mistress of the Laurel -- Sarra Elisabeth Graeham of Birnham [from Middle] (person: 15446862; 1 matches, dist: 11)
   #           Sarra Elisabeth Graeham of Birnham: 15529978
-  #           Sarra Graeham: 26597493
-  #   <-   08/17/1991  CL Mistress of the Laurel -- Seabhac na Scail (person: 27372991, persona: 12921088)
+  #           Sarra Graeham: 10582134
+  #   <-   08/17/1991  CL Mistress of the Laurel -- Seabhac na Scail (person: 18042600, persona: 12921088)
   Sarra Elisabeth Graeham of Birnham == Sarra Graeham; Seabhac na Scail
-  #        08/29/1998 AC  Tygers Cub -- Serena of Bhakail (person: 6347528; 1 matches, dist: 11)
+  #        08/29/1998 AC  Tygers Cub -- Serena of Bhakail (person: 26366823; 1 matches, dist: 11)
   #           Serena of Bhakail: 8921338
-  #   <-   08/29/1998   L Tygers Cub -- Serena [of Bhakail] (person: 17830724, persona: 18135432)
+  #   <-   08/29/1998   L Tygers Cub -- Serena [of Bhakail] (person: 4779087, persona: 18135432)
   Serena of Bhakail == Serena
-  #        ??/??/1991 A   Award of Arms -- Aengas Macc Laídig (person: 25817858; 1 matches, dist: 12)
+  #        ??/??/1991 A   Award of Arms -- Aengas Macc Laídig (person: 26597493; 1 matches, dist: 12)
   #           Aengas Macc Laídig: 27554537
   #           NOT Rhiannon Silverwheel
   #           NOT Rosamunde of Axebridge
@@ -45341,9 +45339,9 @@ Deduplicating {
   #           NOT Aonghais Og
   #           NOT Conall MacLachlinn
   #           NOT Ras al Zib
-  #   <-   01/19/1991  C  Award of Arms -- Meggan Buchannan (person: 13373796, persona: 11015963)
+  #   <-   01/19/1991  C  Award of Arms -- Meggan Buchannan (person: 27372991, persona: 11015963)
   Aengas Macc Laídig == Meggan Buchannan ! Rhiannon Silverwheel; Rosamunde of Axebridge; Heneric aus Madrie; Angus Padgorrhan; Aonghais Og; Conall MacLachlinn; Ras al Zib
-  #        ??/??/1984 A L Award of Arms -- Adela de Warren (person: 30948039; 1 matches, dist: 13)
+  #        ??/??/1984 A L Award of Arms -- Adela de Warren (person: 17830724; 1 matches, dist: 13)
   #           Adela de Warren: 11642784
   #           NOT Rhea na Beantann
   #           NOT Tengu Date
@@ -45352,630 +45350,630 @@ Deduplicating {
   #           NOT Gerard of Cawdor
   #           NOT Arnwulf the Red
   #           NOT Horic Gravargar
-  #   <-   05/27/1984  C  Award of Arms -- Alberetta Harsannyi (person: 28395435, persona: 33103684)
+  #   <-   05/27/1984  C  Award of Arms -- Alberetta Harsannyi (person: 11935873, persona: 33103684)
   Adela de Warren == Alberetta Harsannyi ! Rhea na Beantann; Tengu Date; Elisha MacLeod; Retep the Barbarian; Gerard of Cawdor; Arnwulf the Red; Horic Gravargar
-  #        12/05/1981 A   Award of Arms -- Siubhan Wallace (person: 32971273; 1 matches, dist: 13)
+  #        12/05/1981 A   Award of Arms -- Siubhan Wallace (person: 25817858; 1 matches, dist: 13)
   #           Siubhan Wallace: 5840411
-  #           Siobhan Gordon: 18429248
+  #           Siobhan Gordon: 13373796
   #           NOT Raesean ni Allamach
   #           NOT Sminster de Feu
   #           NOT Ruth of Ruthven
   #           NOT Mary of York
   #           NOT Arnoff Ragnarson
-  #   <-   12/05/1981  C  Award of Arms -- Callahan de Melean (person: 16453888, persona: 5627611)
+  #   <-   12/05/1981  C  Award of Arms -- Callahan de Melean (person: 6347528, persona: 5627611)
   Siubhan Wallace == Siobhan Gordon; Callahan de Melean ! Raesean ni Allamach; Sminster de Feu; Ruth of Ruthven; Mary of York; Arnoff Ragnarson
-  #        02/20/1982 A   Award of Arms -- Albreda de Tosny (person: 653909; 1 matches, dist: 14)
+  #        02/20/1982 A   Award of Arms -- Albreda de Tosny (person: 30948039; 1 matches, dist: 14)
   #           Albreda de Tosny: 27624560
   #           NOT Raedwulf de Roven
   #           NOT John le Pell
   #           NOT Casella da Fiorenza
   #           NOT Cayle of Firwood
   #           NOT Vladislav iz Rura
-  #   <-   02/20/1982   L AOA -- John the Pell (person: 30300248, persona: 392890)
+  #   <-   02/20/1982   L AOA -- John the Pell (person: 28395435, persona: 392890)
   Albreda de Tosny == John the Pell ! Raedwulf de Roven; John le Pell; Casella da Fiorenza; Cayle of Firwood; Vladislav iz Rura
-  #        10/05/1996 A   King's Cypher -- Ernst Nuss von Kitzengen [Bjorn] (person: 15020245; 1 matches, dist: 14)
+  #        10/05/1996 A   King's Cypher -- Ernst Nuss von Kitzengen [Bjorn] (person: 653909; 1 matches, dist: 14)
   #           Ernst Nuss von Kitzengen: 12720206
-  #           Erno Scrumahli: 25779276
-  #           Ernst Nuss von Kitzingen: 17476716
-  #           Father Scrumahli: 29234995
+  #           Erno Scrumahli: 18429248
+  #           Ernst Nuss von Kitzingen: 32971273
+  #           Father Scrumahli: 30300248
   #           NOT Julien le Scot
-  #   <-   10/05/1996  C  King's Cypher -- Erno Scrumahli of Toddington (person: 17951667, persona: 16207813)
+  #   <-   10/05/1996  C  King's Cypher -- Erno Scrumahli of Toddington (person: 16453888, persona: 16207813)
   Ernst Nuss von Kitzengen == Erno Scrumahli; Ernst Nuss von Kitzingen; Father Scrumahli; Erno Scrumahli of Toddington ! Julien le Scot
-  #        03/05/2005 A   Grant of Arms -- Paul André Jacques (person: 9077757; 1 matches, dist: 14)
+  #        03/05/2005 A   Grant of Arms -- Paul André Jacques (person: 17019034; 1 matches, dist: 14)
   #           Paul André Jacques: 5888527
-  #           Pellandres dit le Frère: 17325460
+  #           Pellandres dit le Frère: 27663966
   #           Paul Andre Jacques: 11415568
-  #           Pellandres dit le Frere: 3645459
-  #           Pellandres dit le frere: 32401020
+  #           Pellandres dit le Frere: 18075390
+  #           Pellandres dit le frere: 24806975
   #           Paul Andre Jacques, called Pellandres: 571715
-  #   <-   03/05/2005   L Grant of Arms -- Paul André Jacques, called Pellandres dit le Frère (person: 15276663, persona: 3885977)
+  #   <-   03/05/2005   L Grant of Arms -- Paul André Jacques, called Pellandres dit le Frère (person: 17951667, persona: 3885977)
   Paul André Jacques == Pellandres dit le Frère; Paul Andre Jacques; Pellandres dit le Frere; Pellandres dit le frere; Paul Andre Jacques, called Pellandres; Paul André Jacques, called Pellandres
-  #        03/29/2003 A   Bronze Tower (Settmour Swamp) -- Brennan mac Fearghus (person: 20579248; 1 matches, dist: 15)
+  #        03/29/2003 A   Bronze Tower (Settmour Swamp) -- Brennan mac Fearghus (person: 15020245; 1 matches, dist: 15)
   #           Brennan mac Fearghus: 15549720
-  #           Brennan MacKinnon: 33249481
-  #           Brennan MacFergus von Drachenklaue: 8526090
-  #   <-   03/29/2003   L Bronze Tower (Settmour Swamp) -- Brenon McKinnon of Haus von Drachenklaue (person: 29924857, persona: 24914751)
+  #           Brennan MacKinnon: 17476716
+  #           Brennan MacFergus von Drachenklaue: 29234995
+  #   <-   03/29/2003   L Bronze Tower (Settmour Swamp) -- Brenon McKinnon of Haus von Drachenklaue (person: 25779276, persona: 24914751)
   Brennan mac Fearghus == Brennan MacKinnon; Brennan MacFergus von Drachenklaue; Brenon McKinnon of Haus von Drachenklaue
-  #        ??/??/1976 A L Award of Arms -- Christopher Darras (person: 8827256; 1 matches, dist: 15)
+  #        ??/??/1976 A L Award of Arms -- Christopher Darras (person: 29924857; 1 matches, dist: 15)
   #           Christopher Darras: 29609296
   #           NOT Merlinia the Faye
   #           NOT Lisa Goldenstar
   #           NOT Jacques the Jovial
   #           NOT Vuong Manh
-  #   <-   08/21/1976  C  Award of Arms -- Grimnir Bogmodr (person: 29891460, persona: 27491668)
+  #   <-   08/21/1976  C  Award of Arms -- Grimnir Bogmodr (person: 15276663, persona: 27491668)
   Christopher Darras == Grimnir Bogmodr ! Merlinia the Faye; Lisa Goldenstar; Jacques the Jovial; Vuong Manh
-  #        02/09/2002 AC  Award of Arms -- Meara of Vieux Bourg (person: 29738240; 1 matches, dist: 15)
-  #           Maire inghean ui Mheardha: 7429444
-  #           Meara of Havre des Glaces AKA Maera: 10637287
-  #           Meara of Havre des Glaces:: 2872672
+  #        02/09/2002 AC  Award of Arms -- Meara of Vieux Bourg (person: 8827256; 1 matches, dist: 15)
+  #           Maire inghean ui Mheardha: 8526090
+  #           Meara of Havre des Glaces AKA Maera: 20579248
+  #           Meara of Havre des Glaces:: 29891460
   #           Meara of Havre de Glaces: 30348759
   #           Meara of Vieux Bourg: 22995378
-  #   <-   02/09/2002   L AOA -- Meara [de Vieux Bourg] (person: 15548839, persona: 10459258)
+  #   <-   02/09/2002   L AOA -- Meara [de Vieux Bourg] (person: 33249481, persona: 10459258)
   Maire inghean ui Mheardha == Meara of Havre des Glaces AKA Maera; Meara of Havre des Glaces:; Meara of Havre de Glaces; Meara of Vieux Bourg; Meara
-  #        08/??/1996 A   Award of Arms -- Meuris of Antioch (person: 30735448; 1 matches, dist: 15)
+  #        08/??/1996 A   Award of Arms -- Meuris of Antioch (person: 7429444; 1 matches, dist: 15)
   #           Meuris of Antioch: 7048401
   #           NOT Andreas of Kalise
   #           NOT Bianca di Bari
   #           NOT Katerina Vladimiroff
   #           NOT Gaston de Clermont
   #           NOT Brother Maynar
-  #   <-   08/??/1996  C  Award of Arms -- Cassiopia d’Stoker (person: 17351029, persona: 33189443)
+  #   <-   08/??/1996  C  Award of Arms -- Cassiopia d’Stoker (person: 15548839, persona: 33189443)
   Meuris of Antioch == Cassiopia d’Stoker ! Andreas of Kalise; Bianca di Bari; Katerina Vladimiroff; Gaston de Clermont; Brother Maynar
-  #        ??/??/1983 A L Award of Arms -- Bridget of Atenveldt (person: 8924287; 1 matches, dist: 16)
+  #        ??/??/1983 A L Award of Arms -- Bridget of Atenveldt (person: 2872672; 1 matches, dist: 16)
   #           Bridget of Atenveldt: 11777570
   #           NOT Elspeth of the Dale
   #           NOT Jennet de Witteneye
   #           NOT Francesca Alexandra
   #           NOT William Martinvast
   #           NOT Brendel the Swordfish
-  #   <-   03/05/1983  C  Award of Arms -- Qamar of Delftwood (person: 200176, persona: 11424966)
+  #   <-   03/05/1983  C  Award of Arms -- Qamar of Delftwood (person: 10637287, persona: 11424966)
   Bridget of Atenveldt == Qamar of Delftwood ! Elspeth of the Dale; Jennet de Witteneye; Francesca Alexandra; William Martinvast; Brendel the Swordfish
-  #        ??/??/1999 A L Troubadour -- Jehanne l'Enragee (person: 15577216; 1 matches, dist: 16)
+  #        ??/??/1999 A L Troubadour -- Jehanne l'Enragee (person: 17351029; 1 matches, dist: 16)
   #           Jehanne l'Enragee: 26916250
   #           Jehanne l’Enragee: 18135569
   #           NOT Yesugai ibn Akbar
   #           NOT Katherine Goodwyn
   #           NOT Margaruete la Folle
   #           NOT Alsvis
-  #   <-   09/25/1999  C  Troubadour -- Cairn MacAllistair (person: 2189042, persona: 26171875)
+  #   <-   09/25/1999  C  Troubadour -- Cairn MacAllistair (person: 29738240, persona: 26171875)
   Jehanne l'Enragee == Jehanne l’Enragee; Cairn MacAllistair ! Yesugai ibn Akbar; Katherine Goodwyn; Margaruete la Folle; Alsvis
-  #        06/01/1991 A   Award of Arms -- John Elys [from Caid] (person: 18361491; 1 matches, dist: 16)
+  #        06/01/1991 A   Award of Arms -- John Elys [from Caid] (person: 15577216; 1 matches, dist: 16)
   #           John Elys: 17805316
-  #           Joshua ibn Eleazar ha-Shalib: 30489520
-  #           Joshua ibn-Eleazar: 27642310
-  #           Joshua ibn Eliazar ha-Shalib: 23209890
+  #           Joshua ibn Eleazar ha-Shalib: 200176
+  #           Joshua ibn-Eleazar: 8924287
+  #           Joshua ibn Eliazar ha-Shalib: 2189042
   #           NOT Cesaria Wolstan
   #           NOT Cedric the Humble
   #           NOT Lori of Stormsport
-  #   <-   06/01/1991   L AOA -- Hans of Stormsport (person: 14599898, persona: 29556682)
+  #   <-   06/01/1991   L AOA -- Hans of Stormsport (person: 30735448, persona: 29556682)
   John Elys == Joshua ibn Eleazar ha-Shalib; Joshua ibn-Eleazar; Joshua ibn Eliazar ha-Shalib; Hans of Stormsport ! Cesaria Wolstan; Cedric the Humble; Lori of Stormsport
-  #        07/26/1997 A   Award of Arms -- Tanczos Istvan (person: 5548085; 1 matches, dist: 16)
+  #        07/26/1997 A   Award of Arms -- Tanczos Istvan (person: 27642310; 1 matches, dist: 16)
   #           Tanczos Istvan: 5264057
-  #           Istvan Tanczos: 3280506
+  #           Istvan Tanczos: 30489520
   #           NOT Darmain
   #           NOT Batujin Ba'adur
   #           NOT Sherazade of Bhakail
   #           NOT Wulfstan of Ravenswood
   #           NOT Yorgon of Lion's End
-  #   <-   07/26/1997  CL Award of Arms -- Steffan the Wonderer (person: 1479568, persona: 1578134)
+  #   <-   07/26/1997  CL Award of Arms -- Steffan the Wonderer (person: 14599898, persona: 1578134)
   Tanczos Istvan == Istvan Tanczos; Steffan the Wonderer ! Darmain; Batujin Ba'adur; Sherazade of Bhakail; Wulfstan of Ravenswood; Yorgon of Lion's End
-  #        10/09/2004 A   Silver Crescent -- Tatiana Maria Consuello Esperanza Figueron di Vivar (person: 32445179; 1 matches, dist: 16)
+  #        10/09/2004 A   Silver Crescent -- Tatiana Maria Consuello Esperanza Figueron di Vivar (person: 15170749; 1 matches, dist: 16)
   #           Tatiana Maria Consuello Esperanza Figueron di Vivar: 30768185
-  #           Tatiana Maria Consuelo Esperanza Figueron de Vivar: 27578973
+  #           Tatiana Maria Consuelo Esperanza Figueron de Vivar: 32179776
   #           Tatiana Maria Consuello di Bivar: 1600210
-  #   <-   10/09/2004   L Silver Crescent -- Tatiana di Bivar (person: 32463046, persona: 16653253)
+  #   <-   10/09/2004   L Silver Crescent -- Tatiana di Bivar (person: 23209890, persona: 16653253)
   Tatiana Maria Consuello Esperanza Figueron di Vivar == Tatiana Maria Consuelo Esperanza Figueron de Vivar; Tatiana Maria Consuello di Bivar; Tatiana Maria Consuello di Bivan
-  #        01/13/1996 A   Award of Arms -- Alida dei Conti (person: 22803607; 1 matches, dist: 17)
+  #        01/13/1996 A   Award of Arms -- Alida dei Conti (person: 1479568; 1 matches, dist: 17)
   #           Alida dei Conti: 2878521
   #           NOT Miriel Verdy
   #           NOT Ekatarina Dimitriov
   #           NOT Caoinlean Seanclough
   #           NOT Christiana de Michele
   #           NOT Christopher Rawlyns
-  #   <-   01/13/1996  C  Award of Arms -- Bronwyn the Cheerful (person: 11363186, persona: 19982840)
+  #   <-   01/13/1996  C  Award of Arms -- Bronwyn the Cheerful (person: 18361491, persona: 19982840)
   Alida dei Conti == Bronwyn the Cheerful ! Miriel Verdy; Ekatarina Dimitriov; Caoinlean Seanclough; Christiana de Michele; Christopher Rawlyns
-  #        02/20/1982 A   Award of Arms -- Gwynedd of Allendorf (person: 2915033; 1 matches, dist: 17)
+  #        02/20/1982 A   Award of Arms -- Gwynedd of Allendorf (person: 5548085; 1 matches, dist: 17)
   #           Gwynedd of Allendorf: 26861610
   #           NOT Cayle of Firwood
   #           NOT Raedwulf de Roven
   #           NOT Arabis Pwyll Deri
   #           NOT John le Pell
   #           NOT John the Pell
-  #   <-   02/20/1982  C  Award of Arms -- Casella da Fiorenza (person: 1511490, persona: 27833055)
+  #   <-   02/20/1982  C  Award of Arms -- Casella da Fiorenza (person: 3280506, persona: 27833055)
   Gwynedd of Allendorf == Casella da Fiorenza ! Cayle of Firwood; Raedwulf de Roven; Arabis Pwyll Deri; John le Pell; John the Pell
-  #        10/??/1975 A L Award of Arms -- Jehanne l’Enragee (person: 15577216; 1 matches, dist: 17)
+  #        10/??/1975 A L Award of Arms -- Jehanne l’Enragee (person: 17351029; 1 matches, dist: 17)
   #           Jehanne l'Enragee: 26916250
   #           Jehanne l’Enragee: 18135569
   #           NOT Yesugai ibn Akbar
   #           NOT Katherine Goodwyn
   #           NOT Margaruete la Folle
   #           NOT Alsvis
-  #   <-   10/25/1975  C  Award of Arms -- Shiawassee Magausson (person: 3497337, persona: 8532343)
+  #   <-   10/25/1975  C  Award of Arms -- Shiawassee Magausson (person: 32463046, persona: 8532343)
   Jehanne l'Enragee == Jehanne l’Enragee; Cairn MacAllistair ! Yesugai ibn Akbar; Katherine Goodwyn; Margaruete la Folle; Alsvis
-  #        11/04/1989 A   Award of Arms -- Justinian Timagenes [from Atenveldt] (person: 31088724; 1 matches, dist: 17)
+  #        11/04/1989 A   Award of Arms -- Justinian Timagenes [from Atenveldt] (person: 22803607; 1 matches, dist: 17)
   #           Justinian Timagenes: 12887768
   #           NOT Cenwulf Bearwes
   #           NOT Runestar Roundtree
   #           NOT Rooke Pendragon
   #           NOT Isadora Drachenstein
-  #   <-   11/04/1989   L AOA -- Gunther von Drachenstein (person: 25937806, persona: 31556480)
+  #   <-   11/04/1989   L AOA -- Gunther von Drachenstein (person: 11363186, persona: 31556480)
   Justinian Timagenes == Gunther von Drachenstein ! Cenwulf Bearwes; Runestar Roundtree; Rooke Pendragon; Isadora Drachenstein
-  #        12/12/1981 A   Award of Arms -- Brianna Yseulte Wynman (person: 2177902; 1 matches, dist: 18)
+  #        12/12/1981 A   Award of Arms -- Brianna Yseulte Wynman (person: 31088724; 1 matches, dist: 18)
   #           Brianna Yseulte Wynman: 13080425
-  #           Brianna Yseult Wynman: 2166653
-  #           Brianna Yseult Wyman: 8384045
-  #           Brianna Ysault Wynman: 15590452
+  #           Brianna Yseult Wynman: 2915033
+  #           Brianna Yseult Wyman: 3497337
+  #           Brianna Ysault Wynman: 25937806
   #           NOT Loimel the Gentle
   #           NOT Bjorn Karlson
   #           NOT Aris of Steedmill
-  #   <-   12/12/1981  C  Award of Arms -- Malice (person: 32129091, persona: 10385139)
+  #   <-   12/12/1981  C  Award of Arms -- Malice (person: 1511490, persona: 10385139)
   Brianna Yseulte Wynman == Brianna Yseult Wynman; Brianna Yseult Wyman; Brianna Ysault Wynman; Malice ! Loimel the Gentle; Bjorn Karlson; Aris of Steedmill
-  #        10/08/1983 A   Award of Arms -- Florian of the Glen (person: 21752992; 1 matches, dist: 18)
+  #        10/08/1983 A   Award of Arms -- Florian of the Glen (person: 2166653; 1 matches, dist: 18)
   #           Florian of the Glen: 8034430
   #           NOT Anaron Caithnes of Wyk
   #           NOT Takechi no Mushashi
   #           NOT Takechi-no-Musashi
-  #   <-   10/08/1983   L AOA -- Alexander Caithnes of Wik (person: 29674616, persona: 8411091)
+  #   <-   10/08/1983   L AOA -- Alexander Caithnes of Wik (person: 32129091, persona: 8411091)
   Florian of the Glen == Alexander Caithnes of Wik ! Anaron Caithnes of Wyk; Takechi no Mushashi; Takechi-no-Musashi
-  #        02/24/1990 A   Award of Arms -- Jacqueline (person: 57019; 1 matches, dist: 18)
+  #        02/24/1990 A   Award of Arms -- Jacqueline (person: 15590452; 1 matches, dist: 18)
   #           Jacqueline: 20509193
   #           NOT Lorick Barakon
   #           NOT Etain ni Morrgan
-  #   <-   02/24/1990   L AOA -- James Allen of Haworth (person: 27010053, persona: 14721465)
+  #   <-   02/24/1990   L AOA -- James Allen of Haworth (person: 8384045, persona: 14721465)
   Jacqueline == James Allen of Haworth ! Lorick Barakon; Etain ni Morrgan
-  #        10/16/2004 AC  Award of Arms -- Serena of Dragon Dormant (person: 8578262; 1 matches, dist: 18)
+  #        10/16/2004 AC  Award of Arms -- Serena of Dragon Dormant (person: 21752992; 1 matches, dist: 18)
   #           Serena of Dragon Dormant: 13545538
-  #           Serena of L'ile du Dragon Dormant: 18804741
-  #           Serena of lle du Dragon Dormant: 2100781
-  #   <-   10/16/2004   L AOA -- Serena [of L'Ile du Dragon Dormant] (person: 17830724, persona: 18135432)
+  #           Serena of L'ile du Dragon Dormant: 2177902
+  #           Serena of lle du Dragon Dormant: 29674616
+  #   <-   10/16/2004   L AOA -- Serena [of L'Ile du Dragon Dormant] (person: 4779087, persona: 18135432)
   Serena of Dragon Dormant == Serena of L'ile du Dragon Dormant; Serena of lle du Dragon Dormant; Serena
-  #        04/??/1985 A L Award of Arms -- Stephen Haraldson (person: 4176281; 1 matches, dist: 18)
-  #           Stephen Haroldson: 1266001
+  #        04/??/1985 A L Award of Arms -- Stephen Haraldson (person: 18804741; 1 matches, dist: 18)
+  #           Stephen Haroldson: 57019
   #           Stephen Haraldson: 14037916
   #           NOT Lazar ben Yoahl
   #           NOT Loric Winteroak
   #           NOT Vladimir Ivanov
   #           NOT Lerwin Esbrand of Esfenn
-  #   <-   04/27/1985  C  Award of Arms -- Matilde des Iles Froides (person: 25025648, persona: 14540460)
+  #   <-   04/27/1985  C  Award of Arms -- Matilde des Iles Froides (person: 27010053, persona: 14540460)
   Stephen Haroldson == Stephen Haraldson; Matilde des Iles Froides ! Lazar ben Yoahl; Loric Winteroak; Vladimir Ivanov; Lerwin Esbrand of Esfenn
-  #        04/07/2012 AC  Queen's Courtesy -- AEthelhafoc Keyfinder [Kiena I] (person: 16266440; 1 matches, dist: 19)
-  #           AEthelhawk Keyfinder: 4738557
+  #        04/07/2012 AC  Queen's Courtesy -- AEthelhafoc Keyfinder [Kiena I] (person: 25025648; 1 matches, dist: 19)
+  #           AEthelhawk Keyfinder: 8578262
   #           AEthelhafoc Keyfinder: 32845085
   #           NOT Elaina of Oaklawn
   #           NOT Kormakr Ulshofuth
-  #   <-   04/07/2012   L QOC -- Aethelhafoc Keyfinder called Aethelhawk (person: 28453769, persona: 9257796)
+  #   <-   04/07/2012   L QOC -- Aethelhafoc Keyfinder called Aethelhawk (person: 2100781, persona: 9257796)
   AEthelhawk Keyfinder == AEthelhafoc Keyfinder; Aethelhafoc Keyfinder called Aethelhawk ! Elaina of Oaklawn; Kormakr Ulshofuth
-  #        04/17/1993 A   Award of Arms -- Arianna Chiara Fiorucci [from Middle] (person: 8633298; 1 matches, dist: 19)
+  #        04/17/1993 A   Award of Arms -- Arianna Chiara Fiorucci [from Middle] (person: 4176281; 1 matches, dist: 19)
   #           Arianna Chiara Fiorucci: 30930209
   #           NOT John ap Finar
   #           NOT Angus MacFergus
   #           NOT Hannah
-  #   <-   04/17/1993   L AOA -- Catriona Ross du Chien (person: 22101278, persona: 29154111)
+  #   <-   04/17/1993   L AOA -- Catriona Ross du Chien (person: 1266001, persona: 29154111)
   Arianna Chiara Fiorucci == Catriona Ross du Chien ! John ap Finar; Angus MacFergus; Hannah
-  #        09/17/1988 A   Award of Arms -- Astryda Borowska (person: 9230576; 1 matches, dist: 19)
+  #        09/17/1988 A   Award of Arms -- Astryda Borowska (person: 4738557; 1 matches, dist: 19)
   #           Astryda Borowska: 6967258
   #           NOT Harald Folkesson
   #           NOT Merrydtydd
   #           NOT Siobhan the Silent
   #           NOT Charles of Caernarvon
   #           NOT Harald Krake Ganglere
-  #   <-   09/17/1988  C  Award of Arms -- Ariane of Clan O’Choda (person: 10477949, persona: 20026431)
+  #   <-   09/17/1988  C  Award of Arms -- Ariane of Clan O’Choda (person: 28453769, persona: 20026431)
   Astryda Borowska == Ariane of Clan O’Choda ! Harald Folkesson; Merrydtydd; Siobhan the Silent; Charles of Caernarvon; Harald Krake Ganglere
-  #        12/05/1992 AC  Award of Arms -- Aurora of Havre de Glaces (person: 20425572; 1 matches, dist: 19)
-  #           Aurora of Havre des Glaces: 6457753
+  #        12/05/1992 AC  Award of Arms -- Aurora of Havre de Glaces (person: 8633298; 1 matches, dist: 19)
+  #           Aurora of Havre des Glaces: 22101278
   #           Aurora of Havre de Glaces: 150232
   #           NOT Thomas of Fordcombe
   #           NOT Eva de Barri
-  #   <-   12/05/1992   L AOA -- Aurora [of Havre des Glaces] (person: 16165686, persona: 17030653)
+  #   <-   12/05/1992   L AOA -- Aurora [of Havre des Glaces] (person: 16266440, persona: 17030653)
   Aurora of Havre des Glaces == Aurora of Havre de Glaces; Aurora ! Thomas of Fordcombe; Eva de Barri
-  #        01/04/1992 A   Award of Arms -- Elglin of House Eagle [from West] (person: 21884876; 1 matches, dist: 19)
+  #        01/04/1992 A   Award of Arms -- Elglin of House Eagle [from West] (person: 9230576; 1 matches, dist: 19)
   #           Elglin of House Eagle: 25982452
   #           NOT Sighulf Storsl
   #           NOT Alafrik Agmundsson Bleke
   #           NOT Stanislav Dumbrovski
-  #   <-   01/04/1992   L AOA -- Rodbert Rodulfsson (person: 30760696, persona: 8561586)
+  #   <-   01/04/1992   L AOA -- Rodbert Rodulfsson (person: 10477949, persona: 8561586)
   Elglin of House Eagle == Rodbert Rodulfsson ! Sighulf Storsl; Alafrik Agmundsson Bleke; Stanislav Dumbrovski
-  #        06/16/1990 A   Award of Arms -- Meliora Coeur de Azure (person: 14640403; 1 matches, dist: 19)
+  #        06/16/1990 A   Award of Arms -- Meliora Coeur de Azure (person: 6457753; 1 matches, dist: 19)
   #           Meliora Coeur de Azure: 29473459
   #           NOT Elise Jacqueline Touzel
   #           NOT Robert of Hazeltine
   #           NOT Riobard ó Suilleabhain
-  #   <-   06/16/1990   L AOA -- Sthurrim Caithnes (person: 28991405, persona: 20396657)
+  #   <-   06/16/1990   L AOA -- Sthurrim Caithnes (person: 16165686, persona: 20396657)
   Meliora Coeur de Azure == Sthurrim Caithnes ! Elise Jacqueline Touzel; Robert of Hazeltine; Riobard ó Suilleabhain
-  #        04/28/1984 A   Award of Arms -- Michelle Ezzillini (person: 14804813; 1 matches, dist: 19)
+  #        04/28/1984 A   Award of Arms -- Michelle Ezzillini (person: 30760696; 1 matches, dist: 19)
   #           Michelle Ezzillini: 5411156
   #           NOT Galen the Merchant
   #           NOT Gwynna Emrys
   #           NOT Rebecca Throckmorton
-  #   <-   04/28/1984   L AOA -- Russell of Insula Draconis (person: 6617135, persona: 4790935)
+  #   <-   04/28/1984   L AOA -- Russell of Insula Draconis (person: 20425572, persona: 4790935)
   Michelle Ezzillini == Russell of Insula Draconis ! Galen the Merchant; Gwynna Emrys; Rebecca Throckmorton
-  #        01/21/1989 A   Award of Arms -- Saerlaith ingen Cinneide [from Middle] (person: 23376797; 1 matches, dist: 19)
+  #        01/21/1989 A   Award of Arms -- Saerlaith ingen Cinneide [from Middle] (person: 18381290; 1 matches, dist: 19)
   #           Saerlaith ingen Cinneide: 25371345
-  #           Clodagh inghen Cinneide: 32245959
-  #           Saerlaith ingen Chennetig: 20206135
-  #           Clodagh ingen Cinneide: 106669
-  #           Clodagh Saorla inghean Cinneide: 14407815
+  #           Clodagh inghen Cinneide: 28991405
+  #           Saerlaith ingen Chennetig: 14640403
+  #           Clodagh ingen Cinneide: 6617135
+  #           Clodagh Saorla inghean Cinneide: 14804813
   #           NOT Eleanor the Faire
   #           NOT Max von Spaerling
-  #   <-   01/21/1989   L AOA -- Jean d'Eau (person: 18381290, persona: 2161302)
+  #   <-   01/21/1989   L AOA -- Jean d'Eau (person: 21884876, persona: 2161302)
   Saerlaith ingen Cinneide == Clodagh inghen Cinneide; Saerlaith ingen Chennetig; Clodagh ingen Cinneide; Clodagh Saorla inghean Cinneide; Jean d'Eau ! Eleanor the Faire; Max von Spaerling
-  #        02/02/1991 A   Award of Arms -- Siubhan nic Cruimein (person: 33014894; 1 matches, dist: 19)
+  #        02/02/1991 A   Award of Arms -- Siubhan nic Cruimein (person: 20206135; 1 matches, dist: 19)
   #           Siubhan nic Cruimein: 24402773
   #           NOT Eliane Esperance
   #           NOT Elaine Esperance
   #           NOT Anastasia Veassllurd
-  #   <-   02/02/1991  C  Award of Arms -- Alexei of the Weresheep (person: 4999093, persona: 255140)
+  #   <-   02/02/1991  C  Award of Arms -- Alexei of the Weresheep (person: 32245959, persona: 255140)
   Siubhan nic Cruimein == Alexei of the Weresheep ! Eliane Esperance; Elaine Esperance; Anastasia Veassllurd
-  #        04/16/1988 A   Award of Arms -- Alistair Malcolm MacAlpine (person: 5430681; 1 matches, dist: 20)
+  #        04/16/1988 A   Award of Arms -- Alistair Malcolm MacAlpine (person: 23376797; 1 matches, dist: 20)
   #           Alistair Malcolm MacAlpine: 8461394
-  #           Alistair Stuart MacAlpine: 25820485
+  #           Alistair Stuart MacAlpine: 14407815
   #           NOT Fiancha of Carillion
   #           NOT Owen Sherard Trahern
-  #   <-   04/16/1988  C  Award of Arms -- Tadgh of Carillion (person: 25252708, persona: 3096820)
+  #   <-   04/16/1988  C  Award of Arms -- Tadgh of Carillion (person: 106669, persona: 3096820)
   Alistair Malcolm MacAlpine == Alistair Stuart MacAlpine; Tadgh of Carillion ! Fiancha of Carillion; Owen Sherard Trahern
-  #        05/08/1999 AC  Silver Crescent -- Paul Andre Jacques, called Pellandres (person: 9077757; 1 matches, dist: 20)
+  #        05/08/1999 AC  Silver Crescent -- Paul Andre Jacques, called Pellandres (person: 17019034; 1 matches, dist: 20)
   #           Paul André Jacques: 5888527
-  #           Pellandres dit le Frère: 17325460
+  #           Pellandres dit le Frère: 27663966
   #           Paul Andre Jacques: 11415568
-  #           Pellandres dit le Frere: 3645459
-  #           Pellandres dit le frere: 32401020
+  #           Pellandres dit le Frere: 18075390
+  #           Pellandres dit le frere: 24806975
   #           Paul Andre Jacques, called Pellandres: 571715
-  #   <-   05/08/1999   L Silver Crescent -- Pellandres de l’Ile du Dragon Dormant (person: 5416851, persona: 2026040)
+  #   <-   05/08/1999   L Silver Crescent -- Pellandres de l’Ile du Dragon Dormant (person: 4999093, persona: 2026040)
   Paul André Jacques == Pellandres dit le Frère; Paul Andre Jacques; Pellandres dit le Frere; Pellandres dit le frere; Paul Andre Jacques, called Pellandres; Paul André Jacques, called Pellandres
-  #        07/15/1995 A   Award of Arms -- Angus the Pitiful (person: 24129343; 1 matches, dist: 21)
+  #        07/15/1995 A   Award of Arms -- Angus the Pitiful (person: 25252708; 1 matches, dist: 21)
   #           Angus the Pitiful: 9556866
   #           NOT Kambreda Spicer
   #           NOT Alexis of Woods End
   #           NOT Roland d’Cunnyhalm
   #           NOT Brandon de la Tournoire
-  #   <-   07/15/1995  C  Award of Arms -- Gabriel of Birkhamstead (person: 7845510, persona: 13707302)
+  #   <-   07/15/1995  C  Award of Arms -- Gabriel of Birkhamstead (person: 33014894, persona: 13707302)
   Angus the Pitiful == Gabriel of Birkhamstead ! Kambreda Spicer; Alexis of Woods End; Roland d’Cunnyhalm; Brandon de la Tournoire
-  #        08/13/1997 A   Award of Arms -- Griffith Davion (person: 16922209; 1 matches, dist: 21)
+  #        08/13/1997 A   Award of Arms -- Griffith Davion (person: 5430681; 1 matches, dist: 21)
   #           Griffith Davion: 23531429
   #           NOT Cairon Thorne
   #           NOT Aelric Ravenshaw
   #           NOT Ilskah al-Kamil
   #           NOT Rosemund the Just
   #           NOT Cadell Blaidd Du
-  #   <-   08/13/1997  CL Award of Arms -- Griffith Dovian of the Argent Tyger (person: 3009665, persona: 21115331)
+  #   <-   08/13/1997  CL Award of Arms -- Griffith Dovian of the Argent Tyger (person: 25820485, persona: 21115331)
   Griffith Davion == Griffith Dovian of the Argent Tyger ! Cairon Thorne; Aelric Ravenshaw; Ilskah al-Kamil; Rosemund the Just; Cadell Blaidd Du
-  #        03/25/2006 A   Burdened Tyger -- Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia (person: 2282736; 1 matches, dist: 21)
+  #        03/25/2006 A   Burdened Tyger -- Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia (person: 11280245; 1 matches, dist: 21)
   #           Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia: 26417474
-  #           Suba al-Hadid: 11280245
-  #           Jamila of Bhakail: 4546982
-  #           Jeannette of Bhakail: 17692198
-  #           Suba al Hadid: 26960739
-  #           Jeanette of Bhakail: 10098209
-  #   <-   03/25/2006  C  Burdened Tyger -- Berelinde Cynewulfsdohter (person: 4207203, persona: 24398230)
+  #           Suba al-Hadid: 7845510
+  #           Jamila of Bhakail: 24129343
+  #           Jeannette of Bhakail: 3009665
+  #           Suba al Hadid: 16922209
+  #           Jeanette of Bhakail: 4207203
+  #   <-   03/25/2006  C  Burdened Tyger -- Berelinde Cynewulfsdohter (person: 5416851, persona: 24398230)
   Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia == Suba al-Hadid; Jamila of Bhakail; Jeannette of Bhakail; Suba al Hadid; Jeanette of Bhakail; Berelinde Cynewulfsdohter
-  #        03/24/1990 A   Award of Arms -- Peregrine the Illuminator [from Middle] (person: 26334843; 1 matches, dist: 21)
+  #        03/24/1990 A   Award of Arms -- Peregrine the Illuminator [from Middle] (person: 17692198; 1 matches, dist: 21)
   #           Peregrine the Illuminator: 26894012
   #           NOT Nezumi Chusai
   #           NOT Brendan Lochmoire
-  #   <-   03/24/1990  CL Award of Arms -- Gaston Grenoville (person: 13236072, persona: 8069768)
+  #   <-   03/24/1990  CL Award of Arms -- Gaston Grenoville (person: 4546982, persona: 8069768)
   Peregrine the Illuminator == Gaston Grenoville ! Nezumi Chusai; Brendan Lochmoire
-  #        ??/??/1999 A   Award of Arms -- Stephan of Silverforge [from Middle] (person: 16189141; 1 matches, dist: 21)
+  #        ??/??/1999 A   Award of Arms -- Stephan of Silverforge [from Middle] (person: 10098209; 1 matches, dist: 21)
   #           Stephan of Silverforge: 20335503
   #           NOT B’Ellana de Rouge
   #           NOT Sandor
   #           NOT Shilung
   #           NOT Ragnar Dragonheart
-  #   <-   07/03/1999  CL Award of Arms -- Sionnan Caitriona O’Mustay (person: 26749477, persona: 27335759)
+  #   <-   07/03/1999  CL Award of Arms -- Sionnan Caitriona O’Mustay (person: 26960739, persona: 27335759)
   Stephan of Silverforge == Sionnan Caitriona O’Mustay ! B’Ellana de Rouge; Sandor; Shilung; Ragnar Dragonheart
-  #        04/13/1996 A   Queen's Cypher -- Zinoviia Mikulina doch' Korabel'nikova zhena [Aziza III, Outlands] (person: 17107187; 1 matches, dist: 21)
+  #        04/13/1996 A   Queen's Cypher -- Zinoviia Mikulina doch' Korabel'nikova zhena [Aziza III, Outlands] (person: 26334843; 1 matches, dist: 21)
   #           Zinoviia Mikulina doch' Korabel'nikova zhena: 27368321
-  #           Mina: 22385279
+  #           Mina: 13236072
   #           NOT Ciaran Islwyn
   #           NOT Brian of Heronter
-  #   <-   04/13/1996  C  Queen's Cypher -- Annastrina Ruth O’Carney (person: 31559308, persona: 7137930)
+  #   <-   04/13/1996  C  Queen's Cypher -- Annastrina Ruth O’Carney (person: 2282736, persona: 7137930)
   Zinoviia Mikulina doch' Korabel'nikova zhena == Mina; Annastrina Ruth O’Carney ! Ciaran Islwyn; Brian of Heronter
-  #        03/26/1994 A   Award of Arms -- Albert Faulke of Sandford [from Atenveldt] (person: 14643766; 1 matches, dist: 22)
+  #        03/26/1994 A   Award of Arms -- Albert Faulke of Sandford [from Atenveldt] (person: 16189141; 1 matches, dist: 22)
   #           Albert Faulke of Sandford: 20028915
-  #   <-   03/26/1994   L AOA -- Fyodor Ivanovitch of Bogdan (person: 26130484, persona: 25521196)
+  #   <-   03/26/1994   L AOA -- Fyodor Ivanovitch of Bogdan (person: 26749477, persona: 25521196)
   Albert Faulke of Sandford == 
-  #        07/15/1989 A   Award of Arms -- Damiana Morgana delle Onde (person: 4032312; 1 matches, dist: 22)
+  #        07/15/1989 A   Award of Arms -- Damiana Morgana delle Onde (person: 14643766; 1 matches, dist: 22)
   #           Damiana Morgana delle Onde: 6489514
-  #           Damiana Ilhara della Onde: 13427121
-  #           Damiana Morgana della Onde: 16074642
-  #           Morgana Kyncaydd: 19785116
+  #           Damiana Ilhara della Onde: 22385279
+  #           Damiana Morgana della Onde: 17107187
+  #           Morgana Kyncaydd: 26130484
   #           NOT Morgana Kyncayd
-  #   <-   07/15/1989  C  Award of Arms -- Erdvisar of Mountain Freehold (person: 29572301, persona: 20898384)
+  #   <-   07/15/1989  C  Award of Arms -- Erdvisar of Mountain Freehold (person: 31559308, persona: 20898384)
   Damiana Morgana delle Onde == Damiana Ilhara della Onde; Damiana Morgana della Onde; Morgana Kyncaydd ! Morgana Kyncayd
-  #        05/??/1991 A   Award of Arms -- Diarmait Caomhanach mac Alasdair [from Trimaris] (person: 24331207; 1 matches, dist: 22)
+  #        05/??/1991 A   Award of Arms -- Diarmait Caomhanach mac Alasdair [from Trimaris] (person: 13427121; 1 matches, dist: 22)
   #           Diarmait Caomhanach mac Alasdair: 17635753
-  #   <-   05/11/1991   L AOA -- Ramis of Abhainn Ciah Glais (person: 24685626, persona: 7837865)
+  #   <-   05/11/1991   L AOA -- Ramis of Abhainn Ciah Glais (person: 29572301, persona: 7837865)
   Diarmait Caomhanach mac Alasdair == 
-  #        08/12/1992 A   Award of Arms -- Dietrich Baldemar (person: 18323220; 1 matches, dist: 22)
+  #        08/12/1992 A   Award of Arms -- Dietrich Baldemar (person: 19785116; 1 matches, dist: 22)
   #           Dietrich Baldemar: 3659986
   #           NOT Andree Snow Rose
   #           NOT Michael of Northwoods
   #           NOT Elise Morgan ferch Owen
-  #   <-   08/12/1992   L AOA -- Adrianna of Settmour Swamp (person: 6737131, persona: 20103076)
+  #   <-   08/12/1992   L AOA -- Adrianna of Settmour Swamp (person: 16074642, persona: 20103076)
   Dietrich Baldemar ==  ! Andree Snow Rose; Michael of Northwoods; Elise Morgan ferch Owen
-  #        12/15/2007 A   Salamander (Bhakail) -- Gillian Holroyd MacLachlan of House d’Avignon (person: 21714214; 1 matches, dist: 22)
+  #        12/15/2007 A   Salamander (Bhakail) -- Gillian Holroyd MacLachlan of House d’Avignon (person: 24685626; 1 matches, dist: 22)
   #           Gillian Holroyd MacLachlan of House d’Avignon: 14495535
-  #   <-   12/15/2007   L Salamander (Bhakail) -- Gillian MacLachlan de Holrod (person: 29351188, persona: 18958867)
+  #   <-   12/15/2007   L Salamander (Bhakail) -- Gillian MacLachlan de Holrod (person: 4032312, persona: 18958867)
   Gillian Holroyd MacLachlan of House d’Avignon == 
-  #        02/25/2006 AC  Award of Arms -- Guy Laurence (person: 18825331; 1 matches, dist: 22)
-  #           Guy Lourance: 14758921
+  #        02/25/2006 AC  Award of Arms -- Guy Laurence (person: 18323220; 1 matches, dist: 22)
+  #           Guy Lourance: 6737131
   #           Guy Laurence: 16458356
-  #   <-   02/25/2006   L AOA -- Guy Laurence of House Three Skulls (person: 12802152, persona: 26424335)
+  #   <-   02/25/2006   L AOA -- Guy Laurence of House Three Skulls (person: 24331207, persona: 26424335)
   Guy Lourance == Guy Laurence
-  #        11/01/1980 A   Award of Arms -- John fitzArnulf de Lithia [Meridies?] (person: 8563537; 1 matches, dist: 22)
+  #        11/01/1980 A   Award of Arms -- John fitzArnulf de Lithia [Meridies?] (person: 21714214; 1 matches, dist: 22)
   #           John fitzArnulf de Lithia: 11089838
-  #   <-   11/01/1980   L AOA -- Mirrim Morningstar [from Ansteorra] (person: 12608127, persona: 7216319)
+  #   <-   11/01/1980   L AOA -- Mirrim Morningstar [from Ansteorra] (person: 29351188, persona: 7216319)
   John fitzArnulf de Lithia == 
-  #        ??/??/1999 A   Award of Arms -- Justine of the Free Companions (person: 1292549; 1 matches, dist: 22)
+  #        ??/??/1999 A   Award of Arms -- Justine of the Free Companions (person: 14758921; 1 matches, dist: 22)
   #           Justine of the Free Companions: 2422910
   #           NOT Aegis (of Mtn. Freehold)
-  #   <-   01/23/1999  C  Award of Arms -- Morgana filia Draconia (person: 12412042, persona: 2067966)
+  #   <-   01/23/1999  C  Award of Arms -- Morgana filia Draconia (person: 12802152, persona: 2067966)
   Justine of the Free Companions ==  ! Aegis (of Mtn. Freehold)
-  #        09/22/2003 A   White Oak (Beyond the Mountain) -- Leandra de León (person: 28686500; 1 matches, dist: 22)
+  #        09/22/2003 A   White Oak (Beyond the Mountain) -- Leandra de León (person: 8563537; 1 matches, dist: 22)
   #           Leandra de León: 12201902
-  #           Leandra de Leon: 26275064
-  #   <-   09/22/2003   L White Oak (Beyond the Mountain) -- Severin Festschdermacher fka [Lahbruinn MacMhichiel] (person: 14166416, persona: 1086881)
+  #           Leandra de Leon: 12608127
+  #   <-   09/22/2003   L White Oak (Beyond the Mountain) -- Severin Festschdermacher fka [Lahbruinn MacMhichiel] (person: 18825331, persona: 1086881)
   Leandra de León == Leandra de Leon
-  #        08/12/1992 A   Award of Arms -- Lysander Varingon (person: 23936990; 1 matches, dist: 22)
+  #        08/12/1992 A   Award of Arms -- Lysander Varingon (person: 12412042; 1 matches, dist: 22)
   #           Lysander Varingon: 8115601
   #           NOT Andree Snow Rose
   #           NOT Michael of Northwoods
   #           NOT Elise Morgan ferch Owen
-  #   <-   08/12/1992   L AOA -- Adrianna of Settmour Swamp (person: 6737131, persona: 20103076)
+  #   <-   08/12/1992   L AOA -- Adrianna of Settmour Swamp (person: 16074642, persona: 20103076)
   Lysander Varingon ==  ! Andree Snow Rose; Michael of Northwoods; Elise Morgan ferch Owen
-  #        11/05/2011 AC  Award of Arms -- Manus hvalmagi (person: 18906934; 1 matches, dist: 22)
-  #           Marcus hvalmagi: 9330416
-  #           Magnus the Stout: 16453916
+  #        11/05/2011 AC  Award of Arms -- Manus hvalmagi (person: 28686500; 1 matches, dist: 22)
+  #           Magnus hvalmagi: 14166416
+  #           Magnus the Stout: 26275064
   #           Manus hvalmagi: 1587140
-  #   <-   11/05/2011   L AOA -- Magnus hvalmagi called Maguw the Stout (person: 24910333, persona: 14517533)
-  Marcus hvalmagi == Magnus the Stout; Manus hvalmagi
-  #        10/05/1996 A   King's Cypher -- Muiredach O’Siadhail [Bjorn] (person: 11713813; 1 matches, dist: 22)
+  #   <-   11/05/2011   L AOA -- Magnus hvalmagi called Maguw the Stout (person: 1292549, persona: 14517533)
+  Magnus hvalmagi == Magnus the Stout; Manus hvalmagi
+  #        10/05/1996 A   King's Cypher -- Muiredach O’Siadhail [Bjorn] (person: 24910333; 1 matches, dist: 22)
   #           Muiredach O’Siadhail: 968489
-  #           Muiredach o Siadhail: 8383814
+  #           Muiredach o Siadhail: 23936990
   #           NOT Julien le Scot
-  #   <-   10/05/1996  C  King's Cypher -- Erno Scrumahli of Toddington (person: 17951667, persona: 16207813)
+  #   <-   10/05/1996  C  King's Cypher -- Erno Scrumahli of Toddington (person: 16453888, persona: 16207813)
   Muiredach O’Siadhail == Muiredach o Siadhail ! Julien le Scot
-  #        ??/??/1993 A   Daystar (Carolingia) -- Mustapha al-Muhaddith ibn al-Saqaat (person: 21428069; 1 matches, dist: 22)
+  #        ??/??/1993 A   Daystar (Carolingia) -- Mustapha al-Muhaddith ibn al-Saqaat (person: 16453916; 1 matches, dist: 22)
   #           Mustapha al-Muhaddith ibn al-Saqaat: 27303042
-  #   <-   ??/??/1993   L Daystar (Carolingia) -- Mustapha ibn as-Saqaat al-Muhaddith (person: 10203163, persona: 19163096)
+  #   <-   ??/??/1993   L Daystar (Carolingia) -- Mustapha ibn as-Saqaat al-Muhaddith (person: 9330416, persona: 19163096)
   Mustapha al-Muhaddith ibn al-Saqaat == 
-  #        10/20/1984 A   Award of Arms -- Otto the Obscure [from Atlantia] (person: 3187793; 1 matches, dist: 22)
+  #        10/20/1984 A   Award of Arms -- Otto the Obscure [from Atlantia] (person: 8383814; 1 matches, dist: 22)
   #           Otto the Obscure: 10915458
   #           NOT Thomas Spence Colby
-  #   <-   10/20/1984   L AOA -- Keilyn Elwyn Fartraveller (person: 1846911, persona: 7073619)
+  #   <-   10/20/1984   L AOA -- Keilyn Elwyn Fartraveller (person: 18906934, persona: 7073619)
   Otto the Obscure ==  ! Thomas Spence Colby
-  #        04/12/2003 A   Award of Arms -- Stephen Renwald (person: 22201550; 1 matches, dist: 22)
+  #        04/12/2003 A   Award of Arms -- Stephen Renwald (person: 21428069; 1 matches, dist: 22)
   #           Stephen Renwald: 22243239
-  #           Steven Renwald: 2946093
+  #           Steven Renwald: 10203163
   #           NOT Peter Boggs
   #           NOT Collin Monroe
   #           NOT Ebbheart Somerfield
   #           NOT Amina of Settmour Swamp
   #           NOT Macha of Wyspering Wode
-  #   <-   04/12/2003  CL Award of Arms -- Steven Renwald of Haus von Halsstern (person: 24366917, persona: 15697395)
+  #   <-   04/12/2003  CL Award of Arms -- Steven Renwald of Haus von Halsstern (person: 11713813, persona: 15697395)
   Stephen Renwald == Steven Renwald ! Peter Boggs; Collin Monroe; Ebbheart Somerfield; Amina of Settmour Swamp; Macha of Wyspering Wode
-  #        07/14/2007 AC  Award of Arms -- Tristan of Thunder Mountain (person: 26174533; 1 matches, dist: 22)
-  #           Broddr Tryggrsson: 27155352
+  #        07/14/2007 AC  Award of Arms -- Tristan of Thunder Mountain (person: 24366917; 1 matches, dist: 22)
+  #           Broddr Tryggrsson: 3187793
   #           Tristan of Thunder Mountain: 10671918
-  #   <-   07/14/2007   L AOA -- Broddr Tryggrsson was Tristan of Thunder Mountain (person: 16176900, persona: 22712319)
+  #   <-   07/14/2007   L AOA -- Broddr Tryggrsson was Tristan of Thunder Mountain (person: 1846911, persona: 22712319)
   Broddr Tryggrsson == Tristan of Thunder Mountain
-  #        01/13/1996 A   Award of Arms -- Alasdair MacIain of Elderslie [from Atlantia] (person: 4615381; 1 matches, dist: 23)
+  #        01/13/1996 A   Award of Arms -- Alasdair MacIain of Elderslie [from Atlantia] (person: 22201550; 1 matches, dist: 23)
   #           Alasdair MacIain of Elderslie: 31729842
-  #   <-   01/13/1996   L AOA -- Miriel Verdy (person: 16776492, persona: 15295322)
+  #   <-   01/13/1996   L AOA -- Miriel Verdy (person: 2946093, persona: 15295322)
   Alasdair MacIain of Elderslie == 
-  #        10/30/1994 A   White Oak (Beyond the Mountain) -- Dana of Beyond the Mountain (person: 9533524; 1 matches, dist: 23)
+  #        10/30/1994 A   White Oak (Beyond the Mountain) -- Dana of Beyond the Mountain (person: 27155352; 1 matches, dist: 23)
   #           Dana of Beyond the Mountain: 22848008
-  #   <-   10/30/1994   L White Oak (Beyond the Mountain) -- Dana (person: 26431645, persona: 22959456)
+  #   <-   10/30/1994   L White Oak (Beyond the Mountain) -- Dana (person: 16176900, persona: 22959456)
   Dana of Beyond the Mountain == 
-  #        07/??/1982 A L Award of Arms -- Eoin of the Torriloc Moors (person: 25168662; 1 matches, dist: 23)
+  #        07/??/1982 A L Award of Arms -- Eoin of the Torriloc Moors (person: 16776492; 1 matches, dist: 23)
   #           Eoin of the Torriloc Moors: 21756079
   #           NOT Magnus Bloodax
-  #   <-   07/03/1982  C  Award of Arms -- Alycia Genevieve (person: 7530132, persona: 2554951)
+  #   <-   07/03/1982  C  Award of Arms -- Alycia Genevieve (person: 26174533, persona: 2554951)
   Eoin of the Torriloc Moors ==  ! Magnus Bloodax
-  #        03/18/1978 A   Award of Arms -- Jehan Yves de Chateau Thierry [from Atenveldt] (person: 9840044; 1 matches, dist: 23)
+  #        03/18/1978 A   Award of Arms -- Jehan Yves de Chateau Thierry [from Atenveldt] (person: 26431645; 1 matches, dist: 23)
   #           Jehan Yves de Chateau Thierry: 8178548
-  #   <-   03/18/1978   L AOA -- Aeleric Smythe (person: 22536578, persona: 9846584)
+  #   <-   03/18/1978   L AOA -- Aeleric Smythe (person: 4615381, persona: 9846584)
   Jehan Yves de Chateau Thierry == 
-  #        02/25/1978 AC  Award of Arms -- Kirk Robyn of Forest Webb (person: 15768893; 1 matches, dist: 23)
-  #           KirkRobyn of the Forest Webb: 8875184
+  #        02/25/1978 AC  Award of Arms -- Kirk Robyn of Forest Webb (person: 25168662; 1 matches, dist: 23)
+  #           KirkRobyn of the Forest Webb: 7530132
   #           Kirk Robyn of Forest Webb: 30923589
-  #   <-   02/25/1978   L AOA -- Alisoun MacCoul of Elphane [Merides] (person: 25389455, persona: 23295217)
+  #   <-   02/25/1978   L AOA -- Alisoun MacCoul of Elphane [Merides] (person: 9533524, persona: 23295217)
   KirkRobyn of the Forest Webb == Kirk Robyn of Forest Webb
-  #        10/05/1996 A   King's Cypher -- Morgaine ferch Cadwr [Bjorn] (person: 18410812; 1 matches, dist: 23)
+  #        10/05/1996 A   King's Cypher -- Morgaine ferch Cadwr [Bjorn] (person: 9840044; 1 matches, dist: 23)
   #           Morgaine ferch Cadwr: 13216594
   #           NOT Susanna del Lago
-  #   <-   10/05/1996  C  King's Cypher -- Morgaine ferch Cadwr & Muiredach O’Siadhail (person: 14882676, persona: 18717861)
+  #   <-   10/05/1996  C  King's Cypher -- Morgaine ferch Cadwr & Muiredach O’Siadhail (person: 22536578, persona: 18717861)
   Morgaine ferch Cadwr ==  ! Susanna del Lago
-  #        09/18/2010 A   Grant of Arms -- Shadiyah al-Zahra (person: 20518153; 1 matches, dist: 23)
+  #        09/18/2010 A   Grant of Arms -- Shadiyah al-Zahra (person: 15768893; 1 matches, dist: 23)
   #           Shadiyah al-Zahra: 902492
-  #           Shadiyah al-Zahra': 30658795
+  #           Shadiyah al-Zahra': 8875184
   #           NOT Hensojin Khan
-  #   <-   09/18/2010  C  Grant of Arms -- Shadiyah al-Zahra' (fka Shadia bint Barro (person: 25111248, persona: 16074541)
+  #   <-   09/18/2010  C  Grant of Arms -- Shadiyah al-Zahra' (fka Shadia bint Barro (person: 25389455, persona: 16074541)
   Shadiyah al-Zahra == Shadiyah al-Zahra' ! Hensojin Khan
-  #        06/16/1990 A   Award of Arms -- Talon of Blackoak (person: 18968297; 1 matches, dist: 23)
+  #        06/16/1990 A   Award of Arms -- Talon of Blackoak (person: 18410812; 1 matches, dist: 23)
   #           Talon of Blackoak: 29912539
   #           NOT Robert of Hazeltine
   #           NOT Sthurrim Caithnes
   #           NOT Riobard ó Suilleabhain
   #           NOT Elise Jacqueline Touzel
-  #   <-   06/16/1990   L AOA -- Magdalena Vargas de Villasante (person: 9713885, persona: 14690797)
+  #   <-   06/16/1990   L AOA -- Magdalena Vargas de Villasante (person: 14882676, persona: 14690797)
   Talon of Blackoak ==  ! Robert of Hazeltine; Sthurrim Caithnes; Riobard ó Suilleabhain; Elise Jacqueline Touzel
-  #        07/22/2000 AC  Award of Arms -- Una Glor-Airgid (person: 14620241; 1 matches, dist: 23)
+  #        07/22/2000 AC  Award of Arms -- Una Glor-Airgid (person: 20518153; 1 matches, dist: 23)
   #           Una Glor-Airgid: 12260113
-  #           Una the Harper: 14968298
-  #   <-   07/22/2000   L AOA -- Una Glor-Airgid, called Una the Harper (person: 33066190, persona: 32018612)
+  #           Una the Harper: 30658795
+  #   <-   07/22/2000   L AOA -- Una Glor-Airgid, called Una the Harper (person: 25111248, persona: 32018612)
   Una Glor-Airgid == Una the Harper
-  #        11/08/2008 A   Sun and Soil (Beyond the Mountain) -- Vibeke Dejlie Steinnsdottir (person: 3630735; 1 matches, dist: 23)
+  #        11/08/2008 A   Sun and Soil (Beyond the Mountain) -- Vibeke Dejlie Steinnsdottir (person: 33066190; 1 matches, dist: 23)
   #           Vibeke Dejlie Steinnsdottir: 29989279
-  #           Vibeke Steensdottir: 856695
+  #           Vibeke Steensdottir: 18968297
   #           NOT Celest
-  #   <-   11/08/2008   L Sun and Soil (Beyond the Mountain) -- Dom Lourenco Coelho do Buraco (person: 3298195, persona: 5535808)
+  #   <-   11/08/2008   L Sun and Soil (Beyond the Mountain) -- Dom Lourenco Coelho do Buraco (person: 9713885, persona: 5535808)
   Vibeke Dejlie Steinnsdottir == Vibeke Steensdottir ! Celest
-  #        10/14/1978 AC  Burdened Tyger -- Aaron the Stygian (person: 21404936; 1 matches, dist: 24)
-  #           Amron the Stygian: 24899073
+  #        10/14/1978 AC  Burdened Tyger -- Aaron the Stygian (person: 3298195; 1 matches, dist: 24)
+  #           Amron the Stygian: 14620241
   #           Aaron the Stygian: 17908868
   #           NOT Irene von Schmetterling
-  #   <-   10/14/1978   L Burdened Tyger -- Gavain Black Hound of the Horn (person: 19806322, persona: 18961304)
+  #   <-   10/14/1978   L Burdened Tyger -- Gavain Black Hound of the Horn (person: 14968298, persona: 18961304)
   Amron the Stygian == Aaron the Stygian ! Irene von Schmetterling
-  #        10/05/1996 A   Award of Arms -- Borkr Hálftroll Thorbjarnarson (person: 1072986; 1 matches, dist: 24)
+  #        10/05/1996 A   Award of Arms -- Borkr Hálftroll Thorbjarnarson (person: 3630735; 1 matches, dist: 24)
   #           Borkr Hálftroll Thorbjarnarson: 15337530
-  #   <-   10/05/1996   L AOA -- Broderick Wintermane (person: 15702188, persona: 16295814)
+  #   <-   10/05/1996   L AOA -- Broderick Wintermane (person: 856695, persona: 16295814)
   Borkr Hálftroll Thorbjarnarson == 
-  #        07/25/1992 A   Court Baron -- Brion Anthony Uriel Tarragon [from Atenveldt] (person: 10461781; 1 matches, dist: 24)
+  #        07/25/1992 A   Court Baron -- Brion Anthony Uriel Tarragon [from Atenveldt] (person: 24899073; 1 matches, dist: 24)
   #           Brion Anthony Uriel Tarragon: 25047751
-  #   <-   07/25/1992  CL Court Baroness -- Elizabeth Mills of Port Oasis (person: 14958069, persona: 4964337)
+  #   <-   07/25/1992  CL Court Baroness -- Elizabeth Mills of Port Oasis (person: 19806322, persona: 4964337)
   Brion Anthony Uriel Tarragon == 
-  #        09/28/2002 A   Award of Arms -- Browen Rose Greylyng (person: 13696379; 1 matches, dist: 24)
+  #        09/28/2002 A   Award of Arms -- Browen Rose Greylyng (person: 1072986; 1 matches, dist: 24)
   #           Browen Rose Greylyng: 3384105
-  #           Bronwen Rose Greylyng: 15619088
+  #           Bronwen Rose Greylyng: 15702188
   #           NOT Millicient Heath
-  #   <-   09/28/2002  C  Award of Arms -- Julia Palataty Szent Gyorgyi (person: 5934395, persona: 13183044)
+  #   <-   09/28/2002  C  Award of Arms -- Julia Palataty Szent Gyorgyi (person: 21404936, persona: 13183044)
   Browen Rose Greylyng == Bronwen Rose Greylyng ! Millicient Heath
-  #        09/28/2002 A   Award of Arms -- Katharine Tuscher (person: 11649207; 1 matches, dist: 24)
+  #        09/28/2002 A   Award of Arms -- Katharine Tuscher (person: 14958069; 1 matches, dist: 24)
   #           Katharine Tuscher: 1901551
   #           NOT Millicient Heath
-  #   <-   09/28/2002  C  Award of Arms -- Julia Palataty Szent Gyorgyi (person: 5934395, persona: 13183044)
+  #   <-   09/28/2002  C  Award of Arms -- Julia Palataty Szent Gyorgyi (person: 21404936, persona: 13183044)
   Katharine Tuscher ==  ! Millicient Heath
-  #        05/??/1984 A L Award of Arms -- Rohais of Wolfhill (person: 16127487; 1 matches, dist: 24)
+  #        05/??/1984 A L Award of Arms -- Rohais of Wolfhill (person: 5934395; 1 matches, dist: 24)
   #           Rohais of Wolfhill: 12797930
   #           NOT Sean O’Choda
   #           NOT Thorvald Clavvland
   #           NOT Diana merch Morwydd
   #           NOT Alberetta Harsannyi
-  #   <-   05/12/1984  C  Award of Arms -- Cormac MacEamonn na Connemara (person: 31668740, persona: 26432785)
+  #   <-   05/12/1984  C  Award of Arms -- Cormac MacEamonn na Connemara (person: 10461781, persona: 26432785)
   Rohais of Wolfhill ==  ! Sean O’Choda; Thorvald Clavvland; Diana merch Morwydd; Alberetta Harsannyi
-  #        ??/??/1999 A   Salamander (Bhakail) -- Elric of Erehwon (person: 33412827; 1 matches, dist: 25)
+  #        ??/??/1999 A   Salamander (Bhakail) -- Elric of Erehwon (person: 13696379; 1 matches, dist: 25)
   #           Elric of Erehwon: 6622387
   #           NOT Suba al Hadid
-  #   <-   ??/??/1999   L Salamander (Bhakail) -- Margaret the Rueful of Pevensey (person: 1978479, persona: 5945195)
+  #   <-   ??/??/1999   L Salamander (Bhakail) -- Margaret the Rueful of Pevensey (person: 15619088, persona: 5945195)
   Elric of Erehwon ==  ! Suba al Hadid
-  #        08/13/1997 A   Augmentation of Arms -- Guy Lestrange [from Atlantia] (person: 3964479; 1 matches, dist: 26)
+  #        08/13/1997 A   Augmentation of Arms -- Guy Lestrange [from Atlantia] (person: 31668740; 1 matches, dist: 26)
   #           Guy Lestrange: 20193148
   #           NOT Bryan Ennion
   #           NOT Elizabeth Law
-  #   <-   08/13/1997   L Kingdom Augmentation -- Alaric Sartiano von Drachenklaue [from Atlantia] (person: 2419940, persona: 27476529)
+  #   <-   08/13/1997   L Kingdom Augmentation -- Alaric Sartiano von Drachenklaue [from Atlantia] (person: 11649207, persona: 27476529)
   Guy Lestrange ==  ! Bryan Ennion; Elizabeth Law
-  #        08/22/1981 A   Pillar (Bridge) -- Lucasta della Canzona Transalpina (person: 20884949; 1 matches, dist: 26)
+  #        08/22/1981 A   Pillar (Bridge) -- Lucasta della Canzona Transalpina (person: 1978479; 1 matches, dist: 26)
   #           Lucasta della Canzona Transalpina: 25604892
-  #   <-   08/22/1981   L Pillar (Bridge) -- Lucasta (person: 25456053, persona: 2632422)
+  #   <-   08/22/1981   L Pillar (Bridge) -- Lucasta (person: 16127487, persona: 2632422)
   Lucasta della Canzona Transalpina == 
-  #        07/24/1993 AC  Award of Arms -- Su’ad of BBM (person: 10325766; 1 matches, dist: 26)
-  #           Su'ad al-Raqqasah: 32254135
-  #           Su’ad: 23405065
+  #        07/24/1993 AC  Award of Arms -- Su’ad of BBM (person: 25456053; 1 matches, dist: 26)
+  #           Su'ad al-Raqqasah: 2419940
+  #           Su’ad: 3964479
   #           Su’ad of BBM: 18767875
   #           NOT Selena d'Ambra
-  #   <-   07/24/1993   L AOA -- Su'ad [of Barony Beyond the Mountain] (person: 431157, persona: 2318037)
+  #   <-   07/24/1993   L AOA -- Su'ad [of Barony Beyond the Mountain] (person: 33412827, persona: 2318037)
   Su'ad al-Raqqasah == Su’ad; Su’ad of BBM ! Selena d'Ambra
-  #        01/14/1984 A   Award of Arms -- Seamus na Coille Aosda [from An Tir] (person: 12945802; 1 matches, dist: 27)
+  #        01/14/1984 A   Award of Arms -- Seamus na Coille Aosda [from An Tir] (person: 431157; 1 matches, dist: 27)
   #           Seamus na Coille Aosda: 24393018
   #           NOT Joan of Ypres
   #           NOT Helena Brouillard de Matin
-  #   <-   01/14/1984   L AOA -- Rosewitha Magdalene von Bannenberg (person: 1635867, persona: 12775582)
+  #   <-   01/14/1984   L AOA -- Rosewitha Magdalene von Bannenberg (person: 20884949, persona: 12775582)
   Seamus na Coille Aosda ==  ! Joan of Ypres; Helena Brouillard de Matin
-  #        10/16/2004 AC  Award of Arms -- Wolfgar of L'Ile du Dragon Dormant (person: 21246236; 1 matches, dist: 27)
+  #        10/16/2004 AC  Award of Arms -- Wolfgar of L'Ile du Dragon Dormant (person: 23405065; 1 matches, dist: 27)
   #           Wolfgar of L'Ile du Dragon Dormant: 26600825
-  #   <-   10/16/2004   L AOA -- Wolfgar [of L'Ile du Dragon Dormant] (person: 13165893, persona: 23812346)
+  #   <-   10/16/2004   L AOA -- Wolfgar [of L'Ile du Dragon Dormant] (person: 32254135, persona: 23812346)
   Wolfgar of L'Ile du Dragon Dormant == 
-  #        04/??/2006 A   Award of Arms -- Diana Kidder (person: 851107; 1 matches, dist: 28)
+  #        04/??/2006 A   Award of Arms -- Diana Kidder (person: 1635867; 1 matches, dist: 28)
   #           Diana Kidder: 6248065
-  #   <-   04/22/2006  C  Award of Arms -- Raimundo de Cabrera de la Frontera (person: 32785847, persona: 27305162)
+  #   <-   04/22/2006  C  Award of Arms -- Raimundo de Cabrera de la Frontera (person: 10325766, persona: 27305162)
   Diana Kidder == 
-  #        07/16/1994 A   Sagittarius -- Garth of the Forest (person: 30195997; 1 matches, dist: 28)
+  #        07/16/1994 A   Sagittarius -- Garth of the Forest (person: 21246236; 1 matches, dist: 28)
   #           Garth of the Forest: 7919302
-  #           Garth Verminsson Veassllurd: 21872969
-  #   <-   07/16/1994   L Sagittarius -- Garth of the Forest, called Garth Verminsson Veassllurd (person: 10378878, persona: 21041412)
+  #           Garth Verminsson Veassllurd: 13165893
+  #   <-   07/16/1994   L Sagittarius -- Garth of the Forest, called Garth Verminsson Veassllurd (person: 12945802, persona: 21041412)
   Garth of the Forest == Garth Verminsson Veassllurd
-  #        07/14/2012 A   Sagittarius -- Robert Toxophilus of Werchsope (person: 6405047; 1 matches, dist: 28)
+  #        07/14/2012 A   Sagittarius -- Robert Toxophilus of Werchsope (person: 10378878; 1 matches, dist: 28)
   #           Robert Toxophilus of Werchsope: 23387747
-  #           Robert Toxophilus of Werchesope: 21817649
-  #   <-   07/14/2012   L Sagittarius -- Robert of Werchesope called Robert Toxophilus of Werchesope (person: 26903539, persona: 5234518)
+  #           Robert Toxophilus of Werchesope: 851107
+  #   <-   07/14/2012   L Sagittarius -- Robert of Werchesope called Robert Toxophilus of Werchesope (person: 32785847, persona: 5234518)
   Robert Toxophilus of Werchsope == Robert Toxophilus of Werchesope
-  #        06/13/1992 A   Award of Arms -- Athony of Twin Keeps (person: 22654099; 1 matches, dist: 29)
+  #        06/13/1992 A   Award of Arms -- Athony of Twin Keeps (person: 30195997; 1 matches, dist: 29)
   #           Athony of Twin Keeps: 9700272
   #           NOT Heather of Newcastle
   #           NOT Aumaria Vaillant
   #           NOT Catalina Alvarez
-  #   <-   06/13/1992  CL Award of Arms -- Catherine Berylia of the Silver Whistle (person: 7012900, persona: 5007997)
+  #   <-   06/13/1992  CL Award of Arms -- Catherine Berylia of the Silver Whistle (person: 21872969, persona: 5007997)
   Athony of Twin Keeps ==  ! Heather of Newcastle; Aumaria Vaillant; Catalina Alvarez
-  #        08/08/2012 A   Grant of Arms -- Azelin Cola of Wishford (person: 3554936; 1 matches, dist: 29)
+  #        08/08/2012 A   Grant of Arms -- Azelin Cola of Wishford (person: 7012900; 1 matches, dist: 29)
   #           Azelin Cola of Wishford: 21247826
-  #           Ralph the Carter: 26439552
-  #           Azelin Cola: 8211634
-  #   <-   08/08/2012   L Grant of Arms -- Azelin Cola of Wishford Hall called Ralph the Carter (person: 5312145, persona: 13838011)
+  #           Ralph the Carter: 21817649
+  #           Azelin Cola: 6405047
+  #   <-   08/08/2012   L Grant of Arms -- Azelin Cola of Wishford Hall called Ralph the Carter (person: 26903539, persona: 13838011)
   Azelin Cola of Wishford == Ralph the Carter; Azelin Cola
-  #        08/??/1995 A L Award of Arms -- Matteo Alessandro Ulisse Rugieri (person: 23446273; 1 matches, dist: 29)
+  #        08/??/1995 A L Award of Arms -- Matteo Alessandro Ulisse Rugieri (person: 5312145; 1 matches, dist: 29)
   #           Matteo Alessandro Ulisse Rugieri: 30749303
-  #   <-   08/17/1995  C  Award of Arms -- Ariella Fitzgerald of Devonshire (person: 20932237, persona: 22232031)
+  #   <-   08/17/1995  C  Award of Arms -- Ariella Fitzgerald of Devonshire (person: 22654099, persona: 22232031)
   Matteo Alessandro Ulisse Rugieri == 
-  #        01/20/2007 AC  Terpsichore -- Meara of Havre de Glaces (person: 29738240; 1 matches, dist: 30)
-  #           Maire inghean ui Mheardha: 7429444
-  #           Meara of Havre des Glaces AKA Maera: 10637287
-  #           Meara of Havre des Glaces:: 2872672
+  #        01/20/2007 AC  Terpsichore -- Meara of Havre de Glaces (person: 8827256; 1 matches, dist: 30)
+  #           Maire inghean ui Mheardha: 8526090
+  #           Meara of Havre des Glaces AKA Maera: 20579248
+  #           Meara of Havre des Glaces:: 29891460
   #           Meara of Havre de Glaces: 30348759
   #           Meara of Vieux Bourg: 22995378
-  #   <-   01/20/2007   L Terpsichore -- Maire inghean ui Mheardha aka Meara of Havre des Glaces (person: 31831537, persona: 23642960)
+  #   <-   01/20/2007   L Terpsichore -- Maire inghean ui Mheardha aka Meara of Havre des Glaces (person: 26439552, persona: 23642960)
   Maire inghean ui Mheardha == Meara of Havre des Glaces AKA Maera; Meara of Havre des Glaces:; Meara of Havre de Glaces; Meara of Vieux Bourg; Meara
-  #        03/22/1986 A   Award of Arms -- Oswald von dem Grünwald (person: 16890616; 1 matches, dist: 30)
+  #        03/22/1986 A   Award of Arms -- Oswald von dem Grünwald (person: 23446273; 1 matches, dist: 30)
   #           Oswald von dem Grünwald: 14045555
-  #           Oswald von dem Grunwald: 20667449
-  #           Oswald von dem Grunewald: 2338854
-  #   <-   03/22/1986   L AOA -- Eleanora Vittoria Alberti di Calabria (person: 789829, persona: 6080421)
+  #           Oswald von dem Grunwald: 3554936
+  #           Oswald von dem Grunewald: 20932237
+  #   <-   03/22/1986   L AOA -- Eleanora Vittoria Alberti di Calabria (person: 8211634, persona: 6080421)
   Oswald von dem Grünwald == Oswald von dem Grunwald; Oswald von dem Grunewald
-  #        04/01/2006 A   Burdened Tyger -- Alayne Alexandra Nyvern, Nightwatcher (person: 3475464; 1 matches, dist: 31)
+  #        04/01/2006 A   Burdened Tyger -- Alayne Alexandra Nyvern, Nightwatcher (person: 2338854; 1 matches, dist: 31)
   #           Alayne Alexandra Nyvern, Nightwatcher: 19427320
-  #           Alayne ALexandra Nyvern, Nightwatcher: 14301098
-  #           Alayne Alexandra Nyvern Nightwatcher: 8171700
-  #   <-   04/01/2006  C  Burdened Tyger -- Elizabeth (person: 10096927, persona: 30806066)
+  #           Alayne ALexandra Nyvern, Nightwatcher: 789829
+  #           Alayne Alexandra Nyvern Nightwatcher: 20667449
+  #   <-   04/01/2006  C  Burdened Tyger -- Elizabeth (person: 31831537, persona: 30806066)
   Alayne Alexandra Nyvern, Nightwatcher == Alayne ALexandra Nyvern, Nightwatcher; Alayne Alexandra Nyvern Nightwatcher
-  #        04/04/1976 A   Award of Arms -- Yamaguchi Yukio Matsutaro Futoshii no Suo [from Atenveldt] (person: 10296791; 1 matches, dist: 31)
+  #        04/04/1976 A   Award of Arms -- Yamaguchi Yukio Matsutaro Futoshii no Suo [from Atenveldt] (person: 10096927; 1 matches, dist: 31)
   #           Yamaguchi Yukio Matsutaro Futoshii no Suo: 31224411
-  #   <-   04/04/1976   L AOA -- Yukio no Yamaguchi [from Atenveldt] (person: 27419936, persona: 14033441)
+  #   <-   04/04/1976   L AOA -- Yukio no Yamaguchi [from Atenveldt] (person: 16890616, persona: 14033441)
   Yamaguchi Yukio Matsutaro Futoshii no Suo == 
-  #        05/18/1996 A   King's Excellence -- Poulet Gauche Tavern, Proprietors of (person: 21214682; 1 matches, dist: 32)
+  #        05/18/1996 A   King's Excellence -- Poulet Gauche Tavern, Proprietors of (person: 8171700; 1 matches, dist: 32)
   #           Poulet Gauche Tavern, Proprietors of: 15217405
-  #   <-   05/18/1996  C  King's Excellence -- The Proprietors of Le Poulet Gauche (person: 17971360, persona: 16464374)
+  #   <-   05/18/1996  C  King's Excellence -- The Proprietors of Le Poulet Gauche (person: 14301098, persona: 16464374)
   Poulet Gauche Tavern, Proprietors of == 
-  #        05/23/1998 AC  Award of Arms -- Cailean MacKenzie (person: 4744862; 1 matches, dist: 34)
-  #           Cailin mac Eachduinn: 1311953
+  #        05/23/1998 AC  Award of Arms -- Cailean MacKenzie (person: 10296791; 1 matches, dist: 34)
+  #           Cailin mac Eachduinn: 27419936
   #           Cailean MacKenzie: 7325527
-  #   <-   05/23/1998   L AOA -- Derfel Malory, called Scamarax Bearcatcher (person: 5775824, persona: 25366336)
+  #   <-   05/23/1998   L AOA -- Derfel Malory, called Scamarax Bearcatcher (person: 3475464, persona: 25366336)
   Cailin mac Eachduinn == Cailean MacKenzie
-  #        ??/??/1999 A   Grant of Arms -- El of the Two Knives (person: 22580713; 1 matches, dist: 34)
+  #        ??/??/1999 A   Grant of Arms -- El of the Two Knives (person: 5775824; 1 matches, dist: 34)
   #           El of the Two Knives: 3400358
-  #           El of Two Knives: 3433250
-  #   <-   01/30/1999  C  Grant of Arms -- Faoiltigearna Muirinn ni Artain ui Niall (person: 21573905, persona: 28181696)
+  #           El of Two Knives: 21214682
+  #   <-   01/30/1999  C  Grant of Arms -- Faoiltigearna Muirinn ni Artain ui Niall (person: 17971360, persona: 28181696)
   El of the Two Knives == El of Two Knives
-  #        03/29/2008 A   Queen's Honor of Distinction -- Christence Heiseler [Gabriella] (person: 29793898; 1 matches, dist: 105)
+  #        03/29/2008 A   Queen's Honor of Distinction -- Christence Heiseler [Gabriella] (person: 22580713; 1 matches, dist: 105)
   #           Christence Heiseler: 14093868
-  #           Christence Heisler: 28132222
-  #           Christence von Heiseler: 2759314
-  #           Christence von Heisler: 3571435
-  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 13421849, persona: 8939705)
+  #           Christence Heisler: 4744862
+  #           Christence von Heiseler: 21573905
+  #           Christence von Heisler: 3433250
+  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 1311953, persona: 8939705)
   Christence Heiseler == Christence Heisler; Christence von Heiseler; Christence von Heisler
-  #        03/29/2008 A   Queen's Honor of Distinction -- Scheherazade al-Zahira [Gabriella] (person: 15345807; 1 matches, dist: 106)
+  #        03/29/2008 A   Queen's Honor of Distinction -- Scheherazade al-Zahira [Gabriella] (person: 2759314; 1 matches, dist: 106)
   #           Scheherazade al-Zahira: 30509963
-  #           Scheherezade Allowyne: 13267000
-  #           Scheherazade Al-Zahira: 9278442
-  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 13421849, persona: 8939705)
+  #           Scheherezade Allowyne: 13421849
+  #           Scheherazade Al-Zahira: 28132222
+  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 1311953, persona: 8939705)
   Scheherazade al-Zahira == Scheherezade Allowyne; Scheherazade Al-Zahira
-  #        03/29/2008 A   Queen's Honor of Distinction -- William O Donovan of Monmouth [Gabriella] (person: 17218337; 1 matches, dist: 106)
+  #        03/29/2008 A   Queen's Honor of Distinction -- William O Donovan of Monmouth [Gabriella] (person: 17614017; 1 matches, dist: 106)
   #           William O Donovan of Monmouth: 2128009
-  #           Liam St. Liam: 17614017
-  #           William O'Donovan of Monmouth: 21586328
-  #           Liam O’Donnabuhain: 10904484
-  #           Liam O'Donnabuhain: 30916874
-  #           William O Donovan of Monmouth, called Liam St Liam: 29528605
-  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 13421849, persona: 8939705)
+  #           Liam St. Liam: 3571435
+  #           William O'Donovan of Monmouth: 29793898
+  #           Liam O’Donnabuhain: 13267000
+  #           Liam O'Donnabuhain: 9278442
+  #           William O Donovan of Monmouth, called Liam St Liam: 15345807
+  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 1311953, persona: 8939705)
   William O Donovan of Monmouth == Liam St. Liam; William O'Donovan of Monmouth; Liam O’Donnabuhain; Liam O'Donnabuhain; William O Donovan of Monmouth, called Liam St Liam
-  #        03/29/2008 A   Queen's Honor of Distinction -- Andrea Caitlin MacIntyre [Gabriella] (person: 18280076; 1 matches, dist: 107)
+  #        03/29/2008 A   Queen's Honor of Distinction -- Andrea Caitlin MacIntyre [Gabriella] (person: 30916874; 1 matches, dist: 107)
   #           Andrea Caitlin MacIntyre: 21291042
-  #           Andrea Caitlin McIntyre: 15175353
-  #           Andrea MacIntyre: 4930336
-  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 13421849, persona: 8939705)
+  #           Andrea Caitlin McIntyre: 21586328
+  #           Andrea MacIntyre: 10904484
+  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 1311953, persona: 8939705)
   Andrea Caitlin MacIntyre == Andrea Caitlin McIntyre; Andrea MacIntyre
-  #        03/29/2008 A   Queen's Honor of Distinction -- Mary Theophania Hunn [Gabriella] (person: 12634564; 1 matches, dist: 108)
+  #        03/29/2008 A   Queen's Honor of Distinction -- Mary Theophania Hunn [Gabriella] (person: 17218337; 1 matches, dist: 108)
   #           Mary Theophania Hunn: 14909350
-  #           Mary the Hun: 8867011
-  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 13421849, persona: 8939705)
+  #           Mary the Hun: 29528605
+  #   <-   03/29/2008  C  Queen's Honor of Distinction -- East Kingdom Travel Fund Committee:Christence von HeislerLiam St LiamMary Theophania HunnScheherazade al-Zahira Andrea MacIntyre (person: 1311953, persona: 8939705)
   Mary Theophania Hunn == Mary the Hun
 }
 Alpha List {
@@ -80466,10 +80464,10 @@ Alpha List {
     07/04/1981  C  Award of Arms -- Magnua Cnocan-Ioca
   
   == Magnus Blodax ==
-    SEE: Marcus Blödax
+    SEE: Magnus Blödax
   
   == Magnus Blodaxe ==
-    SEE: Marcus Blödax
+    SEE: Magnus Blödax
   
   == Magnus Bloodax ==
     07/03/1982  C  Award of Arms -- Magnus Bloodax
@@ -80477,49 +80475,73 @@ Alpha List {
     01/21/1989  C  Silver Crescent -- Magnus Bloodax
   
   == Magnus Bloodaxe ==
-    SEE: Marcus Blödax
+    SEE: Magnus Blödax
+  
+  == Magnus Blödax [registered] ==
+    AKA: Magnus Blodax
+    AKA: Magnus Blodaxe
+    AKA: Magnus Bloodaxe
+    07/03/1982 A L Award of Arms -- Magnus Blodax
+    01/29/1983 ACL Tygers Combattant -- Magnus Blodax
+    03/16/1985   L Chivalry -- Magnus Blodax
+    03/16/1985 AC  Knight -- Magnus Blodaxe
+    01/21/1989 A L Silver Crescent -- Magnus Blodax
+    10/03/1992 ACL Court Baron -- Magnus Bloodaxe
   
   == Magnus Casius Lucius ==
-    SEE: Marcus Lucius Casius
+    SEE: Magnus Lucius Casius
   
   == Magnus Kowarsky ==
     02/04/2012 ACL Award of Arms -- Magnus Kowarsky
   
   == Magnus Lucius Casius ==
-    SEE: Marcus Lucius Casius
+    AKA: Magnus Casius Lucius
+    AKA: Magnus Lucius Castus
+    02/03/2001 ACL Award of Arms -- Magnus Lucius Castus
+    06/14/2003 ACL Manche -- Magnus Casius Lucius
+    08/16/2005  C  Master of the Laurel -- Magnus Lucius Casius
+    08/17/2005 A L Master of the Laurel -- Magnus Lucius Casius
   
   == Magnus Lucius Castus ==
-    SEE: Marcus Lucius Casius
+    SEE: Magnus Lucius Casius
   
   == Magnus Morte ==
     10/20/2012 A L Fusion (Stonemarche) -- Magnus Morte
   
   == Magnus Sigurdsson ==
-    SEE: Marcus Sigurdsson
+    04/22/2006 ACL Award of Arms -- Magnus Sigurdsson
   
   == Magnus Sverre Haakonson de Londres ==
-    SEE: Marcus Sverre Haakonson de Londres
+    12/09/2000 ACL Award of Arms -- Magnus Sverre Haakonson de Londres
   
-  == Magnus Wolfhunte ==
-    SEE: Marcus Wolfhunte
+  == Magnus Wolfhunte [registered] ==
+    07/24/2004 ACL Award of Arms -- Magnus Wolfhunte
   
   == Magnus de Cnoc an Iora ==
     08/18/1989  C  Knight -- Magnus de Cnoc an Iora
   
   == Magnus fra Iorvik ==
-    SEE: Marcus fra Iorvik
+    06/25/2011 ACL Award of Arms -- Magnus fra Iorvik
+  
+  == Magnus hvalmagi ==
+    AKA: Magnus the Stout
+    AKA: Manus hvalmagi
+    11/05/2011 AC  Award of Arms -- Manus hvalmagi
   
   == Magnus hvalmagi called Maguw the Stout ==
     11/05/2011   L AOA -- Magnus hvalmagi called Maguw the Stout
   
   == Magnus of Bergental ==
-    SEE: Marcus of Bergental
+    04/14/2007 ACL Award of Arms -- Magnus of Bergental
   
   == Magnus of House Bedford ==
-    SEE: Marcus of House Bedford
+    03/09/1991 ACL Award of Arms -- Magnus of House Bedford
+  
+  == Magnus the Oarman ==
+    03/03/1990 A   Award of Arms -- Magnus the Oarman
   
   == Magnus the Stout ==
-    SEE: Marcus hvalmagi
+    SEE: Magnus hvalmagi
   
   == Mahalia Elizabeth Winthrop ==
     10/14/1989 A L Award of Arms -- Mahalia Elizabeth Winthrop
@@ -80878,7 +80900,7 @@ Alpha List {
     08/17/2006 AC  Queen's Honor of Distinction -- Manus O'Kean
   
   == Manus hvalmagi ==
-    SEE: Marcus hvalmagi
+    SEE: Magnus hvalmagi
   
   == Mappindren Farengorn ==
     05/27/1989 A L Award of Arms -- Mappindren Farengorn
@@ -80990,39 +81012,11 @@ Alpha List {
   == Marcus Blackheart ==
     SEE: Marcus Blackaert
   
-  == Marcus Blödax [registered] ==
-    AKA: Magnus Blodax
-    AKA: Magnus Blodaxe
-    AKA: Magnus Bloodaxe
-    07/03/1982 A L Award of Arms -- Magnus Blodax
-    01/29/1983 ACL Tygers Combattant -- Magnus Blodax
-    03/16/1985   L Chivalry -- Magnus Blodax
-    03/16/1985 AC  Knight -- Magnus Blodaxe
-    01/21/1989 A L Silver Crescent -- Magnus Blodax
-    10/03/1992 ACL Court Baron -- Magnus Bloodaxe
-  
   == Marcus Chandernos ==
     11/27/2004 ACL Award of Arms -- Marcus Chandernos
   
-  == Marcus Lucius Casius ==
-    AKA: Magnus Casius Lucius
-    AKA: Magnus Lucius Castus
-    AKA: Magnus Lucius Casius
-    02/03/2001 ACL Award of Arms -- Magnus Lucius Castus
-    06/14/2003 ACL Manche -- Magnus Casius Lucius
-    08/16/2005  C  Master of the Laurel -- Magnus Lucius Casius
-    08/17/2005 A L Master of the Laurel -- Magnus Lucius Casius
-  
   == Marcus Redgate ==
     SEE: Marcus del Cancello Rosso
-  
-  == Marcus Sigurdsson ==
-    AKA: Magnus Sigurdsson
-    04/22/2006 ACL Award of Arms -- Magnus Sigurdsson
-  
-  == Marcus Sverre Haakonson de Londres ==
-    AKA: Magnus Sverre Haakonson de Londres
-    12/09/2000 ACL Award of Arms -- Magnus Sverre Haakonson de Londres
   
   == Marcus Tarius Maximus ==
     09/18/2010 ACL Award of Arms -- Marcus Tarius Maximus
@@ -81034,10 +81028,6 @@ Alpha List {
     04/04/1998  C  Award of Arms -- Marcus Tullius Calvus Cambrensis
     08/??/1999   L Daystar (Carolingia) -- Marcus Tullius Calvus Cambrensis
   
-  == Marcus Wolfhunte [registered] ==
-    AKA: Magnus Wolfhunte
-    07/24/2004 ACL Award of Arms -- Magnus Wolfhunte
-  
   == Marcus d'Orleans [registered] ==
     05/19/2001 ACL Award of Arms -- Marcus d'Orleans
   
@@ -81048,15 +81038,6 @@ Alpha List {
     AKA: Marcus Redgate
     04/18/2009 ACL Award of Arms -- Marcus del Cancello Rosso [Marcus Redgate]
   
-  == Marcus fra Iorvik ==
-    AKA: Magnus fra Iorvik
-    06/25/2011 ACL Award of Arms -- Magnus fra Iorvik
-  
-  == Marcus hvalmagi ==
-    AKA: Magnus the Stout
-    AKA: Manus hvalmagi
-    11/05/2011 AC  Award of Arms -- Manus hvalmagi
-  
   == Marcus mac Pharlain ==
     09/13/2008  C  Award of Arms -- Marcus mac Pharlain
   
@@ -81066,16 +81047,8 @@ Alpha List {
   == Marcus of An Dubhaigeainn ==
     11/22/2003 ACL Tygers Cub -- Marcus of An Dubhaigeainn
   
-  == Marcus of Bergental ==
-    AKA: Magnus of Bergental
-    04/14/2007 ACL Award of Arms -- Magnus of Bergental
-  
   == Marcus of Dragon's Hollow ==
     04/06/1991   L AOA -- Marcus of Dragon's Hollow
-  
-  == Marcus of House Bedford ==
-    AKA: Magnus of House Bedford
-    03/09/1991 ACL Award of Arms -- Magnus of House Bedford
   
   == Marcus of Malagentia ==
     07/15/1995  C  Tygers Cub -- Marcus of Malagentia
@@ -81083,9 +81056,6 @@ Alpha List {
   == Marcus of Sarkel ==
     04/16/1994   L QOC -- Marcus of Sarkel
     04/16/1994   L Grant of Arms -- Marcus of Sarkel
-  
-  == Marcus the Oarman ==
-    03/03/1990 A   Award of Arms -- Marcus the Oarman
   
   == Marea Veronica d'Estoile of Rosewood ==
     AKA: Marea Veronica d’Estoile of Rosewood
