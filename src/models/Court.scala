@@ -73,7 +73,9 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
   // This should only be called if this.matches(other) returned true; it combines the known
   // information between them
   def merge(other:Recognition):Recognition = {
-    Recognition(recipient, award, as,
+    Recognition(
+      if (inCourt) recipient else other.recipient, 
+      award, as,
       if (inCourt) when else other.when,
       if (inCourt) index else other.index,
       if (date.isDefined) date else other.date,

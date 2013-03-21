@@ -71,9 +71,9 @@ class Persona(val scaName:String, var person:Person, val isTypo:Boolean = false)
     val recipient = (if (existing.isDefined) existing.get.recipient else this)
     recipient.awards = existing match {
       // There's already a record, so merge them
-      case Some(other) => other.recipient.awards.filter(_ != other) :+ other.merge(award)
+      case Some(other) => recipient.awards.filter(_ != other) :+ other.merge(award)
       // Didn't find it, so tack it on
-      case None => award +: awards
+      case None => award +: recipient.awards
     }
   }
   

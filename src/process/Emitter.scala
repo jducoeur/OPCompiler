@@ -146,7 +146,7 @@ object Emitter {
       SqlInfo[Person]("atlantian", None,
         SqlField("atlantian_id", (_.id)),
         SqlField("sca_name", (_.mainPersona.scaName)),
-        SqlField("alternate_names", (_.emitAlternateNames.slice(0, 254))),
+        SqlField("alternate_names", (_.emitAlternateNames.map(_.slice(0, 254)))),
         SqlField("gender", (_.emitGender)),
         SqlField("deceased", (_.emitDeceased))
         ))
@@ -204,7 +204,8 @@ object Emitter {
           SqlField("comments", (_.comment)),
           SqlField("court_report_id", (_.when map (_.id))),
           SqlField("branch_id", (_.emitWhere)),
-          SqlField("gender", (_.emitGender))
+          SqlField("gender", (_.emitGender)),
+          SqlField("given_as", (_.recipient.scaName))
         ))
   }
 }
