@@ -146,7 +146,7 @@ object Emitter {
       SqlInfo[Person]("atlantian", None,
         SqlField("atlantian_id", (_.id)),
         SqlField("sca_name", (_.mainPersona.scaName)),
-        SqlField("alternate_names", (_.emitAlternateNames)),
+        SqlField("alternate_names", (_.emitAlternateNames.slice(0, 254))),
         SqlField("gender", (_.emitGender)),
         SqlField("deceased", (_.emitDeceased))
         ))
