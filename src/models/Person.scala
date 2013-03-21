@@ -68,10 +68,21 @@ class Persona(val scaName:String, var person:Person, val isTypo:Boolean = false)
   
   def addAward(award:Recognition) = {
     val existing = allAwards.find(_.matches(award))
-    val recipient = (if (existing.isDefined) existing.get.recipient else this)
+    val recipient = person.mainPersona //(if (existing.isDefined) existing.get.recipient else this)
     recipient.awards = existing match {
       // There's already a record, so merge them
-      case Some(other) => recipient.awards.filter(_ != other) :+ other.merge(award)
+      case Some(other) => {
+//        if (person.mainPersona.scaName.startsWith("Darius")) {
+//          Log.info("Darius: merging " + award + " into " + recipient.scaName + "; initially")
+//          recipient.awards.map(rec => Log.info("     " + rec))
+//        }
+        val result = recipient.awards.filter(_ != other) :+ other.merge(award)
+//        if (person.mainPersona.scaName.startsWith("Darius")) {
+//          Log.info("  then")
+//          result.map(rec => Log.info("     " + rec))
+//        }
+        result
+      }
       // Didn't find it, so tack it on
       case None => award +: recipient.awards
     }
