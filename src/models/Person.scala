@@ -55,6 +55,9 @@ class Persona(val scaName:String, var person:Person, val isTypo:Boolean = false)
   // it is registered.
   var registeredName:Boolean = false
   
+  // Does this persona show up in the alpha listings?
+  var inAlpha:Boolean = false
+  
   // What has been given to this persona?
   var awards:Vector[Recognition] = Vector.empty
   def allAwards = (person.personae :\ Vector.empty[Recognition]) (_.awards ++ _)
@@ -87,8 +90,8 @@ class Persona(val scaName:String, var person:Person, val isTypo:Boolean = false)
       case None => award +: recipient.awards
     }
   }
-  
-  def isMain = this == person.mainPersona
+
+  def isMain = this == person.bestPersona
   
   def mainStr:String = {
     def personaStr(p:Persona):String = {
@@ -146,6 +149,14 @@ class Person(mainPersonaName:String) extends Gendered {
   
   var deceased:Boolean = false
   def emitDeceased = if (deceased) 1 else 0
+  
+  def bestPersona = {
+    val inAlpha = personae.filter(_.inAlpha)
+    if (inAlpha.isEmpty)
+      mainPersona
+    else
+      inAlpha.head  
+  }
   
   // We attempt to suss the person's gender from their personae -- if they are
   // consistent, we use that. Otherwise, we play it safe and leave it unknown for now;

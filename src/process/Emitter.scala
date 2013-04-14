@@ -145,7 +145,7 @@ object Emitter {
     emitSql("Person", Person.allPeople,
       SqlInfo[Person]("atlantian", None,
         SqlField("atlantian_id", (_.id)),
-        SqlField("sca_name", (_.mainPersona.scaName)),
+        SqlField("sca_name", (_.bestPersona.scaName)),
         SqlField("alternate_names", (_.emitAlternateNames.map(_.slice(0, 254)))),
         SqlField("gender", (_.emitGender)),
         SqlField("deceased", (_.emitDeceased))

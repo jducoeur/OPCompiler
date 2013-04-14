@@ -23,6 +23,7 @@ class AlphaParser extends OPFileParser {
     val reg = (name.charAt(0) == '*')
     name = if (reg) name.substring(1) else name
     val persona = getPersona(name)
+    persona.inAlpha = true
     if (reg)
       persona.registeredName = true
     if (deceased)

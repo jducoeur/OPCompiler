@@ -143,7 +143,11 @@ object Deduper {
     
     // If the head is from somewhere else, we don't expect to find a match:
     val result = checkCandidateType(head, candidates, (_.inAlpha), (_.inCourt), (_.inList), (_.where.isEmpty)) ++
-    	checkCandidateType(head, candidates, (_.inAlpha), (_.inList), (_.inCourt))
+    	checkCandidateType(head, candidates, (_.inAlpha), (_.inList), (_.inCourt)) ++
+    	checkCandidateType(head, candidates, (_.inCourt), (_.inList), (_.inAlpha)) ++
+    	checkCandidateType(head, candidates, (_.inCourt), (_.inAlpha), (_.inList)) ++
+    	checkCandidateType(head, candidates, (_.inList), (_.inAlpha), (_.inCourt)) ++
+    	checkCandidateType(head, candidates, (_.inList), (_.inCourt), (_.inAlpha))
     	
     //Log.print("  Filtered:")
     //result.foreach(pair => Log.print("    " + pair.candidate.toString + " (dist: " + pair.dist + ")"))
@@ -182,7 +186,7 @@ object Deduper {
 //      best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
       
       def isStrong = {
-        merge.num > 1 || merge.dist < 22
+        merge.num > 1 || merge.dist < 10
       }
       
       val person = merge.target.person
@@ -238,19 +242,28 @@ object Deduper {
     var ret = ""
     // Note that we intentionally do not rely on the isMain flag any more! That can get easily
     // corrupted by the process.
-    val alphaPersonae = person.personae.filter(_.hasAlphas)
-    val mainPersona = 
+    val alphaPersonae = person.personae.filter(_.inAlpha)
+    var matchAsPrimary = false
+    var mainPersona = 
       (if (alphaPersonae.length > 1) {
         ret += "# Multiple Alpha entries! " + alphaPersonae.map(_.scaName).mkString(", ") + "\n"
         alphaPersonae(0)
       } else if (alphaPersonae.length == 1)
         alphaPersonae(0)
+      else if (allowMerges && person.merges.isDefined) {
+        val matchPersona = person.merges.get.bestPersona.recipient
+        if (matchPersona.inAlpha) {
+          matchAsPrimary = true
+          matchPersona
+        } else
+          person.mainPersona
+      }
       else
         person.mainPersona)
     val nonMain = person.personae.filterNot(_ == mainPersona)
     val (typos,alternates) = nonMain.partition(_.isTypo)
     val altsPlusMerge =
-      (if (allowMerges && person.merges.isDefined)
+      (if (allowMerges && person.merges.isDefined && !matchAsPrimary)
          alternates :+ person.merges.get.bestPersona.recipient
        else
          alternates)
@@ -281,8 +294,10 @@ object Deduper {
             " (" + person.merges.get.num + " matches, dist: " + person.merges.get.dist + ")\n" +
             matchStrs.mkString("\n")
             )
-        println("+ " + formatPerson(person, true))
-        println("- " + formatPerson(person, false))
+        // Enable the first println if presuming correctness, or the second two if reviewing by hand:
+        println(formatPerson(person, true))
+//        println("+ " + formatPerson(person, true))
+//        println("- " + formatPerson(person, false))
       } else if (person.hasAlternates || person.hasFalsePositives) {
         println(formatPerson(person, false))
       }
