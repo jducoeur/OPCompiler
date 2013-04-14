@@ -16,10 +16,8 @@ Abelard Kif de Marseilles == Abelard Keyf de Marseilles
 #   <-   10/10/1987 A L Award of Arms -- Adin Tinkar
 Adin Tinkar == Abn Adin Tinkar
 Abraham ben Aaron == Avrahm ben Aaron; Avrahm ben Aharon
-# Multiple Alpha entries! Abu Mohammed Hassan, Ivan Boychenko, Jean Honnête le Bouquiniste
 Abu Mohammed Hassan == Ivan Boychenko; Jean Honnête le Bouquiniste
 Aceline Barrett of Seven Oaks == Aceline Barratt of Seven Oaks
-# Multiple Alpha entries! Achilles son Asia, Hanse von Drachenklaue
 Achilles son Asia == Achilles (von Drachenklaue); Hanse von Drachenklaue; Hans von Drachenklaue; Achilles von Drachenklaue; Hans von Drachenclaue; Hanse von Drachenclaue
 #        01/28/1989  C  Award of Arms -- Achsa de Beresford (1 matches, dist: 2)
 #   <-   01/28/1989 A L Award of Arms -- Achsa of Beresford
@@ -33,7 +31,6 @@ Adele Krin == Adele Krynn
 #        11/30/1996  C  Award of Arms -- Adele de Leon (1 matches, dist: 2)
 #   <-   11/30/1996 A L Award of Arms -- Adèle de Lyon
 Adèle de Lyon == Adele de Leon
-# Multiple Alpha entries! Adhemar de Villarquamada, Morgan de Villarquamada
 Adhemar de Villarquamada == Morgan de Villarquamada; Adhemar (formerly Morgan) de Villarquamada; Adhemar de Villarquemada; Morgan de Villarquemada
 Adin Tinkar == Abd Adin Tinkar
 Adolphus Benner == Adolphus Brenner; Adolphus Xavier Benner
@@ -53,7 +50,7 @@ Adèle de Lyon == Adele de Lyon
 Aedan MacCormac == “The Provider”; Aedan “The Provider” MacCormac; Aedan MacCormac "The Provider"
 #        09/25/1999  C  Award of Arms -- Aegis (of Mtn. Freehold) (1 matches, dist: 8)
 #   <-   09/25/1999 A L Award of Arms -- Aegis of Mountain Freehold
-Aegis (of Mtn. Freehold) == Aegis of Mountain Freehold
+Aegis von Drachenklaue of Mountain Freehold == Aegis (of Mtn. Freehold)
 Aegis von Drachenklaue of Mountain Freehold == Aegis von Drachenklaue; Aegis of Mountain Freehold; Aegis von Drachenklaue (of Mountain Freehold)
 #        03/18/1978  C  Award of Arms -- Aeleric Basiliskus (2 matches, dist: 10)
 #   <-   03/18/1978   L AOA -- Aeleric Smythe
@@ -82,7 +79,7 @@ Aemelia Weymouth == Amelia Weymouth; Amelia ! Cerridwen ferch Gruffydd
 Aengas Macc Laídig ==  ! Rhiannon Silverwheel; Rosamunde of Axebridge; Heneric aus Madrie; Angus Padgorrhan; Aonghais Og; Conall MacLachlinn; Ras al Zib; Meggan Buchannan
 Aengus Ó Néill == Angus O'Neill; Angus O’Niall; Aengus O Neill; Aonghas O'Niall
 Aesa Burlufóter == Aesa Burlufoter
-Easa Jotunsbane == Aesa Ormstunga; Jotunsbane
+Aesa Ormstunga == Easa Jotunsbane; Jotunsbane
 Aesa Ormstunga call Jotunsbane == Aesa Ormstunga called Jotunsbane
 Aeschere the Dane == Aschere the Dane
 Aethelstan Osricson == Aethelstan Osricson Widfara
@@ -104,11 +101,8 @@ Aibhilin inghean Ui Phaidin == Aibhilin inghean ui Phaidin
 Aiden Broadbear == Aidan Broadbear
 Aidan MacLachlan == Aidan MacLochlain; Aidan MacLochlainn
 Aidan Trevyn Avery == Trevon Avery
-# Multiple Alpha entries! Aife ingen Chonchobair, Aoife inghean Conchobair, Aoife inghean Conchobhair
 Aife ingen Chonchobair == Aoife inghean Conchobair; Aife ingen Chonchabair; Aife inghean Conchobhair; Aife ingen Chonchobair formely; Aoife ingen Conchobair; Aoife inghean Conchobar; Aoife inghean Conchobhair
-# Multiple Alpha entries! Aife ingen ui'Lochain, Aoife ingen ua'Lochan
 Aife ingen ui'Lochain == Aoife ingen ua'Lochan; Aife ingen ui Lochain; Aife of Ostgardr
-# Multiple Alpha entries! Aikaterine FitzWilliam, Katerine FitzWilliam, Ekaterina von Drachenklaue
 Aikaterine FitzWilliam == Katerine FitzWilliam; Aikaterine Lukanina; Katerina Drachenklaue; Aikaterine Fitzwillian; Aikaterine Fitzwilliam; Ekaterina von Drachenklaue; Katerine Fitzwilliam; Aikaterina FitzWilliam; Aikaterine FitWilliam
 #        02/06/1982  C  Award of Arms -- Aikley Remier (1 matches, dist: 5)
 #   <-   02/06/1982   L AOA -- Akiley du Remier
@@ -117,7 +111,6 @@ Aildreda de Tamworthe == Aldreda de Tamwurthe; Dreda; Aildrede de Tamworthe; Ail
 Ailean Mac an Daraich == Ailean Mac an Daroch; Ailean mac an Daroch; Ailan mac an Darach; Ailan mac an Daroch
 Ailill mac Ferchair Ui Diarmata == Ailill Mac Ferchair ui Dhiarmait; Ailill MacFerchair ui Dhiarmait; Aillill Mac Ferhair ui Dhiarmait; Ailill mac Ferchair ui Dhiarmait; Aihill MacFerchair
 Ailionora inghean Ronain == Ailionora inghean Ronan
-# Multiple Alpha entries! Ailís inghean Mhuirghein, Morgan Arianblaidd
 Ailís inghean Mhuirghein == Morgan Arianblaidd; Ailis inghean Muirgen; Ails inghean Mhuirghein; Ailis inghean Mhuirghein
 Aine ingean Ui O'Tuathail == Aine ingean ui O'Tuathail; Aine inghean Ui O'Tuathail
 Aiofe Ingen Cuain == Aiofe ingen Cuain
@@ -134,14 +127,13 @@ Aislinn of Leioness == Aislinn Finnvanna of Leioness
 Aislinn of Stonemarche == Aislinn
 #        01/19/1991  C  Award of Arms -- Ajax (1 matches, dist: 8)
 #   <-   01/19/1991 A L Award of Arms -- Ian Gunn
-Ian Gunn == Ajax
+Ian Gunn == ! Ajax
 #        03/21/1992  C  Tygers Combattant -- Ajax Thermoplicis (1 matches, dist: 4)
 #   <-   03/21/1992   L Tygers Combattant -- Ajax Thermopokles
 Ajax Thermoplicis == Ajax Thermopokles
 #        07/28/1984  C  Award of Arms -- Akivasha Mikroligos (1 matches, dist: 8)
 #   <-   07/28/1984   L AOA -- Arete Mikrologos
 Akivasha Mikroligos == Arete Mikrologos
-# Multiple Alpha entries! Al-Faris Mohammad Sevim Oglu Gowan Oglu, Morgan MacGowan
 Al-Faris Mohammad Sevim Oglu Gowan Oglu == Morgan MacGowan; Mohammad Sevim Oglu Gowan Oglu
 Alain Longship == Ailean Longship; Alein Longship
 #        01/05/1991  C  Award of Arms -- Alain de l’Ours (1 matches, dist: 1)
@@ -173,7 +165,7 @@ Alasdair MacLeod of Durna == Alasdair MacLeod; Alastair MacLeod
 Alasdair Stuart Campbell == Alasdair of Clan Campbell
 #        04/01/1995  C  Award of Arms -- Alathea of Fenwick (1 matches, dist: 1)
 #   <-   04/01/1995 A L Award of Arms -- Alatheia of Fenwick
-Alathea of Fenwick == Alatheia of Fenwick
+Alatheia Fenwick Campbell == Alathea of Fenwick
 Alatheia Fenwick Campbell == Alatheia of Fenwick
 #        04/23/1983  C  Manche -- Alatiel of Readingwood (1 matches, dist: 2)
 #   <-   04/23/1983   L Maunche -- Alantial of Readingwood
@@ -224,9 +216,7 @@ Aleksandra de Accipitre == Aleksandra de Acciptre
 #        10/11/1986  C  Maunche -- Aleksandra d’Accipiter (1 matches, dist: 4)
 #   <-   10/11/1986 A L Manche -- Aleksandra de Accipitre
 Aleksandra de Accipitre == Aleksandra d’Accipiter
-# Multiple Alpha entries! Aleksei Brazhnikov, Duncan MacAndrews
 Aleksei Brazhnikov == Duncan MacAndrews
-# Multiple Alpha entries! Aleksei Dmitriev, Morwyn ferch Gruffyd
 Aleksei Dmitriev == Morwen ferch Gruffydd; Morwyn ferch Gruffyd; Morwyn ferch Gruffydd; Aleksei Dmitriv
 Alesone Gray of Cranleigh == Alesone Gray; Alesone Gray of Cranlegh; Alesone Grey of Cranleigh
 Alessandra Francesca di Milano == Allessandra Francesca di Milano
@@ -292,7 +282,6 @@ Alfred of Blackledge == Alfred of Black Ledge
 #   <-   11/16/1991   L Maunche -- Alfredo el Bufón
 Alfredo el Bufon == Alfredo el Bufón
 Alfrun Alfarsdóttir == Álfrún Álfarsdóttir
-# Multiple Alpha entries! Ali Abbas al Gazzaz, Arab Boy
 Ali Abbas al Gazzaz == Arab Boy; Ali Abbas al Gazzaz (called Arab Boy); Ali Abbas al Gazzaz, called Arab Boy; Ali Abbas al-Gazzaz, called Arab Boy
 Alia Marie de Blois == Marie de Blois; Alia Marie de Blois (aka Marie de Blois)
 #        01/06/1979  C  Fatima -- Alia Vacare (1 matches, dist: 4)
@@ -304,17 +293,15 @@ Alia bint Ulek ibn el Kharish == Alia bint Ulek ibn al Kharish
 Alianor of Ravenglas == Alianor de Ravenglas; Alienor of Ravenglas
 Alianora de l’Alembic == Alinora d’Alembic; Alianora de l'Alembic; Alianora d'Alembic
 Alice Gardener == Alice Gardner; Alice Gardiner; Alys Gardiner
-# Multiple Alpha entries! Alice de Montmedy, Alyce de Montmurdy
 Alice de Montmedy == Alyce de Montmurdy
 #        05/06/1989  C  Award of Arms -- Alicia Langland (1 matches, dist: 1)
 #   <-   05/06/1989   L AOA -- Alicia Langhand
 Alicia Langland == Alicia Langhand
 Alicia Megan de Mont Migelle == Alicia Megan de Mont Mingelle
 Alicia Vespasiana == Alyce Vespasia
-# Multiple Alpha entries! Alicia of Carrigart, Bridget of Carrigart
 Alicia of Carrigart == Bridget of Carrigart
 Alid of Ashwell == Adlid Feie
-Yasmine de Conti-Mercia de Cordoba == Alida de Conti
+Alida de Conti == Yasmine de Conti-Mercia de Cordoba
 Alida dei Conti ==  ! Miriel Verdy; Ekatarina Dimitriov; Caoinlean Seanclough; Christiana de Michele; Christopher Rawlyns; Bronwyn the Cheerful
 #        11/26/1994  C  Silver Crescent -- Alienor Llanfaes (2 matches, dist: 2)
 #   <-   11/26/1994 A L Silver Crescent -- Alienor Llanfair
@@ -343,7 +330,7 @@ Alix d'Amiens == Alix d’Amiens
 #        ??/??/1981  C  Award of Arms -- Alizaunde de Breguf (2 matches, dist: 15)
 #   <-   01/03/1981   L AOA -- Morgan MacLean [from Atenveldt]
 #   <-   01/10/1981 A   Award of Arms -- Morgan MacLean
-Morgan MacLean == Alizaunde de Breguf
+Morgan MacLean == ! Alizaunde de Breguf
 #        12/12/1981  C  Manche -- Alizonde de Bregeuf (2 matches, dist: 2)
 #   <-   12/12/1981 A L Manche -- Alizaunde de Bregeuf
 #   <-   01/23/1982 A L Troubadours -- Alizaunde de Bregeuf
@@ -359,7 +346,6 @@ Allura McKeoch == Allura Rayne McKeoch
 Allyn Min Teanga == Allyn min Teanga
 Allyn of Bayley the Fair == Allen of Bayley the Fair; Allyn of Bayley; Allyn of Bailey
 Alonso Diaz == Alonzo Diaz
-# Multiple Alpha entries! Alpin McKinnon, Ryutsume no Kazoku Ishioka Tora no Botsume
 Alpin McKinnon == Ryutsume no Kazoku Ishioka Tora no Botsume; Alpin MacKinnon
 Alpin the MacGregor of Gotz-Karlsberg == Alpin the MacGregor of Gotz-Karlsburg
 Alric the Blue == Alaric the Blue
@@ -369,7 +355,6 @@ Altani Khatagidai == Altani Khatagi; Altani Khatangi
 #   <-   12/05/1987 A L Award of Arms -- Althea die fast Unschuldige
 Althea die fast Unschuldige == Althea die Fast Unschuldige
 Alys Attewater == Alys Atwater
-# Multiple Alpha entries! Alys Mackyntoich, Ailis Catriona Mac an Toisich
 Alys Mackyntoich == Ailis Catriona Mac an Toisich; Ailis Mac an Toisich; Ailis Catriona mac an Toisich
 #        10/06/1979  C  Terpsichore -- Alyson of Islay (3 matches, dist: 1)
 #   <-   10/06/1979   L Terpsichore -- Alison of Islay
@@ -385,7 +370,6 @@ Amabel Allegra d’Avignon == Amabel Allegra d'Avignon
 #   <-   10/30/1993   L Shield of Chivalry -- Amalric Blackhart
 Amalric Blackhart == Amalric Blackheart
 Amalthea bint Amal Darchealof == Amalthea bint Amal Darcheaolf
-# Multiple Alpha entries! Amand le Braceeur, Amman of Anglespur
 Amand le Braceeur == Amman of Anglespur
 #        11/07/1981  C  Award of Arms -- Amanda of the Strait (1 matches, dist: 9)
 #   <-   11/07/1981   L AOA -- Amanda Elandris of the Strait
@@ -405,7 +389,7 @@ Amee de Jardyn == Amee des Jardyn; Amee des Jardins
 Amee de Jardyn == Amee des Jardyns
 #        09/21/2008  C  Award of Arms -- Amelia vint Wojciech (1 matches, dist: 1)
 #   <-   09/21/2008 A L Award of Arms -- Amelia bint Wojciech
-Amelia vint Wojciech == Amelia bint Wojciech
+Amy Webbe == Amelia vint Wojciech
 Amina of Songhay == Amina (of Settmour Swamp)
 Aminah al-Zahara == Aminah al Zahra; Aaminah al-Hadarah
 Amorel of Glenn Linn == Amorel of Glen Linn; Armorel of Glenn Linn
@@ -415,7 +399,7 @@ Ana Ximenez de Hume == Ana Ximinez de Hume
 Ana bhec inghean ui Fearghail == Ana bhec ighean ui Fearghail
 #        01/??/1983  C  Award of Arms -- Ana-Teresa Rosala y Marcos (1 matches, dist: 2)
 #   <-   01/15/1983 A L Award of Arms -- Ana Theresa Rosala y Marcos
-Ana-Teresa Rosala y Marcos == Ana Theresa Rosala y Marcos
+Ana-Theresa Rosala y Marcos == Ana-Teresa Rosala y Marcos
 Ana-Theresa Rosala y Marcos == Ana Theresa Rosala y Marcos
 #        10/08/1983  C  Award of Arms -- Anaron Caithnes of Wyk (1 matches, dist: 8)
 #   <-   10/08/1983   L AOA -- Alexander Caithnes of Wik
@@ -472,11 +456,11 @@ Ane du Vey == Annet de Vey; Annet de Vey called Ane; Ané du Vey
 Aneleda Cyntheria Falconbridge == Aneleda Falconbridge; Aneledia Cyntheria Falconbridge
 #        08/13/2002  C  Silver Crescent -- Angahard o'r Rhosyn ferch Rhain (1 matches, dist: 2)
 #   <-   08/13/2002 A L Silver Crescent -- Angharad o'r Rhosyn ferch Rhain
-Angahard o'r Rhosyn ferch Rhain == Angharad o'r Rhosyn ferch Rhain
+Angharad verch Rees == Angahard o'r Rhosyn ferch Rhain
 #        05/04/2002  C  Sagittarius -- Angall O'Fearghail (2 matches, dist: 1)
 #   <-   05/04/2002 A L Sagittarius -- Anghall O'Fearghail
 #   <-   05/06/2006 A L Silver Crescent -- Anghall O'Fearghail
-Angall O'Fearghail == Anghall O'Fearghail
+Anghall Ó Fearghail == Angall O'Fearghail
 #        07/26/1997  C  Award of Arms -- Angel of Lion's End (1 matches, dist: 1)
 #   <-   07/26/1997 A L Award of Arms -- Angel of Lion’s End
 Angel of Lion’s End == Angel of Lion's End
@@ -494,7 +478,7 @@ Angharad verch Rees == Angharad y Rhosyn ferch Rhain; Angharad Rhos ferch Rhain;
 Angus Campbell of Argyl, the Tailor == Angus Campbell of Argyle, the Tailor; Angus the Tailor; Angus Campbell of Argyl
 #        05/19/2001  C  Manche -- Angus Campbell of Argylle (1 matches, dist: 2)
 #   <-   05/19/2001 A L Manche -- Angus Campbell of Argyl
-Angus Campbell of Argylle == Angus Campbell of Argyl
+Angus Campbell of Argyl, the Tailor == Angus Campbell of Argylle
 #        07/18/1998  C  Award of Arms -- Angus Ge Fhianna (1 matches, dist: 1)
 #   <-   07/18/1998 A L Award of Arms -- Angus Ge Fhiana
 Angus Ge Fhiana == Angus Ge Fhianna
@@ -504,7 +488,7 @@ Angus Kerr == Angus Pembridge; - Angus Pembridge; Angus Kerr aka - Angus Pembrid
 Angus McGillivray == Angus MacGillivray
 #        08/13/1997  C  Tygers Combattant -- Angus O'Niall (1 matches, dist: 1)
 #   <-   08/13/1997 A L Tygers Combattant -- Angus O’Niall
-Angus O'Niall == Angus O’Niall
+Aengus Ó Néill == Angus O'Niall
 Angus Scrymgeoure == Angus Scrymgeour
 Angus the Pitiful ==  ! Kambreda Spicer; Alexis of Woods End; Roland d’Cunnyhalm; Brandon de la Tournoire; Gabriel of Birkhamstead
 Ankara Lig Niki == Ankara of Glenn Linn; Hanimefendi Ankara Lig Niki
@@ -551,14 +535,12 @@ Anne Guest == Anne de Guest
 #   <-   05/26/1985 A L Award of Arms -- Anna Herold von Ossenheim
 Anna Herold von Ossenheim == Anne Herold von Ossenheim
 Anne Liese Wolkenhaar == Anneliese Wolkenhaar; Anna Liese Wolkenhaar
-# Multiple Alpha entries! Anne Meckil von Salm, Mickel von Salm
 Anne Meckil von Salm == Mickel von Salm; Anna Mickel von Salm
 Anne Wyecliffe == Anne Wycliff; Anne Wyecliff
 #        12/03/1988  C  Award of Arms -- Anne de Tourette (1 matches, dist: 3)
 #   <-   12/03/1988   L AOA -- Anne de la Tourette
 Anne de Tourette == Anne de la Tourette
 Anne of Framlingham == Anne of Framingham
-# Multiple Alpha entries! Anne von Hellestal, Suikazura
 Anne von Hellestal == Ann of Bright Valley; Suikazura; Anna von Hellestal; Anne von Hellestal (aka Ann of Bright Valley, aka Suikazura)
 #        11/19/1994  C  Award of Arms -- Anneke Vandragr (1 matches, dist: 2)
 #   <-   11/19/1994 A L Award of Arms -- Anneke Vaandrager
@@ -589,7 +571,7 @@ Anton Tilwon Steffan == Anton Tilwon Steffanq
 Anton Winteroak == Anton of Winteroak
 #        01/23/1982  C  Award of Arms -- Anton tuante Trebor (1 matches, dist: 2)
 #   <-   01/23/1982 A L Award of Arms -- Antol Tuante Trebor
-Anton tuante Trebor == Antol Tuante Trebor
+Antolin el Tunanté de Treburgos == Anton tuante Trebor
 Antonio Patrasso == Antonio Patriquin; Antonio Patrasso (was Patriquin)
 Antony Martin of Sheffield == Anthony Martin of Sheffield
 Aodhan O Dunlaing == Aodhan Dunlaing
@@ -597,7 +579,7 @@ Aoefe ui Dhonaill == Aoefe (of Smoking Rocks); Aoefe
 Aoibheann Mag Uidhir == Aiobheann Mag Uidhir; Aiobhean Mag Uidhir
 #        05/02/1998  C  Award of Arms -- Aoife inghen ua'Lochan (1 matches, dist: 1)
 #   <-   05/02/1998 A L Award of Arms -- Aoife ingen ua'Lochan
-Aoife ingen ua'Lochan == Aoife inghen ua'Lochan
+Aife ingen ui'Lochain == Aoife inghen ua'Lochan
 Aonghas Mac Labhruinn de Brus == Angus de Bruce; Anghaus MacLabhruinn of Brus; Angus MacClarion de Bruce; Angus McClarion de Brus; Angus mac Labhruinn de Brus; Angus the Bruce; Aonghas mac Labhruinn de Brus; Angus McClarion de Bruce; Anghaus MacClarion de Bruce; Angus Bruce
 Aonghas macDhaibhidh == Aonghas meac Daibhidh; Aonghas mac Dhaibhidh
 Aonghas of Clan Campbell == Angus of Clan Campbell; Aonghus of Clan Campbell
@@ -606,7 +588,6 @@ Apollonia Timandra Domitia == Apollonia Tirnandra Domitia
 Apollonia Voss == Appolonia Voss
 Appolonia Alikonis == Applonia Alikonis
 Aquel of Darksted Wood == Aquel of Darkstead Wood
-# Multiple Alpha entries! Arabella of Thornwood, Layla of Shadowwoods
 Arabella of Thornwood == Arabella Radcliffe; Layla of Shadowwoods
 #        02/20/1982  C  Award of Arms -- Arabis Gan Pwll Deri (1 matches, dist: 5)
 #   <-   02/20/1982   L AOA -- Arabis Pwyll Deri
@@ -654,13 +635,13 @@ Arianna Ravenstar of Wolfwood == “Aja”; Adrianna Ravenstar of Wolfwood; Aria
 Arianna of Wynthrope == Arianne of Wynthrope
 #        05/23/1998  C  Award of Arms -- Arianna of l'Isle du Dragon Dormant (1 matches, dist: 6)
 #   <-   05/23/1998 A L Award of Arms -- Rosa of l'Isle du Dragon Dormant
-Arianna of l'Isle du Dragon Dormant == Rosa of l'Isle du Dragon Dormant
+Rosa of Isle du Dragon Dormant == Arianna of l'Isle du Dragon Dormant
 #        05/18/1991  C  Award of Arms -- Arianna of the North (1 matches, dist: 1)
 #   <-   05/18/1991 A L Award of Arms -- Ariana of the North
 Ariana of the North == Arianna of the North
 #        10/27/2001  C  Award of Arms -- Arianne de Meursault (1 matches, dist: 1)
 #   <-   10/27/2001 A L Award of Arms -- Ariane de Meursault
-Ariane de Meursault == Arianne de Meursault
+Svana Sölgadóttir == Arianne de Meursault
 #        05/13/1995  C  Award of Arms -- Arianwen Esyllt o’r Gwynedd (1 matches, dist: 4)
 #   <-   05/13/1995 A L Award of Arms -- Arianwen Esyllt Gwynedd
 Arianwen Esyllt Gwynedd == Arianwen Esyllt o’r Gwynedd
@@ -710,7 +691,7 @@ Arnwulf Æthelreding == Arnwulf the Red
 Arnwulf Æthelreding == Arnwulf Aethelreding; Arnwulf AEthelreding ! Karrah the Mischevious
 #        07/20/1996  C  Award of Arms -- Arpad A Kellemetlan (1 matches, dist: 1)
 #   <-   07/20/1996 A L Award of Arms -- Arpad a Kellemetlan
-Arpad a Kellemetlan == Arpad A Kellemetlan
+Kellemetlen Árpád == Arpad A Kellemetlan
 #        04/06/1991  C  Maunche -- Arrabis Tarragon (1 matches, dist: 1)
 #   <-   04/06/1991 A L Manche -- Arabis Tarragon
 Arabis Tarragon == Arrabis Tarragon
@@ -719,7 +700,6 @@ Arabis Tarragon == Arrabis Tarragon
 Arianna Maria di Marchesi == Arriana Maria di Marchese
 Artemas Maximus == Artemis Maximus
 Artemas le Beau == Artemis le Beau
-# Multiple Alpha entries! Arthur Watson, Mordred Watson
 Arthur Watson == Artorius Watson; "Artorius"; Mordred Watson; Arturius Watson; Arthur Watson ("Artorious"); Arthur Watson ("Artorius")
 Arthur de Beaumont == Athur de Beaumont ! Hensojin Khan
 Arthur of the Black Marsh == Arther of the Black Marsh
@@ -734,7 +714,6 @@ Arwen Evaine ferch Rhys of Gwynnedd == Arwen Evaine ferch Rhys ap Gwynedd
 Arwen Evaine ferch Rhys of Gwynnedd == Arwen Evaine ferch Rhys ap Gwynnedd
 Arwen Evaine ferch Rhys of Gwynnedd == Arwen Evaine fert Rhys ap Gwynedd; Arwen Evain ferch Rhys of Gwynnedd; Arwen Evaine frech Rhys of Gywnnedd; Arwen Evaine Merch Gwyneth
 Arwen Southernwood == Arwen of Sothernwood
-# Multiple Alpha entries! Aryana van Wyck, Arlyana Van Wyck
 Aryana van Wyck == Arlyana Van Wyck; Arlyana van Wyck
 #        07/16/1988  C  Burdened Tyger -- Asahaito (1 matches, dist: 2)
 #   <-   07/16/1988   L Burdened Tyger -- Ashahito
@@ -761,7 +740,6 @@ Astrach y Zharptitsa == Astrach yo Zhar-Ptitsa
 Astrid Olafsdottir == Astrid of Eisental; Astrid Olafsdatter; Astrid Olafsdattir; Astrid Olafsdotter; Astrid Olafsdottir (*Astrid of Eisental)
 Astrid Sigrun Ulfkillsdottir == Astrid Sigrum Ulfkillsdottir
 Astryda Borowska ==  ! Harald Folkesson; Merrydtydd; Siobhan the Silent; Charles of Caernarvon; Harald Krake Ganglere; Ariane of Clan O’Choda
-# Multiple Alpha entries! Atarah of Montrose, Tara of Montrose
 Atarah of Montrose == Tara of Montrose
 Ateno of Annun Ridge == Aleno of Annen Ridge; Ateno of Annen Ridge; Ateno of Amun Ridge
 Athanasius Biørnovic == Bjornides
@@ -783,13 +761,13 @@ Aurelia Stellari == Aurelia de Stellar
 Aurelia du Vrai Coeur == Aurelia du Coeur Sincère; Aurelia du Coeur Sincere; Aurelia de Vrai Coeur
 #        09/30/2000  C  Award of Arms -- Aurelian Tolbarry (1 matches, dist: 1)
 #   <-   09/30/2000 A L Award of Arms -- Aurelien Tolbarry
-Aurelian Tolbarry == Aurelien Tolbarry
+Arelinda Poincelin == Aurelian Tolbarry
 Aurelie de Montpellier == Aurelie de Montpelier
 Aurelius Penkawr of Lyndhaven == Aurelius of Lyndhaven; Aurelius Pekawr of Lyndhaven
 Auriana Filia Germani == Auriana filia Germani
 #        04/24/1993  C  Award of Arms -- Aurora Folkes (1 matches, dist: 1)
 #   <-   04/24/1993 A L Award of Arms -- Aurora Ffolkes
-Aurora Folkes == Aurora Ffolkes
+Aurora ffolkes == Aurora Folkes
 Aurora Ilfetafether Steorrawuda == Aurora Ilfetafether Steorrawudu; Aurora Ilfetafether of Steorrawudu; Aurora Ilfetafether of Steorrwuda; Aurora Ilfetafether Steorrwuda
 Aurora de Bianco == Aurora DiBinco; Aurora De Bianco
 Aurora ffolkes == Aurora Ffolkes
@@ -803,10 +781,8 @@ Aveline d' Amiens == Aveline d'Amiens
 Avelyn Bisset ==  ! Aelfwyn of Dunmeade; Alberetta Harsannyi
 Averill Danielson == Averil Danielson
 Avice Greylyng == Avice of Greylyng
-# Multiple Alpha entries! Avice de Haliach, Kendra of the Holly Oak
 Avice de Haliach == Kendra of the Holly Oak
 Avraham haRofeh == Avraham ben Shimon ha-Granadi; Avraham
-# Multiple Alpha entries! Avram ben Yakov ha-Yansuf of Stonemarche, David ha-Yansuf ben Nathan, Yansuf ben Nathan
 Avram ben Yakov ha-Yansuf of Stonemarche == David ha-Yansuf ben Nathan; Yansuf ben Nathan
 #        10/15/1988  C  Award of Arms -- Avril Bolle (1 matches, dist: 1)
 #   <-   10/15/1988 A L Award of Arms -- Avril Boulle
@@ -815,12 +791,11 @@ Ayiyah of Endewearde == Aliyah of Endewearde
 #        08/16/1989  C  Award of Arms -- Ayslyn Finesilver (1 matches, dist: 2)
 #   <-   08/16/1989   L AOA -- Aislynn Finesilver
 Ayslyn Finesilver == Aislynn Finesilver
-# Multiple Alpha entries! Azelin Cola of Wishford, Ralph the Carter
 Azelin Cola of Wishford == Ralph the Carter; Azelin Cola
 Azure Brennan == Azure Brennen
 #        07/20/1996  C  Silver Crescent -- A’isha Bint Jamil (1 matches, dist: 1)
 #   <-   07/20/1996 A L Silver Crescent -- A’isha bint Jamil
-A’isha Bint Jamil == A’isha bint Jamil
+A'isha bint Jamil == A’isha Bint Jamil
 Baildrin MacEinri == Baildrain MacEnri; Baildrin MacEnri
 #        06/27/1987  C  Award of Arms -- Balatair de Roden (1 matches, dist: 3)
 #   <-   06/27/1987   L AOA -- Balatair le Roduer
@@ -831,14 +806,12 @@ Balatair la Rodeur == Balatair le Rodeur
 Balfar von Gruenwald == Balfar Von Grunwald; Balfar von dem Grunwald; Balfour von Grunwald; Balfar von Grunwald
 #        01/05/1991  C  Tygers Combattant -- Balfour von Glenvald [sic] (1 matches, dist: 9)
 #   <-   01/05/1991 A L Tygers Combattant -- Balfour von Grunwald
-Balfour von Glenvald [sic] == Balfour von Grunwald
+Balfar von Gruenwald == Balfour von Glenvald [sic]
 #        10/02/2004  C  Valiant Tyger -- Balin de Valiere (1 matches, dist: 1)
 #   <-   10/02/2004 A L Valiant Tyger -- Balien de Valiere
 Balien de Valiere == Balin de Valiere
 Balin the Fairhaired == Balin Fairhaired
-# Multiple Alpha entries! Baliq the Kazar, Giles William Trout, Einar Njorthurson
 Baliq the Kazar == Giles William Trout; Bill Fish; Einar Njorthurson; Baliq the Khazar; Blaliq the Kazar; Einar Njorthurson called Billy Fish; Giles William Trout 
-# Multiple Alpha entries! Baltasar Mondragon, Munenaga Soiichiro, Soiichiro, Waki Souichirou Munenaga
 Baltasar Mondragon == Munenaga Soiichiro; Soiichiro; Waki Souichirou Munenaga
 #        03/19/1983  C  Award of Arms -- Barak Elandris Carthalo (1 matches, dist: 9)
 #   <-   03/19/1983   L AOA -- Barak Carthalo
@@ -887,7 +860,7 @@ Beorhtric von Adlerheim == Beorhtric von Alderheim
 Beowulf Wyrmcleaw tha Meerstapa == Beowulf Mirstapa
 #        03/25/2006  C  Burdened Tyger -- Berelinde Cynewulfsdohter (1 matches, dist: 1)
 #   <-   03/25/2006 A L Burdened Tyger -- Berelinde Cynewulfsdohtor
-Berelinde Cynewulfsdohter == Berelinde Cynewulfsdohtor
+Berelindis filia Cunowulfi == Berelinde Cynewulfsdohter
 Berelindis filia Cunowulfi == Cynewulfdohtor; an Bheithir; Berelinde Cynewulfdohtor; Berelinda an Bheithir; Berelinde an Bheithir; Berelinde Cynewulfsdohtor; Berlinde
 #        08/19/1993  C  Tygers Combattant -- Berengaria d’Hainault (2 matches, dist: 2)
 #   <-   08/19/1993   L Tygers Combattant -- Berengaria de Hainault
@@ -908,12 +881,11 @@ Bhlosgaidh O'Dana Mor == Bhlosgaidh O’Dana Mor
 Bianca Gabrielle di Solari == Bianca Gabrielle Solari
 Bianca Gabrielle di Solari == Bianca Gabrielle
 Bianca of Carolingia? == Bianca
-# Multiple Alpha entries! Big Damn John, John of Ruantallan
 Big Damn John == John of Ruantallan
 Bilgesayer al Hisson the Horse Trader == Bilgesayer the Horse Trader; Bilgesayar the Horse Trader; Bilgisayer al Hisson; Bilgesayar Tazer al Hisoon
 #        08/15/2005  C  Court Baron -- Bilgisayar the Horse Trader (1 matches, dist: 1)
 #   <-   08/15/2005 A L Court Baron -- Bilgesayar the Horse Trader
-Bilgisayar the Horse Trader == Bilgesayar the Horse Trader
+Bilgesayer al Hisson the Horse Trader == Bilgisayar the Horse Trader
 Bislav Yaroslavovich == Bronislav Yarslovovich; Bonislav Yarslovovich
 #        12/12/1981  C  Award of Arms -- Bjorn Karlson (1 matches, dist: 1)
 #   <-   12/12/1981 A L Award of Arms -- Bjorn Karlsson
@@ -921,7 +893,6 @@ Bjorn Karlsson == Bjorn Karlson
 #        03/04/1989  C  Award of Arms -- Bjorn Thorfinsson (1 matches, dist: 1)
 #   <-   03/04/1989 A L Award of Arms -- Bjorn Thorfinssonn
 Bjorn Thorfinssonn == Bjorn Thorfinsson
-# Multiple Alpha entries! Bjorn Urho of the Pines, Urho of the Pines
 Bjorn Urho of the Pines == Urho of the Pines ! Ursel Fredricka Kalweit
 Bjorn the Fair Haired - callled Bear == Bjorn the Fair Haired
 #        08/18/2005  C  Award of Arms -- Bjornulfur Kveldandr (1 matches, dist: 1)
@@ -935,7 +906,6 @@ Blodwen ferch Gruffydd ab Ifor == Blodwen ferch Gruffydd
 #        07/11/1992  C  Manche -- Blosgaidh O’Dana Mor (1 matches, dist: 2)
 #   <-   07/11/1992 A L Manche -- Bhlosgaidh O'Dana Mor
 Bhlosgaidh O'Dana Mor == Blosgaidh O’Dana Mor
-# Multiple Alpha entries! Blutwache, Bloodguard, see Blutwache, House Bloodguard, see Blutwache
 Blutwache == Bloodguard, see Blutwache; Haus; House Bloodguard, see Blutwache; Bloodguard
 Blythe de' Eye == Blythe d'Eye
 Boaz of Zarthan == Boaz of Zartham
@@ -956,9 +926,7 @@ Brak of the Eagle's Eyrie == Brak of the Eagle's Eyre
 #        07/15/1995  C  Award of Arms -- Brandon de la Tournoire (1 matches, dist: 6)
 #   <-   07/15/1995 A L Award of Arms -- Brandon de Tournai
 Brandon de Tournai == Brandon de la Tournoire
-# Multiple Alpha entries! Brangwayna Morgan, wyn Morgan o Aberystwyth
 Brangwayna Morgan == wyn Morgan o Aberystwyth; Bronwyn Morgan o Aberystwyth
-# Multiple Alpha entries! Brannat Dub, Raven Diamont
 Brannat Dub == Raven Diamont; Brannat Dubh; Raven dia Mont; Brannat Dubh called Raven
 Branwen Ottersby ==  ! Ellisif Flakkari
 Branwen filia Iohannis de Monmouth == Branwen filia Iohhanes de Monmouth; Branwen filia Iohannes de Monmouth
@@ -982,7 +950,7 @@ Brendan Olthursson == Brendan Olthursson Veassllurd; Brendan Olthursson Veasslur
 Brendane Brisbane == Brendan Brisbane
 #        04/20/1991  C  Silver Crescent -- Brenden Olthursson Veassllurd (1 matches, dist: 1)
 #   <-   04/20/1991 A L Silver Crescent -- Brendan Olthursson Veassllurd
-Brenden Olthursson Veassllurd == Brendan Olthursson Veassllurd
+Brendan Olthursson == Brenden Olthursson Veassllurd
 Brenden of Dragonship Haven == Skippy; Brenden of Dragonship Haven, called Skippy
 #        09/16/1995  C  Award of Arms -- Brendon Moran (1 matches, dist: 3)
 #   <-   09/16/1995 A L Award of Arms -- Brendan O’Moran
@@ -994,7 +962,6 @@ Briana M'Quharg == Brianna Mahara
 Briana de Luna == Bryn; Brianna; Bryn de la Luna; Bryn of Malagentia
 Brianna Ealhere le Flauteur == Brianna Ealhere le Flauter
 Brianna Healfseaxe == Briane Healfseaxe
-# Multiple Alpha entries! Brianna McBain, Brianna of the Horses
 Brianna McBain == Brianna of the Horses
 #        01/??/1987  C  Award of Arms -- Brianna Vivina Ochoda (1 matches, dist: 2)
 #   <-   01/24/1987 A L Award of Arms -- Brianna Vivina O Choda
@@ -1032,14 +999,14 @@ Brighid ni Chiaráin of Tethba == Brighid ni Chiaran of Tethba
 Brighid ni Chiaráin of Tethba == Brighid ni Ciaran of Tethba
 #        09/20/1998  C  Manche -- Brigid O'Neill (1 matches, dist: 1)
 #   <-   09/20/1998 A L Manche -- Brigid O’Neill
-Brigid O'Neill == Brigid O’Neill
+Brigid O’Neill the Limner == Brigid O'Neill
 Brigid O’Neill the Limner == Brigit O'Niell the Limner; Brigid O'Neill the Limner; Brigid O’Neill; Brigid O Neill; Brigid O’Niell; Brigid O'Niell
 Brigid ingen Loingsigh == Bryg ni Loingsigh
 Brigid of Bethanie == Elsbeth of Northumbria
 #        10/14/1978  C  Award of Arms -- Brigid of Bethany (2 matches, dist: 19)
 #   <-   10/14/1978 A L Award of Arms -- Magdalene of the Unicorn
 #   <-   10/14/1978 A L Burdened Tyger -- Magdalene of the Unicorn
-Magdalene of the Unicorn == Brigid of Bethany
+Magdalene of the Unicorn == ! Brigid of Bethany
 Brigit Comyn == Bridget Comyn
 Brigitte von Eisenburg == Brigitte von Eisenberg; Brigette von Eisenburg
 Brinwen the Fair == Brenwen; Brenwen the Faire; Brenwen the Fair
@@ -1060,11 +1027,10 @@ Brocciardus da Monte == Brocciardus de Monte
 Broch == Brochfael of Anglespur; Broch of Anglespur
 #        04/11/2009  C  Burdened Tyger -- Brochfael the Anglespurian (1 matches, dist: 6)
 #   <-   04/11/2009 A L Burdened Tyger -- Brochfael of Anglespur
-Brochfael the Anglespurian == Brochfael of Anglespur
+Broch == Brochfael the Anglespurian
 #        07/06/1996  C  Golden Rapier -- Brockk Jarlsson (1 matches, dist: 1)
 #   <-   07/06/1996   L Golden Rapier -- Brokk Jarlsson
 Brokk Jarlsson == Brockk Jarlsson
-# Multiple Alpha entries! Broddr Tryggrsson, Tristan of Thunder Mountain
 Broddr Tryggrsson == Tristan of Thunder Mountain
 Brona of Eisental == Brona
 #        10/27/1979  C  Award of Arms -- Bronwyn Guerdemveldt (1 matches, dist: 9)
@@ -1100,12 +1066,11 @@ Bruno Cavavello == Bruno Caravello
 Bryan mac Dhughaill an Boghadair == Bryan MacDunghaill an Boghadir
 #        01/19/1991  C  Maunche -- Bryanna Ysulte Wyman (1 matches, dist: 3)
 #   <-   01/19/1991 A L Manche -- Brianna Yseult Wyman
-Bryanna Ysulte Wyman == Brianna Yseult Wyman
+Brianna Yseulte Wynman == Bryanna Ysulte Wyman
 Bryanna nic Kiley == Bryanna
 #        05/25/1998  C  Award of Arms -- Bryghan MacGuiness (1 matches, dist: 1)
 #   <-   05/25/1998 A L Award of Arms -- Bryghan MacGuinness
 Bryghan MacGuinness == Bryghan MacGuiness
-# Multiple Alpha entries! Bryn Millar, Brynn McLaughlin
 Bryn Millar == Brynn McLaughlin; Brynn MacLaughlin
 Brynhildur Hraffinsdottir == Byrnhildur Hraffinsdottir
 Brynja of Bridge == Brynja
@@ -1131,7 +1096,7 @@ Cairn MacAllister == Cairn MacAllistair
 Cairnait inghean Broin == Cainait inghean Broin
 #        07/22/2000  C  Manche -- Caisin nic Annaidh (1 matches, dist: 2)
 #   <-   07/22/2000 A L Manche -- Cáisín nic Annaidh
-Cáisín nic Annaidh == Caisin nic Annaidh
+Fujiwara no Aoi == Caisin nic Annaidh
 #        01/??/1987  C  Award of Arms -- Caitern Giselasdottir (1 matches, dist: 3)
 #   <-   01/10/1987 A L Award of Arms -- Catherne Giselasdottir
 Catherne Giselasdottir == Caitern Giselasdottir
@@ -1145,7 +1110,7 @@ Caitlin Fraser == Caitlin Frazier
 #        02/27/1993  C  Court Baroness -- Caitlin O’Choda (2 matches, dist: 4)
 #   <-   02/27/1993 A L Court Baroness -- Caitlin O hAodha
 #   <-   02/27/1993 A L Grant of Arms -- Caitlin O hAodha
-Caitlin O’Choda == Caitlin O hAodha
+Caitlin Ó hAodha == Caitlin O’Choda
 #        04/13/1996  C  Manche -- Caitlin Sorcha O’Dochartaigh (1 matches, dist: 4)
 #   <-   04/13/1996 A L Manche -- Caitlin Sorcha O’Doghartie
 Caitlin Sorcha O’Doghartie == Caitlin Sorcha O’Dochartaigh
@@ -1159,7 +1124,7 @@ Caitlin ni Chinneidigh == Caitlin ni Chinnodigh
 Caitlin the Patient == Catelin the Patient
 #        04/03/1993  C  Tygers Cub -- Caitlin von Drachenklaue (1 matches, dist: 1)
 #   <-   04/03/1993 A L Tygers Cub -- Catlin von Drachenklaue
-Catlin von Drachenklaue == Caitlin von Drachenklaue
+Constantine == Caitlin von Drachenklaue
 Caitlin Ó hAodha == Caitlin o hAodha; Caitlin o’Aodha; Caitlin O hAodha
 #        04/01/1978  C  Fatima -- Caitlinn nic Coinnach (1 matches, dist: 2)
 #   <-   04/01/1978   L Fatima -- Caitlin nic Coinnich
@@ -1167,14 +1132,14 @@ Caitlinn nic Coinnach == Caitlin nic Coinnich
 Caitlyne of Concordia == Caitlyne
 Caitrin Maura Gordon == Caitrin Moriah Gordon; Catrin Gordon; Caitrin Gordon
 # Multiple Alpha entries! Caitrina Gordon, Katya Garlicwielder
-Caitrina Gordon == Cairina Gordon; Katja Gordan; Caitrina Gordan; Caitrina Gordon, called Katya; Katya; Katya Garlicwielder; Katya of Concordia
-# Multiple Alpha entries! Caitriona Bennett inghean Niall, Meredith de Witte
+Caitrina Gordon == Cairina Gordon; Katja Gordan; Caitrina Gordan; Caitrina Gordon, called Katya
+Katya Garlicwielder == Katya of Concordia
 Caitriona Bennett inghean Niall == Meredith de Witte
 Caitriona MacDuff == Catriona Mairghread nic Dhuibh of Moray; Catriona MacDuff; Catriona nic Duibh; Catriona Mairghread nic Duibh of Moray; Catriona Mairgread nic Duibh; Catriona Mairghread nic Duibh; Catriona Mairgread nic Dubh of Moray
 Caitriona Meehan == Catriona Meehan
 #        01/28/2006  C  Award of Arms -- Caitriona ingen Rois of Greenwood Isle (1 matches, dist: 6)
 #   <-   01/28/2006 A L Award of Arms -- Caitriona Rois of Greenwood Isle
-Caitriona ingen Rois of Greenwood Isle == Caitriona Rois of Greenwood Isle
+Caitriona of Greenwood Isle == Caitriona ingen Rois of Greenwood Isle
 Caitriona of Greenwood Isle == Caitriona ingen Rois; Caitriona Rois of Greenwood Isle
 #        12/05/1981  C  Award of Arms -- Callahan de Melean (1 matches, dist: 3)
 #   <-   12/05/1981 A L Award of Arms -- Callahan du McLean
@@ -1226,7 +1191,6 @@ Cassair ní Dheoráin == Cassair ni Deoraine
 Cassandra Böll von Bayer == Cassandra Boell von Baer; Cassandra Boll von Bayer; Cassandra Boell von Bayer
 Cassandra Grey of Loch Leven == Cassandra Grey of Lochleven; Cassandra Grey
 Cassandra de Matise == Cassandra Matis; Cassandra de Matisse
-# Multiple Alpha entries! Cassandra la Sable, Morrigan DeWinter
 Cassandra la Sable == Morrigan deWinter; Morrigan DeWinter ! Seelie Brianna Sutherland
 Cassandra of the East Winds == Cassandra of the East Wind
 #        12/17/1983  C  Mistress of the Laurel -- Cassedoria Finniella (1 matches, dist: 3)
@@ -1235,9 +1199,8 @@ Cassedoria Finniella == Cassadoria Finialla
 Cassiodoric Scibulus == Cassiodoric; Cassiodoric Scribulus
 #        06/03/2006  C  Manche -- Catalina Maria Doro (1 matches, dist: 8)
 #   <-   06/03/2006 A L Manche -- Catalina d'Oro
-Catalina Maria Doro == Catalina d'Oro
+Catalina d’Orieux == Catalina Maria Doro
 Catalina d’Orieux == Catalina Maria d’Oro; Catalina d'Oro; Catalina d’Oro
-# Multiple Alpha entries! Cateline la Broderesse, Caitlyn McKenzie
 Cateline la Broderesse == Caitlyn McKenzie; Cateline la Broideresse; Caitlyn MacKenzie
 Caterina Gioacchini == Kasia One-sleeve; Caterina Giaocchini; Caterina Giaoccini; Caterina Giocchini
 #        02/27/1993  C  Award of Arms -- Caterina Schling von Nurnberg (1 matches, dist: 5)
@@ -1269,7 +1232,7 @@ Catrin o'r Rhyd Fôr == Catrin o'r Rhyd For; Catrin o’r Rhyd For; Catrin or Rh
 Catriona Cattanach of Clan Macpherson == Catriona Cattanach of Clan MacPhearson
 #        12/08/1990  C  Award of Arms -- Catriona Mairghread nic Dhuibh (1 matches, dist: 9)
 #   <-   12/08/1990 A L Award of Arms -- Catriona Mairghread nic Dhuibh of Moray
-Catriona Mairghread nic Dhuibh == Catriona Mairghread nic Dhuibh of Moray
+Caitriona MacDuff == Catriona Mairghread nic Dhuibh
 #        09/07/1996  C  Award of Arms -- Catriona doun Patrick (1 matches, dist: 7)
 #   <-   09/07/1996 A L Award of Arms -- Catriona of Downpatrick
 Catriona of Downpatrick == Catriona doun Patrick
@@ -1308,9 +1271,7 @@ Céline Elisabeth de Meaux == Celine Elizabeth de Meaux
 #        04/15/1989  C  Manche -- Celine d’Hermain (1 matches, dist: 1)
 #   <-   04/15/1989   L Maunche -- Celine d'Hermain
 Celine d’Hermain == Celine d'Hermain
-# Multiple Alpha entries! Cellach Mac Faoitigh, Kayleigh McWhyte
 Cellach Mac Faoitigh == Kayleigh McWhyte; Cellach MacFaoitigh; Cellach MacFaotigh
-# Multiple Alpha entries! Cellach ingen Chernaig, Kayla
 Cellach ingen Chernaig == Kayla; Cellach ingen Cearnaigh; Cellach inghen Chernaig; Cellach ingen Chernaigh
 Celyn ap Llewelyn == Celyn ap Lywelln
 Celynen of Stow-on-the-Wold == Ceylnen of Stow-on-the-Wold
@@ -1339,7 +1300,7 @@ Cerridwen Paxton == Cyridwen Paxton
 Ceridwen ferch Gruffudd == Cerridwen ferch Gruffydd
 #        09/10/1988  C  Award of Arms -- Cerridwen (1 matches, dist: 8)
 #   <-   09/10/1988 A L Award of Arms -- Cahan Kyle
-Cerridwynn == Cerridwen; Cahan Kyle
+Cerridwynn == Cerridwen ! Cahan Kyle
 Cerridywn O’Doul == Cerridwyn O'Doul; Cerridwyn O’Doul
 #        09/24/2005  C  Foreign Tyger -- Cet Donegal (1 matches, dist: 1)
 #   <-   09/24/2005 A L Foreign Tyger -- Cett Donegal
@@ -1428,7 +1389,6 @@ Christopher Serpentius == Christopher, son of Darius
 #   <-   10/23/2010 A L Award of Arms -- Christopher de Planchette
 Christopher de Planchette == Christopher de Panchette
 Christopher of Haslingden == Christopher of Halflingden
-# Multiple Alpha entries! Christos di Cherubino, Annabella di Cherubino
 Christos di Cherubino == Annabella di Cherubino; AnnaBella di Cherubino; Annabella de Cherubino; Cristos of ?
 Chritophre Cynwyd == Cristofre Cynwyd
 #        09/12/1987  C  Award of Arms -- Cian Dreamaker Culchullain (1 matches, dist: 1)
@@ -1439,7 +1399,7 @@ Cian ua’Lochan == Cian au’Lochain
 Ciar == Athena; Ciar, called Athena
 #        08/16/1996  C  Laurel -- Ciara di Ravenna (1 matches, dist: 1)
 #   <-   08/16/1996 A L Mistress of the Laurel -- Chiara di Ravenna
-Ciara di Ravenna == Chiara di Ravenna
+Chiara of Ravenna == Ciara di Ravenna
 Ciaran O Tarpa == Ciaran O Tarpa called Armor Breaker
 #        08/17/1995  C  Manche -- Ciaran Redman (1 matches, dist: 1)
 #   <-   08/17/1995   L Maunche -- Ciaran Redmane
@@ -1449,7 +1409,6 @@ Ciaran Redman == Ciaran Redmane
 Ciarán mac Gáeth == Ciaran mac Gaeth
 Ciarnait ighean Bhroin == Ciarnait inghean Bhroin
 Ciarán mac Cionaith == Ciaran mac Cionath; Ciaran MacCiona
-# Multiple Alpha entries! Ciarán mac Gáeth, Kyrnn Wyndsong
 Ciarán mac Gáeth == Kyrnn Wyndsong
 Cienna of Lyonncourt == Cienna Lyonncourt
 #        07/01/1989  C  Award of Arms -- Cieran Mason (1 matches, dist: 1)
@@ -1466,7 +1425,6 @@ Cinniu ingen Cuthbadh == "Tundra"; Cinniu ingen Chuthbad
 #        07/27/1991  C  Terpsichore -- Ciselle du Pont Avignon (1 matches, dist: 1)
 #   <-   07/27/1991 A L Terpsichore -- Giselle du Pont Avignon
 Giselle du Pont Avignon == Ciselle du Pont Avignon
-# Multiple Alpha entries! Clara Beaumont, Leah Anne of Belmont
 Clara Beaumont == Leah Anne of Belmont; Clara de Beaumont; Leah Anne of Belmonte
 Clara da Mungiovi == Clara de Mungiovi
 #        01/27/2007  C  Tygers Cub -- Clareta, daughter of Mahin (1 matches, dist: 2)
@@ -1481,14 +1439,12 @@ Clotilde von der Insel == Clotilde von Insel; Clothilde von der Insel
 #        07/06/1996  C  Manche -- Clotilde von der Insle (1 matches, dist: 2)
 #   <-   07/06/1996 A L Manche -- Clotilde von der Insel
 Clotilde von der Insel == Clotilde von der Insle
-# Multiple Alpha entries! Coalan an Panga Dubh, Kellan
 Coalan an Panga Dubh == Kellan; "Cat"
 Cody Rose of House Valkyrie == Cody-Rose of House Valkyrie; Cody Rose
 #        03/18/1989  C  Award of Arms -- Coel Seabhac (1 matches, dist: 2)
 #   <-   03/18/1989   L AOA -- Ceol Seabhac
 Coel Seabhac == Ceol Seabhac
 Colin Domhnall Douglas == Colin Domhniall Douglas
-# Multiple Alpha entries! Colin Fraser MacLeod, Frasier McCloud
 Colin Fraser MacLeod == Frasier McCloud
 #        10/26/1991  C  Award of Arms -- Colin MacInnes (1 matches, dist: 1)
 #   <-   10/26/1991 A L Award of Arms -- Colin MacInnis
@@ -1535,7 +1491,6 @@ Connor MacSeamus O'Neal == Connor Seamus O’Neill
 Conogan mab Rioc == Conogan mab Rice
 Conor MacKaine == Connor MacKaine
 Conor Ó Ceallaigh == Connor O'Caelleigh; Connor O’Caelliegh; Conor O'Ceallaigh; Connor O’Cealleigh
-# Multiple Alpha entries! Conrad MacAllyn, Konrad von Kunkelsels
 Conrad MacAllyn == Konrad von Kunkelsels; Conrad Connor Mac Allyn; Conrad Connor MacAllyn ! Cullyn MacKinnon
 Conrad MacCallum of Killane == Conrad Macallum Badgeron Veassllurd
 #        01/??/1987  C  Award of Arms -- Conrad van Altmark (1 matches, dist: 1)
@@ -1544,9 +1499,7 @@ Conrad von Altmark == Conrad van Altmark
 Constance de Saint Denis == Constance de St Denis; Constance St. Denis; Constance de St. Denis
 Constance of Purneos == Constance van Buren
 Constance of Whitebirch == Constance of White Birch
-# Multiple Alpha entries! Constancia AElfwinesdottir, Rhianna of Owl’s Reste
 Constancia AElfwinesdottir == Constancia Aelfwinesdottir; Constancia Aelfwine; Rhianna of Owl’s Reste; Constancia of Aelfwine
-# Multiple Alpha entries! Constantine, Catlin von Drachenklaue
 Constantine == Constantinius von Drachenklaue; Catlin von Drachenklaue; Constantine von Drachenklaue; Constantine von Drachenklause ! Konrad Ulm; Brennan mac Fearghus
 Coofwin Glenmass, of House Wind Dragon == Coofwin Glenmass of House Wind Dragon
 #        07/07/1990  C  Award of Arms -- Cordelia McDougalls (1 matches, dist: 2)
@@ -1555,7 +1508,7 @@ Cordelia MacDougall == Cordelia McDougalls
 #        07/27/1996  C  Court Baroness -- Cordelia Thomas (2 matches, dist: 14)
 #   <-   07/27/1996 A L Court Baroness -- Sofia Staritskaia
 #   <-   07/27/1996 A L Grant of Arms -- Sofia Staritskaia
-Sofia Staritskaia == Cordelia Thomas
+Sofia Staritskaia == ! Cordelia Thomas
 #        01/29/1994  C  Award of Arms -- Corliss O’Halloran (1 matches, dist: 1)
 #   <-   01/29/1994 A L Award of Arms -- Corliss O'Halloran
 Corliss O'Halloran == Corliss O’Halloran
@@ -1570,7 +1523,7 @@ Cormac MacEamon na Connemara == Cormac MacEamonn na Conemara
 #   <-   05/12/1984 A L Award of Arms -- Cormac MacEamon na Connemara
 Cormac MacEamon na Connemara == Cormac MacEamonn na Connemara
 # Multiple Alpha entries! Cormac the Teeth, Tanna-Kormakr Makansson
-Cormac the Teeth == Tanna-Kormakr Makansson; Cormac “The Teeth”
+Tanna-Kormakr Makansson == Cormac “The Teeth”; Cormac the Teeth
 Cornelia VandeBrugge == Cornelia van de Brugg
 #        02/11/1989  C  Award of Arms -- Corvus Blackthorn Badgeron (1 matches, dist: 8)
 #   <-   02/11/1989 A L Award of Arms -- Corvus Blackthorne
@@ -1586,7 +1539,6 @@ Sedalia MacNare == Countess Sedalia MacNare
 Cramine the Oud Player == Carmine the Oud Payer; Carmine the Oud Player
 Creatura Christi of Oakes == Creatura Christi of Oaks; Creature Christi of Oaks; Creatura Christi of the Oaks; Creature
 Cristiana ingen Mec-Bead == Cristina inghean Mec-Bead; Christiana inghen mec-Bead
-# Multiple Alpha entries! Cristoff Glocherean von Loch - Aka Cristoff the Clockwork, Christoph the Clockwork
 Cristoff Glocherean von Loch - Aka Cristoff the Clockwork == Cristoff Glocherean von Loch; Christoph the Clockwork; Cristoff Gockerhan von Loch called Christopher the Clockwork; Cristoff Glacherean von Loch
 Cristoforo Donatello dei Visconti == Cristoforo Donatello di Visconti; Christoforo Donatello dei Visconti; Cristoforo dei Visconti
 Cristoforo da Fubine == Cristofero de Fubine; Christopher of Glastonbury
@@ -1609,10 +1561,8 @@ Cyneric Draca-Heafod == Cyneric Dracaheorte
 #        06/29/1991  C  Silver Crescent -- Cyneric Drakenheaft (1 matches, dist: 6)
 #   <-   06/29/1991   L Silver Crescent -- Cyneric Dracaheorte
 Cyneric Drakenheaft == Cyneric Dracaheorte
-# Multiple Alpha entries! Cyngen ap Gwenwynwyn, Arthur Whitewing
 Cyngen ap Gwenwynwyn == Arthur Whitewing
 Cynric Beyond the Mountain == Cyneric of Beyond the Mountain; Cynrick Beyond the Mountain
-# Multiple Alpha entries! Cynthia Waerfaest, Sincgiefu Waerfest
 Cynthia Waerfaest == Sincgiefu Waerfest; Sincgiefu Waerfaest
 Cynthia du Pré Argent == Cynthia du Pres Argent; Cynthia du Pre Argent
 Cynthia of Oakenwode == "Cinder"; Cynthia of Oakenwood; Cynder of Oakenwode; Cinder of Oakenwood; Cynthia (Cyndr) of Oakenwode
@@ -1661,10 +1611,10 @@ Damiano l'Immacolato == Damiano Imaculato
 Damon von Drachenklaue == Damon of Stonemarch; Damon of Stonemarche; Damon
 #        06/13/1981  C  Award of Arms -- DanPira Snowsong (1 matches, dist: 1)
 #   <-   06/13/1981 A L Award of Arms -- Danpira Snowsong
-DanPira Snowsong == Danpira Snowsong
+Danpira Snowsong of Skyhaven == DanPira Snowsong
 #        10/05/1996  C  Maunche -- Danabren Mdadh-mara (1 matches, dist: 1)
 #   <-   10/05/1996 A L Manche -- Danabren Mdadh-Mara
-Danabren Mdadh-mara == Danabren Mdadh-Mara
+Dwynwen of Padstowe == Danabren Mdadh-mara
 #        04/01/1989  C  Terpsichore -- Dani of Seven Wells (1 matches, dist: 4)
 #   <-   04/01/1989   L Terpsichore -- Dani of the Seven Wells
 Dani of Seven Wells == Dani of the Seven Wells
@@ -1693,13 +1643,12 @@ Darerca Ní Dhonndubháin == Darerca ni Dhonndhubhain; Darerca ni Dhonndubhain
 #   <-   01/29/1994 A L Grant of Arms -- Daria Joan de Courtenay
 Daria Joan de Courtenay == Daria Joan Courtney
 Daria Joan de Courtenay == Daria Joan de Courtney
-# Multiple Alpha entries! Darius Aurelius, Gunther de Milo
 Darius Aurelius == Serpentius; Gunther de Milo; the Disciple; Pathwarden; Darius Orientalis; Darius Aurelius Serpentius; Johan Kronenwache; ; Johan Kronenwacke; Gunther Pathwarden; Gunther Kronnewache; Gunther de Milo; the Disciple; Pathwarden; the Disciple; ! Marian O'Néill; Dan Hornblower; Veleda of Dalriata
 #        06/25/1988  C  Award of Arms -- Darryl of Avalon (3 matches, dist: 1)
 #   <-   06/25/1988 A L Award of Arms -- Daryl of Avalon
 #   <-   08/18/1988 A L Sagittarius -- Daryl of Avalon
 #   <-   02/03/1990 A L Manche -- Daryl of Avalon
-Darryl of Avalon == Daryl of Avalon
+Daryl of Avallon == Darryl of Avalon
 #        01/??/1983  C  Award of Arms -- Darvula von Schwarzwald (1 matches, dist: 7)
 #   <-   01/29/1983 A L Award of Arms -- Darvula Hedwig von Schwarzwald
 Darvula Hedwig von Schwarzwald == Darvula von Schwarzwald
@@ -1720,7 +1669,7 @@ David MacDougall == David McDougalls
 David fitzRobert de Lincoln == David FitzRobert
 #        11/25/1995  C  Award of Arms -- David of Huntindon (1 matches, dist: 1)
 #   <-   11/25/1995 A L Award of Arms -- David of Huntingdon
-David of Huntingdon == David of Huntindon
+Wynfriđ æt Huntandune == David of Huntindon
 #        12/13/1986  C  Award of Arms -- Davide Michellotto (1 matches, dist: 1)
 #   <-   12/13/1986   L AOA -- David Michellotto
 Davide Michellotto == David Michellotto
@@ -1758,7 +1707,6 @@ Dalla Olafskona == Della Olafskona
 #        03/25/2006  C  Award of Arms -- Demi La Roux d'Avignon (1 matches, dist: 1)
 #   <-   03/25/2006 A L Award of Arms -- Demi la Roux d'Avignon
 Demi la Roux d'Avignon == Demi La Roux d'Avignon
-# Multiple Alpha entries! Demi la Roux d'Avignon, Damiana d"Avignon
 Demi la Roux d'Avignon == Damiana d"Avignon; Damiana d'Avignon called Demi; Damiana d'Avignon
 #        09/16/1989  C  Award of Arms -- Dennis the Decadent (1 matches, dist: 2)
 #   <-   09/16/1989   L AOA -- Denys the Decadent
@@ -1791,7 +1739,7 @@ Deormund Wulfscyld == Deormund Wulfscyild
 #        04/05/1997  C  Award of Arms -- Derek von Schwartzwald (1 matches, dist: 1)
 #   <-   04/05/1997 A L Award of Arms -- Derek vom Schwartzwald
 Derek vom Schwartzwald == Derek von Schwartzwald
-Scaramax Bearcatcher == Derfel Malory
+Derfel Malory == Scaramax Bearcatcher
 #        04/15/1989  C  Silver Crescent -- Devon Adair Bartholemy (1 matches, dist: 1)
 #   <-   04/15/1989   L Silver Crescent -- Devin Adair Bartholemy
 Devon Adair Bartholemy == Devin Adair Bartholemy
@@ -1809,7 +1757,7 @@ Dhanwanti of Varanasi == Dhanwanti
 #        04/01/2006  C  Court Baron -- Dharr al Shatir ibn Abdul Muntaquim (2 matches, dist: 1)
 #   <-   04/01/2006 A L Court Baron -- Dharr al-Shatir ibn Abdul Muntaquim
 #   <-   04/01/2006 A L Grant of Arms -- Dharr al-Shatir ibn Abdul Muntaquim
-Dharr al Shatir ibn Abdul Muntaquim == Dharr al-Shatir ibn Abdul Muntaquim
+Dharr al-Shaatir ibn Abd al-Muntaquim == Dharr al Shatir ibn Abdul Muntaquim
 Dharr al-Shaatir ibn Abd al-Muntaquim == Dharr al Shatir ibn Abdul Muntaguim; Dharr al-Shatir ibn Abdul Muntaquim
 Diana ferch Morfudd == Diana ferch Morwyddd ! Arnwulf Aethelredding; Ingrid von Baumgarten
 #        05/12/1984  C  Award of Arms -- Diana merch Morwydd (1 matches, dist: 3)
@@ -1827,7 +1775,7 @@ Diarmaid O Briain == Diarmaid Ui Brian
 Diarmait Ó Meachair == Daimait O'Meachair
 #        09/30/1995  C  Award of Arms -- Diddanwy Caddfarh (1 matches, dist: 5)
 #   <-   09/30/1995 A L Award of Arms -- Diddanwy Gathfac
-Diddanwy Caddfarh == Diddanwy Gathfac
+Efa Gath fach == Diddanwy Caddfarh
 Diedre Lillith Nasrin == Gypsy; Diedre Lillith Nasrin, called Gypsy
 #        02/11/1995  C  Court Baroness -- Diedre de la Fleur (1 matches, dist: 2)
 #   <-   02/11/1995   L Court Barony -- Deirdre de la Fleur
@@ -1850,7 +1798,6 @@ Ding Li Ying == Ding Li Ying Nu Shr
 #        10/??/1988  C  Award of Arms -- Dinsdale of Northumberland (1 matches, dist: 4)
 #   <-   10/22/1988 A L Award of Arms -- Dinsdale of Northumbria
 Dinsdale of Northumbria == Dinsdale of Northumberland
-# Multiple Alpha entries! Diomedes Sebastianus, Sextus Rufus Dio Sebastianus
 Diomedes Sebastianus == Sextus Rufus Dio Sebastianus
 Dmitri Bluestone == Dimitri Bluestone
 Dofinn-Hallr Morrisson == Doffin-Hallr Morrison; Dorfinn-Hallr Morrisson; Dofinn-Hallr Morrison
@@ -1902,7 +1849,7 @@ Dereg Doom == Dreg Doom
 #        01/23/1999  C  Mistress of the Pelican -- Dresden Penello di Quadro Voce (2 matches, dist: 1)
 #   <-   01/23/1999 A L Mistress of the Pelican -- Dresden Pennello di Quadro Voce
 #   <-   09/25/1999 A L Manche -- Dresden Pennello di Quadro Voce
-Dresden Pennello di Quadro Voce == Dresden Penello di Quadro Voce
+Giovanna del Penna == Dresden Penello di Quadro Voce
 Dreux de Rouen, dit le Mailleur == Dreux le Mailleur
 #        01/08/2000  C  Award of Arms -- Drogo of Lympha Profunda2 (1 matches, dist: 1)
 #   <-   01/08/2000 A L Award of Arms -- Drogo of Lympha Profunda
@@ -1922,7 +1869,6 @@ Dugan Makgowin of Aydel == Dugan MacGowan; Dugan McGowan ! Dugan MacKinnon
 Dughal McCafferty == Dugal McCafferty; Dougall MacCafferty
 Dughall MacAran == Dougal MacAran; Dhughall MacAran; Dhugall MacAran
 Dulcinea from the Moor == Dulcinea of the Moors; Dulcinea from the Moors
-# Multiple Alpha entries! Dumain de Voebon, Jimmu
 Dumain de Voebon == Jimmu; Dumain de Voebon, called Jimmu
 #        07/01/1989  C  Award of Arms -- Duncan Mac Eardadh (1 matches, dist: 5)
 #   <-   07/01/1989 A L Award of Arms -- Duncan Mac na Ceardadh
@@ -1931,12 +1877,12 @@ Duncan Mac na Ceardadh == Duncan mac na Ceardadh; Duncan Mac Na Cear Dadh
 #        09/24/2005  C  Court Baron -- Duncan Mac ne Ceardadh (2 matches, dist: 2)
 #   <-   09/24/2005 A L Court Baron -- Duncan mac na Ceardadh
 #   <-   09/24/2005 A L Grant of Arms -- Duncan mac na Ceardadh
-Duncan Mac ne Ceardadh == Duncan mac na Ceardadh
+Duncan Mac na Ceardadh == Duncan Mac ne Ceardadh
 Duncan MacBain == Duncan Stuart MacBain; Duncan Stuart McBain
 Duncan MacFergus of Kintyre == Ducan MacFergus of Kintyre
 #        09/27/1997  C  Award of Arms -- Duncan MacKinnon (1 matches, dist: 1)
 #   <-   09/27/1997 A L Award of Arms -- Duncan McKinnon
-Duncan MacKinnon == Duncan McKinnon
+Duncan McKinnon of Strathardale == Duncan MacKinnon
 Duncan McKinnon of Strathardale == Duncan of the Bridge; Duncan McKinnon
 Duncan Thorfinn == Duncan Thorfin
 Duncan Thorfinnsson == Duncan Thorfinsson; Duncan Thorfinnson
@@ -1956,16 +1902,15 @@ Dusan Jakovcic Vovkaj == Dusan Jakovic Vovkaj
 #   <-   03/16/1996   L Court Barony -- Dwane Shinnock
 #   <-   03/16/1996   L Grant of Arms -- Dwane Shinnock
 Dwayne Shinnock == Dwane Shinnock
-# Multiple Alpha entries! Dwynwen of Padstowe, Danabren Madadh-Mara
 Dwynwen of Padstowe == Danabren Madadh-Mara; Danabren; Danabren Madah-Mara; Danabren Madathmara; Danabren Mdadh-Mara ! Conannan MacGrath
 Dyan O'Choda == Dyan O’Choda
 #        09/30/1995  C  Court Baroness -- Dyan of Clan O’Choda (2 matches, dist: 8)
 #   <-   09/30/1995 A L Court Baroness -- Dyan O’Choda
 #   <-   09/30/1995 A L Grant of Arms -- Dyan O’Choda
-Dyan of Clan O’Choda == Dyan O’Choda
+Dyan O'Choda == Dyan of Clan O’Choda
 #        04/16/1988  C  Queen's Courtesy -- Dyan of Clann O’Choda (1 matches, dist: 9)
 #   <-   04/16/1988 A L Queen's Courtesy -- Dyan O’Choda
-Dyan of Clann O’Choda == Dyan O’Choda
+Dyan O'Choda == Dyan of Clann O’Choda
 #        03/10/1990  C  Maunche -- Dylan Gruffydd (1 matches, dist: 9)
 #   <-   03/10/1990 A L Manche -- Dylan Fitzgerald
 Dylan Fitzgerald == Dylan Gruffydd
@@ -1979,7 +1924,6 @@ Eadrich Stoirmtorc == Eadrich Storimtorc
 #        07/15/2006  C  Sagittarius -- Eadwyn aet Hraefneshyrste (1 matches, dist: 1)
 #   <-   07/15/2006 A L Sagittarius -- Eadwynn aet Hraefneshyrste
 Eadwynn aet Hraefneshyrste == Eadwyn aet Hraefneshyrste
-# Multiple Alpha entries! Eadwynn aet Hraefneshyrste, Edwina of Ravenhurst
 Eadwynn aet Hraefneshyrste == Edwina of Ravenhurst
 Eala Bhan ni Aoidh == Eala Bhan nic Aoidh
 #        10/15/1988  C  Duke -- Earl Gavin Kilkenny of Kilcarren (1 matches, dist: 5)
@@ -2029,7 +1973,6 @@ Edwin Beerslayer == Edwin Bearslayer
 Edwyn Beerslayer == Edwin Beerslayer
 #        04/03/2004 A   Queen's Cypher -- Efa Gath fach [Luna IV] (1 matches, dist: 9)
 #   <-   04/03/2004  C  Queen's Cypher -- Efeilian ferch Owain ap Bleddyn
-# Multiple Alpha entries! Efa Gath fach, Dyddanwy Gathfach
 Efa Gath fach == Parsley; Diddanwy Gathfac; Dyddanwy Gathfach; Efeilian Gathfach ferch Owain ap Bleddyn; Eifeilian Gathfach ferch Owain ap Bleddyn; Efelilian Gathfach ferch Owain ap Bleddyn; Eifeilian Gathfach ferch Owain ap Belddyn; Efeilian ferch Owain ap Bleddyn
 #        01/30/2010  C  Manche -- Efa verch Cynan (1 matches, dist: 1)
 #   <-   01/30/2010 A L Manche -- Efa ferch Cynan
@@ -2076,7 +2019,7 @@ El of the Two Knives == El of Two Knives
 #        ??/??/1981  C  Award of Arms -- Elain of Oaklawn (2 matches, dist: 13)
 #   <-   01/03/1981   L AOA -- Morgan MacLean [from Atenveldt]
 #   <-   01/10/1981 A   Award of Arms -- Morgan MacLean
-Morgan MacLean == Elain of Oaklawn
+Morgan MacLean == ! Elain of Oaklawn
 Elaine Courtenay == Elayne Courtney; Elayne Courtenay
 #        02/02/1991  C  Award of Arms -- Elaine Esperance (1 matches, dist: 2)
 #   <-   02/02/1991   L AOA -- Eliane Esperance
@@ -2086,7 +2029,6 @@ Elazar ben Shmuel == Elazar ha-Kanay; Eleazar the Zealot; Elazar ben Shemuel ha 
 #   <-   04/05/1986 A L Troubadours -- Eldorane de Eldolo
 #   <-   04/05/1986 A L Award of Arms -- Eldorane de Eldolo
 Eldorane de Eldolo == Eldorane de Edolo
-# Multiple Alpha entries! Eldrich Gaiman, Eldritch of Sylvan Glen
 Eldrich Gaiman == Eldritch of Sylvan Glen; Eldritch Gaiman
 #        09/15/1973  C  Award of Arms -- Eleanoir of Shire (1 matches, dist: 1)
 #   <-   09/15/1973 A L Award of Arms -- Eleanor of Shire
@@ -2097,7 +2039,6 @@ Eleanor Catlyn == Eleanor Catlyng; Eleanor of Southbanke
 #   <-   09/16/2000 A L Silver Crescent -- Eleanor FitzPatrick
 Eleanor FitzPatrick == Eleanor Fitz Patrick
 Eleanor FitzPatrick == Eleanor Fitzpatrick
-# Multiple Alpha entries! Eleanor Lebrun, Lorin the Not Much
 Eleanor Lebrun == Lorin the Not Much; Eleanor le Brun; Lauren the Not Much ! Byranna of Concordia
 Eleanor atte Knolle == Eleanor Atte Knolle; Eleanor atte Knoll
 #        05/18/1996  C  Award of Arms -- Eleanor of Mithgard (1 matches, dist: 1)
@@ -2107,7 +2048,6 @@ Eleanor of Silveroak == Elanor of Silver Oak; Eleanor of Silver Oak
 Eleanor the Faire == Eleanore the Faire; Eleanor the Fair
 Eleanora Stewart == Nora; Eleanora Stewart, called Nora
 Eleazar ha Levi == Eleazor ha-Levi; Eleazar ha-Levi
-# Multiple Alpha entries! Elen Alswith of Eriskay, Alsvid Annarin
 Elen Alswith of Eriskay == Alsvid Annarin; Alsvith Annarin; Elen Alswyth of Eriskay
 Elena Norreys == Elena Norrys
 #        01/12/1985  C  Manche -- Elene de Bruges (1 matches, dist: 1)
@@ -2119,7 +2059,7 @@ Elene of Lochcarron == Elene of Locharran; Eleyne of Locarron; Elyene of Locarro
 Eleanor FitzPatrick == Elenor FitzPatric
 #        02/03/1996  C  Award of Arms -- Elenor of Southbanke (1 matches, dist: 1)
 #   <-   02/03/1996 A L Award of Arms -- Eleanor of Southbanke
-Elenor of Southbanke == Eleanor of Southbanke
+Eleanor Catlyn == Elenor of Southbanke
 #        10/14/2000  C  Award of Arms -- Eleyne de Combourg (1 matches, dist: 1)
 #   <-   10/14/2000 A L Award of Arms -- Elleyne de Combourg
 Elleyne de Combourg == Eleyne de Combourg
@@ -2132,17 +2072,15 @@ Elfrida Peregrina == Elfrida Perigrynna
 Elglin of House Eagle ==  ! Sighulf Storsl; Alafrik Agmundsson Bleke; Stanislav Dumbrovski; Rodbert Rodulfsson
 Eliane Esperance ==  ! Ynyr ap Rhys Mefusen; Vladislav the Transparent
 Elias Barbarossa von Zweibrucken == Elias Barbarossa van Zweibrucken; Elias Barbarossa von Zweibruoken
-# Multiple Alpha entries! Elias Gedney, Brandubh Mag Oireachtaigh
 Elias Gedney == Brandubh Mag Oireachtaigh; Brandub Mag Oireachtaigh; Bran dubh Magoireachteagh ! Dyan O’Choda; Sirhan al Sian; Angharad ferch Owen
 Elinor Annora ferch Llewelyn == "Silverquill"; Elinor Annarae ferch Llewlyn; Elinor Annora ferch Llwewlyn; Elinor of Silverquill; Elinor Silverquill
 Elinor Strangewayes == Elinor Strangeways
 Elisabeth Greenleaf == Elizabeth Greenleaf
 Elisabeth of Concordia == Elizabeth of Concordia
-# Multiple Alpha entries! Elisabetta Tempesta, Elizabeth of Owl's Reste
 Elisabetta Tempesta == Elizabeth of Owl's Reste
 #        08/12/1992  C  Award of Arms -- Elise Morgan ferch Owen (1 matches, dist: 5)
 #   <-   08/12/1992 A L Award of Arms -- Elise Morgan ap Owen
-Elise Morgan ferch Owen == Elise Morgan ap Owen
+Elise ferch Morgan ap Owen == Elise Morgan ferch Owen
 Elise ferch Morgan ap Owen == Elise ferch Morgan; Elise Morgan ap Owen ! Active Scribes of the East
 #        01/21/1984  C  Award of Arms -- Elisha MacLeod (1 matches, dist: 1)
 #   <-   01/21/1984   L AOA -- Alisha MacLeod
@@ -2160,7 +2098,6 @@ Elizabeth Cameron nic Iain == Elizabeth Camerona nic Ian
 #   <-   08/17/1996   L Silver Crescent -- Elizabeth Canynges the Ravenhaired
 Elizabeth Can Engyes the Raven Haired == Elizabeth Canynges the Ravenhaired
 Elizabeth Curwen == Elizabeth Curwin
-# Multiple Alpha entries! Elizabeth Darnley, Bess Darnsley
 Elizabeth Darnley == Bess Darnsley; Elisabeth Darnley; Elisabeth Darnsley; Bess Darnley
 #        10/02/1982  C  Award of Arms -- Elizabeth Elandris of Blackwood (1 matches, dist: 9)
 #   <-   10/02/1982 A L Award of Arms -- Elizabeth of Blackwood
@@ -2176,10 +2113,9 @@ Elizabeth Idlewine == “Verily”
 #        04/01/2006  C  Burdened Tyger -- Elizabeth (1 matches, dist: 7)
 #   <-   04/01/2006 A L Burdened Tyger -- Elizabeth Darnley
 # Multiple Alpha entries! Elizabeth McFarland, Elizabeth
-Elizabeth McFarland == "Mom"; Elizabeth McFarland, called "Mom"; Mom; Elizabeth called Mom; Elizabeth; Elizabeth Darnley
+Elizabeth McFarland == "Mom"; Elizabeth McFarland, called "Mom"; Mom; Elizabeth called Mom ! Elizabeth Darnley, Elizabeth
 Elizabeth Rosa della Morta == Elspeth Rosa della Morta
 Elizabeth Talbot of Meath == Elizabeth Talbot
-# Multiple Alpha entries! Elizabeth Vynehorn, Muirne ni Cormaic
 Elizabeth Vynehorn == Muirne ni Cormaic; Muirne ni Cormac; Muirne nic Cormac
 Elizabeth mac Neachtan == Elizabeth mac Neachtain
 Elizabeth of Carrigart == Elizabeth of Preston
@@ -2220,7 +2156,7 @@ Elspeth Keyf of Neddingham == Elspeth of Neddingham; Elspeth Keyfe of Neddingham
 Elspeth Livingston == Elspeth Livingstone; Elizabeth Livingstone
 #        10/24/1987  C  Award of Arms -- Elspeth ap Myrrdin (1 matches, dist: 1)
 #   <-   10/24/1987 A L Award of Arms -- Elspeth ap Myrddin
-Elspeth ap Myrrdin == Elspeth ap Myrddin
+Elspeth y Gweledydd == Elspeth ap Myrrdin
 Elspeth y Gweledydd == Elspeth ap Myrddin
 #        01/02/1993  C  Manche -- Elspeth y Gweleydd (1 matches, dist: 1)
 #   <-   01/02/1993 A L Manche -- Elspeth y Gweledydd
@@ -2230,7 +2166,6 @@ Elspeth y Gweledydd == Elspeth y Gweleydd
 Elwisia Mouche de Voujeaucourt == Elwisa Mouche do Voujeacourt
 Elwisia Mouche de Voujeaucourt == Elwisia Mouche de Voujecourt; Elwisia Mouche de Voujeacourt
 Elwynne Rowenna of Wentworth == Elwynne Rowena of Wentworth
-# Multiple Alpha entries! Elysabeth Underhill, Lissa Underhill
 Elysabeth Underhill == Lissa Underhill
 #        05/09/1981  C  Burdened Tyger -- Elysende Laville (1 matches, dist: 1)
 #   <-   05/09/1981 A L Burdened Tyger -- Elysende Leville
@@ -2239,7 +2174,7 @@ Elysende Leville == Elysend Leville
 Emeline Patterson == Emeline Paterson
 #        01/29/2011  C  Mauche -- Emengar le fileresse (1 matches, dist: 1)
 #   <-   01/29/2011 A L Maunche -- Emengar la fileresse
-Emengar le fileresse == Emengar la fileresse
+Ermengar la fileresse == Emengar le fileresse
 #        09/07/1996  C  Silver Crescent -- Emeric Wendel the Diversified (1 matches, dist: 1)
 #   <-   09/07/1996   L Silver Crescent -- Emeric Wendel, the Diversified
 Emeric Wendel the Diversified == Emeric Wendel, the Diversified
@@ -2248,23 +2183,20 @@ Emeric Wendel the Diversified == Emeric Wendel, the Diversified
 Emrys Hawkwind == Emeris Hawkwind
 Emma Grey of Warwickshire == Emma Goldenoak
 Emma MacCarthaigh MacMinn == Emma MacMinn
-# Multiple Alpha entries! Emma la Rousse d’Argentan, Kathryn Morgan
 Emma la Rousse d’Argentan == Kathryn Morgan; Emma la Rousse d'Argentan
 #        07/16/2000  C  Terpsichore -- Emma la rousse d'Argentan (1 matches, dist: 1)
 #   <-   07/16/2000 A L Terpsichore -- Emma la Rousse d'Argentan
-Emma la rousse d'Argentan == Emma la Rousse d'Argentan
+Emma la Rousse d’Argentan == Emma la rousse d'Argentan
 Emmanuelle de Chenonceaux == Emanuelle of Southbank
 Emme Attewater == Emma Attewater
 #        02/11/1984  C  Award of Arms -- Emrys Cador Anhrefn (1 matches, dist: 8)
 #   <-   02/11/1984 A L Award of Arms -- Emrys Cador
 Emrys Cador == Emrys Cador Anhrefn
 Emrys of Owl's Reste == Emrys
-# Multiple Alpha entries! Emrys y Crwydryn, Turlough MacArt the Red Wolf
 Emrys y Crwydryn == Turlough MacArt the Red Wolf; Emrys ap Llyr; Emrys ap Llyr of the Oak
 #        10/05/1996  C  Award of Arms -- Emrys y Cynnid (1 matches, dist: 2)
 #   <-   10/05/1996 A L Award of Arms -- Emrys y Cynydd
 Emrys y Cynydd == Emrys y Cynnid
-# Multiple Alpha entries! Engraçia de Madrigal, Caitlin Longstrider, Hala of Stonemarche
 Engraçia de Madrigal == Caitlin Longstrider; Hala of Stonemarche; Engracia de Madrigal
 Eogan Macdomnail == Eogan MacDomnail
 Eoghan Bastard mac Lachlainn of Lochleven == Eoghan Bastard MacLachlainn of Lochleven; Eoghan Bastard mac Lachlainn
@@ -2307,7 +2239,6 @@ Erik of Vastergotland == Erik of Winteroak
 Megan O'Donnelly == Erin O’Donnel
 Erlandr Nordenskald == Erlan Nordenskol
 Ermengar la fileresse == Creddylad; Emengar la fileresse; Emengar la Fileresse; Ermengar la fileresse, called Creddylad
-# Multiple Alpha entries! Ernst Nuss von Kitzengen, Erno Scrumahli
 Ernst Nuss von Kitzengen == Erno Scrumahli; Ernst Nuss von Kitzingen; Father Scrumahli; Erno Scrumahli of Toddington ! Julien le Scot
 Ernst Skaptisson ==  ! Vuong Manh; Tannis of Tir-Y-Don; Merlinia the Faye
 Ervald La Coudre the Unlucky == Ervald la Coudre the Unlucky; Ervald la Coudre the Optimistic
@@ -2315,7 +2246,6 @@ Erzulie of Carolingia == Erzuile of Carolingia
 Esa Gray == Esa Grey
 Esa mac Duf == Esa inghean MhicDubh
 Esalt ferth Brun == Esalt ferch Brun
-# Multiple Alpha entries! Esmeralda la Sabia, Sol la Cantor
 Esmeralda la Sabia == Sol la Cantor; Esmerelda de Sabia; Dona Sol de la Cantor; Esmeralda la Sabia called Sol la Cantor; Esmeralda la Sabia, called Sol la Cantor
 Estela du Frayse == Estella du Frayse
 Estrella de los Confines == Estreya de los Confinos
@@ -2332,12 +2262,10 @@ Etienne des Nuages == Etienne de Nuges
 #   <-   02/10/1990 A L Award of Arms -- Etiene of Montevale
 Etiene of Montevale == Etienne of Montevale
 Ettienne le Noir == Ettiene le Noir
-# Multiple Alpha entries! Eva Woderose, Naomi of Dartmouth
 Eva Woderose == Naomi of Dartmouth
 #        01/29/2011  C  Silver Crescent -- Eva Woodrose (1 matches, dist: 2)
 #   <-   01/29/2011 A L Silver Crescent -- Eva Woderose
 Eva Woderose == Eva Woodrose
-# Multiple Alpha entries! Eva van Oudeachterkol, Embla Willsdottir
 Eva van Oudeachterkol == Embla Willsdottir; Eva von Oudeachterkol
 Evaine MacGreger == Evaine MacGregor
 Evaine ferch Brangwen == Elaine ferch Brangwyn ! Maria von Morgenrot
@@ -2349,12 +2277,11 @@ Evan Hardrada == Evan Hardrata
 Eve de l'Isle Madeleine == Eve de l'isle Madeleine
 Everard Martel == Everard Martell
 Ewen Ericsson == Ewan Ericsson
-# Multiple Alpha entries! Fabrisse of Owlsherst, Carol Bair
 Fabrisse of Owlsherst == Carol Bair
 Failtigearna ingen uí Artáin == Faoiltigearna Muirinn ni Artain; Faoiltigearna Muirin ni Artain; Faoiltigearna Murinn ni Artain
 #        01/30/1999  C  Grant of Arms -- Faoiltigearna Muirinn ni Artain ui Niall (1 matches, dist: 9)
 #   <-   01/30/1999 A L Grant of Arms -- Faoiltigearna Muirinn ni Artain
-Faoiltigearna Muirinn ni Artain ui Niall == Faoiltigearna Muirinn ni Artain
+Failtigearna ingen uí Artáin == Faoiltigearna Muirinn ni Artain ui Niall
 #        09/16/2000  C  Silver Crescent -- Faoiltigearna inghean mhic Ghuaire (1 matches, dist: 1)
 #   <-   09/16/2000 A L Silver Crescent -- Faoiltighearna inghean mhic Ghuaire
 Faoiltighearna inghean mhic Ghuaire == Faoiltigearna inghean mhic Ghuaire
@@ -2391,7 +2318,7 @@ Fiametta di Antonio di Donato Adimari == Fiammetta Adalieti de Demano Leo; Fiamm
 Fianachet Karmen == Fia Carmen; Fia Kareman
 #        09/26/1987  C  Award of Arms -- Fidelco de Rochfort (1 matches, dist: 2)
 #   <-   09/26/1987   L AOA -- Fidelico de Rochefort
-Fidelco de Rochfort == Fidelico de Rochefort
+Fideleco De Rochforte == Fidelco de Rochfort
 Fideleco De Rochforte == Fidelico de Rochefort
 Fina Cael ingen Ui Madadain == Fina Cae ingean Madadain
 Findabhair ni Chonaill == Findabhair ni Choneill
@@ -2413,14 +2340,14 @@ Fiona Margaret == Fiona Margaret MacQueen
 Fiona O'Maille ó Chuan Coille == Fiona O'Maille o Chuan Coille; Fiona O’Maille o Chuan Coille
 #        07/06/1991  C  Award of Arms -- Fiona O’Maille o Chann Coille (1 matches, dist: 3)
 #   <-   07/06/1991 A L Award of Arms -- Fiona O'Maille o Chuan Coille
-Fiona O’Maille o Chann Coille == Fiona O'Maille o Chuan Coille
+Fiona O'Maille ó Chuan Coille == Fiona O’Maille o Chann Coille
 Fiona Siobhan of Kincora == Fiona Siobhon of Kincora
 #        09/18/1993  C  Award of Arms -- Fiona ferch Roderick (1 matches, dist: 3)
 #   <-   09/18/1993 A L Award of Arms -- Ffiona ferch Rodric
 Ffiona ferch Rodric == Fiona ferch Roderick
 #        01/??/1987  C  Troubadour -- Fionbhar Ochoda (1 matches, dist: 4)
 #   <-   01/24/1987 A L Troubadour -- Fionhbharr O'Choda
-Fionbhar Ochoda == Fionhbharr O'Choda
+Fionbharr O'Choda == Fionbhar Ochoda
 Fionbhar a Bheithir == Finebhar an Bheithir
 Fionbharr O'Choda == Fionbhar O’Choda; Fionhbharr O'Choda
 #        03/12/1988  C  Award of Arms -- Fionghulla of Lioslinn (1 matches, dist: 7)
@@ -2430,14 +2357,13 @@ Fionnach nic Shearlais == Fiona nic Shearlis
 #        05/06/1989  C  Award of Arms -- Fionnghuala Fairaideach (1 matches, dist: 3)
 #   <-   05/06/1989 A L Award of Arms -- Fionnghuala Faradach
 Fionnghuala Faradach == Fionnghuala Fairaideach
-# Multiple Alpha entries! Fionnghuala Gliobach Mael Ailbe, Æmilia Silver
 Fionnghuala Gliobach Mael Ailbe == Æmilia Silver; Fionghuala Gliobach Mael Ailbe
 #        07/01/1989  C  Award of Arms -- Fionnghuola Siobhan nic an Chlerich (1 matches, dist: 4)
 #   <-   07/01/1989   L AOA -- Fionnghula Siobhan nic Chlerich
 Fionnghuola Siobhan nic an Chlerich == Fionnghula Siobhan nic Chlerich
 #        09/16/1989  C  Award of Arms -- Fionuala ni Crainn (1 matches, dist: 8)
 #   <-   09/16/1989   L AOA -- Fionnghuala ni Chiaráin
-Fionnghuala ni Chiaráin == Fionuala ni Crainn
+Mirabel Belchere == Fionuala ni Crainn
 #        02/08/1986  C  Award of Arms -- Flaviana Ferch Gwydion (1 matches, dist: 3)
 #   <-   02/08/1986 A L Award of Arms -- Flavia ferch Gwydion
 Flavia ferch Gwydion == Flaviana Ferch Gwydion
@@ -2462,7 +2388,6 @@ Francis of Tadecastre == Francis of Tadcaster
 Francois Thibault ==  ! Christabel Heslington
 Francois de Inneschonnel == Francoise de Inneschonnel
 Frank Potter == Francis of Mariaville; Frank Potter, called Francis of Mariaville
-# Multiple Alpha entries! Franqueite du Grandchamp, Francesca de Grandchamp
 Franqueite du Grandchamp == Francesca de Grandchamp
 Franz Gottfried der Pfalzer == Franz Gottfried von der Pfalz
 #        02/27/1993  C  Award of Arms -- Franz Joder von Joderhuebel (1 matches, dist: 2)
@@ -2484,7 +2409,7 @@ Freydis Thorunsdatter == Freydis Thorunnsdatter
 Freydis Wolvesbrat == Freydid Wolvesbrat
 #        09/23/2006  C  Silver Crescent -- Freygerther Hallidottir (1 matches, dist: 1)
 #   <-   09/23/2006 A L Silver Crescent -- Freygerther Halladottir
-Freygerther Hallidottir == Freygerther Halladottir
+Freygerðr in stórràða Halladóttir == Freygerther Hallidottir
 Freygerðr in stórràða Halladóttir == "Frigga"; Freygerdr in storrada Halladottir; Freygerther Halladottir; Freygerðr in stórràða Halladóttir, called Frigga; Freygeror in storraoa Halladottir called Frigga; Frigga Halladottir
 #        08/12/1978  C  Award of Arms -- Freyjaetha na Barra (1 matches, dist: 2)
 #   <-   08/12/1978   L AOA -- Freyjarthe na Barra
@@ -2508,14 +2433,12 @@ Frydherik Eysenkopf == Friedrich Eisenkopf
 Friedrich Parcifal von Osterreich == Friedrich Parcifal von Osterreich\
 Frydherik Eysenkopf == Frydherich Eisenkopf; Fryderich Eisenkopf; Frydherik Eisenkopf; Carl of the West
 Fucha de la Rua == Fucha de la Rue
-# Multiple Alpha entries! Fujimoto Saburou Masamune, Alessandro dell’Abaco, William the Alchemist
 Fujimoto Saburou Masamune == Alessandro dell’Abaco; William the Alchemist; Fujimoto Saborou Masamune; Allessandro dell’Abaco; Allesandro dell’Abaco
 Fujiwara Tamemoto == Fujiwara Tametomo
-# Multiple Alpha entries! Fujiwara no Aoi, Cáisín nic Annaidh
 Fujiwara no Aoi == Cáisín nic Annaidh
 #        07/17/2004  C  Grant of Arms -- Fukushima Masanari Hanso (1 matches, dist: 1)
 #   <-   07/17/2004 A L Grant of Arms -- Fukushima Masanari Hanzo
-Fukushima Masanari Hanso == Fukushima Masanari Hanzo
+Hensojin Khan == Fukushima Masanari Hanso
 #        03/16/1996  C  Manche -- G. Emerson True (1 matches, dist: 5)
 #   <-   03/16/1996 A L Manche -- George Emerson True
 George Emerson True == G. Emerson True
@@ -2551,7 +2474,6 @@ Gabrielle van Nijenrode == Gabrielle van Njenrode
 #        07/10/2010  C  Troubadour -- Gaia Caelina Angelus (1 matches, dist: 1)
 #   <-   07/10/2010 A L Troubadours -- Gaia Caelia Angelus
 Gaia Caelia Angelus == Gaia Caelina Angelus
-# Multiple Alpha entries! Gaila bat Baruch, Jael bat Baruch
 Gaila bat Baruch == Jael; Jael bat Baruch ! Jaffi al-Awad
 #        07/04/2009  C  Award of Arms -- Gaivs Ivlivs Ajax (1 matches, dist: 3)
 #   <-   07/04/2009 A L Award of Arms -- Gaius Iulius Ajax
@@ -2596,7 +2518,6 @@ Garđr Gunnarsson == Gart Guntarson; Gardr Gunnarson; Garth Gunnarson
 #   <-   01/04/1992 A L Award of Arms -- Gaston d'Amberville
 Gaston d'Amberville == Gaston d’Amberville
 Gauen Wydefare == Gauen Wyefare
-# Multiple Alpha entries! Gaufrid Kelson von Heidelberg, Gottfried Kelson
 Gaufrid Kelson von Heidelberg == Gottfried Kelson; Gaufred Kelson von Heidelberg
 Gavan MacBane == Gavan Macbane; Gavan McBane; Gavan Macbane of Hartshorndale
 Gavin MacAuley == Camran; Gavin MacAuley, called Camran
@@ -2606,9 +2527,7 @@ Gavin von Abentrot == Gavin von Abendroth
 #   <-   10/14/1978   L Burdened Tyger -- Gavain Black Hound of the Horn
 Gavin, Black Hound of the Horn == Gavain Black Hound of the Horn
 Gavriel of Northern Outpost == Gavriel
-# Multiple Alpha entries! Gawyn O'Clery, Gura duga'ar Gardur
 Gawyn O'Clery == was Gura duga'ar Gardur; Gura duga'ar Gardur
-# Multiple Alpha entries! Geirr Ragnarsson, Guillaume d'Essonne
 Geirr Ragnarsson == Guillaume d'Essonne
 #        06/17/1995  C  Award of Arms -- Geloria de Sancto Johannes (1 matches, dist: 3)
 #   <-   06/17/1995 A L Award of Arms -- Geloira de Sancto Johanne
@@ -2628,7 +2547,6 @@ Genevra d'Angouleme == Ginevra d'Angouleme; Genevera
 #   <-   10/21/1989 A L Award of Arms -- Genja Thorsson Vikingsson
 Genja Thorsson Vikingsson == Genga Thorson Vikingson
 Geoffrei St. Albans of Eastwood == Geoffrei St. Alban of Eastwood; Geoffrey St. Albans of Eastwood; Geoffrey St. Alban of Eastwood; Geoffrey St. Albans
-# Multiple Alpha entries! Geoffrey Blesedale, Gisfried of House Bloodguard
 Geoffrey Blesedale == Gisfried of House Bloodguard; Geoffrey of Blesedale
 Geoffrey Chamberlain == Goffrey Chamberlain
 #        02/27/1988  C  Award of Arms -- Geoffrey Featherstone (1 matches, dist: 5)
@@ -2663,10 +2581,8 @@ Ghazalah al-Badriyyah == Ghazallah al-Badriyyah
 Ghislaine Isabella de Lessines == Ghislain Isabella de Lessines
 Giacomo of Eisental == Giacomo (of Eisental); Giacomo
 Giana Gabriella da Milano == Giana Gabriella di Milano; Giana Gabrielle di Milano; Giana Gabrielle de Milano
-# Multiple Alpha entries! Gianetta Lucia Allegretta, Séadach Dubháilceach, Siobhan Forbeis of Lonachan, Siobhan Lisuadh Forbes of Kernathy Green
 Gianetta Lucia Allegretta == Gianetta Lucia Alegretta; Séadach Dubháilceach; Seadach Dubhailceach; Siobhan Forbeis of Lonachan; Siobhan Lisuadh Forbes of Kernathy Green; Gianetta Alegretta; Gianna Allegretta; Gianetta Lucia Alegrette
 Gianotta dalla Fiora == Gianotta dalla Fiore; Giannotta dalla Fiora
-# Multiple Alpha entries! Giceline de Molay, Quintius Clavus
 Giceline de Molay == Quintius Clavus; Gicelin de Molay; Giceline de Moray
 Gideon Alexandru de Sighisoara == Gideon Alexandra de Sighisoara
 #        12/04/1982  C  Award of Arms -- Gilbert St. John (1 matches, dist: 2)
@@ -2685,7 +2601,6 @@ Gilliad ben Seldom == Giliad ben Seldom
 Gillian de l'Eau Clair == Gillian de l’Eau Clair; Gilliam de l'Eau Clair
 Gillian of the Green Woods == Gillian of the Greenwoods
 Ginevra d'Altieri == Ginevra d’Alatri; Ginevra d'Alatri
-# Multiple Alpha entries! Giovanna Lamberti, Gwendolen Lambert
 Giovanna Lamberti == Gwendolen Lambert
 #        ??/??/1981  C  Mistress of the Laurel -- Giovanna Mara Hunyadi di Ghiberti (1 matches, dist: 1)
 #   <-   02/21/1981   L Laurel -- Giovanna Maria Hunyadi di Ghiberti
@@ -2693,7 +2608,6 @@ Giovanna Mara Hunyadi di Ghiberti == Giovanna Maria Hunyadi di Ghiberti
 #        01/12/1980  C  Manche -- Giovanna Maria Hunyati di Ghiberti (1 matches, dist: 2)
 #   <-   01/12/1980   L Maunche -- Giovanna Maria Hunyadi de Ghiberti
 Giovanna Maria Hunyati di Ghiberti == Giovanna Maria Hunyadi de Ghiberti
-# Multiple Alpha entries! Giovanna del Penna, Desideria del Penna, Dresden Pennello di Quadro Voce
 Giovanna del Penna == Desideria del Penna; Dresden Pennello di Quadro Voce; Dresden; Dresden Pennello de Quadro Voce; Dresden Penello de Quadro Voce; Dresden Pennello de Quardro Voce ! Morgana Kyncayd
 Giovanni Bartolomeo da Corleone == Giovanni Bartolomeo de Corleon
 Giovanni Paulo Sbragia di Lucca == Giovanni Paolo Sbragia di Luca
@@ -2748,7 +2662,7 @@ Greta Obermanns == Greta Obermans
 #        02/06/1982  C  Manche -- Greta of Mountain Freehold (2 matches, dist: 18)
 #   <-   02/06/1982 A L Manche -- Greta Obermans
 #   <-   02/06/1982 A L Award of Arms -- Greta Obermans
-Greta of Mountain Freehold == Greta Obermans
+Greta Obermanns == Greta of Mountain Freehold
 #        10/09/1993  C  Award of Arms -- Gretchen von dem Gernebach (1 matches, dist: 4)
 #   <-   10/09/1993 A L Award of Arms -- Gretchen von Gernebach
 Gretchen von Gernebach == Gretchen von dem Gernebach
@@ -2802,7 +2716,6 @@ Guthfrith Yrlingsson == Guthfrith Yrlingson
 #        05/10/1986  C  Award of Arms -- Guthring of Broken Bridges (1 matches, dist: 1)
 #   <-   05/10/1986 A L Award of Arms -- Guthering of Broken Bridges
 Guthering of Broken Bridges == Guthring of Broken Bridges
-# Multiple Alpha entries! Guy Cheveux de Guise, Gui avec cheval de Guise
 Guy Cheveux de Guise == Gui avec cheval de Guise; Guy avec Cheval de Guise; Guy avec Cheval du Guies
 Guy Lestrange ==  ! Bryan Ennion; Elizabeth Law
 Guy Lourance == Guy Laurence
@@ -2833,7 +2746,6 @@ Gwenhwyvar of Ravenhill == Gwenhwyfar of Ravenhill
 #        09/29/2007  C  Manche -- Gwenllian Basset (1 matches, dist: 1)
 #   <-   09/29/2007 A L Manche -- Gwenllian Bassett
 Gwenllian Bassett == Gwenllian Basset
-# Multiple Alpha entries! Gwenllian Bassett, Rhiannan Bassett
 Gwenllian Bassett == Rhiannan Bassett; Silverwheel, Ravensong; Rhiannon Bassett; Rhiannon Ravensong; Rhiannon Silverwheel
 Gwenllian Rhiannon of Dragon Keep == Gwenllian Rhiannon of Dragonkeep; Gwenllian Rhiannon of Dragon's Keep
 Gwenllian Wreic Bleddyn == Gwenllian wriec Bleddyn
@@ -2863,7 +2775,7 @@ Gwyneth Ceridwen ferch Brangwyn == Keridwen (Ceredwynn) ferch Brangwen
 #        ??/??/1981  C  Award of Arms -- Gwyneth map Llwellyn (2 matches, dist: 15)
 #   <-   01/03/1981   L AOA -- Morgan MacLean [from Atenveldt]
 #   <-   01/10/1981 A   Award of Arms -- Morgan MacLean
-Morgan MacLean == Gwyneth map Llwellyn
+Morgan MacLean == ! Gwyneth map Llwellyn
 #        07/03/2010  C  Award of Arms -- Gwynned Ruaidh O'Hlanraghtagh (1 matches, dist: 2)
 #   <-   07/03/2010 A L Award of Arms -- Gwynned Ruiadh O'Hlanraghtagh
 Gwynned Ruiadh O'Hlanraghtagh == Gwynned Ruaidh O'Hlanraghtagh
@@ -2903,13 +2815,11 @@ Hartman Foscari Da Ferra == Hartman Foscari Gordon
 Hasdrubal == Barak Hasdrubal
 Hassan abdul Raschid al-Turki == Hassan Abdul Raschid al-Turki; Hassan al Rashid ibn Turki
 Heather Rose Mac Gordon == Heather Rose MacGordon; Heather Rose de Gordoun; Heather Rose MacGordan
-# Multiple Alpha entries! Hedewigis Ockenfüßin, Gennevote du Lac
 Hedewigis Ockenfüßin == Hedewigis Ockenfüß; Gennevote du Lac; Hedewigis Ockenfußin; Hedewigis Ockenfuß; Hedewigis Ockenfubin
 #        01/20/1996  C  Award of Arms -- Heindricke Lambert Boetgoet (1 matches, dist: 2)
 #   <-   01/20/1996 A L Award of Arms -- Hendricke Lambert Bloetgoet
 Hendricke Lambert Bloetgoet == Heindricke Lambert Boetgoet
 Heinrich Armbrüster == Heinrich Armbuster
-# Multiple Alpha entries! Heinrich der Brauer, Eissdrache of the Vale
 Heinrich der Brauer == Eissdrache of the Vale
 Heinrich von Auerbach aus Ulm == Heimrich aus Madrei; Heneric aus Madrie
 #        02/27/1982  C  Award of Arms -- Heinrich von Kreiner (1 matches, dist: 4)
@@ -2937,7 +2847,6 @@ Henry Kersey of Devon == Erling Herjolfsson; Erling Herjofsson
 #        03/05/2011  C  Silver Crescent -- Hensojin Kahn (1 matches, dist: 2)
 #   <-   03/05/2011 A L Silver Crescent -- Hensojin Khan
 Hensojin Khan == Hensojin Kahn
-# Multiple Alpha entries! Hensojin Khan, Fukushima Manasari Hanzo
 Hensojin Khan == Fukushima Manasari Hanzo; Fukushima Masanari Hanzo
 Herian Iarnsmidre == Herian Iarnsmidr; Herian of Clan MacFadgen; Herian of Clan MacFadyen ! Zea Blake; Megan Corwinsdottir; Ivar Volosottoi
 #        09/30/1995  C  Award of Arms -- Hethen Dwalesower (1 matches, dist: 2)
@@ -2949,7 +2858,6 @@ Heðinn inn rauði == Hedinn inn Raudi; Hedinn the Red
 Hieronymus Steomer == Hieronymus Stroemer
 Hilal al-Dubb == Hilal Dubh
 Hilary of the Danelagh == Hilary of Aranmoor
-# Multiple Alpha entries! Hiyama no Kufuka Oniko, Frodo von Halstern
 Hiyama no Kufuka Oniko == Frodo von Halstern; Hi-Yama no Kufuko Oniko; HiYama Kufuku Oniko ! Karrah the Mischevious
 Hobbe Yonge == Hobbe Yongue
 #        01/05/1991  C  Queen's Courtesy -- Hodierna Miriglee of Lindencluden (2 matches, dist: 3)
@@ -2966,7 +2874,7 @@ Honore Pierre d’Artres == Honore Pierre d'Ardres
 Horatius Cornucen Pontius == Horatius Cornucen
 #        12/06/1981  C  Award of Arms -- Horatius of Cornucen (1 matches, dist: 3)
 #   <-   12/06/1981 A L Award of Arms -- Horatius Cornucen
-Horatius of Cornucen == Horatius Cornucen
+Horatius Cornucen Pontius == Horatius of Cornucen
 #        04/07/1990  C  Earl -- Horic Grarvargr Caithness (1 matches, dist: 1)
 #   <-   04/07/1990 A L Count -- Horic Grarvargr Caithnes
 Horic Grarvargr Caithnes == Horic Grarvargr Caithness
@@ -2983,10 +2891,8 @@ Hrolf Hrafnsen == Hrolfr Hrafnson
 #   <-   06/30/1979 A L Award of Arms -- Hrolf Hrafnsen
 Hrolf Hrafnsen == Hrolfr Hrafnsen
 Hrothgar Rogan == Hrothgar Rogan of Wroxeter; Rogan Dirksmyre; Rogan Dirksmier
-# Multiple Alpha entries! Hrut, Yezdigurd Houzyafal Olad Ezdicang
 Hrut == Yezdigurd Houzyafal Olad Ezdicang
 Hrut Skumsonner == Pondskum; Hurt Skumsonner
-# Multiple Alpha entries! Hubert d'Avignon, Ayden Pathfinder
 Hubert d'Avignon == Ayden Pathfinder
 Hugh Tauerner == Hugh Tauerner of Walsingham
 #        10/??/1988  C  Award of Arms -- Hugo of Bowman’s Rest (1 matches, dist: 1)
@@ -3022,25 +2928,22 @@ Ichijo Honin == Ichijo Honen
 Iciar Albarez de Montesinos == Iciar Albar de Montesinos y Aragon
 Iciar Albarez de Montesinos == Yciar Albarez de Montesinos y Aragon
 Ignacia la Ciega == Ignacia el Ciego; Ignatia la Ciega; Ignatia of Concordia; Ignatia Ursula of Concordia
-# Multiple Alpha entries! Igor Rostislavitch, Ygor Rotislav
 Igor Rostislavitch == Ygor Rotislav
 #        06/01/1985  C  Award of Arms -- Igraine de Valere (1 matches, dist: 5)
 #   <-   06/01/1985   L AOA -- Igraine Torr de Valere
 Igraine de Valere == Igraine Torr de Valere
 Ilana Mazdak == Illana Mazdak
-Annora de Sylveaston == Ilse von Schönau
+Ilse von Schönau == Annora de Sylveaston
 Ina Rowena of the Mist == Ina Roweena of the Mists; Ina Rowena of the Mists
 #        10/05/1996  C  Award of Arms -- Ingram Joseph Holzapfel (1 matches, dist: 2)
 #   <-   10/05/1996 A L Award of Arms -- Ingram Josef Holzapfel
 Ingram Josef Holzapfel == Ingram Joseph Holzapfel
-# Multiple Alpha entries! Ingvar Thorsteinsson, Critter
 Ingvar Thorsteinsson == Critter; “Critter”
-# Multiple Alpha entries! Irayari Vairavi, Imigla Venture, Bhairavi of Thescorre, Vairavi
 Irayari Vairavi == Imigla Venture; Bhairavi of Thescorre; Vairavi; Iryari Vairavi; Vetivel Bhairavi
 #        10/14/1978  C  Award of Arms -- Irena von Schmetterling (2 matches, dist: 20)
 #   <-   10/14/1978 A L Award of Arms -- Magdalene of the Unicorn
 #   <-   10/14/1978 A L Burdened Tyger -- Magdalene of the Unicorn
-Magdalene of the Unicorn == Irena von Schmetterling
+Magdalene of the Unicorn == ! Irena von Schmetterling
 Irene Lassin == Irene von Lassan
 Irene Lenoir == Irene leNoir; Irene LeNoir; Irene le Noir
 #        05/09/1981  C  Troubadour -- Irinia Astrachovna (1 matches, dist: 1)
@@ -3048,7 +2951,7 @@ Irene Lenoir == Irene leNoir; Irene LeNoir; Irene le Noir
 Irina Astrachovna == Irinia Astrachovna
 #        08/16/2000  C  Silver Crescent -- Irondwarf (1 matches, dist: 2)
 #   <-   08/16/2000 A L Silver Crescent -- Iron Dwarf
-Irondwarf == Iron Dwarf
+Kaltenbjorn Bowen == Irondwarf
 Isabeau Leger des Pieds == Isabeau Leger de Pieds
 Isabeau de Valle == Isabeau du Valle
 Isabeau d’Orleans == Isabeau d'Orleans
@@ -3064,7 +2967,6 @@ Isabella d'Allaines-le-Comte == Isabelle d'Allaines-le-Comte; Isabella d'Aillain
 #   <-   02/08/2003 A L Award of Arms -- Isabelle de Lyon
 Isabelle de Lyon == Isabella de Lyon
 Isabella de Surmount of Haus von Halstern == Isabella of Haus von Halstern; Isabella of Haus Von Halstern
-# Multiple Alpha entries! Isabella de Valois, Alycia Ravaine de Champagne
 Isabella de Valois == Alycia Ravaine de Champagne; Alyaia Ravaine de Champagne
 #        10/11/2003  C  Tygers Cub -- Isabella of Arindale (1 matches, dist: 1)
 #   <-   10/11/2003 A L Tygers Cub -- Isabelle of Arindale
@@ -3077,7 +2979,6 @@ Isard Farman == Isand Farman
 #        02/05/2011  C  Award of Arms -- Isbella Altoviti (1 matches, dist: 1)
 #   <-   02/05/2011 A L Award of Arms -- Isabella Altoviti
 Isabella Altoviti == Isbella Altoviti
-# Multiple Alpha entries! Iseabail Urchardainn, Beileag Urquhart
 Iseabail Urchardainn == Iseabeil Urchardann; Beileag Urquhart; Isabeil Urchardann; Isabeil Urquhart; Beileag Urguhart
 Iseault Blaecstan == Iseaulte Blaecstan
 #        01/28/1989  C  Award of Arms -- Isengrim du Bois d’Anvers (1 matches, dist: 9)
@@ -3087,7 +2988,6 @@ Iseut fyrdd Brangwen == Iseult fyrdd Brangwen
 Isobel Mowbray == Isobel of Mobrey
 Isobella de Cordoba == Isobel de Cordoba
 Isolde of Beaumaris == Isolde de Beaumaris
-# Multiple Alpha entries! István Nyiregyhazi, Estephan of Whyte Whey
 István Nyiregyhazi == Estephan of Whyte Whey
 Iulianiia Trieskova == Iulianna Trieskova; Iulianii Triieska
 Ivan Ivanov syn Dmitriev == Ivan Ivanov syn Dmitriev vynuk Tzadiakov; Ivan Ivanov syn Dimitriov vynuk Tzadiakov
@@ -3124,7 +3024,7 @@ Jacques du Bois Blanc == Jacques de Bois Blanc
 #        09/27/1986  C  Court Baroness -- Jade of Bailey (2 matches, dist: 10)
 #   <-   09/27/1986 A L Court Baroness -- Katherine Jade of Bailey
 #   <-   04/12/2003 A L Mistress of the Pelican -- Katherine Jade of Bailey
-Jade of Bailey == Katherine Jade of Bailey
+Katherine Jade of Bayley == Jade of Bailey
 #        07/27/2002  C  Manche -- Jadwiga Zajackowa (1 matches, dist: 1)
 #   <-   07/27/2002 A L Manche -- Jadwiga Zajaczkowa
 Jadwiga Zajaczkowa == Jadwiga Zajackowa
@@ -3160,7 +3060,6 @@ James the Fair == James of Logaan, the Fair
 #        01/07/1995  C  Award of Arms -- Jamie FitzGeorge (1 matches, dist: 2)
 #   <-   01/07/1995   L AOA -- James FitzGeorge
 Jamie FitzGeorge == James FitzGeorge
-# Multiple Alpha entries! Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia, Suba al-Hadid, Jeannette of Bhakail
 Jamila of Bhakail, aka Jamilia al-Suba al-Hadid al-Bhakailia == Suba al-Hadid; Jamila of Bhakail; Jeannette of Bhakail; Suba al Hadid; Jeanette of Bhakail ! Berelinde Cynewulfsdohter
 Jan Paul van Galen == Jean-Paul van Galen; Jan Paul von Galen
 #        05/01/1988  C  Award of Arms -- Jan Rafiel of Skoder (1 matches, dist: 4)
@@ -3191,7 +3090,7 @@ Jean Paul Ducasse == Jean-Paul Justen Casse; Jean-Paul Justin Casse
 #        01/17/2009  C  Court Baron -- Jean Paul Justin Casse (2 matches, dist: 1)
 #   <-   01/17/2009 A L Court Baron -- Jean-Paul Justin Casse
 #   <-   01/17/2009 A L Grant of Arms -- Jean-Paul Justin Casse
-Jean Paul Justin Casse == Jean-Paul Justin Casse
+Jean Paul Ducasse == Jean Paul Justin Casse
 Jean Philippe des Bouviers Noirs == Jean Phillipe de Bouvier Noir
 Jean Xavier Boullier == Jean Xavier Bouillier
 Jean de la Montagne == Jean des Montagnes; Jean de Montagne
@@ -3246,7 +3145,7 @@ Jocelyn della Spada == Jocelyn del Espada; Jocelyn de Espada
 Joel of Ragnesfolke == Joel of Regnesfolke
 #        10/26/1991  C  Tygers Combattant -- Johan Kronenwatcher (1 matches, dist: 2)
 #   <-   10/26/1991 A L Tygers Combattant -- Johan Kronenwache
-Johan Kronenwatcher == Johan Kronenwache
+Darius Aurelius == Johan Kronenwatcher
 #        01/07/1984  C  Silver Crescent -- Johan von Traubenberg (1 matches, dist: 1)
 #   <-   01/07/1984   L Silver Crescent -- Johann von Traubenberg
 Johan von Traubenberg == Johann von Traubenberg
@@ -3276,7 +3175,6 @@ Johannes aus Neirenstein == Johannes aus Nierenstein
 #   <-   02/20/1982   L Maunche -- Johannes von Narrenstein
 #   <-   10/08/1983   L Laurel -- Johannes von Narrenstein
 Johannes aus Nierenstein == Johannes von Narrenstein
-# Multiple Alpha entries! John Elys, Joshua ibn Eleazar ha-Shalib
 John Elys == Joshua ibn Eleazar ha-Shalib; Joshua ibn-Eleazar; Joshua ibn Eliazar ha-Shalib ! Cesaria Wolstan; Cedric the Humble; Lori of Stormsport; Hans of Stormsport
 #        05/27/1989  C  Award of Arms -- John Kelton of the Greyhorn (1 matches, dist: 4)
 #   <-   05/27/1989 A L Award of Arms -- John Kelton of Greyhorn
@@ -3285,7 +3183,6 @@ John Lyttleton == John Littleton
 John MacGuire == John McGuire
 John Marshall atte Ford == John Marshall of Hartshorn-dale; John Marshall ate Ford; John Marshall
 John Mordredson == John Mordredsson
-# Multiple Alpha entries! John Radburne, Gustav die Sturmere
 John Radburne == Gustav die Sturmere; John Radbourne
 John Williams of Farnham == John Williams
 #        02/20/1982  C  Award of Arms -- John le Pell (1 matches, dist: 2)
@@ -3299,16 +3196,14 @@ Jokal de Cassen of Concordia == Jokal de Cassan of Concordia
 #        02/10/1996  C  Court Baroness -- Jolanna le Choclatier du Bergental (1 matches, dist: 1)
 #   <-   02/10/1996 A L Court Baroness -- Jolanna le Choclatier de Bergental
 Jolanna le Choclatier de Bergental == Jolanna le Choclatier du Bergental
-# Multiple Alpha entries! Jon i Visby, Jan aff Wisby, John of Wisby
 Jon i Visby == Jan aff Wisby; John of Wisby
 Jon mjoksiglandi == Jon of the Endless Quest; Jon mjoskiglandi
 Jonathan Carver of Dover == Jonathan Carver
-# Multiple Alpha entries! Jonathan de Copeland, Giancarlo de San Cataldo
 Jonathan de Copeland == Giancarlo de San Cataldo
 #        11/27/2004  C  Court Baron -- Jorg Johanson (2 matches, dist: 1)
 #   <-   11/27/2004 A L Court Baron -- Jorge Johanson
 #   <-   11/27/2004 A L Grant of Arms -- Jorge Johanson
-Jorg Johanson == Jorge Johanson
+Jorge Johansen == Jorg Johanson
 Jorge Johansen == Jorg Johansen; Jorge Johanson
 #        04/05/1986  C  Burdened Tyger -- Josef Alaric (1 matches, dist: 1)
 #   <-   04/05/1986 A L Burdened Tyger -- Yosef Alaric
@@ -3330,7 +3225,6 @@ Jost von Aichstadt == Jost von Eichstadt
 Jotun-Eiríkr Bjarnason == Jotun Erikr Bjarnson
 Jovonne d'Espirit == Jovonne d'Esprit; Jovonne d’Espirit; Jovonne d’Esprit
 Jozef Ludwiczck == Jozef Ludwiczak; Jozef of Lochleven
-# Multiple Alpha entries! Juan Lázaro Ramirez Xavier, Xavier
 Juan Lázaro Ramirez Xavier == Xavier; Juan Lazaro Ramirez Xavier
 Judith le Alefondere == Judith the Undecided
 Judith of Five Branches == Judith of Five Birches
@@ -3380,16 +3274,14 @@ Kai Maclane == Kai MacLane; Kai McLaine; Kai MacLean; Kai MacLain
 #        08/18/1988  C  Award of Arms -- Kai O’Kai (1 matches, dist: 1)
 #   <-   08/18/1988 A L Award of Arms -- Kai O'Kai
 Kai O'Kai == Kai O’Kai
-# Multiple Alpha entries! Kai de Ravenglas, Tsurunaga
 Kai de Ravenglas == Tsurunaga; Kikuchi no Tsurunaga; Kikuchi no Tsuranaga; Kikuchi Tsuranaga; Kikuchi Tsurunaga ! Genevieve de Blois
 #        07/30/1983  C  Silver Crescent -- Kale Harlansson (2 matches, dist: 11)
 #   <-   07/30/1983 A L Silver Crescent -- Kale Harlansson of Gotland
 #   <-   06/06/1987 A L Manche -- Kale Harlansson of Gotland
-Kale Harlansson == Kale Harlansson of Gotland
+Kali Harlansson of Gotland == Kale Harlansson
 Kali Harlansson of Gotland == Kale Harlansson of Gotland; Kale Harlanson of Gotland
 Kalinda of Eisental == Kalinda
 Kalliera Laskarina == Kaleria Laskarina
-# Multiple Alpha entries! Kaltenbjorn Bowen, Iron Dwarf of Oakenwode
 Kaltenbjorn Bowen == Iron Dwarf of Oakenwode; "Iron Dwarf"; Iron Dwarf
 Kamilah men al Sudan == Kamillah al-Sudani; Kamillah al Sudani; Kamilah al-Sudani
 Kamilla van Anderlecht == Kamilla von Anderlecht; Kamilla von Andrelecht; Kamilla van Andrelecht
@@ -3408,7 +3300,6 @@ Karl von Süssen == Karl von Sussen
 #   <-   01/20/1996 A L Award of Arms -- Karoline Rosenkruzen
 Karoline Rosenkruzen == Karoline Rozenkruzen
 Karrah the Mischievous == Karra the Mischievious
-# Multiple Alpha entries! Kassandra Aiantide, Cassandra Ai’anaos
 Kassandra Aiantide == Cassandra Ai’anaos; Kassandra Ianthos
 Katarina Zuvovolok == Katarina Zubovolok
 Katarina la Juste == Katherine le Juste
@@ -3433,12 +3324,11 @@ Katerina Iliovna Vladimirov == Katerina Illova Vladimirov
 Katerina de la Bere == Katerina de Mer; Katrina de Mer; Katerina de la Mer; Katherine de la Mer; Katrina d'Mer
 #        03/29/2008  C  Queen's Courtesy -- Katerina de la Mere (1 matches, dist: 5)
 #   <-   03/29/2008 A L Queen's Courtesy -- Katrina de Mer
-Katerina de la Mere == Katrina de Mer
+Katerina de la Bere == Katerina de la Mere
 Katerina la Bisbetica == Katerina la Bisbiteca
 #        09/16/1989  C  Award of Arms -- Katerina von Vosburg auf Hammerstone (1 matches, dist: 1)
 #   <-   09/16/1989 A L Award of Arms -- Katerina von Vosburg auff Hammerstone
 Katerina von Vosburg auff Hammerstone == Katerina von Vosburg auf Hammerstone
-# Multiple Alpha entries! Katerine atte Wyshe de la Rye, Katryne Blak, Catherine de Sant Marti
 Katerine atte Wyshe de la Rye == Catherine de Sant Marti - see Katherine atte Wyshe; Katryne Blak; Catherine de Sant Marti; Katherine atte Wyshe; Catherina de Sant Marti
 Katharine Slough == Katherine Slough
 Katharine Tuscher ==  ! Millicient Heath
@@ -3472,7 +3362,6 @@ Katherynne Driscoll == Kathrynne Driscoll of Stonemarche ! Katherine Fletcher of
 #        08/16/1990  C  Award of Arms -- Katherynne Reede (1 matches, dist: 1)
 #   <-   08/16/1990 A L Award of Arms -- Katharynne Reede
 Katharynne Reede == Katherynne Reede
-# Multiple Alpha entries! Kathrine Delong, Katherine Long
 Kathrine Delong == Katherine Long; Fern
 #        04/20/1974  C  Award of Arms -- Kathryn Fitzroy (1 matches, dist: 8)
 #   <-   04/20/1974   L AOA -- Kathryn Fitzroy of Bath
@@ -3484,7 +3373,7 @@ Katrina of South Tower == Ivy Katerina of South Tower
 Katrina von Halstern == Katerina von Halstern
 #        03/06/2004  C  Award of Arms -- Katrine Lyndesay (1 matches, dist: 8)
 #   <-   03/06/2004 A L Award of Arms -- Katryne Blak
-Katryne Blak == Katrine Lyndesay
+Katerine atte Wyshe de la Rye == Katrine Lyndesay
 Katrusha the Skomorokh == Katrusha Skomorokh
 #        10/07/1989  C  Maunche -- Katya Hjalmsdattir (1 matches, dist: 4)
 #   <-   10/07/1989   L Maunche -- Katja Hjalmarsdottir
@@ -3496,7 +3385,6 @@ Katya Nachtraven == Katya Nacht Raven
 #   <-   07/20/2002 A L Award of Arms -- Katya of Fenmere
 Katya of Fenmere == Katya of Felding
 Kat’ryna Neblaga Volchkova == Katryna Elzbeta Volchkeva; Kat’ryna Elzbeta Volchkeva; Kat'ryna Neblaga Volchkova
-# Multiple Alpha entries! Kawaguchi no Ryutaro, Ryataro
 Kawaguchi no Ryutaro == Ryataro
 Kay Leigh Drake == Kayleigh Drake
 #        10/06/1979  C  Terpsichore -- Kay de la Fleur (1 matches, dist: 4)
@@ -3513,8 +3401,7 @@ Keilyn Ellewynne Far-Traveller == Keilyn Elwyn Fartraveller
 #        01/19/1991  C  Award of Arms -- Kellar of Stonemarche (2 matches, dist: 16)
 #   <-   01/19/1991 A L Award of Arms -- Coalan an Panga Dubh
 #   <-   01/19/1991 A L Troubadour -- Coalan an Panga Dubh
-Coalan an Panga Dubh == Kellar of Stonemarche
-# Multiple Alpha entries! Kellemetlen Árpád, Arpad a Kellemetlan
+Coalan an Panga Dubh == ! Kellar of Stonemarche
 Kellemetlen Árpád == Arpad a Kellemetlan; Kellemetlan Arpad
 #        01/28/2006  C  Award of Arms -- Kelli of the Oaks (1 matches, dist: 8)
 #   <-   01/28/2006 A L Award of Arms -- Kelli of Whispering Oaks
@@ -3536,7 +3423,7 @@ Keturah of Carolingia == Keturah
 #        10/01/2011  C  Court Barony -- Khatife al-Namer (2 matches, dist: 1)
 #   <-   10/01/2011 A L Court Barony -- Khatife al-Nameer
 #   <-   10/01/2011 A L Grant of Arms -- Khatife al-Nameer
-Khatife al-Namer == Khatife al-Nameer
+Khavi bint Rozakii == Khatife al-Namer
 Khavi bint Rozakii == "Khatife"; Khatife al-Nameer; Khatife-al-Nameer
 Khioniya Nikolaevna Ryseva == Khioniya Ryseva; Khioniya Rysera; Khionya Rysera
 #        04/02/2011  C  Pelican -- Khioniya Nikolaevna Ryseve (1 matches, dist: 1)
@@ -3555,7 +3442,7 @@ Kieran of Narrenbeck, the Punster == Kieran the Punster
 Kihou of Carolingia == Kihou of Mitgard
 #        08/19/1990  C  Chivalry -- Kikuchi Tsurinaga [Knight] (1 matches, dist: 4)
 #   <-   08/19/1990   L Chivalry -- Kikuchi no Tsurunaga
-Kikuchi Tsurinaga == Kikuchi no Tsurunaga
+Kai de Ravenglas == Kikuchi Tsurinaga
 Kilin of Carolingia == Kilin; Ki-Lin ! Eleanor Catlyng
 Killian Brock == Kilkairden the Alschaf; Kilkairden the Alshcaf ! Seonhaid McKay
 Killian the Black == Killian McAd
@@ -3570,9 +3457,7 @@ Kirin Partheu the Persian == Kirin Parthev the Persian
 KirkRobyn of the Forest Webb == Kirk Robyn of Forest Webb
 Kirstyn Mansfeld == Kirstan Masfeld
 Kis Mária == Kis Marike; Kis Maria; Kis Marika; Kis Maria, called Mika
-# Multiple Alpha entries! Kolosvári Arpádne Julia, Julia Palotay Szent Gyorgyi
 Kolosvári Arpádne Julia == Kolosvari Arpadne Julia; Julia Palotay Szent Gyorgyi
-# Multiple Alpha entries! Kolozsvári Árpád, Arpad of Riddlemark
 Kolozsvári Árpád == Arpad of Riddlemark; Kolozsvart Arpad; Kolozvart Arpad
 Konner MacPherson == Konner MacPhearson
 Konrad von Ulm == Konrad der Lowe von Ulm; Konrad Ulm
@@ -3584,7 +3469,6 @@ Korial ap Llnwlyn == Koriel ap Lynwlyn
 #   <-   04/25/1981   L AOA -- Kormakr Ulshofuth
 Kormakr Ulfshofuth == Kormakr Ulshofuth
 Krakken Gnashbone == Kraken Gnashbone; Krakken Gnoshbone
-# Multiple Alpha entries! Kresenz von Württemberg, Zenzi
 Kresenz von Württemberg == Zenzi; Kresenz von Wurttemberg
 Kristell of the Armerie == Kristal Armerie; Kristal of the Armerie
 #        05/14/1988  C  Award of Arms -- Kristen Ailbe Annclaid (1 matches, dist: 2)
@@ -3624,7 +3508,6 @@ Lachlann mac Lachlainn == Lachlann Graheme; Lachlann mac Lachlainn mec Lachlainn
 #        09/28/2002  C  Tygers Combattant -- Lachlann of Stirling (1 matches, dist: 1)
 #   <-   09/28/2002 A L Tygers Combattant -- Lachlann of Sterling
 Lachlann of Sterling == Lachlann of Stirling
-# Multiple Alpha entries! Lain Alfanez de la Roca, Alain du Rocher
 Lain Alfanez de la Roca == Alain du Rocher
 Lakshmi Amman of Sri Ranganatha Temple == Lakshmi Amman
 #        02/01/1997  C  Award of Arms -- Lalage de Peregraine (1 matches, dist: 4)
@@ -3685,7 +3568,6 @@ Leo Winthrop of the Torn Surcoat == Leo Winthrop of the Torn Sircote
 Leod O'Sky == Leod O’Sky
 Leofric æt Couæntréé == Leofric æt Couæntrée; Leofric Art Cofentree; Leofric aet Couaentree
 Leonhard Schuwert == Leonhardt Schuwert
-# Multiple Alpha entries! Leonilla Kalista Kievlianina, Osnah Rachel bat Eleazar ha-Levi
 Leonilla Kalista Kievlianina == Osnah Rachel bat Eleazar ha-Levi
 #        08/21/1988  C  Award of Arms -- Leopold Rheinmar von Smonberg (1 matches, dist: 4)
 #   <-   08/21/1988 A L Award of Arms -- Leopold Reinmar von Schönberg
@@ -3713,7 +3595,6 @@ Liana vom Schwarzwald == Liana von Schwartzwald
 #        01/04/1992  C  Award of Arms -- Lieder von Luden (1 matches, dist: 9)
 #   <-   01/04/1992 A L Award of Arms -- Liesl Lüder
 Liesl Lüder == Lieder von Luden
-# Multiple Alpha entries! Lienhar Fischer von Torum, Tor of Mercia
 Lienhar Fischer von Torum == Tor of Mercia
 Liesl Lüder == Liesl Leuters; Liesl Luder
 Liliana Michaella of Cinnamon Grove == Lilliana Michaella of Cinnamon Grove; Lilliana of Cinnamon Grove
@@ -3724,13 +3605,12 @@ Lilith of Salamander's Keep == Lillith of Salamander’s Keep; Lillith of Salama
 #   <-   02/25/1989 A L Award of Arms -- Lilith of Salamander's Keep
 Lilith of Salamander's Keep == Lilith of Salamander’s Keep
 Lillia de Vaux == Lilia of Hartshorn-dale
-# Multiple Alpha entries! Lillian Stanhope, Jacqueline Stanhope
 Lillian Stanhope == Jacqueline Stanhope
 Lillian atte Valeye == Lilly of the Valley
 Linden of Corleiss Arche == Linden of Corleis Arche
 #        11/02/1991  C  Award of Arms -- Linden of Corliel Arche (1 matches, dist: 3)
 #   <-   11/02/1991 A L Award of Arms -- Linden of Corleis Arche
-Linden of Corliel Arche == Linden of Corleis Arche
+Linden of Corleiss Arche == Linden of Corliel Arche
 Linnet MacHardy == Linette MacHardy
 #        02/14/1976  C  Award of Arms -- Lisa Goldenstar (1 matches, dist: 2)
 #   <-   02/14/1976 A L Award of Arms -- Lisa Golden Star
@@ -3779,8 +3659,7 @@ Lucasta della Canzona Transalpina == Lucasta della Canzona Tranalpina
 #   <-   12/29/1990 A L Award of Arms -- Lucia Francesca de Valencia
 Lucia Francesca de Valencia == Luccia Francesca d’Valencia
 # Multiple Alpha entries! Lucia Francesca de Valencia, Lucie Lovegood of Ramisgate
-Lucia Francesca de Valencia == Lucie Lovegood of Ramisgate
-# Multiple Alpha entries! Lucien de Pontivi, Lakev of Stonemarche, Leceabh merch Ouain
+# Lucia Francesca de Valencia == Lucie Lovegood of Ramisgate
 Lucien de Pontivi == Lucien de Pontivy; Lakev of Stonemarche; Leceabh merch Ouain
 #        06/11/2011  C  Award of Arms -- Lucinda de la Tambox (1 matches, dist: 1)
 #   <-   06/11/2011   L AOA -- Lucinda de la Tambor
@@ -3793,10 +3672,9 @@ Lucrezia dell'Acqua == Lia; Lucrezia ("Lia") dell'Acqua
 Ludwig von Eisenburg == Ludwig von Eisburg
 #        07/09/2011  C  Sagittarius -- Ludwig von Elisburg [backlog] (1 matches, dist: 1)
 #   <-   07/09/2011   L Sagittarius -- Ludwig von Eisburg
-Ludwig von Elisburg == Ludwig von Eisburg
+Ludwig von Eisenburg == Ludwig von Elisburg
 Luigi Vascili == Luigj Vascili
 Luis de Castilla == Luis de Castillo
-# Multiple Alpha entries! Luke Knowlton, Freydis Ragnarsdottir
 Luke Knowlton == Freydis Ragnarsdottir; Freydis Ragnarsdattir
 #        02/??/1987  C  Tygers Cub -- Luke Maximillian (1 matches, dist: 1)
 #   <-   02/21/1987   L Tygers Cub -- Luke Maxmillian
@@ -3814,15 +3692,12 @@ Lucan von Drachenklaue == Luran [sic] von Drachenklaue
 #        06/04/2011  C  Award of Arms -- Luta Þóraldsdóttir (1 matches, dist: 1)
 #   <-   06/04/2011   L AOA -- Lúta Þóraldsdóttir
 Luta Þóraldsdóttir == Lúta Þóraldsdóttir
-# Multiple Alpha entries! Lyanna of Bergental, Lyanna ferch Gwynhelek
 Lyanna of Bergental == Lyanna ferch Gwynhelek
 Lyanna of Kerneough == Lyanna of Kernough; Lyanna of Kereough
-# Multiple Alpha entries! Lyle FitzWilliam, Damon de la Main
 Lyle FitzWilliam == Damon de la Main
 #        04/02/2005  C  Master of the Pelican -- Lyle Fitzwilliam (1 matches, dist: 1)
 #   <-   04/02/2005 A L Master of the Pelican -- Lyle FitzWilliam
 Lyle FitzWilliam == Lyle Fitzwilliam
-# Multiple Alpha entries! Lylie of Penhyll, Lily of Penhill
 Lylie of Penhyll == Lily of Penhill; Lilly of Pendhill; Lylie of Penhill; Lily of Penhille
 #        04/15/1989  C  Award of Arms -- Lynden of Mirror Lake (1 matches, dist: 1)
 #   <-   04/15/1989 A L Award of Arms -- Linden of Mirror Lake
@@ -3846,7 +3721,6 @@ Macsen ap Rhys of Wyvern Hall == Macsen ap Rhys of Whyverhall
 #        11/11/1995  C  Sagittarius -- Macson Felinfoal (1 matches, dist: 2)
 #   <-   11/11/1995 A L Sagittarius -- Macsen Felinfoel
 Macsen Felinfoel == Macson Felinfoal
-# Multiple Alpha entries! Maddalena Salutati, Gwyneth Greencliff de la Brunefalaise
 Maddalena Salutati == Gwyneth Greencliff de la Brunefalaise
 Madelyn Catherwood == Madelyne Catherwood
 Madog Bathier == Madog Bathir
@@ -3895,7 +3769,7 @@ Magnos an Cnoic n’Iora == Maghnus an Choic na n'Iora
 #        07/03/1982  C  Award of Arms -- Magnus Bloodax (2 matches, dist: 1)
 #   <-   07/03/1982 A L Award of Arms -- Magnus Blodax
 #   <-   01/21/1989 A L Silver Crescent -- Magnus Blodax
-Magnus Bloodax == Magnus Blodax
+Magnus Blödax == Magnus Bloodax
 Magnus Blödax == Magnus Blodax; Magnus Blodaxe; Magnus Bloodaxe
 Magnus Lucius Casius == Magnus Casius Lucius; Magnus Lucius Castus
 Magnus hvalmagi == Magnus the Stout; Manus hvalmagi
@@ -3905,7 +3779,7 @@ Maighread ni Loingsigh ==  ! Cariadoc; Daffyd ap Llywelyn
 #   <-   02/25/1989   L AOA -- Mair the Pavillion Rider
 Mair Pavilion-Rider == Mair the Pavillion Rider
 # Multiple Alpha entries! Maire inghean ui Mheardha, Meara of Havre des Glaces:
-Maire inghean ui Mheardha == Meara of Havre des Glaces AKA Maera; Meara of Havre des Glaces:; Meara of Havre de Glaces; Meara of Vieux Bourg; Meara
+Maire inghean ui Mheardha == ! Meara of Havre des Glaces AKA Maera; Meara of Havre des Glaces:; Meara of Havre de Glaces; Meara of Vieux Bourg; Meara
 Maire nic Ardhghail == Maire ni Ardhghail
 #        07/25/1992  C  Award of Arms -- Mairead of Daimbhre (1 matches, dist: 2)
 #   <-   07/25/1992 A L Award of Arms -- Mairéad of Dairbhre
@@ -3925,7 +3799,7 @@ Mairi Rhianna nam Beanntan == Mairi Rhianna nam Beantamm
 Mairi Rhianna nam Beanntan == Mairi Rhianna nam Beantann
 #        10/21/1989  C  Award of Arms -- Mairi na Gealch (1 matches, dist: 1)
 #   <-   10/21/1989 A L Award of Arms -- Mairi na Gealach
-Mairi na Gealch == Mairi na Gealach
+Màiri ni Raghallaigh == Mairi na Gealch
 Malachi Olthursson Veasslurd == Malachi Olthursson Veassllurd
 Malagrog Badgeron Veasslurd == Malagrog Badgeron Veassllurd
 #        11/08/1986  C  Award of Arms -- Malchia de Ciel (1 matches, dist: 3)
@@ -3958,7 +3832,6 @@ Marcel d’Armand == Marcel d'Armand
 #        06/15/2002  C  Manche -- Marcele DeMontsegur (1 matches, dist: 2)
 #   <-   06/15/2002 A L Manche -- Marcele de Montsegur
 Marcele de Montsegur == Marcele DeMontsegur
-# Multiple Alpha entries! Marcus Atheniou, Corwyn of Gleann nam Feorag Dhuibhe
 Marcus Atheniou == Corwyn of Gleann nam Feorag Dhuibhe; Corwyn of Gleann nam Feorag Dubh
 Marcus Blackaert == Marcus Blackeart; Marcus Blackheart
 #        04/04/1998  C  Award of Arms -- Marcus Tullius Calvus Cambrensis (1 matches, dist: 2)
@@ -3971,7 +3844,6 @@ Marcus mac Pharláin == Marcus mac Pharlain
 Marea Veronica d'Estoile of Rosewood == Marea Veronica d’Estoile of Rosewood; Morea Veronica d'Estoile of Rosewood
 Marek Casimir of Kracow ==  ! Peter Pedrick; Aethelthyrth Kenricing
 Margaret Elizabeth Peyton de Lascaux == Margaret Edwina Peyton de Lascaux
-# Multiple Alpha entries! Margaret Holmwood, Étaín Dhomhnullach
 Margaret Holmwood == Étaín Dhomhnullach
 Margaret Lucienne d'Ischie == Margaret Lucianne d'Ischie
 Margaret Twygge of Skye Hill == Margaret Twygg of Skyhill; Margaret Twygge of Skyhill
@@ -3987,7 +3859,6 @@ Margarete de Gottsanger == Margaretta von Gottesanger
 #   <-   04/11/1987 A L Award of Arms -- Margery Coulano de Tracey of Toddington
 #   <-   04/06/1991 A L Manche -- Margery Coulano de Tracey of Toddington
 Margery Coulano de Tracey of Toddington == Margarey of Toddington
-# Multiple Alpha entries! Margarita Kofinopoia, Maggie Basketmaker
 Margarita Kofinopoia == Maggie Basketmaker; Margarita Kofinopoeia
 #        10/11/1975  C  Award of Arms -- Margaruete la Folle (1 matches, dist: 4)
 #   <-   10/11/1975 A L Award of Arms -- Marguerite la Folle
@@ -4000,11 +3871,9 @@ Margot von Ramstein == Morgot von Ramstein
 #        09/25/2010  C  Countess -- Marguerite Ingen Lachlinn (2 matches, dist: 1)
 #   <-   09/25/2010 A L Countess -- Marguerite Ingen Lachlainn
 #   <-   09/25/2010 A L Lady of the Rose -- Marguerite Ingen Lachlainn
-Marguerite Ingen Lachlinn == Marguerite Ingen Lachlainn
+Marguerite ingen Lachlainn == Marguerite Ingen Lachlinn
 Marguerite de Fougère == Marguerite de Fougeres
-# Multiple Alpha entries! Marguerite de Saint Nazaire, Aiden de Sainte Nazaire
 Marguerite de Saint Nazaire == Aiden de Sainte Nazaire; Marguerite of Saint-Nazarre; Marguerite de St. Nazaire
-# Multiple Alpha entries! Marguerite ingen Lachlainn, Meggie inghean Lachlainn
 Marguerite ingen Lachlainn == Meggie inghean Lachlainn; Marguerite inghen Lachlainn; Meggie ingen Lachlainne; Meggie inghean Lochlainn; Marguerite Ingen Lachlainn
 #        01/13/2001  C  Mistress of the Pelican -- Marguerite of Stirlingshire (1 matches, dist: 3)
 #   <-   01/13/2001 A L Mistress of the Pelican -- Margarete of Stirlingshire
@@ -4017,7 +3886,6 @@ Maria Beatrice del Mare == Maria Beatrice de Mare
 #        08/??/1996  C  Award of Arms -- Maria Beatrice del Mer (1 matches, dist: 2)
 #   <-   08/??/1996 A L Award of Arms -- Maria Beatrice del Mare
 Maria Beatrice del Mare == Maria Beatrice del Mer
-# Multiple Alpha entries! Maria Elisabeta Gonzaga, Bess of Winter Hill
 Maria Elisabeta Gonzaga == Bess of Winter Hill; Maria Elizabetta Gonzaga
 Maria Erika von Ossenheim == Erika Maria von Ossenheim
 Maria de Miranda == Mariah Miranda
@@ -4033,13 +3901,13 @@ Marian O'Liam == Marian O’Liam
 Marian of Edwinstowe == Old Marian
 #        09/21/1996  C  Award of Arms -- Marianna Blackheart du Lacey (1 matches, dist: 1)
 #   <-   09/21/1996 A L Award of Arms -- Marianna Blackheart de Lacey
-Marianna Blackheart du Lacey == Marianna Blackheart de Lacey
+Mari Anna deLacey == Marianna Blackheart du Lacey
 #        09/20/1986  C  Award of Arms -- Marianna Kristina (1 matches, dist: 3)
 #   <-   09/20/1986 A L Award of Arms -- Mariana Christina
 Mariana Christina == Marianna Kristina
 #        10/11/2003  C  Silver Crescent -- Marianne Blackheart de Lacey (1 matches, dist: 1)
 #   <-   10/11/2003 A L Silver Crescent -- Marianna Blackheart de Lacey
-Marianne Blackheart de Lacey == Marianna Blackheart de Lacey
+Mari Anna deLacey == Marianne Blackheart de Lacey
 #        03/01/2008  C  Award of Arms -- Marianne de Lachevrotiere (1 matches, dist: 1)
 #   <-   03/01/2008 A L Award of Arms -- Marianne de Lachevrotière
 Marianne de Lachevrotière == Marianne de Lachevrotiere
@@ -4060,7 +3928,7 @@ Marria Theresa LeCalm == Marig Theresa laCalm
 #   <-   01/16/1999 A L Award of Arms -- Marika az Keves
 Marika az Keves == Marika Az Keves
 Marion DeLora == Marion De Lora
-Brianna of Bywater == Marion MacGregor
+Marion MacGregor == Brianna of Bywater
 Marion del Okes == Marion of Oaken Glen; Marion del Oakes; Marion of the Oaken Glen
 Marion ferch Llewelyn == Marian ferch Llwellyn; Marian ferch Llewellyn; Marion Ferch Llewellyn
 #        12/08/1990  C  Award of Arms -- Marion of Yourk (1 matches, dist: 1)
@@ -4071,7 +3939,6 @@ Marion of York == Marion of Yourk
 Mariot Carllein == Mariot Carrlien
 Mariot de Berwic == Mariot de Berwick
 Mariota of Kildare == Moriah of Kildare
-# Multiple Alpha entries! Marius Lugotorix Delenitor, Taliesin Dylyn map Meredudd
 Marius Lugotorix Delenitor == Taliesin Dylyn map Meredudd
 #        08/13/1992  C  Tygers Combattant -- Mark Feuegeist (1 matches, dist: 1)
 #   <-   08/13/1992 A L Tygers Combattant -- Mark Feuergeist
@@ -4109,7 +3976,6 @@ Mata a' Bheithir == Mata A'Bheithir; Mata a'Bheithir
 Matatias filius Lie Blunde == Matatias de domo leah le Blunde
 Mathew Underell de Warewic == Mathew Undrell
 Mathgamain O'Brien == Mathgamain O’Brien; Mathgamain O’Brian; Mathgamain O'Brian of Glenn Linn
-# Multiple Alpha entries! Mathias, Erik Mathias Eclipea-Blackhart D'Mer
 Mathias == Erik Mathias Eclipea-Blackhart D'Mer; Erik Mathias Eclipea Blackheart de Mer
 #        07/08/1989  C  Queen's Courtesy -- Mathias Sean Cameron (1 matches, dist: 1)
 #   <-   07/08/1989   L QOC -- Matthias Sean Cameron
@@ -4148,7 +4014,7 @@ Matteo Alessandro Ulisse Rugieri == Matteo Allesandro Rugieri
 Matteo Sassetti == Hamish O’Dale
 #        04/02/2005  C  Award of Arms -- Mattew Enrique de la Fonce (1 matches, dist: 8)
 #   <-   04/02/2005 A L Award of Arms -- Matthew Moraveous de la Fonce
-Mattew Enrique de la Fonce == Matthew Moraveous de la Fonce
+Matthew Moraveous Avdenmork == Mattew Enrique de la Fonce
 Matthew Moraveous Avdenmork == Matthew Moraveaous Avedenmork; Matthew Moraveous de la Fonce
 Matthew of BBM == Matthew
 Matthias Grunwold == Matthias Grunewald; Matthias Greenway
@@ -4171,12 +4037,12 @@ Medb ni hUilliam Ui Maille == Medb ni h Uilliam Ui Maille
 #        10/01/2011  C  Court Barony -- Medhbh ingean ui Cheallaigh (2 matches, dist: 1)
 #   <-   10/01/2011 A L Court Barony -- Medhbh inghean ui Cheallaigh
 #   <-   10/01/2011 A L Grant of Arms -- Medhbh inghean ui Cheallaigh
-Medhbh ingean ui Cheallaigh == Medhbh inghean ui Cheallaigh
+Medhbh inghean Cheallaigh == Medhbh ingean ui Cheallaigh
 Medhbh inghean Cheallaigh == Medhbh inghean ui Cheallaigh
 Megan Laine == Megan ni Laine; Megan ni Laine de Belle Rive
 #        11/01/1986  C  Award of Arms -- Megan ni Lain (1 matches, dist: 1)
 #   <-   11/01/1986 A L Award of Arms -- Megan ni Laine
-Megan ni Lain == Megan ni Laine
+Megan Laine == Megan ni Lain
 Megan of Westfield == Mehgan of Westfield
 #        01/19/1991  C  Award of Arms -- Meggan Buchannan (1 matches, dist: 2)
 #   <-   01/19/1991   L AOA -- Meggann Buchanan
@@ -4213,7 +4079,6 @@ Meredydd Brigid ferch Caradawc == Meredydd Bridgid ferch Caradawc
 #        01/23/1982  C  Award of Arms -- Merevyn of Llareggub (1 matches, dist: 4)
 #   <-   01/23/1982   L AOA -- Myrddin of Llareggub
 Merevyn of Llareggub == Myrddin of Llareggub
-# Multiple Alpha entries! Merewyn MacQuarrie, Kyrian Thaeborne
 Merewyn MacQuarrie == Kyrian Thaeborne
 Merewyn del Grenewode == Merewyn del Greenwode
 Mergriet van Wijenhorst == de la Voye; Mergriet de la Voye
@@ -4230,7 +4095,7 @@ Metal Smiths' Guild == Metal Smithing Guild
 Meuris of Antioch ==  ! Andreas of Kalise; Bianca di Bari; Katerina Vladimiroff; Gaston de Clermont; Brother Maynar; Cassiopia d’Stoker
 #        10/05/1996  C  Queen's Courtesy -- Mhyrddyn o’r Affon (1 matches, dist: 1)
 #   <-   10/05/1996 A L Queen's Courtesy -- Mhyrddyn o’r Afon
-Mhyrddyn o’r Affon == Mhyrddyn o’r Afon
+Myrddin o'r Afon == Mhyrddyn o’r Affon
 Micaela Annunziata == Micaila Annunziata
 #        01/29/2011  C  Tygers Combattant -- Micah of Brighton (1 matches, dist: 6)
 #   <-   01/29/2011 A L Tygers Combattant -- Micah of Brighton Manor
@@ -4244,11 +4109,10 @@ Michael Acrensis == Michael Akerensus
 Michael Alwright == Michael Alewright
 Michael Drachewut == Michael Drahut
 Michael Longstrider == Michal Christian Longstryder
-# Multiple Alpha entries! Michael Mac Ian, Mitchell mac Ian of Clan Mitchell
 Michael Mac Ian == Mitchell mac Ian of Clan Mitchell; Michael MacIan
 Michael McGoun == Michael MacGowan
 Michael Stewart Graham == Michael Stuart Graham
-Ulrich von Adlerberg == Michael of Exeter
+Michael of Exeter == Ulrich von Adlerberg
 #        06/27/1992  C  Award of Arms -- Michael of Northwoods (1 matches, dist: 1)
 #   <-   06/27/1992   L AOA -- Michael of Northwood
 Michael of Northwoods == Michael of Northwood
@@ -4286,7 +4150,6 @@ Millicent Heath == Millicient Heath
 Mina Ain Al’Rahman of Dragon’s Bane == Mina Ain al’Rahman of Dragon’s Bane
 Minna Gantz, wife of Warren == Minna Gantz
 Minna of Tintagel == Minnagar of Tintagel
-# Multiple Alpha entries! Mirabel Belchere, Fionnghuala ni Chiaráin
 Mirabel Belchere == Fionnghuala ni Chiaráin; Mirabal Belchere
 #        06/18/1983  C  Award of Arms -- Miranda El’Yazar (1 matches, dist: 1)
 #   <-   06/18/1983   L AOA -- Miranda El'Yazar
@@ -4304,7 +4167,7 @@ Mitsuin Neko-ashi == "Mackenzie"
 Mjothvitnir the Large == Mjothritnir the Large
 #        10/16/2004  C  Chivalry -- Mohammad Sevim Uglu Gowan Uglu [Knight] (1 matches, dist: 2)
 #   <-   10/16/2004   L Chivalry -- Mohammad Sevim Oglu Gowan Oglu
-Mohammad Sevim Uglu Gowan Uglu == Mohammad Sevim Oglu Gowan Oglu
+Al-Faris Mohammad Sevim Oglu Gowan Oglu == Mohammad Sevim Uglu Gowan Uglu
 Moi the Moldavian == Mol the Moldavian
 Moira Fennor of Argyll == Moira Fionnbhar ni Argyll; Myrra Fionnbhar ni Argyll ! Valrada of Oakenwode
 Moira MacDonald of Dunskahay == Moira MacDonald
@@ -4333,7 +4196,7 @@ Mordred Mjothvitner == Mordreth Muthvinter
 Morgaine Lynn == Morgaine of Llyn; Morgaine Llyn
 #        03/23/2002  C  Terpsichore -- Morgaine Rodbjorn a Beithir (1 matches, dist: 9)
 #   <-   03/23/2002 A L Terpsichore -- Morgaine a Beithir
-Morgaine Rodbjorn a Beithir == Morgaine a Beithir
+Morgaine á Bheithir == Morgaine Rodbjorn a Beithir
 Morgaine ferch Cadwr ==  ! Susanna del Lago
 Morgaine á Bheithir == Morgaine a Bheithir; Morgaine a Beithir; Morgaine Rodbjorn a Bheithir; Morgaine Elisheva Rodbjorn a Bheithir
 #        09/22/1984  C  Award of Arms -- Morgan Caer Graeme (2 matches, dist: 3)
@@ -4415,7 +4278,7 @@ Morwen y Llyn == Morwen o'r Llyn
 Morwenna Westerne == Morwenna of Western Sea
 #        12/10/1994  C  Award of Arms -- Morwenna of the Western Sea (1 matches, dist: 4)
 #   <-   12/10/1994 A L Award of Arms -- Morwenna of Western Sea
-Morwenna of the Western Sea == Morwenna of Western Sea
+Morwenna Westerne == Morwenna of the Western Sea
 #        09/16/2000  C  Manche -- Mouradh of An Tir Caillte (1 matches, dist: 2)
 #   <-   09/16/2000 A L Manche -- Moruadh of An Tir Caillte
 Moruadh of An Tir Caillte == Mouradh of An Tir Caillte
@@ -4451,7 +4314,6 @@ Màiri inghean mhic an Toisich == Mairi inghean Chic an Toisich
 Màiri ni Raghallaigh == Mairi ni Raillaigh; Mairi na Gealach; Mairi ni Raghallaigh; Mairi ni Raghalliah ! Donnan the Solitary
 Mártoni Szarvas Kató == Martoni Szarvas Kato
 Nahla == Trixie; Nahla called Trixie; Nahla, called Trixie
-# Multiple Alpha entries! Nakamura Yuki, Yuki Nakamura
 Nakamura Yuki == Yuki Nakamura
 Nastassiia Ivanova Medvedeva == Nastassia Ivanova Medvedeva; Natassia Ivanova Medvedeva; Natassiia Ivanova Mevedeva
 #        05/01/2004  C  Award of Arms -- Natalia Sevestiiana Petrova (1 matches, dist: 1)
@@ -4460,7 +4322,6 @@ Natalia Sevestiiana Patrova == Natalia Sevestiiana Petrova
 Nataliia Anastasiia Evgenova Sviatoslavina vnuchka == Natallia Anastasiia Evgenova Sviatoslavina vnuchka; Nataliia Anastasia Evgenova Sviatoslavina vnuchka; Nataliia Anastasia Evgenova Sviatoslavina Vnuchka; Nataliia Anastasiia Evgenova Sviatoslavina Vnuchka; Nataliaa Anastasia Evgenova Sviatoslavina vnuchka; Nataliia Anastasiia Evgenova Svyatoslavina vnuchka; Nataliia Anastasia Evgenova Svyatoslavina vnuchka; Nataliia Anastasia Evgenova Svyatoslavina; Nataliia Anastasia Evgenova; Nataliia Anastasiia Evgenova
 Natasha Ekaterina Bierlovna == Natasha Katarina Byierlova; Natasha Katarina Byierova
 Nathan of Bhakail == Nathan of Ivyeinrust
-# Multiple Alpha entries! Nathaniel Wyatt, Wyatt
 Nathaniel Wyatt == Wyatt; of Beyond the Mountain; Nathanial Wyatt; Wyatt of Beyond the Mountain ! Cassandra Grey; Edward Grey; Colin Mac Eoinn; Arianne de Meursault; Karrah the Mischevious
 #        12/05/1987  C  Award of Arms -- Nerys o’r Llywn Dreinioc (1 matches, dist: 3)
 #   <-   12/05/1987   L AOA -- Nerys o'r Llwyn Dreinioc
@@ -4468,10 +4329,10 @@ Nerys o’r Llywn Dreinioc == Nerys o'r Llwyn Dreinioc
 Nest verch Tangwistel == Nest ferch Tangwystl; Nest ferch Tangwistel
 #        06/22/1991  C  Award of Arms -- Nia Catrin Olthursson Veassllurd (1 matches, dist: 1)
 #   <-   06/22/1991 A L Award of Arms -- Nia Catrin Olthursson Veasslurd
-Nia Catrin Olthursson Veassllurd == Nia Catrin Olthursson Veasslurd
+Nia Catrin nic Teamhain == Nia Catrin Olthursson Veassllurd
 #        10/05/1991  C  Queen's Courtesy -- Nia Catrin Othursson Veasslurd (1 matches, dist: 1)
 #   <-   10/05/1991 A L Queen's Courtesy -- Nia Catrin Olthursson Veasslurd
-Nia Catrin Othursson Veasslurd == Nia Catrin Olthursson Veasslurd
+Nia Catrin nic Teamhain == Nia Catrin Othursson Veasslurd
 Nia Catrin nic Teamhain == Nia nic Teambhain; Nia Catrin Olthursson Veasslurd
 #        08/17/2005  C  Valiant Tyger -- Nial of Caid (1 matches, dist: 4)
 #   <-   08/17/2005   L Valiant Tyger -- Sir Nial of Caid
@@ -4481,7 +4342,6 @@ Niccolo di Palermo == Nico di Palermo
 Nicetas Lecapenus of Antioch == Nicetas of Antioch; Nicetus of Antioch; Necene of Antioch
 Nicholas Poissonier == Nicholas Poissoniere
 Nicholas de Harrington == Nicholas de Herrington
-# Multiple Alpha entries! Nicola Angelini, Leonete d'Angely
 Nicola Angelini == Leonete d'Angely; Nicola Angelico; Nicola Angelica
 Nicolaa le Petit Lutin == Nicolaas el Petit Lutin
 #        07/19/1997  C  Award of Arms -- Nicolette von Zweiburge (1 matches, dist: 1)
@@ -4502,7 +4362,6 @@ Ninian Ende ==  ! Rogan Dirksmier
 #   <-   11/21/1981   L AOA -- Nisse God-Dreng
 #   <-   03/24/1984   L Sagittarius -- Nisse God-Dreng
 Nisse God-dreng == Nisse God-Dreng
-# Multiple Alpha entries! Nissim aven Darmon, Darmyn the Beastmaster
 Nissim aven Darmon == Darmyn the Beastmaster; - Darmyn the Beastmaster; Darmain
 Njall of Fur == Neils of Fur
 Njorbjorn Jorgesson ==  ! Katherine Gillesfleur; Ian of Clan Mitchell
@@ -4518,9 +4377,7 @@ Oglesby Armstrong Smythe == Ogelsby Armstrong Smythe
 #        06/13/1987  C  Award of Arms -- Oglesby Armstrong-Smythe (1 matches, dist: 1)
 #   <-   06/13/1987 A L Award of Arms -- Oglesby Armstrong Smythe
 Oglesby Armstrong Smythe == Oglesby Armstrong-Smythe
-# Multiple Alpha entries! Ohashi Katsutoshi, Iheronimus Brückner
 Ohashi Katsutoshi == Iheronimus Brückner; now Iheronimus Brückner; Oohashi Katsutoshi; Iheronimus Bruckner
-# Multiple Alpha entries! Ol'ga Kaf'skaia, Kayla di Vis
 Ol'ga Kaf'skaia == Olga Kaf'skaia; Kayla di Vis; Olga Kaf’skaia; Olga Kaffa
 Olaf Guettletenge == Olaf Geuttletenge
 Olaf Haraldson inn orvi == MacBrome; Olaf Haraldson inn Orvi
@@ -4540,7 +4397,6 @@ Olwynn ni Chinnéidigh == Olwyn ni Chinnidigh; Olwyn ni Chinneidigh
 #   <-   04/12/2003   L Grant of Arms -- Omar Mohammed Mizazadeh
 Omar Mohammud Mizazadeh == Omar Mohammed Mizazadeh
 Oriana Greycloak == Orianna Greycloak
-# Multiple Alpha entries! Orlando dei Medici, Colin MacKenna
 Orlando dei Medici == Colin MacKenna; Orlando di Medici; Orlando de Medici; Colin MacCenna
 Orm the Scop formely Orrin the Scop == Orm the Scop formerly Orrin the Scop
 Ormgeirr Ormarrsson == Ormgeirr Ormanson
@@ -4567,14 +4423,14 @@ Otto von Mergenthal == Otto von Mergenthaler
 Otto von Schwartzwolfe == Ouzel; Otto von Schwartzwolfe, called Ouzel
 #        02/24/2007  C  Silver Crescent -- Ottto von Ulm (1 matches, dist: 1)
 #   <-   02/24/2007 A L Silver Crescent -- Otto von Ulm
-Ottto von Ulm == Otto von Ulm
+Otto Ulm == Ottto von Ulm
 Ousa Stefan Llan Llyr == Ousa Stefan Pin Lear; Ousa Stefan pin Lear
 Owen ap Robert “the Blind” == Owen ap Robert Dall, the Blind
 Owen de Hudelesdun == Owen Huddleston
 #        10/26/1985  C  Award of Arms -- Owen the Blind (2 matches, dist: 16)
 #   <-   10/26/1985 A L Award of Arms -- Owen ap Robert Dall, the Blind
 #   <-   07/29/1995 A L Manche -- Owen ap Robert Dall, the Blind
-Owen the Blind == Owen ap Robert Dall, the Blind
+Owen ap Robert “the Blind” == Owen the Blind
 Owyn Greenwood == Owynn Greenwood
 Padair Mac Gille Ruaidh == Padair MacGilleRuaidh
 #        09/26/1987  C  Award of Arms -- Padraic na-Orien (1 matches, dist: 7)
@@ -4601,7 +4457,6 @@ Patricia of the Tangled Wilds == Patricia of Tangled Wylde; Patricia of the Tang
 #   <-   05/11/1985 A L Award of Arms -- Patrick Dennis O'Garrity
 Patrick Dennis O'Garrity == Patrick Dennis O’Garrity
 Patrick of BBM == Patrick
-# Multiple Alpha entries! Paul André Jacques, Pellandres dit le Frère
 Paul André Jacques == Pellandres dit le Frère; Paul Andre Jacques; Pellandres dit le Frere; Pellandres dit le frere; Paul Andre Jacques, called Pellandres; Paul André Jacques, called Pellandres
 Pelgrin de Mann == Pelgrin DeMann; Pelgrin
 #        03/12/1994  C  Award of Arms -- Penelope of Plympton (1 matches, dist: 2)
@@ -4637,7 +4492,7 @@ Philip of the Furrowed Fields == Phillip of the Furrowed Fields
 Philippe Attaignant == Philippe Attaignant de Bretange
 #        04/06/1991  C  East Kingdom Fencing Order -- Philippe Attaignant de Bretagne (1 matches, dist: 2)
 #   <-   04/06/1991 A L Guardsman -- Philippe Attaignant de Bretange
-Philippe Attaignant de Bretagne == Philippe Attaignant de Bretange
+Philippe Attaignant == Philippe Attaignant de Bretagne
 Philippe de Perigord == Philippe de Perigod
 #        08/16/1996  C  Laurel -- Philippia Cupbreaker (1 matches, dist: 2)
 #   <-   08/16/1996   L Laurel -- Phillipia Cupbreaker
@@ -4670,7 +4525,7 @@ The Phoenix Consort == Phoenix Consort
 Piccanina de Monte - aka Piccanina the Incongruent == Peach; Piccanina the Incongruent; Picchininia the Incongruent
 #        07/18/2009  C  Silver Crescent -- Picchininia the Incongruous (1 matches, dist: 3)
 #   <-   07/18/2009 A L Silver Crescent -- Picchininia the Incongruent
-Picchininia the Incongruous == Picchininia the Incongruent
+Piccanina de Monte - aka Piccanina the Incongruent == Picchininia the Incongruous
 #        12/05/1992  C  Award of Arms -- Pierre Alexandre des Montagnes (1 matches, dist: 1)
 #   <-   12/05/1992 A L Award of Arms -- Pierre-Alexandre des Montagnes
 Pierre-Alexandre des Montagnes == Pierre Alexandre des Montagnes
@@ -4689,7 +4544,6 @@ Pagan Mahon == Pog O’Mahon
 Portia Montesor == Portia Montressor
 Preston of Aschehyrst == Preston Crowe
 Pádraig Ó Gealagáin == Padraig O Gealagain; Padraig O'Glealagain; Padraig O'Gealagain
-# Multiple Alpha entries! Qadagin-u Jajiradai, George the Mongol
 Qadagin-u Jajiradai == Qatagin-u Jajiradai; George the Mongol; Jaji; Quataginu Jajiradai; Qatagin-u Jajiradi
 Quentin de Soissons == Quentin de Soisson
 Quintin Brilliant == Quinn Tessence; Quintin Brillant
@@ -4704,9 +4558,7 @@ Radegund von Feuchtenstadt == Radegund von dem Feuchtenstadt
 Raesean Allmhaidh ni Ruairidh == Raesean ni Allamach
 Raffaella Mascolo == Raphaella Mascolo; Raphaella Mascola
 Raffaella da Napoli == Raffaella di Napoli
-# Multiple Alpha entries! Raghnil de Sawley, Ratburc Castus
 Raghnil de Sawley == Rat - AKA Ratburc Castus; Ratburc Castus; Raghnil de Sawley called Rat; Ratberc Castis
-# Multiple Alpha entries! Ragi Bjarnylr "Ragi warm bear", Mathurin Kerbouchard
 Ragi Bjarnylr "Ragi warm bear" == Mathurin Kerbouchard
 #        08/16/1990  C  Award of Arms -- Ragnar Arisson of Vinland (1 matches, dist: 2)
 #   <-   08/16/1990 A L Award of Arms -- Ragnar Arason of Vinland
@@ -4751,7 +4603,7 @@ Randall Vihar Farkas == Randal Vihar Farkas; Randall Vihar-Farkas
 Randall of Clann O’Choda == Randall of Clan O'Choda; Randall of Clan O’Choda
 #        01/05/1991  C  Award of Arms -- Randall vihar Farkas (1 matches, dist: 2)
 #   <-   01/05/1991 A L Award of Arms -- Randal Vihar Farkas
-Randall vihar Farkas == Randal Vihar Farkas
+Randall Vihar Farkas == Randall vihar Farkas
 #        11/27/2004  C  Award of Arms -- Rannucio Farnese (1 matches, dist: 2)
 #   <-   11/27/2004 A L Award of Arms -- Ranuccio Farnese
 Ranuccio Farnese == Rannucio Farnese
@@ -4761,7 +4613,6 @@ Ranveiger Harkonsdottir == Rannveigr Haakonardottir
 #        01/07/1984  C  Silver Crescent -- Ranveigr Hakonaardottir (1 matches, dist: 3)
 #   <-   01/07/1984   L Silver Crescent -- Rannveigr Haakonardottir
 Ranveigr Hakonaardottir == Rannveigr Haakonardottir
-# Multiple Alpha entries! Rashid al-Gyanji, Richard de Chalfont
 Rashid al-Gyanji == Richard de Chalfont; Rashid of Settmour Swamp
 #        12/02/1989  C  Award of Arms -- Raul MacClaron (1 matches, dist: 4)
 #   <-   12/02/1989 A L Award of Arms -- Raùl MacLaren
@@ -4782,7 +4633,7 @@ Raymond of the Strait == Raimund of the Strait
 Rebecca bat Reuven == Rebecca bat Ruben
 #        05/10/1986  C  Award of Arms -- Red Nancy (1 matches, dist: 9)
 #   <-   05/10/1986   L AOA -- Aleeha Baga
-Red Nancy == Aleeha Baga
+Red Nancy == ! Aleeha Baga
 Redhawk Clemont == Redhawk Clamont; Redhawk Clement
 #        01/??/1981  C  Manche -- Regina de Romsey (4 matches, dist: 3)
 #   <-   01/10/1981   L Maunche -- Regina Romsey
@@ -4969,7 +4820,7 @@ Rosaline Wright == Rosalind Wright
 Rosamund d'Alwareton == Rosamond d’Alewarton
 #        07/08/1995  C  Terpsichore -- Rosamond d’Alwaretone (1 matches, dist: 2)
 #   <-   07/08/1995 A L Terpsichore -- Rosamund d’Alwareton
-Rosamond d’Alwaretone == Rosamund d’Alwareton
+Rosamund d'Alwareton == Rosamond d’Alwaretone
 Rosamund d'Alwareton == Rosamund d’Alwareton; Rosamund d'Alewareton
 #        12/30/1995  C  Queen's Courtesy -- Rosamund of Axebridge (2 matches, dist: 1)
 #   <-   12/30/1995   L QOC -- Rosamund of Axbridge
@@ -5007,26 +4858,23 @@ Rowan Elayne of Kendal == Rowan of Kendal
 Rowan Elvesham == Rowan Elfham; Rowan Elfhame
 #        07/02/1995  C  Award of Arms -- Rowan Grey Feather (1 matches, dist: 2)
 #   <-   07/02/1995 A L Award of Arms -- Rowan Greyfeather
-Rowan Greyfeather == Rowan Grey Feather
+Ruadhan Cleitelith ui Neile == Rowan Grey Feather
 Rowan Gwinyth Daigon == Rowan Gwinyth Daigon / Brooke Fowler
 Rowan de Beauchamp == Rowen de Beauchamp
 #        11/06/1999  C  Award of Arms -- Rowan de Beaucharlay (1 matches, dist: 4)
 #   <-   11/06/1999 A L Award of Arms -- Rowan de Beauchamp
 Rowan de Beauchamp == Rowan de Beaucharlay
 Rowan of Westwood == The Tardy; Rowan of Westwood, called The Tardy
-# Multiple Alpha entries! Rowen Cloteworthy, Tzigan Volchkovich
 Rowen Cloteworthy == Tzigan Volchkovich; Rowan Cloteworthy; Tzigan Volehkevich
 #        10/15/1988  C  Award of Arms -- Rowena Morna Caithness (1 matches, dist: 7)
 #   <-   10/15/1988   L AOA -- Rowena Caithnes
 Rowena Morna Caithness == Rowena Caithnes
 Rowena ni Dhonnchaidh == Rowena nic Dhonnchaid; Rowena nic Dhonnchaidh
 Roxalana Chaika == Roxalana Chika
-# Multiple Alpha entries! Roxane Farabi, Anthea Maecenas
 Roxane Farabi == Anthea Maecenas; Roxane Farahid; Melinda Anthea Maecenas Domna
 Royal Artillery Company == East Kingdom Royal Artillery Company
 Ruadh Cruid McFroude == Ruadh Crude McFroude; Ruadh Cruidh MacFrode; Ruadh Cruidh MacFroude; Rhude Crude McFrode
 Ruadh-Mairi Asan T'Eilean Sgithenech == Mary of Skye; Ruadh
-# Multiple Alpha entries! Ruadhan Cleitelith ui Neile, Rowan Greyfeather
 Ruadhan Cleitelith ui Neile == Rowan Greyfeather
 Ruadhnait ingen Ruaidhri == Ruadhnait inghen Ruaidhri; Rowan ni Ruari; Ruadhnait inghean Ruaidhri
 Ruaidhri an Cu == Rhodhri an Cu
@@ -5037,7 +4885,6 @@ Ruby of Northpass == Ruby
 Rudth of Ruthin == Rudth of Ruthen
 Rufina Cambrensis == Rufinia Cambrensis
 Rufus Thorhall == Rufus Thorhall Skygar
-# Multiple Alpha entries! Ruger von Heilbronn, Batujin Negan
 Ruger von Heilbronn == Ruger von Heiln; Batujin Negan
 Ruiseart MacEth na Strathnaver == Ruissart McEth of Strathnaver; Ruiseart McEth of Strathnaver
 Rukkayah of Quintavia == Rukkayah
@@ -5068,9 +4915,8 @@ Sadhbha ni Ruaidhri == Sahdbha ni Ruahdri; Sahdbha ni Ruadhri
 #        02/04/1984  C  Award of Arms -- Sadira bint Wassouf (1 matches, dist: 1)
 #   <-   02/04/1984   L AOA -- Sadira bin Wassouf
 Sadira bint Wassouf == Sadira bin Wassouf
-# Multiple Alpha entries! Saerlaith ingen Cinneide, Clodagh inghen Cinneide
 Saerlaith ingen Cinneide == Clodagh inghen Cinneide; Saerlaith ingen Chennetig; Clodagh ingen Cinneide; Clodagh Saorla inghean Cinneide ! Eleanor the Faire; Max von Spaerling; Jean d'Eau
-Tzitzakion of Atil == Saerlaith inghen Cinneide
+Saerlaith inghen Cinneide == Tzitzakion of Atil
 Safia al-Khansaa == Safia al Khansaa; Safia al-Khansa; Safia al'Khansa; Safia al' Khansa; Safia al Khansa; Safia al'Khansaa
 #        09/07/1996  C  Manche -- Safia of the Shifting Sands (1 matches, dist: 1)
 #   <-   09/07/1996 A L Manche -- Safiya of the Shifting Sands
@@ -5099,10 +4945,8 @@ Samantha of Silver Wood == Samantha of Sylverwode
 Samirah al Mansur == Samirah al-Mansour; Sameerah al Manseur; Samirah al Mansour
 Samuel de Bianco == Samuel of Florence
 Samuel le Medier == Samuel of Yorkshire
-# Multiple Alpha entries! Sancha de Flores, Qutudei Ba'Arin
 Sancha de Flores == Qutudei Ba'Arin; Sancha des Flores
 Sandor of Barren Sands == Sandor (of Barren Sands); Sandor
-# Multiple Alpha entries! Sandrine de Berry, Kay Fontayne
 Sandrine de Berry == Kay Fontayne
 Sandy the Embroiderer == Sandy the Emboroiderer
 #        10/11/1986  C  Award of Arms -- Sara Charmaine of Falknesse (1 matches, dist: 3)
@@ -5110,7 +4954,7 @@ Sandy the Embroiderer == Sandy the Emboroiderer
 Sara Charmaine of Falknesse == Sara Charmaine of Falkensee
 #        01/31/1987  C  Terpsichore -- Sara Graehm (1 matches, dist: 2)
 #   <-   01/31/1987 A L Terpsichore -- Sarra Graeham
-Sara Graehm == Sarra Graeham
+Sarra Elisabeth Graeham of Birnham == Sara Graehm
 Sarah Davies of Monmouth == Sarah Davies of Manmouth ! Active Scribes of the East
 Sarah Elizabeth Dubh Sidhe == The Lacemaker; Sara Elizabeth Dubh Sidhe, the Lacemaker
 #        03/29/2003  C  Manche -- Sarah Elizabeth dubh Sidhe (1 matches, dist: 1)
@@ -5135,7 +4979,7 @@ Sasha Verminsdottir Veassllurd == Sasha Verminssun Veassllurd
 #   <-   04/27/2002 A L Terpsichore -- Scheherazade Al-Zahira
 #   <-   07/27/2002 A L Silver Crescent -- Scheherazade Al-Zahira
 #   <-   03/01/2003 A L Queen's Courtesy -- Scheherazade Al-Zahira
-Scheherazade Allowyna == Scheherazade Al-Zahira
+Scheherazade al-Zahira == Scheherazade Allowyna
 Scheherazade al-Zahira == Scheherezade Allowyne; Scheherazade Al-Zahira
 Schlomo Elchunan ben Mordechai == Shlomo Elchunan ben Mordechai
 Sciath ingen Chaennaig == Sciath ingen Chauig
@@ -5184,7 +5028,6 @@ Sean Ruabarua MacGillaphaidraic == Sean Ruabarua
 #   <-   06/02/1990 A L Award of Arms -- Sean Farspach
 Sean Farspach == Sean an Farspach
 Seanan an Chasur == Shannon an Chassur; Shannon an Chasur; Seanan an Chassur
-# Multiple Alpha entries! Sebastian Estevan de Xavier, Xavier Matejka
 Sebastian Estevan de Xavier == Xavier Matejka; Sebastian Esteban de Xavier; Sebasian Estevan de Xavier
 #        07/04/1981  C  Award of Arms -- Sebastian Vala Nightwind (3 matches, dist: 5)
 #   <-   07/04/1981 A L Award of Arms -- Sebastian Nightwind
@@ -5210,10 +5053,10 @@ Seoan O' Donndubhain == Seoan O'Donndubhain
 Seoras Dubh mac Gordon == Seoras Dubh Mac Gordon; Seoras Dubh MacGordon
 #        08/12/1992  C  High Merit for Fence -- Seosah Mac Donald an Cruca O Maille (1 matches, dist: 3)
 #   <-   08/12/1992 A L Golden Rapier -- Seosamh MacDonald an Cruca O'Maille
-Seosah Mac Donald an Cruca O Maille == Seosamh MacDonald an Cruca O'Maille
+Seosamh Tadhg an Crúca O'Maille == Seosah Mac Donald an Cruca O Maille
 #        07/10/1993  C  Silver Crescent -- Seosamh MacDonald an Cruca O’Maille (1 matches, dist: 1)
 #   <-   07/10/1993 A L Silver Crescent -- Seosamh MacDonald an Cruca O'Maille
-Seosamh MacDonald an Cruca O’Maille == Seosamh MacDonald an Cruca O'Maille
+Seosamh Tadhg an Crúca O'Maille == Seosamh MacDonald an Cruca O’Maille
 Seosamh Tadhg an Crúca O'Maille == Seosamh Tadhg an Cruca O’Maille; Seosamh MacDonald an Cruca O'Maille; Seosamh mac Donald an Cruca O'Maille; Seosamh MacDonald an Cruca O Maille; Seosamh MacDonald an Cruca Omaille; Seosamh MacDonald and Cruca O’Maille; Seosamh MacDonald an Cruca o’Maille
 Seosamh Ó Chóda == Seosamh O’Choda; Seosainh O’Choda; Seosamh O Choda; Seosamh O'Choda
 Sepharah Dryden == Sepharah Sryden
@@ -5224,7 +5067,7 @@ Serric der Grimmige == Serric der Grimmig
 #        11/05/1978  C  Award of Arms -- Setanta an Chasur (2 matches, dist: 4)
 #   <-   11/05/1978 A L Award of Arms -- Seanan an Chassur
 #   <-   10/06/1979 A L Count -- Seanan an Chassur
-Setanta an Chasur == Seanan an Chassur
+Seanan an Chasur == Setanta an Chasur
 Seumas Camshronach an Lochabair == Seumas Camshronnach an Lochabair
 Severio Santangelo == Servio Santangelo
 Seán Ó Súilleabháin Beirre == Sean O'Suilleabhain Beirre
@@ -5342,7 +5185,6 @@ Sirhan al Siani == ibn Atai Akar Diablu; Sirhan al Siani bin Atai Akar Diablu; S
 #        06/18/1983  C  Award of Arms -- Sirillion Amber Tallin (1 matches, dist: 1)
 #   <-   06/18/1983 A L Award of Arms -- Sirillian Amber Tallin
 Sirillian Amber Tallin == Sirillion Amber Tallin
-# Multiple Alpha entries! Siubhan Wallace, Siobhan Gordon
 Siubhan Wallace == Siobhan Gordon ! Raesean ni Allamach; Sminster de Feu; Ruth of Ruthven; Mary of York; Arnoff Ragnarson; Callahan de Melean
 Siubhan nic Cruimein ==  ! Eliane Esperance; Elaine Esperance; Anastasia Veassllurd; Alexei of the Weresheep
 Skafte Waghorne == Skafte Vaghorne
@@ -5363,7 +5205,6 @@ Sonja == Mama Ougley; Sonja called Mama Ougley
 Sonja Dolgorukaja == Sonja Dolgoruski; Sonja Dolgorukij
 Sonja Ryzaja == Sonja of the Lakes; Sonja Ryzjata
 Sonja Wellins == Shadow
-# Multiple Alpha entries! Sophia Karaszkiewicza, Teofilia Karaszkiewicz
 Sophia Karaszkiewicza == Teofilia Karaszkiewicz
 Sophia von Eisental == Sophia of Eisental
 #        02/10/1990  C  Award of Arms -- Sorcha Cathasaigh (1 matches, dist: 3)
@@ -5419,7 +5260,7 @@ Stephen of Blue Knoll == Stephan of Blueknoll
 #        10/03/1981  C  Court Baron -- Stephen of Silverwing (2 matches, dist: 12)
 #   <-   10/03/1981 A L Court Baron -- Steffan ap Cennydd of Silverwing
 #   <-   02/20/1982 A L Silver Crescent -- Steffan ap Cennydd of Silverwing
-Stephen of Silverwing == Steffan ap Cennydd of Silverwing
+Steffan ap Cenydd of Silverwing == Stephen of Silverwing
 Stephen the Salacious == Stephan the Salacious; Stephen the Selesious; Stefan the Salacious
 Sterling de la Rosa == Sterling della Rosa
 Sternwulf von Drachenwyck == Starwulf von Drachenwyck; Sternwulf von Drachwyck; Sternwulf von Drachenwhyk
@@ -5436,11 +5277,11 @@ Stuart Martin MacDonnell == Stuart Martin MacDonnel
 Stuart Martin MacDonnell == Stewart MacDonald
 #        08/12/1998  C  Mistress of the Laurel -- Su'ad (1 matches, dist: 1)
 #   <-   08/12/1998 A L Mistress of the Laurel -- Su’ad
-Su'ad == Su’ad
+Su'ad al-Raqqasah == Su'ad
 Su'ad al-Raqqasah == Su’ad; Su’ad of BBM ! Selena d'Ambra
 #        04/21/2001  C  Award of Arms -- Suikazura of ? (1 matches, dist: 5)
 #   <-   04/21/2001 A L Award of Arms -- Suikazura [of Kitzingen?]
-Suikazura == Suikazura of ?
+Anne von Hellestal == Suikazura of ?
 Suleiman ibn Ghazi abdal Rahim al Andalusi == Suleiman ibn Ghazi abd al Rahima al Andalusi
 Sunnifa Heinreksdóttir == Sunnifa Heinrekdottir; Sunnifa Heinreksottir
 #        11/14/1987  C  Tygers Combattant -- Suppiluliumas of Gongor (1 matches, dist: 1)
@@ -5450,11 +5291,9 @@ Susana del Lago == Susanna del Lago
 Susanna Lockheart == Susanna Lockhart
 Susanna la Fleur == Susanah la Flor
 Suzanne Neuber de Londres == Suzanne de Londres
-# Multiple Alpha entries! Svana Sölgadóttir, Ariane de Meursault
 Svana Sölgadóttir == Ariane de Meursault; Svava Sölgadóttir
 Svanhildr Karlsdottir == Svanhldr Karlsdottir
 Svava Þorgeirsdóttir == Svava Porgeirsdottir; Svava Thorgeirrsdottir; Svava Porgerirsdottir; Svava of Carolingia; Svava Thorgeirsdottir
-# Multiple Alpha entries! Svein de Falaise, Sean MacGowan
 Svein de Falaise == Sean MacGowan
 Sven Svensson == Sven Svenson
 Svend Sloane O'Brien == Svend Sloane o"Brien
@@ -5481,9 +5320,7 @@ Sym Gilchrist of Frazier == Sym Gilcrist of Fraser
 #   <-   11/15/1986   L AOA -- Sym Gilchrist of Fraser
 #   <-   06/17/1989   L Tygers Combattant -- Sym Gilchrist of Fraser
 Sym of Clan Fraser == Sym Gilchrist of Fraser
-# Multiple Alpha entries! Symon de Poitiers, Sion ap Llyelwyan
 Symon de Poitiers == Sion ap Llyelwyan; Symon de Poitier
-# Multiple Alpha entries! Symonne de Villeneuve, Nadezhda Voronova
 Symonne de Villeneuve == Nadezhda Voronova
 Szczepin of Fennbrycg == Szczepin of Fennbyrcg
 Szerena Fehér the Indecisive == Szerena Feher the Indecisive; Szerena Fehir the Indecisive
@@ -5493,7 +5330,6 @@ Sárán mac Imair ==  ! Ievan ap Myrddin; Aaron of Skorpios; Sybel of Skorpios
 #   <-   08/13/1992   L Tygers Combattant -- Talon the Bastard
 Taalen the Bastard == Talon the Bastard
 Tadatsune of Carolingia == Tadatsune
-# Multiple Alpha entries! Tadea Isabetta di Bruno, Teagara Angelus
 Tadea Isabetta di Bruno == Teagara Angelus
 Tadg ui Duinn of Isle Magee == Taig ui Duinn of Isle Magee; Tadg ui Duinn; Taidg ui Duinn; Tadhg ui Duinn
 #        10/05/1996  C  Award of Arms -- Tadhg an Sinneach (1 matches, dist: 3)
@@ -5513,7 +5349,6 @@ Takechi no Musashi == Takechi Musashi
 #        10/08/1983  C  Award of Arms -- Takechi-no-Musashi (1 matches, dist: 3)
 #   <-   10/08/1983   L AOA -- Takechi no Mushashi
 Takechi-no-Musashi == Takechi no Mushashi
-# Multiple Alpha entries! Talan Gwyllt, Gwydion ap Baddoc
 Talan Gwyllt == Gwydion ap Baddoc; Talan ap Gwyllt
 Talen Hackewrist == Wristbiter; Talen Wristbiter
 Taliesin of Carreg Cennen == Talisin of Carregcennen
@@ -5537,7 +5372,6 @@ Tamsin Whitlock == Tamsin Whitlocke
 #   <-   06/15/2002 A L Silver Crescent -- Tanczos Istvan
 Tanczos Istvan == Tancos Istvan
 Tanczos Ilona == Tanczos Illona
-# Multiple Alpha entries! Tanczos Istvan, Istvan Tanczos
 Tanczos Istvan == Istvan Tanczos ! Darmain; Batujin Ba'adur; Sherazade of Bhakail; Wulfstan of Ravenswood; Yorgon of Lion's End; Steffan the Wonderer
 #        11/05/1988  C  Award of Arms -- Tania von Susen (1 matches, dist: 2)
 #   <-   11/05/1988 A L Award of Arms -- Tanya von Sussen
@@ -5553,7 +5387,7 @@ Tarbold Celerus == Tarbold Celeris
 Tassilo d'Auxerre == Tassilo d’Auxerre
 #        04/02/2011  C  Grant of Arms -- Tat'ianna Negoshka Danilova (1 matches, dist: 1)
 #   <-   04/02/2011 A L Grant of Arms -- Tat'iana Negoshka Danilova
-Tat'ianna Negoshka Danilova == Tat'iana Negoshka Danilova
+Sibilla d'Angers == Tat'ianna Negoshka Danilova
 #        10/09/2004  C  Silver Crescent -- Tatiana Di Bivar (1 matches, dist: 1)
 #   <-   10/09/2004   L Silver Crescent -- Tatiana di Bivar
 Tatiana Di Bivar == Tatiana di Bivar
@@ -5576,11 +5410,10 @@ Tearlach the Profane == Tearloch the Profane
 Tegan Dragonsblood ni Conmara == Tegan Dragonsblood ni' Conmara
 #        04/07/1990  C  Award of Arms -- Tegan Loupe d’Argent (1 matches, dist: 1)
 #   <-   04/07/1990 A L Award of Arms -- Tegan Loupe d'Argent
-Tegan Loupe d’Argent == Tegan Loupe d'Argent
+Tegan Silverwolf == Tegan Loupe d’Argent
 Tegan Silverwolf == Tegan Loupe d'Argent
 Teleri Barod == Teleri Baron
 Teleri the Well Prepared == Teleri the Well-Prepared
-# Multiple Alpha entries! Temair ingen Muiredaich, Tamarrion di Sidana
 Temair ingen Muiredaich == Tamarrion di Sidana; Temair inghen Muiredaich; Temair inghean Muiredaich; Temair inghean Muiredeach; Tammarion di Sidana; Temair ingen Muiredeach
 #        05/14/1988  C  Award of Arms -- Temair nicUiNiann (1 matches, dist: 1)
 #   <-   05/14/1988 A L Award of Arms -- Temair nic UiNiann
@@ -5616,7 +5449,7 @@ Theoderick Orbus == Theodoric Orbus
 Theoden the Oarsman == Theodin the Oarsman
 #        12/21/1985  C  Award of Arms -- Theodore of Budapest (1 matches, dist: 2)
 #   <-   12/21/1985 A L Award of Arms -- Theodur of Budapest
-Theodore of Budapest == Theodur of Budapest
+Theodur of Bucharest == Theodore of Budapest
 Theodur of Bucharest == Theodur of Budapest
 Theodwine of Falconbridge == Theodwine of Faulconbrige; Theodwine of Faulconbridge
 #        02/11/1995  C  Silver Crescent -- Theresa Gabriella de Montoya y Sevilla (1 matches, dist: 2)
@@ -5637,7 +5470,6 @@ Thomas MacSeamus == Thomas MacSeamus an Ceard
 #   <-   07/01/1989 A L Award of Arms -- Thomas MacAndrew
 #   <-   07/01/1989 A L Terpsichore -- Thomas MacAndrew
 Thomas MacAndrew == Thomas McAndrew
-# Multiple Alpha entries! Thomas Monrow of Longhill, Longhill Thomas Monroe
 Thomas Monrow of Longhill == Longhill Thomas Monroe
 #        10/20/1984  C  Award of Arms -- Thomas Spence-Colby (1 matches, dist: 1)
 #   <-   10/20/1984   L AOA -- Thomas Spence Colby
@@ -5655,7 +5487,6 @@ Thomé de Laurent == Thome de Laurent
 Thora Hakonsdottir == Thora Haakonsdottir
 Thorfinn inn Einaugi == Thorfinn Gunnhild; Thorfinnr iin Einaugi
 Thorgeirr Bollason == Thorgeir Bollasson; Thorgeirr Bollasson
-# Multiple Alpha entries! Thorkatla Herjolfsdottir, Octavia Rosa di Bari
 Thorkatla Herjolfsdottir == Octavia Rosa di Bari
 #        09/29/1984  C  Award of Arms -- Thorkel of Neville’s Cross (1 matches, dist: 1)
 #   <-   09/29/1984 A L Award of Arms -- Thorkel of Neville's Cross
@@ -5723,11 +5554,9 @@ Tofi Kerjalfsen == Tofi Kerthjalfsen
 #        01/06/1979  C  Queen's Courtesy -- Tojenareum Grenville of Devon (1 matches, dist: 1)
 #   <-   01/06/1979   L QOC -- Tojenoreum Grenville of Devon
 Tojenareum Grenville of Devon == Tojenoreum Grenville of Devon
-# Multiple Alpha entries! Toki Redbeard, Garth Fairchild
 Toki Redbeard == Garth Fairchild; Toki Red Beard; Garth Fairchild, called Toki Redbeard
 Tokigata Tajima == Tokigata Tagima
 Tola knytir == Tola Knytir
-# Multiple Alpha entries! Tomas an Bhogha o Neil, T'Mas na Ui Naill na Boghdoireacht
 Tomas an Bhogha o Neil == Tomas an Bhogha O Neil; T'Mas na Ui Naill na Boghdoireacht; T'mas na Ui Naill na Boghdoireacht ! Easa Jotunsbane
 #        06/10/1978  C  Award of Arms -- Tomas de Chamberlaine de la Rose Argent (1 matches, dist: 3)
 #   <-   06/10/1978   L AOA -- Tomas de Chamberlain de la Rose d'Argent
@@ -5737,7 +5566,6 @@ Tommaso Valeriano == Tomasso Valeriano
 #        12/19/1981  C  Award of Arms -- Tora Yome (1 matches, dist: 1)
 #   <-   12/19/1981   L AOA -- Tora Yoma
 Tora Yome == Tora Yoma
-# Multiple Alpha entries! Toriijima Tsuru Tohaku, Orien Wenderson
 Toriijima Tsuru Tohaku == Orien Wenderson
 Torin Ertheshert == Torin Erthesheart
 Torin MacKinnon == Torin mac Kinnon
@@ -5746,7 +5574,6 @@ Torrin the Wanderer == Torrin O'Cuin, the Wonderer; Torren the Wanderer
 Torrwyn Campbell of Cornwall == Torwyn Campbell
 Torvald Sigurdsson == Torvald Sigardsson
 Treacaigh O Suilleahbhain of Woodenbridge == Treacaigh O Suilleahbain of Woodenbridge
-# Multiple Alpha entries! Treannah Theodora Brennanoif, Theodora Bryennissa
 Treannah Theodora Brennanoif == Theodora Bryennissa; Treannah
 Triona MacCaskey == Triona MacCasky
 Tristan de Chanticleer de Champagne == Tristan le Chanticleer de Champagne
@@ -5788,10 +5615,8 @@ Tigar of Toddington == Tygart of Toddington
 #   <-   10/09/1993 A L Manche -- Tigar of Toddington
 Tigar of Toddington == Tygret of Toddington
 Tyrum Volundsson == Thrym Volund; Tyrum of Iron Bog
-# Multiple Alpha entries! Tyrvi rotinn, Tryphena Locke of Wolfswood
 Tyrvi rotinn == Tryphena Locke of Wolfswood
 Tysha z Kieva == Ty Kieva
-# Multiple Alpha entries! Tyzes Sofia, Zsofia Tzyes
 Tyzes Sofia == Zsofia Tzyes; Zsofia Tyzes ! Abbot Franz
 Uiliam O'Fiaranghan == Uiliam O'Fiarangham
 Uilleam MacLeòid == Uilleam MacLeoid
@@ -5824,7 +5649,7 @@ Ursula de Santiago y Galiciano == Ursula Santiago y Galiciano
 #        04/05/1986  C  Court Baroness -- Ursula of Northwoods [reaffirmed] (2 matches, dist: 17)
 #   <-   04/05/1986 A L Court Baron -- Stephen de Raymond
 #   <-   04/05/1986 A L Grant of Arms -- Stephen de Raymond
-Ursula of North Woods == Ursula of Northwoods; Ursula of the Northwoods; Ursula of the North Woods; Stephen de Raymond
+Ursula of North Woods == Ursula of Northwoods; Ursula of the Northwoods; Ursula of the North Woods ! Stephen de Raymond
 #        06/14/1986  C  Manche -- Ursula von Moenchwald (1 matches, dist: 2)
 #   <-   06/14/1986 A L Manche -- Ursula von Mönchwald
 Ursula von Mönchwald == Ursula von Moenchwald
@@ -5834,15 +5659,12 @@ Ursula von Mönchwald == Ursula von Munchwald
 Ursulla Karlsdottir == Ursulla Karlsdottor
 Uther Hardwin == Uther Hardwind
 Uther McDermot == Uther McThermott
-# Multiple Alpha entries! Uther Shieldbreaker, Ugo Gonzaga
 Uther Shieldbreaker == Ugo Gonzaga
 Valentina Barrow == Valentina Barrows
-# Multiple Alpha entries! Valeria Laskaris, Cerridwen Thorsteinsdóttir MacGillivray
 Valeria Laskaris == Cerridwen Thorsteinsdóttir MacGillivray; Cerridwen Thorsteinsdottir MacGillivray
 #        04/04/1992  C  Award of Arms -- Valerio Corvenis (1 matches, dist: 1)
 #   <-   04/04/1992   L AOA -- Valerio Corvenus
 Valerio Corvenis == Valerio Corvenus
-# Multiple Alpha entries! Valerius Fidelis Camerinus, Sir Cameron
 Valerius Fidelis Camerinus == Sir Cameron; "Cameron"
 Valery Eugenia Fitzgerald == Valerie Eugenia Fitzgerald
 #        03/10/1990  C  Award of Arms -- Valery Fitzgerald (2 matches, dist: 8)
@@ -5861,7 +5683,7 @@ Venturi Carozzoni == Venturi Carozzont
 Vera z Czezecze == Vera na Czezecze
 #        07/20/2002  C  Burdened Tyger -- Vetivel Bharavi (1 matches, dist: 1)
 #   <-   07/20/2002 A L Burdened Tyger -- Vetivel Bhairavi
-Vetivel Bharavi == Vetivel Bhairavi
+Irayari Vairavi == Vetivel Bharavi
 Vibeke Dejlie Steinnsdottir == Vibeke Steensdottir ! Celest
 #        07/24/2004  C  Award of Arms -- Victoria de Florette (1 matches, dist: 1)
 #   <-   07/24/2004 A L Award of Arms -- Victorie de Florette
@@ -5869,16 +5691,14 @@ Victorie de Florette == Victoria de Florette
 Victoria la Picarde == Victoria de Pycard
 #        07/22/2006  C  Silver Crescent -- Vienna de Mere (1 matches, dist: 1)
 #   <-   07/22/2006 A L Silver Crescent -- Vienna de Mer
-Vienna de Mere == Vienna de Mer
+Viennet de la Mer == Vienna de Mere
 Viennet de la Mer == Vienna de Mer; Viennet de Mer
 Vigolfr Agnarsson == Vigolf Agnarsson; Vigolfr Agnarrson
 Viktor von dem Kleinflüsse == Viktor von dem Kleinefluesse; Viktor von dem Kleinflusse
 #        03/12/1988  C  Award of Arms -- Villiam Viane (1 matches, dist: 2)
 #   <-   03/12/1988   L AOA -- Uilliam Uiane
 Villiam Viane == Uilliam Uiane
-# Multiple Alpha entries! Violeante de Rojas, Althea de Grimm
 Violeante de Rojas == Violante de Rojas; Althea de Grimm; Althea de Grimm -; called Althea de Grimm
-# Multiple Alpha entries! Violet Coleson, Collson
 Violet Coleson == Collson; Amy Collson
 #        09/30/1995  C  Master of the Pelican -- Vissevald Selkirksen (1 matches, dist: 2)
 #   <-   09/30/1995 A L Master of the Pelican -- Vissevald Selkirksson
@@ -5908,7 +5728,7 @@ Vladimir the Transparent == Vladislav the Transparent
 Volf of Novgorod, the Ignitor == Volf of Novgorod
 #        01/03/1976  C  Award of Arms -- Vuong Manh (1 matches, dist: 8)
 #   <-   01/03/1976 A L Award of Arms -- Dereg Doom
-Dereg Doom == Vuong Manh
+Dereg Doom == ! Vuong Manh
 Waldar Warfuegal == Waldar Varfuegal
 #        10/03/1981  C  Countess -- Wanda von Halstern (3 matches, dist: 1)
 #   <-   10/03/1981 A L Countess -- Wanda von Halsstern
@@ -5931,7 +5751,7 @@ Wassouf bint Saleem == Wassouf ibn Saleem
 #   <-   12/05/1981   L AOA -- Waatchu de Vissimark
 Waatchu de Vissimark == Watchu de Wissimark
 Waylin Adir Dragonsbane == Waylin Adair Dragonsbane
-Webbe == Amelia bint Wojciech; Amy Webbe
+Amy Webbe == Amelia bint Wojciech; Webbe
 Werner Josef son of Dietrich == Werner Joseph, son of Dietrich; Werner Joseph, son of Dietrich, called Mordraug
 Whistler o' the Pit == Whistler o'the Pit
 Wilfrid Altmarker av Knusslig Hamn == Wilfrid Altmarker av Knuslig Hamn
@@ -5953,7 +5773,6 @@ William MacKay == William McKay
 #   <-   06/25/1983   L AOA -- William of Martinvast
 William Martinvast == William of Martinvast
 William Montagu du Vert == William Montegu du Vert
-# Multiple Alpha entries! William O Donovan of Monmouth, Liam St. Liam
 William O Donovan of Monmouth == Liam St. Liam; William O'Donovan of Monmouth; Liam O’Donnabuhain; Liam O'Donnabuhain; William O Donovan of Monmouth, called Liam St Liam
 #        07/18/1998  C  Award of Arms -- William O'Reily (1 matches, dist: 1)
 #   <-   07/18/1998 A L Award of Arms -- William O’Reily
@@ -5973,7 +5792,7 @@ William FitzGerald == William Widefarer
 William de Clarence == William de Clarens
 #        09/29/2007  C  Burdened Tyger -- William de Drummyyn of the Holy Oak (1 matches, dist: 1)
 #   <-   09/29/2007 A L Burdened Tyger -- William de Drummyn of the Holy Oak
-William de Drummyyn of the Holy Oak == William de Drummyn of the Holy Oak
+William Percival de Drummyn == William de Drummyyn of the Holy Oak
 William de Lancton == William Lancton
 #        11/22/1975  C  Award of Arms -- William de Montgilt (3 matches, dist: 1)
 #   <-   11/22/1975   L AOA -- William de Montegilt
@@ -6020,7 +5839,6 @@ Wulfhere of Stonemarche == "Wulfhere the Saxon"; Wulfhere the Saxon of Stonemarc
 #   <-   01/28/2006 A L Court Baron -- Wulfhere of Stonemarche [the Saxon]
 #   <-   01/28/2006 A L Grant of Arms -- Wulfhere of Stonemarche [the Saxon]
 Wulfhere of Stonemarche == Wulfhere the Saxon
-# Multiple Alpha entries! Wulfric Alemaker, Robert of Narrenbeck
 Wulfric Alemaker == Robert of Narrenbeck
 #        08/14/1991  C  Manche -- Wulfstan Thorhallson (1 matches, dist: 1)
 #   <-   08/14/1991 A L Manche -- Wulfstan Thorhallsson
@@ -6036,7 +5854,6 @@ Wulfwyn aet Maeldun == Wolfwinn atte Maledon
 #        07/15/2006  C  Sagittarius -- Wynfrid aet Huntandune (1 matches, dist: 3)
 #   <-   07/15/2006 A L Sagittarius -- Wynfriđ æt Huntandune
 Wynfriđ æt Huntandune == Wynfrid aet Huntandune
-# Multiple Alpha entries! Wynfriđ æt Huntandune, David of Huntingdon
 Wynfriđ æt Huntandune == David of Huntingdon; Wynfrith aet Huntandune
 Xavier Ramiriz == Xavier Ramirez
 Yaacov ben haRev Elieser == Ya'akov ben ha Rav Eleazar
@@ -6060,7 +5877,7 @@ Jana von Drachenklaue == Yana von Drachenklaue
 Yanima of Krakow == Janina Krakowska
 #        01/13/1996  C  Award of Arms -- Yasmind di Conti-Mercia de Cordoba (1 matches, dist: 2)
 #   <-   01/13/1996   L AOA -- Yasmine de Conti-Mercia de Cordoba
-Yasmine de Conti-Mercia de Cordoba == Yasmind di Conti-Mercia de Cordoba
+Yasmind di Conti-Mercia de Cordoba == Yasmine de Conti-Mercia de Cordoba
 Yasmine bint Rasheed == Yasmine bint Rashid; Yasmin bint Rashid
 Yesugai ibn Akbar ibn Murad == Yesungi ibn Akbar ibn Murad nasl Muhammed ibn Hakim
 Yesunge Altan == Yesungge Altan
@@ -6099,7 +5916,6 @@ Ysabeau de Saint Wanderielle == Ysabeau de St. Wanderielle
 #   <-   03/18/1995 A L Award of Arms -- Isabeau d’Orleans
 Isabeau d’Orleans == Ysabeau d’Orleon
 Ysabella de Draguignan == Ysabella du Draguignan; Ysabella du Draguinan
-# Multiple Alpha entries! Ysabelle Agnes de la Noue, Ditabell Lanoue
 Ysabelle Agnes de la Noue == Ditabell Lanoue
 Ysabeth la Fée == Ysabeth La Fee; Ysabeth la Fee
 Ysolde of Summerhall == Ysolde Summerhall
@@ -6123,9 +5939,8 @@ Zelina Silverfox of Blackwood == Zerlina Silverfox of Blackwood
 #        01/04/1986  C  Award of Arms -- Zezhian Dragonfang (1 matches, dist: 5)
 #   <-   01/04/1986 A L Award of Arms -- Ian Dragonfang
 Ian Dragonfang == Zezhian Dragonfang
-Duchess Mina == Zinoviia Mikulina
+Zinoviia Mikulina == Duchess Mina
 Zinoviia Mikulina doch' Korabel'nikova zhena == Mina ! Ciaran Islwyn; Brian of Heronter; Annastrina Ruth O’Carney
-# Multiple Alpha entries! Zohane Faber, Eletarius of Carolingia
 Zohane Faber == Eletarius of Carolingia; Eletarius; Zohane Faber, called Eletarius
 Zulaika des Bedouines-Anizas == Zulaika
 eLeri of Nefyn == Leri; Eleri of Nefyn

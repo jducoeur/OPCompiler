@@ -240,6 +240,13 @@ object Deduper {
   
   def formatPerson(person:Person, allowMerges:Boolean) = {
     var ret = ""
+      
+//    // TEMP:
+//    val nameCheck = person.personae.filter(_.scaName.startsWith("Angahard"))
+//    if (!nameCheck.isEmpty) {
+//      val checkPersona = nameCheck.head
+//    }
+      
     // Note that we intentionally do not rely on the isMain flag any more! That can get easily
     // corrupted by the process.
     val alphaPersonae = person.personae.filter(_.inAlpha)
@@ -251,10 +258,14 @@ object Deduper {
       } else if (alphaPersonae.length == 1)
         alphaPersonae(0)
       else if (allowMerges && person.merges.isDefined) {
+        // First, get the best matching persona...
         val matchPersona = person.merges.get.bestPersona.recipient
-        if (matchPersona.inAlpha) {
+        // ... then get the best persona from that match...
+        val bestMatchPersona = matchPersona.person.bestPersona
+        // ... if we've found something in the alpha list, prefer that:
+        if (bestMatchPersona.inAlpha) {
           matchAsPrimary = true
-          matchPersona
+          bestMatchPersona
         } else
           person.mainPersona
       }

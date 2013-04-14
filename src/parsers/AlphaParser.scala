@@ -23,7 +23,6 @@ class AlphaParser extends OPFileParser {
     val reg = (name.charAt(0) == '*')
     name = if (reg) name.substring(1) else name
     val persona = getPersona(name)
-    persona.inAlpha = true
     if (reg)
       persona.registeredName = true
     if (deceased)
@@ -80,6 +79,8 @@ class AlphaParser extends OPFileParser {
       val rec = Recognition(persona, award.award, award.name, date = Some(parsedDate), 
           inAlpha=true, comment=comment, where=branch)
       persona.addAward(rec)
+      // We've got at least one award in this list, so it's not just a cross-reference:
+      persona.inAlpha = true
     })
   }
   
