@@ -186,7 +186,7 @@ object Deduper {
 //      best.foreach { candidate => Log.print("    " + printCandidate(candidate.candidate)) }
       
       def isStrong = {
-        merge.num > 1 || merge.dist < 10
+        merge.num > 1 || merge.dist < 15
       }
       
       val person = merge.target.person
@@ -306,9 +306,9 @@ object Deduper {
             matchStrs.mkString("\n")
             )
         // Enable the first println if presuming correctness, or the second two if reviewing by hand:
-        println(formatPerson(person, true))
-//        println("+ " + formatPerson(person, true))
-//        println("- " + formatPerson(person, false))
+//        println(formatPerson(person, true))
+        println("+ " + formatPerson(person, true))
+        println("- " + formatPerson(person, false))
       } else if (person.hasAlternates || person.hasFalsePositives) {
         println(formatPerson(person, false))
       }
