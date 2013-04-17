@@ -40,8 +40,8 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
   
   def emitWhere = {
     where match {
-      case Some(b) => b.emitId
-      case None => Kingdom.East.emitId
+      case Some(b) => Some(b.emitId)
+      case None => None
     }
   }
   
