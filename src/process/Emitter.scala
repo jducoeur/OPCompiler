@@ -205,7 +205,9 @@ object Emitter {
           SqlField("court_report_id", (_.when map (_.id))),
           SqlField("branch_id", (_.emitWhere)),
           SqlField("gender", (_.emitGender)),
-          SqlField("given_as", (_.recipient.scaName))
+          SqlField("given_as", (_.recipient.scaName)),
+          SqlField("old_source", (_.flagStr)),
+          SqlField("date_precision", (_.bestDate.precision))
         ))
   }
 }

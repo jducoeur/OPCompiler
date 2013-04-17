@@ -101,6 +101,19 @@ trait OPDate extends Ordered[OPDate] {
 	else
 	  "Unknown Date"
   }
+  
+  def precision = {
+    if (isValid) {
+	  if (day == OPDate.Unknown) {
+	    if (month == OPDate.Unknown) {
+	      OPDate.yearOnly
+	    } else
+	      OPDate.monthOnly
+	  } else
+	    OPDate.exact
+    } else
+      OPDate.dateUnknown
+  }
  
   def padDateNum(num:Int):String = {
     if (num > 9) num.toString
@@ -200,4 +213,10 @@ object OPDate {
 	val Invalid = new InvalidOPDate
 	
 	implicit val OPDateOrdering = Ordering.by { date:OPDate => (date.year, date.month, date.day) }
+	
+	// The values we use for date precision when emitting dates into the new database:
+	val exact = 0
+	val monthOnly = 1
+	val yearOnly = 2
+	val dateUnknown = 3
 }
