@@ -17,7 +17,7 @@ trait Branch extends DelayedInit {
   val kind:BranchType
   
   val id:Int = Branch.nextId
-  def emitId = id
+  def emitId:Option[Int] = Some(id)
   val branchType:Int
   val emit:Boolean = true
   
@@ -86,7 +86,7 @@ object SCA extends Branch with DeclareableBranch {
   def instantiate(name:String) = this
   
   override val id = -1
-  override def emitId = Kingdom.East.id
+  override def emitId = None
   override def requiresBranchSelect = 1
 }
 

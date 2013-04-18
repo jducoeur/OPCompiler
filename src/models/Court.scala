@@ -41,7 +41,13 @@ case class Recognition(recipient:Persona, award:Award, as:AwardName,
   def emitWhere = {
     where match {
       case Some(b) => Some(b.emitId)
-      case None => None
+      // We want to specify the branch if and only if the award doesn't say:
+      case None => {
+        if (award.branch.emitId.isEmpty)
+          Kingdom.East.emitId
+        else
+          None
+      }
     }
   }
   
