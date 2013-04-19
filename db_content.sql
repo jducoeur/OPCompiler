@@ -9440,7 +9440,7 @@ INSERT INTO `award` (award_id,award_name,collective_name,award_name_male,award_n
 (355,'Goutte de Sang','Order of the Goutte de Sang','Companion of the Goutte de Sang','Companion of the Goutte de Sang',0,NULL,18,34),
 (378,'Grace of Artemisia','Order of the Grace of Artemisia','Companion of the Grace of Artemisia','Companion of the Grace of Artemisia',0,NULL,18,37),
 (207,'Grandmaster Bowman','Order of the Grandmaster Bowman','Companion of the Grandmaster Bowman','Companion of the Grandmaster Bowman',0,NULL,18,20),
-(868,'Grant of Arms','Order of the Grant of Arms','Companion of the Grant of Arms','Companion of the Grant of Arms',1,NULL,14,NULL),
+(868,'Grant of Arms','Order of the Grant of Arms','Companion of the Grant of Arms','Companion of the Grant of Arms',1,NULL,13,NULL),
 (252,'Green Comet','Order of the Green Comet','Companion of the Green Comet','Companion of the Green Comet',0,NULL,20,21),
 (566,'Green Cord','Order of the Green Cord','Companion of the Green Cord','Companion of the Green Cord',0,NULL,20,62),
 (379,'Griffin''s Heart','Order of the Griffin''s Heart','Companion of the Griffin''s Heart','Companion of the Griffin''s Heart',0,NULL,18,37),

@@ -20,11 +20,11 @@ object AwardLevel {
   val Peerage = 8
   val TerritorialBaron = 10
   val RetiredBaron = 22
-  val Grants = 14
+  val Grants = 13
   val HighMerit = 12
   val CourtBaron = 16
   val Armiger = 17
-  val OrderOfHonor = 14
+  val OrderOfHonor = 18
   val KingdomAward = 18
   val PrincipalityAward = 19
   val Baronial = 20
